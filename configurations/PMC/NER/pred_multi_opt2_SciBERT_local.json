@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "MultiOpt2SciBERT",
-        "name": "Gold-Multi-Opt2-SciBERT",
+        "name": "Gold-BERTMultiTaskCRF_softTypeMentionPurpose",
         "multi_task": true,
         "checkpoint": {
             "model": "save/Gold-Multi-Opt2-SciBERT/31-05-2021_14-41-31/ep_167_step_0_perf_1.pth",
