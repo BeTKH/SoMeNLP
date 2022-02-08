@@ -1225,7 +1225,7 @@ class BERTMultiTaskCRF_softPurpose(BertPreTrainedModel):
         self.software_crf = CRF(config.num_labels['software'], self.device)
         self.soft_type_crf = CRF(config.num_labels['soft_type'], self.device)
         self.mention_type_crf = CRF(config.num_labels['mention_type'], self.device)
-        self.soft_purpose_crf = CRF(config.num_labels['soft_purpose', self.device])
+        self.soft_purpose_crf = CRF(config.num_labels['soft_purpose'], self.device)
 
         self.init_weights()
 
