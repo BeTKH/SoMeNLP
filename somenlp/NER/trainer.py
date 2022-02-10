@@ -69,7 +69,7 @@ class Trainer():
                 if 'hierarchy_depth' in self.model_w.config['model']['gen']:
                     train_depth = self._get_train_depth(ep, self.model_w.config['model']['gen']['hierarchy_depth'])
                 else:
-                    train_depth = 3
+                    train_depth = 4
                 print("Training multi-label model with max depth {}".format(train_depth))
             start = time.time()
             ep_loss, running_batch_loss, running_batch_count = 0, 0, 0
@@ -90,6 +90,7 @@ class Trainer():
                                 attention_mask=batch['masks'], 
                                 software_labels=batch['software'],
                                 soft_type_labels=batch['soft_type'],
+                                mention_type_labels = batch['mention_type'],
                                 soft_purpose_labels=batch['soft_purpose'],
                                 sequence_lengths=batch['lengths'],
                                 train_depth=train_depth,
@@ -181,6 +182,7 @@ class Trainer():
                                     attention_mask=batch['masks'], 
                                     software_labels=batch['software'],
                                     soft_type_labels=batch['soft_type'],
+                                    mention_type_labels = batch['mention_type'],
                                     soft_purpose_labels=batch['soft_purpose'],
                                     sequence_lengths=batch['lengths'],
                                     train_depth=3,
@@ -188,7 +190,8 @@ class Trainer():
                                 logits = {
                                     'software': outputs[1],
                                     'soft_type': outputs[2],
-                                    'soft_purpose': outputs[3]
+                                    'mention_type': outputs[3],
+                                    'soft_purpose': outputs[4]
                                 }
                             elif len(self.data_handler.encoding['tag2idx']) == 3:
                                 outputs = self.model_w.model(
@@ -270,7 +273,7 @@ class Trainer():
                 self.model_w.set_optim(dataset['optimizer'])
                 if self.model_w.optim_grouped_params is not None:
                     self.model_w.set_scheduler((len(dataset['dataloader']) * dataset['epochs']), dataset['scheduler'])
-                self._train_model(dataset['dataloader'], dataset['epochs'])
+                self._train_model(dataset['dataloader'], dataset['epochs'])   
 
     def prediction(self, bio=True, summary=True):
         self.model_w.model.eval()
@@ -305,7 +308,8 @@ class Trainer():
                                 logits = {
                                     'software': outputs[1],
                                     'soft_type': outputs[2],
-                                    'soft_purpose': outputs[3]
+                                    'mention_type': outputs[3],
+                                    'soft_purpose': outputs[4]
                                 }
                             elif len(self.data_handler.encoding['tag2idx']) == 3:
                                 logits = {
