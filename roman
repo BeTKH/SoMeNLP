@@ -5,11 +5,11 @@
 
 	ssh bk378@svserver.int.uni-rostock.de -p 222
 
-	pass: _Jsuk@*******
+	pass: 
 
 	ssh roman
 
-	pass: _Jsuk@*******
+	pass: 
 	
 	
 	
