@@ -2,7 +2,6 @@ Study individuals were taken from a mass colony of D . punctata maintained in la
 This colony was initially set up using individuals from three source populations and numbers have been maintained at a minimum population level of 200 individuals throughout this time , thus minimising the risk of inbreeding .
 These colonies were kept in an incubator at 24.5 ° c with a 12 : 12 light : dark cycle in plastic tanks approximately 33 x 26 x 19 cm , with ventilation provided in the lid .
 These cockroaches were allowed to feed ad libitum on Lidl ’ s “ Orlando complete ” dog biscuits and were given a constant supply of fresh water .
-
 Breeding and housing of focal individuals : Seventy - four nymphs were removed from their parents within 48 hours of hatching ; these were from 17 different families ( X + SD = 4.4 ± 2.0 nymphs per family ) .
 These nymphs were then housed separately from each other in one of three social environments , as part of another experiment ; these were either in isolation , with a nymph companion or with an adult companion .
 Family and social environment were later considered in statistical analyses as factors potentially affecting behavioural consistency ( see Statistical Analyses section ) .
@@ -17,7 +16,6 @@ A ruler was placed next to the dish and included in the photograph to allow scal
 The accuracy of measurements was ascertained by ten adults being measured three times each and a repeatability analysis carried out in JMP ( SAS Institute Inc . , Cary , North Carolina ) .
 This gave a repeatability of 94.2 % for head measurements and 97.4 % for pronotum measurements .
 Since head and pronotum width were significantly correlated ( Pearson ’ s correlation : rp = 0.670 , N = 60 , P < 0.001 ) , pronotum width was selected as the single measure of size due to its higher level of repeatability .
-
 Seventy - four individuals were tested in total ; 24 were tested twice as third instar nymphs ( 10 males , 12 females , 2 unknown - died prior to reaching adulthood ) and 65 as adults ( 29 males , 36 females ) to explore differential consistency in behaviour within life stages .
 Since 19 individuals ( 7 males , 12 females ) were tested both as juveniles and adults , these individuals alone were used to test for differential consistency of behavioural traits across life stages .
 The number of individuals tested at the third instar stage was limited by time constraints , mortality and inter - moult intervals , as has occurred in similar studies ( e.g. [26] ) .
@@ -35,7 +33,6 @@ The exploration arena was a 21x 30cm plastic tray with a depth of 8cm .
 This contained a piece of A4 paper that divided the arena into 12 sectors ( labelled A to L , Fig 1 ) ; these delimited distinct geographical areas of the arena e.g. corners , sides , and central portions .
 An empty oval - shaped plastic dish ( dimensions approximately 4x 3cm with a depth of 2cm ) was placed in sector K .
 After the acclimatisation period , the barriers were removed and timing began .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0176564.g001 Diagram of testing arena .
 This illustrates the arena used in the exploration trial during behavioural testing in Diploptera punctata .
@@ -43,14 +40,11 @@ A piece of A4 paper lined the bottom of the arena to mark the borders of sectors
 Vaseline was applied to the sides of the arena above the paper to prevent cockroaches from climbing up the sides ; the depth of the arena was approximately 8cm .
 The focal individual was introduced to the arena via an opaque tube placed in sector B .
 Sector K contained an empty plastic dish .
-
 We recorded when i ) the head and ii ) the entire body emerged from the tube and iii ) when the focal individual crossed the centre line ( separating sectors D - F and G - I ) .
 We also recorded the number of novel sectors explored within ten minutes .
 When either all sectors had been explored or ten minutes had elapsed , the experiment was terminated .
 If all twelve sectors were explored , the time at which the focal individual entered the last novel sector was recorded .
-The paper grid was replaced between individuals since aggregation of pheromones , present in faeces , may influence cockroach movement [ 47 , 48 ] .
-
-ii .
+The paper grid was replaced between individuals since aggregation of pheromones , present in faeces , may influence cockroach movement [ 47 , 48 ] . ii .
 This arena was identical to the exploration arena ( Fig 1 ) except the plastic dish was replaced by a cotton net bag containing three adults randomly selected from the colony population ( but ensuring both sexes were represented ) .
 The bag measured approximately 10 x 8 cm when flat ( with an expanded volume of approximately 100cm 3 ) and allowed individuals to move around the restricted space ; antennal contact with the focal individual was also possible .
 Following three minutes of acclimatisation for the focal individual in the Perspex tube , timing began when the barriers sealing the plastic tube were removed .
@@ -64,11 +58,9 @@ The focal individual was placed in a 9cm diameter petri dish with an opaque lid 
 Timing began when the lid was suddenly removed , exposing the focal individual to bright light .
 The times at which the individual first moved its i ) antennae , ii ) head and iii ) initiated locomotion were recorded .
 Across all three assays , each behavioural measure recorded was assigned to a particular personality trait based upon results from previous personality work in cockroaches [ 37 , 40 ] , with boldness being measured across two contexts ( Table 1 ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0176564.t001 Personality trait measurement .
 Measures used to assay each personality trait in Diploptera punctata across three behavioural assays .
-
 i .
 Differential consistency within and across life stages : In the exploration assay , 23 of 65 individuals never left their tubes in at least one trial ; they were assigned a latency to leave the tube value of “ 601 ” if the event in question ( head or body leaving tube , crossing centre line ) never occurred .
 Since non - parametric correlations were later carried out , these individuals were therefore assigned the highest latency rank .
@@ -84,9 +76,7 @@ Since D . punctata are sexually dimorphic , sex differences in behaviour may occ
 Males and females were therefore initially analysed separately , following the procedure outlined above .
 Further analyses were then carried out on pooled data where the direction of correlations was consistent between the sexes ( S1 Appendix ) .
 We repeated the correlations for the sociality assay excluding all individuals that were moved after five minutes of not leaving the tube to exclude the possibility that this practice was affecting results .
-Additionally , since the order of testing could affect the likelihood that individuals might leave the tube during the social assay ( for example , if they had already experienced an experimental arena , this might affect their likelihood to leave the tube ) and hence the measures used to assess sociality , a chi - squared test was carried out to examine whether order of testing had an effect on whether or not an individual left the tube during the social trial .
-
-ii .
+Additionally , since the order of testing could affect the likelihood that individuals might leave the tube during the social assay ( for example , if they had already experienced an experimental arena , this might affect their likelihood to leave the tube ) and hence the measures used to assess sociality , a chi - squared test was carried out to examine whether order of testing had an effect on whether or not an individual left the tube during the social trial . ii .
 To test for age effects on the magnitude of individual behavioural measures between nymphs and adults , the difference between mean values obtained in trials at each life stage was calculated for each of the 19 individuals tested at both stages and a Wilcoxon signed - rank test was applied to test whether these differences significantly differed from zero .
 This allowed a non - parametric comparison between these repeats within individuals across life stages .
 Principal component scores were not used as the aim was to test for changes in the raw behavioural scores measured for each individual between life stages .
@@ -99,9 +89,7 @@ Spearman ’ s correlations were carried out between thirteen pairs of individua
 Pairings of measures quantifying different traits but collected in the same assay ( e.g. exploration arena - latency for head to emerge from tube and latency to cross centre line ) were excluded as they lacked independence .
 Since fewer measures were compared , the principal components approach was not necessary .
 Analyses were carried out for both nymphs and adults separately in order to determine whether any behavioural syndromes present persist across life stages ( hence to test for structural consistency [21] , ) .
-Since the sociality measure “ total time with conspecifics ” could be dependent upon the latency to reach conspecifics ( measured independently in the exploration assay ) , a lack of a correlation between these two measures could be used to justify these measures ’ independence .
-
-iv .
+Since the sociality measure “ total time with conspecifics ” could be dependent upon the latency to reach conspecifics ( measured independently in the exploration assay ) , a lack of a correlation between these two measures could be used to justify these measures ’ independence . iv .
 Effects of sex , size , social environment & order of testing : To test for sex and size effects on adult personality , a mixed models approach was used to also incorporate potential effects of order of testing , social environment and family .
 A linear mixed - effects model was built for each adult personality dimension with its PC score as the response variable .
 A square root transformation was applied to normalise boldness PC scores prior to analysis , whilst exploration and sociality PCs were ranked for use in non - parametric analysis due to their non - conformity to any distribution .
@@ -111,7 +99,6 @@ Models were built in the R environment [50] using the nlme package [51] .
 Directionality of loading of each measure for each PC was used to interpret any significant effects .
 All tests were two - tailed and the significance level was set at α = 0.05 .
 P - values were corrected for multiple comparisons for each factor within each dataset by carrying out sequential Bonferroni corrections [52] .
-
 We did not observe any adverse effects from the behavioural experiments conducted .
 The minimal number of individuals necessary to test the hypotheses was used and all animals were returned to the mass colony following final behavioural testing .
 Environmental enrichment ( cardboard “ egg boxes ” to provide shelter and a more stimulating environment ) was used in mass colonies , with small opaque plastic tubes being provided for developing nymphs as shelter .

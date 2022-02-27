@@ -15,19 +15,16 @@ Clarified supernatants were collected and stored at - 70 ° C until IgA measurem
 This study took place in the Kantonsspital St . Gallen , St . Gallen , Switzerland .
 The recruitment of the volunteers for the study started on June 15th , 2015 , and ended on September 15th , 2015 .
 The consort checklist of information to include when reporting a randomized trial is shown in S3 File .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0178669.g001 Study design.CONSORT flow diagram indicating the number of participants that have been included and have completed the study .
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0178669.t001 Study demographic details .
 # Mean ± standard deviation .
-
 Production of S .
 Typhi Omps : OmpC and F proteins were purified from S .
 Typhi ATCC 9993 as previously described [ 21 , 22 ] .
 LPS content was determined using the limulus amebocyte lysate ( LAL ) assay ( Charles River Endosafe Laboratories ) , and all batches were found to be negative with a detection limit 0.2 ng LPS / mg protein .
 Western blot analysis using anti - LPS polyclonal sera confirmed that LPS was not detectable by these means .
-
 Antibody titers against S .
 Typhi OmpC / F in sera were determined as previously described [22] .
 Briefly , high - binding 96 - well polystyrene plates ( Corning ) were coated with 10 μ g / ml of the protein preparation in 0.1 M carbonate - bicarbonate buffer , pH 9.5 .
@@ -40,19 +37,16 @@ After 1 h of incubation at 37 ° C with peroxidase - conjugated rabbit anti - hu
 Optical density was read at 492 nm using an automated ELISA plate reader ( Tecan ) .
 Antibody titers are given as - log 2 dilution × 40 .
 Antibody titers were defined as the highest dilution of the sample at which the OD was higher than the mean ± 3 SD of the negative sample values .
-
 Identification of antibody secreting cells and activated B cells by flow cytometry : Activated B cells ( ABC ) and antibody secreting cells ( ASC ) were measured in blood as previously described [25] .
 Briefly , 106 PBMCs were stained using the following : PerCP anti - human CD 14 , PerCP anti - human CD 16 and APC - Cy 7 anti - human CD 20 from Biolegend ; PerCP anti - human CD 3 , PE anti - human IgD , APC anti - human CD 38 , FITC anti - human CD 19 , and PECy 7 anti - human CD 71 from eBiosciences ; the fixable viability stain 510 ( e - Biosciences ) was used to discriminate dead cells .
 Samples were stained for 30 min on ice with the viability dye , washed and stain for 20 min at 4 ° C with the required antibodies .
 Flow cytometric analysis was performed using a LSR - FORTESSA ( Becton Dickinson ) .
 Data were analyzed using FlowJo software 10 ( Tree Star , USA ) .
-
 In vitro stimulation and assessment CD 4 + T cell responses : CD 4 + T cell activation profile was assessed as previously described [26] .
 Briefly , 106 PBMCs in RPMI 1640 medium containing 5 % FCS , 1 % penicillin - streptomycin were stimulated with 10 μ g / ml of S .
 Typhi OmpC / F or 50 μ g / ml of tetanus toxoid for 24h at 37 ° C .
 After in vitro stimulation , surface staining was performed and the frequency of CD 4 + T cells and intracellular expression of CD 40L , IFN - γ and TNF was assessed by flow cytometry using the following antibodies : PerCP / Cy 5.5 anti - human CD 3 , PE / Cy 7 anti - human CD 4 and FITC anti - human CD 154 , PE anti - human IFN - γ and APC anti - human TNF ( all from Biolegend ) ; the fixable viability stain 780 ( e - Biosciences ) was used to discriminate dead cells .
 Samples were analyzed using a FACS Canto flow cytometer ( Becton Dickinson ) , and data were analyzed using FlowJo software version 10 ( Tree Star , USA ) .
-
 Statistical analyses were performed with Graphpad Prism 5.0 ( GraphPad Software Inc . USA ) using two tailed Student ’ s t test with Welch ’ s correction .
 Statistical analysis was performed using one way ANOVA with Dunnett ’ s multiple comparison test for comparisons between individuals of the same group at different time points ( pre - versus post - vaccination ) Statistical significance was defined as p < 0.05 .
 Raw data is available as S4 File .

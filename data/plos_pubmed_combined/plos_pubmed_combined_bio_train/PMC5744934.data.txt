@@ -24,19 +24,16 @@ The CEmONC services at the hospital include services from full - time clinicians
 Along with the clinician , the hospital has a functional operation theatre , blood storage centre , ultrasound , and inpatient facility [24] .
 The mission of the hospital is to serve the most underprivileged tribal patients .
 Therefore , it is an empanelled provider for the government sponsored health insurance schemes to facilitate almost free or highly subsidized services to the poor .
-
 Data sources and sample size : The hospital maintains a prospective registry for all admissions that is maintained by care providers and subsequently digitized by trained staff .
 A team of care providers including gynaecologists ensured the accuracy of the entire dataset , including that of indications and outcomes of all deliveries .
 Women who delivered from April 2010 to March 2016 were included in the study .
 The definition of tribal is as per the specifications from the government of India [26] .
 The description of admission and outcomes is shown in Fig 1 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0189260.g001 Number of deliveries and caesarean sections in KMH ( 2010 - 16 ) , Bharuch , Gujarat .
 The deliveries were categorized as caesarean section and vaginal deliveries , and are the primary dependent variables .
 The potential determinants of caesarean section were maternal age , parity , maternal education , gestational week , haemoglobin status , government scheme , distance from the health facility and child ’ s gender .
 The adverse outcomes of deliveries examined for this analyses were still birth , low birth weight ( less than 5.5 lbs / 2500 grams ) , survival status of the neonate at the time of discharge from the hospital ( case fatality rate ) and birth asphyxia ( no cry after delivery ) .
-
 Rate , indication and outcomes of caesarean section were represented by percentages and counts comparing tribal and non - tribal women .
 Still birth rate and neonatal death rate are expressed per 1000 total ( live + still ) deliveries and per 1000 live births respectively .
 Logistic regression was used to estimate the odds ratio caesarean section by background characteristics as potential determinants .

@@ -52,10 +52,6 @@
 
 
 
-
-
-
-
 Version_of	10.0	22	1	STATISTICA	11	0;;Developer_of	StatSoft	29	2	STATISTICA	11	0;;
 
 

@@ -2,13 +2,11 @@ Background
 In the face of the HIV / AIDS epidemic that has contributed to the dramatic increase in orphans and abandoned children ( OAC ) worldwide , caregiver attitudes about HIV , and HIV - related stigma , are two attributes that may affect caregiving .
 Little research has considered the relationship between caregiver attributes and caregiver - reported HIV - related stigma .
 In light of the paucity of this literature , this paper will describe HIV - related stigma among caregivers of OAC in five less wealthy nations .
-
 Methods
 Baseline data were collected between May 2006 through February 2008 .
 The sample included 1,480 community - based and 192 institution - based caregivers .
 Characteristics of the community - based and institution - based caregivers are described using means and standard deviations for continuous variables or counts and percentages for categorical variables .
 We fit logistic regression models , both for the full sample and separately for community - based and institution - based caregivers , to explore predictors of acceptance of HIV .
-
 Results
 Approximately 80 % of both community - based and institution - based caregivers were female ; and 84 % of institution - based caregivers , compared to 66 % of community - based caregivers , said that they would be willing to care for a relative with HIV .
 Similar proportions were reported when caregivers were asked if they were willing to let their child play with an HIV - infected child .
@@ -16,12 +14,10 @@ In a multivariable model predicting willingness to care for an HIV - infected re
 Decreased willingness was reported by older respondents , while willingness increased with greater formal education .
 In the adjusted models predicting willingness to allow one ' s child to play with an HIV - infected child , female gender and older age was associated with less willingness .
 However , willingness was positively associated with years of formal education .
-
 Conclusions
 The caregiver - child relationship is central to a child ' s development .
 OAC already face stigma as a result of their orphaned or abandoned status ; the addition of HIV - related stigma represents a double burden for these children .
 Further research on the prevalence of HIV - related acceptance and stigma among caregivers and implications of such stigma for child development will be critical as the policy community responds to the global HIV / AIDS orphan crisis .
-
 Background
 The caregiver - child relationship has important long - term consequences for children ' s health and wellbeing .
 Attachment theorists consider children to have a need for a secure relationship with an adult caregiver for normal social and emotional development to occur [1,2] .
@@ -47,14 +43,12 @@ Stigma can prevent proper access to education and care , both directly ( through
 When stigma is manifested in the OAC - caregiver relationship , through hostility , violence , or differential resource allocation , it can have severe negative impacts on children under care .
 While very little research has previously considered the extent of stigma expressed against children and youth infected with and affected by HIV / AIDS [20] , one author reported significant associations between less expressed stigma behavior and higher knowledge of how to support HIV / AIDS infected persons [21] .
 In light of the dearth of literature considering caregiver attributes and HIV - related stigma , the goal of this paper is to describe HIV - related stigma among caregivers of OAC in five less wealthy nations .
-
 Methods
 Study description
 The Positive Outcomes for Orphans ( POFO ) study is a longitudinal cross - cultural research study designed to identify characteristics of care associated with better child outcomes .
 For the purpose of this work , an orphan or abandoned child ( OAC ) is defined as a child living without one or more of his / her biological parent .
 The POFO study is following approximately 2,750 children who were between 6 to 12 years at study outset and their caregivers in 83 institutional care settings and 309 community clusters in six study sites across five less wealthy countries : Cambodia , India ( two sites ) , Kenya , Tanzania , and Ethiopia .
 Additional study details are located elsewhere [22] .
-
 Study sample
 Six geographically defined regions in five counties were chosen to represent cultural , historical , ethnic , religious , political , and geographic diversity .
 HIV prevalence differed across the countries as well .
@@ -67,30 +61,25 @@ The institutional sampling frame was generated through inquiries to local govern
 Institutions specifically for street children , special needs children , and international adoption were excluded .
 In total , 83 institutions participated in the study with only three being located in a caregivers home and all having more than five OAC : nine in Battambang , Cambodia ( one refused ) , 13 in Addis Ababa , Ethiopia ( two refused ) , 13 in Kilimanjaro Region , Tanzania ( one refused ) , 14 in Hyderabad , India ( five refused ) , 15 in Dimapur and Kohima Districts of Nagaland , India ( two refused ) , and 21 in Bungoma , Kenya ( none refused ) .
 Reasons for refusal ranged from fear of psychological damage to the children to wanting monetary compensation for project participation .
-
 Selection of Institution - based Children
 Institutions provided a list of residential children aged 6 to 12 .
 Using a list of random numbers , up to 20 children per institution were randomly selected .
 When the target enrollment of 250 children could not be met at a particular site , for instance , in cases when there were not enough institutions from which only 20 children could be selected , then all children in the age range became eligible to participate .
 Of the 5,243 children cared for by the institutions , 2,396 were reported to be age - eligible , and 1,360 were selected for enrollment .
 The number of participating children per institution ranged from 1 to 51 .
-
 Community Sampling Area Selection
 The primary community sampling aim was to select an unbiased sample of community - based care settings .
 In each of the six study areas , 50 sampling areas ( " clusters " ) were selected .
 Geographic or administrative boundaries were used to define sampling areas , therefore specific definitions varied across sites .
-
 Selection of Community - based Children
 A community - based OAC was an orphan or an abandoned child ( living without either of his / her two parents ) not living in an institution .
 In each sampling area up to five eligible children were selected , either randomly from available lists , or through a house - to - house census conducted until five households with age - eligible children were identified .
 When the pre - identified sampling areas provided an insufficient number of community - based children , additional sampling areas were substituted ; this occurred in 13 villages in Cambodia , 12 in Nagaland , and one in each of the remaining sites .
 In households with multiple age - eligible children , one child was selected as the child whose first name started with the earliest letter in the alphabet .
 In total , 1,463 community - based OAC were enrolled in the study .
-
 Caregiver Selection
 The children ' s ( self - identified ) primary caregivers were asked to respond to surveys about themselves and the children .
 In total , 193 institutional caregivers , ranging from 16 institutional caregivers in Nagaland to 52 in Cambodia , and 1,480 community - based caregivers participated in the assessments .
-
 Data collection protocol
 Baseline data collection was conducted between May 2006 and February 2008 among community - based and institution - based OAC and their caregivers .
 Four main baseline instruments collected information from : 1 ) children residing in communities who had a parent who had died or was missing ; 2 ) children residing in institutions ; 3 ) the children ' s primary caregivers ; and 4 ) a person who could respond to administrative questions about the institution .
@@ -99,15 +88,12 @@ Informed consent was obtained from each participating caregiver and from the hea
 Assent was given by all participating children .
 Interviews were conducted with children and caregivers using their native language in the child ' s residence and children were interviewed .
 Ethical approval was provided by the Duke University Institutional Review Board ( IRB ) and by local and national IRBs in all participating countries .
-
 Study measures
 HIV - related stigma and acceptance
 Caregivers were asked two questions : " If a relative of yours were sick with HIV , would you be willing to care for him or her " ; and " Would you allow your child to play with an HIV - infected child " . Caregivers could respond " yes , " " no , " , or " I don ' t know . "
-
 Covariates
 Caregivers reported age , gender , marital status , and educational attainment , whether they earned any income ( for institution - based caregivers : whether they earned any income outside the institution ) , and , for institution - based caregivers , the number of years they had been a caregiver .
 Caregivers also rated their own health on a five - point scale ( very good , good , fair , poor , or very poor ) .
-
 Analyses
 Characteristics of the community - based and institution - based caregivers were described using means and standard deviations for continuous variables or counts and percentages for categorical variables .
 We fit logistic regression models , both for the full sample and separately for community - based and institution - based caregivers , to explore predictors of acceptance of HIV .
@@ -115,7 +101,6 @@ The two stigma / acceptance variables were each coded so that the index category
 Thus an odds ratio greater than 1 in these models indicates a variable associated with greater acceptance .
 Logistic models included site fixed effects to account for the six recruitment sites .
 Analyses were conducted using Stata v. 10.1 .
-
 Results
 The sample included 1,480 community - based and 192 institution - based caregivers ( Table [1] ) .
 Approximately 80 % of both community - based and institution - based caregivers were female , but institution - based caregivers tended to be older ( mean age 42 vs . 35 years ) , more educated ( 88 % with at least some secondary school education compared to 47 % ) , more likely to be never married ( 43 % vs . 6 % ) , more likely to report better health ( 75 % reporting good or very good health vs . 47 % ) and less likely to be widowed ( 15 % vs . 61 % ) .
@@ -136,7 +121,6 @@ Willingness was also positively associated with years of formal education , with
 In the models stratified by caregiving location , young age and six or fewer years of education was associated with decreased willingness among community - based , but not among institution - based caregivers .
 Thirteen or more years of education was associated with increased willingness in both community - based and institution - based settings ( AOR = 3.4 ; 95 % CI : 1.5 , 7.6 and 3.4 ; 95 % CI : 1.1 , 11.0 , respectively ) .
 Combined and caregiving - type - stratified multivariable predictors of stigma among POFO caregivers : willingness to let child play with an HIV - infected child .
-
 Discussion
 In this paper , we considered two indicators of HIV - related stigma in a sample of nearly 2,000 caregivers of orphans and abandoned children ( OAC ) in five less wealthy nations : willingness to care for a relative with HIV / AIDS in one ' s home and willingness to let one ' s child play with a child who is HIV - infected .
 Overall , relatively small proportions of caregivers reported HIV - related stigma , with less stigma reported by institution - based caregivers compared to community - based caregivers .
@@ -159,7 +143,6 @@ While caregivers were asked about HIV - related stigma , it is not clear if the 
 Prior qualitative work has indicated that in many parts of the world , AIDS - related deaths are often not reported as such by family members or friends , who instead may cite other causes of death , such as malaria or diarrhea [14] .
 We also were not able to examine whether caregivers ' reports of HIV - related stigma was associated with differential child outcomes over time .
 Longitudinal data would shed important light on this question .
-
 Conclusion
 The caregiver - child relationship is central to a child ' s development .
 OAC already face stigma as a result of their orphaned or abandoned status ; OAC affected by HIV , either by virtue of being infected themselves or because they were orphaned due to HIV , face a potential double burden of stigmatization .
@@ -168,13 +151,10 @@ Therefore , caring for OAC often carries with it the uncertainty of the child ' 
 Stigma and stigmatization have been linked to reinforcement of social inequalities of class , race , gender , and sexuality [28] .
 While most caregivers reported willingness , or the absence of stigma , over 25 % of caregivers willingly reported on their HIV - related stigma .
 Further research on the prevalence of HIV - related acceptance and stigma among caregivers , and the implications of such stigma for healthy child development , will be critical as the policy community develops appropriate responses to the global AIDS orphan crisis .
-
 List of abbreviations
 HIV : human immunodeficiency virus ; AIDS : acquired immunodeficiency syndrome ; OAC : orphaned and abandoned child / children ; AOR : adjusted odds ratio ; 95 % CI : 95 percent confidence interval ; UNICEF : United Nations Children ' s Fund ; UK : United Kingdom .
-
 Competing interests
 The authors declare that they have no competing interests .
-
 Authors ' contributions
 LCM : conceived of the analysis and wrote the manuscript .
 BWP : co - conceived of the analysis , conducted the statistical analysis and helped write the manuscript .
@@ -184,7 +164,6 @@ NT : participated in the study design and coordination and helped to draft the m
 KOD : participated in the study design and coordination and helped to draft the manuscript .
 JO : participated in the study design and coordination and prepared data for analysis .
 All authors read and approved the final manuscript
-
 Pre - publication history
 The pre - publication history for this paper can be accessed here :
 http://www.biomedcentral.com/1471-2458/10/504/prepub

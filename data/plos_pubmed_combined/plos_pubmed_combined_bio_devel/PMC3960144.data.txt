@@ -17,7 +17,6 @@ The linear extrapolation is formulated in equation 3 : ( 3 ) where A refers to t
 In this method , the average yearly absolute growth of the calibration period ( t0 to t1 ) is multiplied by the total forecasting years ( t2 - t1 ) to obtain the estimate for desired year t2 .
 In the exponential extrapolation , the average yearly growth rate G observed between t0 and t1 is firstly obtained through equation 4 , and it is then applied to estimate the industrial and commercial land in t2 ( equation 5 ) .
 The graph in Figure 1 shows the application of both models to a hypothetical region with 200 ha of industrial and commercial land in 1990 , and 300 ha in 2000 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0091991.g001 Extrapolation models for hypothetical region with 200 and 300 hectares of industrial and commercial land in 1990 and 2000 . ( 4 )
 ( 5 ) Region specific land use intensity ( models 3 & 4 ) : The economic product and surface area of commercial and industrial uses are consistently highly correlated at the regional level .
@@ -38,7 +37,6 @@ The ‘ land use intensity of the recently developed land ’ is then used to es
 Contrary to the model 3 , this approach ignores the land use intensity of the industrial and commercial land developed prior to t0 . ( 8 )
 ( 9 ) We call these approaches ‘ region specific ’ because the intensity measures described above can be computed separately for any set of regions composing the whole of any area of interest .
 Consequently , regional differences in land use intensity ( which are underpinned by differences in productivity and production structure ) are captured .
-
 Region and sector specific land use intensity ( models 5 & 6 ) : Industrial and commercial land is a rather broad and heterogeneous land use class .
 For example , in the CORINE Land Cover nomenclature , the homonymous land use class includes factories of all different kinds of industries , facilities for energy production and telecommunication networks , facilities related to defence and security , shopping malls and exposition sites , and a wide range of facilities related to public or private services likes schools , university and research campuses and hospitals [41] .
 Trying to model such a heterogeneous class as a whole poses obvious limitations .

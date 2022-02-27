@@ -9,7 +9,6 @@ This variety of Axis I diagnoses is typical of an UHR population [34] .
 Due to this diagnostic presentation of the UHR group , current medication usage was also discrepant .
 Data was generated as to whether the participant was currently taking a psychotropic medication ( yes or no ) to be used as a covariate in imaging analyses .
 The University of Colorado Boulder Institutional Review Board approved the protocol and written informed consent procedures for this investigation .
-
 The Structured Interview for Prodromal Syndromes ( SIPS ) [35] was administered to detect the presence of a prodromal syndrome .
 Study participants met criteria for a prodromal syndrome in three possible ways : 1 ) Attenuated Positive Symptom Prodromal Syndrome ( a score between 3 and 5 on the SIPS based on a scale from 0 to 6 ) and / or 2 ) decline in global functioning accompanying the presence of schizotypal personality disorder and age < 19 and / or 3 ) Genetic Risk and Deterioration Prodromal Syndrome .
 The SIPS gauges distinct categories of prodromal symptoms including positive and negative symptom dimensions .
@@ -48,18 +47,15 @@ Motion from the ART toolbox was included as a confound regressor .
 From the motion translation parameters , the ART toolbox calculates mean displacement , and we used this measure as well as the number of motion and mean signal outliers in order to compare the degree of head movement between the groups .
 Further preprocessing included a band - pass filter ( 0.008 to 0.09 Hz ) , detrending , and despiking , in accordance with procedures used to target resting state data [46] .
 The mean time - series , averaged across all voxels within each seed was used as a regression parameter , and correlated with all other voxel in the brain in seed - to - voxel connectivity analyses .
-
 Functional connectivity was performed in the conn toolbox v. 14p [46] .
 Both the SN and DMN were evaluated using resting state functional connectivity using seed - to - voxel connectivity across the whole brain .
 Resting - state functional connectivity allows for the identification of specific intrinsic functional networks without the potential confounds of introducing functional tasks [23] .
 A priori seeds for these networks were masked based on established literature and single seeds ( as opposed to multiple ) were used to represent nodes of the SN and DMN in order to limit analyses and maximize power [ 16 , 49 ] ( Fig 1 ) .
 The right anterior insula ( rAI ) is a crucial node of the SN [18] and was used to define the SN network , while the posterior cingulate cortex ( PCC ) represented the node for the DMN , consistent with previous UHR research [ 28 , 29 ] .
 Seeds were generated using the Wake Forest University PickAtlas [ 50 , 51 ] using a 4mm radius .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0134936.g001 Seed regions of interest.Note : The salience network , defined using a seed in the rAI ( right anterior insula ) , MNI coordinates ( 38 , - 22 , 10 ) .
 The default mode network , defined using a seed in the PCC ( posterior cingulate cortex ) , MNI coordinates ( 1 , - 55 , 17 ) .
-
 First , we confirmed that the pattern of connectivity of the SN and DMN in our control and UHR sample was in line with established research [ 18 , 23 ] ( see S1 - S4 Tables ) .
 Due to the impact of medication on the brain [ 52 , 53 ] , all between group analyses and UHR within group analyses controlled for whether a participant was currently taking a psychotropic medication or not .
 Following our inspection of the SN and DMN in both groups , we conducted between group analyses examining differences in both networks using seed to voxel connectivity across the whole brain .
@@ -68,7 +64,6 @@ In order to evaluate the relationship between connectivity and behavior , we exa
 Within network connections were defined as associations among a priori seeds and voxels of regions clearly established by literature to comprise either the SN ( e.g. anterior cingulate cortex ) or DMN ( e.g. medial prefrontal cortex ) .
 In contrast , hypotheses evaluating connectivity of the SN / DMN and other brain regions examined associations among a priori seeds and voxels in the brain that do not belong to regions that typically comprise either the SN or DMN .
 Results of all analyses were thresholded at the voxel - level at puncorrected < 0.001 and then corrected at the cluster - level using a false - discovery rate ( FDR ) of p < 0.05 [54] .
-
 ANOVA models were used to evaluate group differences in demographic variables , FER , and SF .
 Because preliminary studies examining social processes impairment have found effect sizes at or exceeding 0.31 [55] , there is good evidence to suggest that the current sample has adequate power to detect the hypothesized relationship .
 Further , the present evaluation exceeds the existing UHR literature sample sizes where evaluation of the SN and DMN has taken place [ 28 , 29 ] along with the one study to examine familial risk for psychosis , the DMN , and social functioning [30] .

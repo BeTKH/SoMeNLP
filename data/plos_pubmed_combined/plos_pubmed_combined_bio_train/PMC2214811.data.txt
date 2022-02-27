@@ -16,11 +16,9 @@ Solutes diffuse across a boundary layer between the biofilm and a bulk fluid in 
 Inside this boundary layer , we determine the dynamics of solute spatial distributions by solving the 2 - D diffusion - reaction equations .
 In so doing , we assume that solute concentrations reach their diffusion - reaction equilibria much faster than bacterial cells grow and divide [43,44] .
 The biofilm simulation framework and its associated numerical methods have previously been described in detail [42,43,45] .
-
 Following Xavier and Foster [36] , we assume that bacteria consume a substrate , S , and invest it in the production of biomass and EPS ( for a full list of model notation , see Table 1 ) .
 This allows a simple definition of the strains based upon their biomass versus EPS investment strategies .
 Non - EPS producers ( EPS − ) devote all substrate taken up to biomass production , whereas unconditional EPS producers ( EPS + ) always allocate a proportion f to EPS synthesis .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pbio.0060014.t001 Notation Summary Our third strain , QS + , is intended to represent a hypothetical first step in the evolution of quorum sensing .
 We assume that QS + cells have gained the ability to detect a waste chemical produced by conspecific bacteria .
@@ -43,24 +41,20 @@ Although α accounts for multiple factors that simultaneously contribute to quor
 α simply measures how readily QS + cells switch from low to high cell - density state : for higher α , QS + bacteria will reach a quorum at higher cell density and relatively later on in the course of biofilm growth .
 In order to determine whether simple quorum - sensing behavior ( QS + ) provides a fitness advantage over the unconditional behavioral strategies EPS + and EPS − , we first consider competition in mixed biofilms initialized with the same number of either ( 1 ) QS + and EPS + or ( 2 ) QS + and EPS − .
 We replicate these simulations over a range of α values for the QS + strain in order to examine how the timing and density dependence of quorum sensing influence the outcome of competition .
-
 Simple Competition : QS + versus EPS + , and QS + versus EPS − : Simulations were parameterized with empirically estimated values ( Table 3 ) , initialized with 50 cells of each strain placed randomly on the solid substratum , and allowed to run for 14 simulated days ( Figure 1 ) , which is close to the maximum duration of a V. cholerae infection [49] .
 The proportion of energy invested in EPS secretion ( f ) will determine the extent to which EPS production allows one strain to displace others from a biofilm .
 As Xavier and Foster have discussed [36] , for a given set of simulation parameters , there exists some evolutionarily stable strategy for EPS production , f * , which will out - compete any strain that invests either more or less in EPS .
 To find this optimum strategy , we performed an evolutionary stability analysis in which EPS + strains with incrementally larger or smaller f values were competed against each other ( see Text S1 and Figure S2 ) .
 We found that , for our model conditions , the evolutionarily stable strategy for EPS investment independent of quorum sensing is approximately f * = 0.5 , which was used for both the EPS + and the QS + strains ( when below its quorum ) in all subsequent simulations .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pbio.0060014.t003 Parameters Used in Biofilm Simulations Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pbio.0060014.g001 Direct Competition between QS + and EPS + Bacteria Initialized with Equal Numbers of Both StrainsAutoinducer ( AI ) concentration is shown in the background , where isoconcentration lines represent 0.1 - mg / l steps .
 Both strains behave identically , producing both EPS and biomass , until the autoinducer quorum - sensing threshold is reached .
 QS + cells then turn off polymer secretion , devote all resources to biomass production , and achieve a growth burst at locations on the upper surface of the biofilm where substrate availability is highest .
 A movie for this simulation is provided as Video S1 .
-
 Competitions between the QS + and EPS + strains and between the QS + and EPS − strains were repeated for a range of α values .
 We included two controls , one ( α = ∞ ) in which the QS + strain never reaches its quorum and behaves identically to the EPS + strain , and another ( α = 0.001 ) in which the QS + strain reaches a quorum immediately after simulations begin , and behaves identically to the EPS − strain thereafter .
 The frequency of QS + cells within the biofilm was calculated at each time step and averaged over all replicate simulations to generate a mean QS + frequency plot for each α value used in both sets of competitions ( Figure 2A and 2B ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pbio.0060014.g002 Summary of Simple Competitions ( A ) A quorum - sensing strain that down - regulates polymer secretion at high cell - density ( QS + ) is competed against a constitutive polymer - secreting strain ( EPS + ) . ( B ) QS + versus non - polymer producer ( EPS − ) .
 Each competition ( QS + vs . EPS + , and QS + vs . EPS − ) was replicated 50 times for each of the α values : ∞ , 0.01 , 0.008 , 0.005 , and 0.001 , where α captures how quickly the QS + strain will switch from low to high cell - density state ( see main text ) .
@@ -68,7 +62,6 @@ For higher α , QS + bacteria will reach their quorum at higher cell density , r
 Plotted lines represent mean QS + frequency time series from each set of 50 simulations and are shown with shaded 95 % confidence intervals .
 Note that in ( A ) and ( B ) , the plotted lines corresponding to α = ∞ are control treatments in which QS + behaves identically to EPS + throughout simulations because autoinducer concentrations never reach the QS + quorum - sensing threshold .
 Similarly , in ( A ) and ( B ) , the plotted lines corresponding to α = 0.001 are control treatments in which QS + behaves identically to EPS − throughout simulations because autoinducer concentrations always exceed the QS + quorum - sensing threshold .
-
 Competition between QS + and EPS + .
 In a mixed competition between the quorum - sensing strain and a constitutive EPS producer , all cells are initially phenotypically identical ; that is , they all secrete EPS .
 However , as cells grow and population density increases , the autoinducer accumulates , and at a time point dependent upon their α value , quorum - sensing ( QS + ) cells turn off polymer secretion and invest all their resources in growth .
@@ -78,14 +71,12 @@ The advantage is temporary , however , because the EPS + strain continues to sec
 Quorum - sensing control of EPS production , therefore , provides a competitive advantage over constitutive EPS production , but only for a limited time window .
 Moreover , the location of this window within the period of biofilm growth is determined by how quickly the QS + strain reaches a quorum .
 Strains with higher α attain growth bursts later in the course of biofilm formation ( Figure 2A ) .
-
 Competition between QS + and EPS − .
 Without having to pay the cost of EPS production , EPS − cells rapidly divide at the beginning of simulations and achieve a higher initial frequency than QS + cells .
 By secreting EPS , however , the QS + strain rises up and over the top of neighboring cells , suffocating those that do not secrete polymer .
 After its initial disadvantage due to lower growth rate , the QS + strain rapidly ascends to a majority in the biofilm and remains there indefinitely .
 Unlike the EPS + strain , QS + cells switch to pure biomass production after they have suffocated their EPS − neighbors ; at this point , investment into EPS is no longer advantageous .
 As a result , the QS + strain will out - compete non - EPS producers by even larger margins than the constitutive EPS producer ( Figure 2B ) .
-
 The simple competition simulations described above suggest that bacteria for which EPS production is under quorum - sensing control have a time - dependent advantage over strains that are not capable of responding to changes in population density .
 However , a within - group competitive advantage need not translate into evolutionary success when the advantage comes at a strong cost to overall productivity [50] .
 More concretely , if successfully suppressing another strain in a biofilm causes the entire biofilm to grow poorly , the net effect on fitness may be deleterious [36] .
@@ -110,7 +101,6 @@ We investigated whether a quorum - sensing strain that obtains an advantage in s
 We therefore focus on parameter values under which the QS + strain has an advantage in the simple competition simulations .
 Specifically , we examine invasiveness for a disturbance interval of 9 d ( tend = 9 ) , with a QS + strain α value ( QS sensitivity ) of 0.008 , and we find that the QS + strain can readily invade populations composed mostly of EPS + cells , but not vice versa ( Figure 3A and 3B ) .
 Additionally , biofilms composed entirely of QS + cells have a higher average fitness than biofilms composed entirely of EPS + cells .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pbio.0060014.g003 The Quorum - Sensing Strain Can Invade Non - Quorum - Sensing Strains , but Not Vice VersaInvasiveness of a rare mutant was analyzed for different degrees of mixing among strains in biofilms , reflected in the different initial frequencies of the rare strain in the biofilm .
 For example , if 10 strains are randomly sampled , then the initial frequency of the rare mutant in its own biofilm will be 0.1 ; initial relatedness will also be 0.1 ( see main text ) .
@@ -122,6 +112,5 @@ Biofilms composed entirely of QS + cells attain higher average fitness than biof
 Again , the QS + strain can invade EPS − , whereas EPS − cannot invade QS + .
 Notably , however , biofilms composed entirely of QS + cells have a lower average fitness than biofilms composed entirely of EPS − cells .
 Therefore , if all biofilms contained only a single genotype ( no within - biofilm evolutionary competition ) , the EPS − would invade and resist invasion .
-
 Invasion analysis : QS + and EPS . − : Again using tend = 9 d , we find that the QS + strain invades a resident population of EPS − cells , whereas the reverse is not true ( Figure 3C and 3D ) .
 It is notable , however , that biofilms composed entirely of QS + cells have a lower mean fitness than biofilms composed entirely of EPS − cells , which reflects the fact that investment into EPS reduces total biomass production and therefore average growth rate .

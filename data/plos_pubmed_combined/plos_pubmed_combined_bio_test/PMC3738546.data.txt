@@ -1,14 +1,11 @@
 The current research was approved by the University of Birmingham Committee for Ethical Review .
 All participants were asked to sign their written informed consent prior to participation .
-
 A total of 60 participants ( 50 female ) , with a mean age of 19 ( range = 18 - 23 , SD = 1.0 ) were recruited from the University of Birmingham , UK .
 Participants received course credit in return for their participation .
-
 The Levenson Self - Report Psychopathy Scale ( LSRP ) [27] was completed by all participants as part of a battery of questionnaire based measures .
 The LSRP , designed for the measurement of psychopathic personality traits in non - institutionalized populations , consists of a 16 item primary subscale and a 10 item secondary subscale .
 While the primary subscale taps the selfish and uncaring characteristics associated with Factor 1 of the PCL - R , the secondary subscale measures behavioral and lifestyle factors associated with Factor 2 , including boredom and impulsivity .
 Adequate internal validity of the LSRP has been demonstrated in a sample of 487 undergraduate psychology students , with a Cronbach ’ s alpha of .82 for the primary subscale and .63 for the secondary subscale , which was considered adequate for a ten item scale [27] .
-
 We used two separate tasks to assess the intergroup bias in relation to primary and secondary psychopathic traits : a computerized dictator game , a computerized ultimatum game .
 All tasks were prepared using E - Prime 2.0 stimulus presentation software .
 Participants always completed the dictator game prior to the ultimatum game .
@@ -26,7 +23,6 @@ If an offer was rejected , participants were instructed that both they and the o
 A total of 38 Caucasian faces ( 10 female ) were selected from the PUT face database [32] for use in the dictator game and ultimatum game .
 Each face was paired with a forename and allocated to either the in - group or the out - group using a same or other university manipulation .
 This was achieved through presentation of either same ( University of Birmingham ) or other ( University of Manchester ) university logos , including corporately formatted names and crests , alongside each face and forename ( see Figure 1 ; please note that the photograph used in the figure is not the original image used in the study , but a similar image used for illustrative purposes only . The subject of the photograph has given written informed consent , as outlined in the PLOS consent form , to publication of their photograph ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0069565.g001 Overview of the dictator game and the ultimatum game .
 For each of 38 trials participants view a central fixation cross for 500ms .
@@ -34,7 +30,6 @@ This is followed by a 500ms presentation of a false forename and University logo
 University logos are then joined by a picture of the person to whom participants believe they are to make an offer .
 Once participants make an offer the next trial begins .
 Note : experimental trials included corporately formatted logos and text , not displayed above .
-
 Participants were informed that the current research was a collaborative investigation with the University of Manchester , assessing the impact of differing personality factors on economical decision making .
 Both the information sheet and consent forms included the name and official crests of both the University of Birmingham and the University of Manchester .
 Each task consisted of 38 trials .

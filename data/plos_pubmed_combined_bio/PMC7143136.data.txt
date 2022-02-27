@@ -5,7 +5,6 @@ In this study we analyzed the influence of feeding sunflower seeds ( SS ) and me
 The MAH treatment was applied to reduce ruminal degradation of SS and SM protein and therefore N losses .
 Compared to control - fed lambs , animals fed the treated SS and SM had increased dorsal fat thickness and yellowness and chromaticity of the Rectus abdominis muscle , which might be beneficial for consumers ’ acceptance as they associate a bright meat color with meat freshness and quality .
 However , there were no differences between groups in meat chemical composition and fatty acid profile .
-
 Abstract
 The objective of the study was to assess the effects of feeding sunflower meal ( SM ) and seeds ( SS ) protected against rumen degradation on carcass characteristics and composition and fatty acid ( FA ) profile of lamb meat .
 The protection of SM and SS was achieved by treating both feeds with malic acid at 150 ° C for 2 h ( MAH treatment ) and in a previous study this treatment was shown to decrease ruminal degradability of protein of both feeds and fat degradability of SS .
@@ -14,7 +13,6 @@ The two concentrates differed only in the treatment SM and SS , which were inclu
 The MAH - fed lambs had greater thickness of dorsal fat ( p = 0.016 ) and greater ( p ≤ 0.016 ) values of the color parameters a * ( redness ) and C * ( chromaticity ) of the Rectus abdominis muscle .
 However , there were no differences in carcass measurements and in water - holding capacity , chemical composition , pH , color , or fatty acid of Longissimus muscle .
 In summary , the MAH treatment resulted in only subtle changes in meat composition and quality .
-
 1 .
 Introduction
 The consumers ’ concerns on both the quality of animal products and the polluting emissions of livestock farming have steadily increased in last decades .
@@ -29,7 +27,6 @@ As showed by Mejewska et al . [6] , feeding lambs with different sources of sunf
 We hypothesized that feeding MAH - treated SS and SM to lambs may change the meat FA profile towards a less saturated profile by increasing the duodenal flow of unsaturated sunflower FA .
 Because both carcass characteristics and meat quality in ruminants are strongly affected by the diet of the animals , the objective of the study was to evaluate the effects of feeding MAH - treated SM and SS on carcass characteristics and meat composition and FA profile of light lambs .
 This is a companion paper to Haro et al . [7] , which reported the effects of the MAH treatment on growth performance , diet digestibility , blood parameters , and ruminal fermentation of growing lambs .
-
 2 .
 Materials and Methods
 Diets , animals , and experimental procedures were detailed described by Haro et al . [7] , and are briefly summarized below .
@@ -42,7 +39,6 @@ In the MAH concentrate , both SM and SS were included after being treated for pr
 The MAH treatment has been detailed by Haro et al . [7] and consisted in spraying both feeds with a 1 M malic acid solution at a rate of 400 mL per kg of feed and drying the mixture at 150 ° C for 2 h .
 Chemical composition was similar in both concentrates , which contained as average 941 , 155 , 188 , and 69.9 g of organic matter , crude protein , neutral detergent fiber and acid detergent fiber per kg , respectively [6] .
 Two groups of 12 Lacaune lambs each , weighting as average 14.2 ± 0.35 kg , were individually housed in 1 m × 1 m pens , and fed the experimental concentrates and barley straw ad libitum until reaching 26 kg of body weight ( 39 days ) .
-
 2.2 .
 Slaughter Measurements and Sampling
 Lambs were slaughtered at a commercial abattoir located 30 km away from the experimental farm on two different days ( 6 lambs of each treatment per day ) .
@@ -65,7 +61,6 @@ The color coordinates were expressed following the CIELAB system [13] as L * ( b
 Chroma ( C * ) and hue ( h * ) values were calculated as C * = ( a * 2 + b * 2 ) 0.5 and h * = tan - 1 ( b * / a * ) , respectively .
 The water - holding capacity of meat ( Longissimus muscle ) was measured as pressure loss using the procedure of [14] , and it was expressed as the percentage of expelled juice after compression .
 A sample of the Longissimus of each lamb ( L1 - L4 ) was taken and external fat and connective tissue were removed before being frozen and freeze - dried for analysis of chemical composition and FA profile of meat .
-
 2.3 .
 Chemical Analyses
 All chemical analyses were performed in duplicate unless otherwise stated .
@@ -75,14 +70,11 @@ The ash and ether extract content of the meat was analyzed following the Associa
 Fatty acid methyl esters ( FAME ) of freeze - dried Longissimus muscle were prepared ( in duplicate ) by direct bimethylation according to the method described by [16] , and were analyzed using a gas chromatograph ( Perkin - Elmer Autosystem - 1 : A , Waltham , MA , USA ) equipped with a flame ionisation detector and an Omegawax 320 capillary column ( 30 m × 0.32 mm internal diameter ; 0.25 mm film thickness ) with polyethylene glycol as the stationary phase ( Supelco , Bellefonte , PA , USA ) .
 Chromatographic conditions had been detailed described by [17] .
 Individual FAME were identified by comparing their retention times with those from a known standard ( Supelco , Bellefonte , PA , USA ) , and results were expressed as percentage of total FA identified .
-
 2.4 .
 Statistical Analyses
 Normal distribution of data was assessed by the Shapiro - Wilk test [18] .
 The data were analyzed as a 1 - way ANOVA using the GLM procedure of [19] , in which the diet was the main effect and lamb the experimental unit .
-Significance was declared at p < 0.05 and trends at p < 0.10 .
-
-3 .
+Significance was declared at p < 0.05 and trends at p < 0.10 . 3 .
 Results and Discussion
 As reported by [7] , the MAH treatment did not affect feed intake , average daily gain and hot and cold carcass weights , which reached 12.7 and 12.4 kg for control and 13.7 and 12.8 kg for MAH - fed group , respectively .
 There were no effects ( p ≥ 0.134 ) of MAH concentrate on cooling losses , carcass conformation measurements and metacarpus weight and length ( Table 1 ) , which is in agreement with the lack of differences between groups observed in the carcass weights .
@@ -117,12 +109,10 @@ The high content in C18 : 2 observed in our study ( 14.3 % ) compared with other
 As a consequence , the proportion of n - 6 FA in our study was greater than that reported in other studies feeding lambs sunflower fat [6,32,37] and the n - 6 / n - 3 ratio reached values above 30 .
 Decreasing the n - 6 / n - 3 ratio in the diet has been considered favorable for human health , although some limitations when considering this ratio have also been risen more recently [39] .
 However , it should be taken into account that the column used to analyze the meat FA profile was not appropriate to identify biohydrogenation intermediates , as longer columns are necessary to analyze these intermediates [40] , and therefore the results on meat FA profile are limited to the FA detected .
-
 4 .
 Conclusions
 The inclusion of SS and SM treated with malic acid and heat for protecting the protein against ruminal degradation in the concentrate of fattening lambs had no effect on carcass characteristics and meat quality , excepting that increased the amount of dorsal fat and the redness ( a * ) and chromaticity ( C * ) of the Rectus abdominis .
 More studies are needed to investigate the feeding conditions under which this treatment might be useful to improve lamb meat quality .
-
 Cooling losses , carcass conformation , and fatness measurements , and weight and length of the metacarpus of growing lambs fed barley straw and concentrate containing sunflower meal and seed either untreated ( control ) or treated with malic acid and heat ( MAH ) .
 pH and color values of different tissues of growing lambs fed barley straw and concentrate containing sunflower meal and seed either untreated ( control ) or treated with malic acid and heat ( MAH ) .
 Water holding capacity and chemical composition of the Longissimus muscle of growing lambs fed barley straw and concentrate containing sunflower meal and seed either untreated ( control ) or treated with malic acid and heat ( MAH ) .

@@ -4,7 +4,6 @@ Additionally , a group of 11 adult participants ( 6 male ; mean age = 37.9 years
 An a - priori sensitivity power analysis ( G * Power 3 software ; [21] revealed that our final sample size ( four equal - size groups of 11 participants ) is large enough to detect a within - between interaction corresponding to an effect size as small as η p2 = .1 with a statistical power of ( 1 - β ) = .95 ( given α = .05 ) .
 The protocol of the study was approved by the Psychology Research Ethics Committee of the University of Portsmouth , and the study was conducted in accordance with the 1964 Declaration of Helsinki .
 Before the experiment , each parent and adult participant provided written informed consent .
-
 Test Environment , Apparatus and Stimuli : Both the action observation and action production tasks were conducted in the same testing room .
 Infants were tested individually with at least one parent present at a time of day when they were alert and in a good mood .
 For the action observation task , participants ’ eye movements were recorded via corneal reflection using a SensoMotoric Instruments RED - X eye - tracker ( sampling rate : 50 Hz ) .
@@ -25,7 +24,6 @@ Note that there was no significant correlation between the movement phase durati
 Finally , the last 500 ms consisted of the last frame of the stimulus video that was shown as still ( contact phase ) ( Figure 1 ) .
 Each video was followed by 1500 ms of black screen .
 After three stimulus videos , attractive animations with sound were shown to keep infants ’ attention focused on the monitor .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0067916.g001 Snapshots of stimulus videos .
 The figure shows the hand movement kinematic for the two targets layouts ( panel A and B ) in each experimental condition ( for each panel , from top to bottom : No Shape - Small Target , Pre - Shape - Small Target , No Shape - Large Target and Pre - Shape - Large Target ) .
@@ -33,11 +31,9 @@ The leftmost column depicts the Fixation phase with the Target AOI ( white circl
 The central columns show the actor ’ s hand during the Movement phase for the frames corresponding to each quartile of the movement , and the column corresponding to the 100 % of the Movement phase shows the actual end of the action , i.e. , the last frame of the actual video .
 The rightmost column depicts the Contact phase .
 The person depicted in this figure has given written informed consent , as outlined in the PLoS consent form , to publication of their photograph .
-
 For the grasping task , infants were tested individually while they sat on a caregiver ’ s lap at a wooden table .
 A video camera ( 30 fps ) filmed the infant ’ s actions from a frontal perspective .
 The stimuli used were five objects from the Bayley Scale of Infant Development : the large objects were a handlebar rattle ( 11.5 cm long ) , one plastic cylinder ( 4 cm in height and 4 cm in diameter ) and a plastic cube ( side : 2.5 cm ) , and the small objects were a plastic cube ( side : 1.2 cm ) and a small sugar pill ( 0.5 cm in diameter ) .
-
 For approximately 10 min , the infant was allowed to familiarize with the experimenters and the room while one experimenter described the test procedure to the parents before they signed a consent form .
 During stimulus presentation , the parent and experimenter stood behind the infant avoiding interacting with him / her .
 Once the infant and the parent seemed comfortable , the calibration procedure was started .
@@ -53,7 +49,6 @@ Objects were presented on the body midline at a comfortable reaching distance in
 The infants were allowed approximately 60 s to explore each object .
 If the infant did not react to the test object , the experimenter tried to attract the infant ’ s attention by moving the test object and giving verbal encouragement ; if he / she was still hesitant to grasp the object from the experimenter ’ s hand , it was released onto the table in front of him / her ( mean number of trials with encouragement : large objects = .06 , .06 and .03 for 6 - , 8 - and 10 - month - olds , respectively ; small objects = .23 , .14 and .05 for 6 - , 8 - and 10 - month - olds , respectively ) .
 Finally , if the grasping of an object was not clean ( i.e. , when the actual grasping did not immediately follow the initial contact and there were some exploratory actions or hand repositioning before grasping , or when the object slipped out of the infant ’ s hands ) , the trial was omitted and the presentation of that object was repeated [27] ( mean number of trials with object re - presentation : large objects = .30 , .27 and .09 for 6 - , 8 - and 10 - month - olds , respectively ; small objects = .59 , .55 and .23 for 6 - , 8 - and 10 - month - olds , respectively ) .
-
 For each stimulus video , we defined four areas of interest ( AOIs ) covering the attention - grabber during the fixation phase ( Fixation AOI ) , the actor ’ s hand ( Hand AOI ) , and the intended target ( Target AOI ) during the movement and the contact phases .
 The Hand AOI was a dynamic AOI , i.e. , it was manually added frame by frame to match gaze trace with the moving hand .
 Data were included in the analyses only if the participants fulfilled the following criteria for at least two trials of each condition [13] .

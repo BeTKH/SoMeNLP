@@ -26,11 +26,7 @@
 
 
 
-
-
-
 Developer_of	Wavemetrics	98	1	Igor Pro	70	0;;
-
 
 
 

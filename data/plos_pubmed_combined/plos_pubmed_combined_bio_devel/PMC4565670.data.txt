@@ -13,7 +13,6 @@ Participants performed in the mild to moderate range of intellectual disability 
 The mean and range of IQs in the current sample was highly consistent with that reported for intelligence in WS ( Mervis et al . , 2000 ) , and with previous studies of cognitive heterogeneity in WS ( Martens et al . , 2008 ; Porter & Coltheart , 2005 ) .
 Due to low reading ability and IQ , all participants with WS provided verbal consent after a brief description of the study , and parents provided signed “ surrogate ” consent according the declaration of Helinski .
 Ethics approval for the consent procedure and this study was gained from the Macquarie University Human Research Ethics Committee ( reference number : 5200900071 ) .
-
 The Child Behaviour Rating Inventory of Executive Functioning ( Parent Form ) - BRIEF - C : The BRIEF - C is designed to assess the executive function behaviours of children aged from 5 to 18 years in a home and school environment [40] .
 The questionnaire consists of 86 standardised items that measure different aspects of executive function .
 Seventy - two of those items fall within eight clinical scales ( Inhibit , Shift , Emotional Control , Initiate , Working Memory , Plan / Organise , Organisation of Materials , and Monitor ) .
@@ -21,14 +20,12 @@ These scales combine to form two indexes ( Behavior Regulation Index [ BRI ] and
 The structure of the BRIEF - C rating scale is outlined in S1 Table .
 For each clinical scale and index , a T score can be derived with higher scores indicating greater degrees of executive dysfunction , with scores at or above 65 suggesting clinical significance [40] .
 Psychometric properties show high internal consistency with Cronbach alpha coefficients ranging from .80 to .98 and good test - retest reliability ranging from .76 to .85 [40] .
-
 Behaviour Rating Inventory of Executive Function - Adult Version ( Parent Report Form ) - BRIEF - A : The BRIEF - A is designed to assess the everyday executive functioning behaviours of adults aged from 18 to 90 years [52] .
 The questionnaire consists of 75 standardised items , of which items measure different aspects of executive function within nine clinical scales ( Inhibit , Shift , Emotional Control , Self - Monitor , Initiate , Working Memory , Plan / Organise , Organisation of Materials , and Task Monitor ) .
 The nine clinical scales combine to form two indices ( BRI and the MI ) and one composite summary score ( GEC ) .
 The structure of the BRIEF - A rating scale is outlined in S2 Table .
 For each scale , T scores can be derived with higher scores reflecting greater degree of executive dysfunction and levels of impairment , with scores at or above 65 suggestive of clinical significance .
 Internal consistency is high with alpha coefficients ranging from .80 to .98 , and high test - retest reliability ranging from .91 to .94 [52] .
-
 Inhibitory control was assessed using the Shape School test [53] .
 Four conditions ( control , inhibit , switch , and both ) were presented in the same fixed order from easiest to most difficult conditions as per recommendations [53] .
 The participant is shown rows of coloured squares and circles , which are depicted as pupils in “ The Shape School ” .
@@ -39,14 +36,12 @@ The final condition consists of both the happy / sad faced pupils and the hat / 
 The participant is required to name the shape of the happy pupil with the hat , and name the colour of the happy pupil without a hat while refraining from naming the sad pupil ( hatted or hatless ) .
 Responses and the time taken to complete each of the conditions were recorded .
 An efficiency score was calculated from the naming speed and accuracy scores as per recommendations [53] .
-
 The Vineland Adaptive Behaviour Scales , Second Edition ( Parent Survey ) - Vineland - II : The Vineland - II is a standardised semi - structured parent interview that measures adaptive functioning [54] .
 The Vineland - II consists of 11 subdomains grouped into four domain composites ( Communication , Daily Living Skills , Socialisation , and Motor Skills ) , with the domain composites used to derive the adaptive behaviour composite .
 In addition , the Vineland - II provides a Maladaptive Behaviour Index ( comprising three subscales ; Internalising , Externalising , and Other ) that measures undesirable behaviours that may inhibit the development of an individual ’ s adaptive functioning .
 Raw scores were converted into standard scores ( with population M = 100 , SD = 15 ) based on chronological age .
 Lower scores reflect greater maladaptive behaviour with scores 2 standard deviations below the normative mean ( score of 69 ) indicating low level of adaptive functioning .
 The Vineland - II has excellent levels of reliability and internal consistency [54] .
-
 Woodcock - Johnson III Tests of Cognitive Abilities , Australian Adaptation - WJ III COG : The WJ III COG is a standardised measure of intelligence designed for individuals between the ages of 2 and 90 years .
 The WJ III COG is based on the Cattell - Horn - Carroll ( CHC ) theory proposing two types of intelligence - fluid ( G ƒ ) and crystallised ( Gc ) intelligence , or innate or learned intelligence [55] .
 The WJ III COG can be explored at three levels ( known as Stratum I , II , and III ) [55] .
@@ -59,7 +54,6 @@ The raw scores on the WJ III can be converted into standard scores ( with popula
 WJ III COG is psychometrically sound with reliability coefficients above .80 .
 Median reliabilities for each cluster are typically at .90 or higher ( McGrew & Woodcock , 2001 ) .
 The GIA measures also display high reliability , with the GIA - Ext ranging from .98 to .99 [55] .
-
 To compare ratings on BRIEF - C and BRIEF - A clinical scales , indices and GEC scores , pairwise comparisons and cross - tabulations were employed .
 In addition , Cohen ’ s kappa coefficient [56] was reported to provide a measure of agreement , corrected for chance agreement , between the scores on the BRIEF - C and BRIEF - A ( 0 = poor agreement , .20 - slight agreement , 0.4 = fair agreement , 0.6 = moderate agreement , 0.8 substantial agreement , 1.0 = almost perfect agreement ) .
 T scores were utilised in the analyses of the BRIEF - C and BRIEF - A measures , and were calculated based on chronological age .

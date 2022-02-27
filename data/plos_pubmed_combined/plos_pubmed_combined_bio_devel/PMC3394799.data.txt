@@ -1,6 +1,5 @@
 The study was ethically approved by the Institutional Review Board ( IRB ) of the Muhimbili University of Health and Allied Sciences ( MUHAS ) in Dar es Salaam , Tanzania and by the Karolinska Institutet in Stockholm , Sweden .
 Prior written informed consent was obtained from all study participants .
-
 This is part of a larger prospective cohort study funded by European and Developing Countries Clinical Trial Partnership ( EDCTP ) entitled “ Optimization of HIV and TB co - treatment based on pharmacokinetic and pharmacogenetic aspects of drug - drug interactions between rifampicin and efavirenz ” .
 The study was conducted between September 2007 and June 2010 at Muhimbili National Hospital ( MNH ) , Infectious Disease Centre ( IDC ) and Mwananyamala Municipal Hospital all within Dar es Salaam city , Tanzania .
 The study design , population , inclusion and exclusion criteria ’ s plus detailed description of this cohort study has been described previously [26] .
@@ -18,7 +17,6 @@ Clinical and laboratory follow up were conducted at predetermined intervals ( 0 
 According to the CIOMS ( Council for International Organizations of Medical Science ) definition , DILI generally occurs within 5 - 90 days after drug ingestion [27] .
 Likewise prospective studies from Africa reported the median and range of HAART and / or anti - TB DILI onset to be within 90 days after initiation of therapy [28] - [30] .
 Hence for the purpose of this study censoring was done at 12 weeks .
-
 Data Collection and Laboratory Analysis : Socio - demographic characteristics , detailed history of present and past illnesses were recorded with findings from a general physical examination using a case record format and questioner prepared for the study .
 Clinical data was collected at baseline , and at other pre - determined intervals of 1st , 2nd , 4th , 8th , 12th , 24th , 36th and 48th week ( for HIV only patients ) and 52 weeks ( for TB - HIV confected patients ) after therapy initiation .
 The study physicians did clinical evaluations for any adverse events and patients ’ progress at every clinical visit .
@@ -30,7 +28,6 @@ Determination of CD 4 cell count and HIV viral load was done before starting HAA
 Laboratory tests for liver enzymes were performed before starting therapy and on the 1st , 2nd , 4th , 8th , 12th , 24th and 48th weeks after initiation of treatment .
 The serum biochemistry for liver enzymes was determined using a COBAS MIRA chemistry analyzer ( GMI , MI , USA ) after it was calibrated .
 The determination of hepatitis B surface antigen ( HBsAg ) and anti - hepatitis C virus IgG antibody ( anti HCV ) was done using the antibody capture ELISA ( Adaltis - EIAgen kit ) .
-
 CYP2B 6 , CYP3A 5 , ABCB 1 and SLCO1B 1 Genotyping : Genomic DNA was isolated from peripheral blood leukocytes using QIAamp DNA Maxi Kit ( QIAGEN GmbH . Hilden . Germany ) .
 Genotyping was carried out at the division of clinical pharmacology , Department of laboratory medicine , Karolinska University Hospital - Huddinge , Karolinska Institute Stockholm , Sweden .
 Genotyping for SNPs were done by real time PCR using pre - developed Taqman assay reagents for allelic discrimination ( Applied Biosystems Genotyping Assays ) according to the manufacturer ’ s instructions .
@@ -39,7 +36,6 @@ The final volume for each reaction was 10 μ l , consisting of 2x TaqMan Univers
 The PCR profile consisted of an initial step at 50 ° C for 2 min and 50 cycles with 95 ° C for 10 minutes and 92 ° C for 15 sec .
 Genotyping for SLCO1B 1 388A > G ( rs 2306283 ) and 521T > C ( rs 4149056 ) was done using LightCycler ™ based method as described previously [21] .
 Haplotype analysis was done using Haploview v. 4.1 software .
-
 Quantification of Plasma Efavirenz Concentration : On the 4th week of efavirenz - based HAART , 8 ml of blood were collected 16 hrs post efavirenz dosing , centrifuged , and 2 mL plasma aliquot was taken and stored at − 80 ° C for determination of efavirenz and its metabolite concentration .
 Plasma samples were sent in dry ice to the Department of Clinical Pharmacology and Pharmacoepidemiology , University of Heidelberg , Germany .
 The determination of plasma efavirenz and 8 - hydroxyefavirenz concentrations by LC / MS / MS was performed as described previously [13] , [14] .
@@ -49,7 +45,6 @@ Patients with DILI were defined as having ≥ 2 times the upper normal limit ( U
 We used 50 U / L as an UNL for AST and ALT while 1.5 mg / dL was for bilirubin .
 Severe DILI was defined as AST and / or ALT level > 5 times the UNL .
 This was based on the WHO grading system for monitoring of laboratory toxicities adopted in the National HIV treatment guidelines ; Grade I ( Mild ) 1.23 - 2.5x UNL , Grade II ( Moderate ) > 2.5 - 5.0x UNL , Grade III ( Severe ) > 5.0 - 10.0x UNL and Grade IV ( Potentially life threatening ) > 10.0X UNL ) .
-
 The clinical assessment and laboratory results that were recorded into a Microsoft Access database were analyzed using Statistical Package for the Social Sciences ( PASW - former SPSS ) version 18 and R version 2.9.2 ( R Foundation for Statistical Computing , Vienna , Austria ) .
 P value of < 0.05 was considered statistically significant .
 Descriptive statistics for the baseline demographic and clinical characteristics and the laboratory values at baseline and through to the first 12 weeks were tested with the independent t - test and χ 2 - test .

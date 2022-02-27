@@ -29,7 +29,6 @@ We found that the Dice coefficient is slightly less sensitive to the size differ
 In general we have noted that both of the measures can serve well for our purposes and we undertook all of our calculations for both the indices .
 However , because of space limitations , the graphical results presented and their associated analysis use the Dice coefficient only .
 Given the specification of our analysis described below , the sets of surnames linked by the 50,000 highest pair - wise observations of Jaccard and Dice measures , respectively , calculated at the more detailed level of municipalities ( that is where a higher discrepancy may be expected ) are 80 % identical .
-
 Given the large sample of surnames analyzed it was necessary to run a series of computationally intensive calculations to obtain an extensive matrix of surname - surname proximity observations ( nearly 200 million in the first stage of our analysis as described below ) .
 Such a matrix tends to be very sparse with a large number of zero or negligible observations and very few more significant observations .
 It is therefore conducive to data mining through network analysis ( the matrix can also be referred to as the weighted adjacency matrix as in [18] ) .
@@ -52,7 +51,6 @@ A high ki implies that surname in question co - occurs ( concentrates in similar
 In other words , a high ki indicates that a surname i is highly embedded in the surname space or its sub - space ( which is understood here as any contiguous part of the surname network , defined for example by a selection of adjacent nodes or links ) and that it can be considered an examplar of a local population .
 In addition , two basic global parameters of a surname space can be introduced in terms of the mean surname degree ( c ) expressed as : ( 11 ) and the surname space density ( ρ ) : that is the proportion of actual number of links in the surname space relative to the maximum possible number of links : ( 12 ) Both c and ρ are valuable metrics measuring the extent of aggregate relatedness among surnames within a given surname space ( or its sub - space ) .
 As such , they provide interesting information about the extent of internal population homogeneity .
-
 This paper draws on a unique dataset containing the occurrence of individual surnames in each of the 6,253 Czech municipalities derived from the 2009 Central Population Register ( produced by the Czech Ministry of the Interior ) .
 The data cover all those with permanent residence ; that is Czech nationals and foreigners staying on a long - term basis .
 The 10,705,763 individuals listed share 362,125 unique surnames .
@@ -62,7 +60,6 @@ This dramatically reduced the volume of data .
 Fortunately , nearly all Czech feminine derivatives are easily distinguishable by the suffix “ - a ” .
 The exceptions are comparatively more frequent for certain surnames typical of eastern Moravia and Silesia [20] and among rare surnames ( see Table 1 ) .
 Although a few of these exceptional cases have been included into the analyzed sample , it does not have any significant effect on results because the location quotient ( as described above ) compares relative population shares .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0048568.t001 Frequency distribution of all surnames and feminine derivatives with suffix “ - a ” .
 For the analysis of co - occurrence we decided to work with male surnames with a frequency exceeding 49 bearers in the whole country .
@@ -80,9 +77,7 @@ As described in Table 2 and discussed in more detail below , in this way 5,660 o
 This set of surnames was then analyzed in the second stage of our analysis focusing on co - occurrence in 6,244 municipalities ( the original set of municipalities contained 6,253 units but in nine of them none of 5,660 surnames indentified in the first stage of our analysis is concentrated ) .
 This approach is based on the assumption that the pairs of surnames with high co - occurrence in larger regions will also have a higher probability of being found together in smaller regions .
 For the second stage , the three largest municipalities ( in terms of population size ) including Praha , Brno , and Ostrava were excluded from the analysis as we expect many “ random ” co - occurrences to be found , thus adding noise to the results .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0048568.t002 Description of samples of surnames and spatial units in the first and second stage of analysis .
 * Refer to individuals bearing surnames included in the analysed samples of surnames .
-
 We expect that the consideration of co - occurrence indices in more aggregate spatial units can provide us with a “ global ” picture , whilst analysis at the level of municipalities will lead to more fragmented network identifying more accurately the pairs and communities of individual surnames with the highest probability of being factually related .

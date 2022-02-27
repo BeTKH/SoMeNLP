@@ -2,7 +2,6 @@ Entry inhibitors represent a new class of antiretroviral agents for the treatmen
 While resistance to other HIV drug classes has been well described , resistance to this new class is still ill defined despite considerable clinical use .
 Several potential mechanisms have been proposed : tropism switching ( utilization of CXCR 4 instead of CCR 5 for entry ) , increased affinity for the coreceptor , increased rate of virus entry into host cells , and utilization of inhibitor - bound receptor for entry .
 In this review we will address the development of attachment , fusion , and coreceptor entry inhibitors and explore recent studies describing potential mechanisms of resistance .
-
 Overview of HIV - 1 Antiretroviral Therapy
 The major approach to the medical management of HIV infection is the treatment of patients with antiviral drugs .
 The enzymatic processes of the HIV - 1 replication cycle present unique approaches for targeted disruption by pharmacological agents .
@@ -11,7 +10,6 @@ Sustained treatment of patients with three active drugs results in suppression o
 Continued virologic suppression has led to dramatic increases in the life expectancy of HIV - infected individuals and in time to diagnosis with AIDS , and decreases in HIV - associated morbidity and opportunistic infection [2] .
 To date , 24 individual drugs have been approved by the United States Food and Drug Administration for the treatment of HIV infection .
 These drugs are distributed into six major classes : 1 ) Nucleoside - analog reverse transcriptase inhibitors ( NRTI ) , 2 ) Non - nucleoside reverse transcriptase inhibitors ( NNRTI ) , 3 ) Protease inhibitors ( PI ) , 4 ) Fusion inhibitors , 5 ) Entry Inhibitors - Coreceptor Antagonists , and 6 ) Integrase inhibitors ( Table 1 ) .
-
 HIV - 1 Envelope and Host Cell Entry
 HIV - 1 can productively infect cells that express two receptors : the principal receptor CD 4 [4] and an auxiliary co - receptor , which derives from the chemokine receptor family , typically either CCR 5 or CXCR 4 [5] ( Figure 1 ) .
 HIV - 1 enters cells through a pH - independent membrane fusion event [6] , which results in release of the core particle into the cytoplasm .
@@ -34,7 +32,6 @@ Prior to fusion , gp 41 folds back on itself forming a hairpin structure , the f
 This process is mediated by two helical regions in the ectodomain of gp 41 termed HR 1 and HR 2 [26-28] .
 The N - terminal heptad repeat region , or HR 1 , and the C - terminal heptad repeat region , or HR 2 , form a stable 6 - helix bundle when the antiparallel HR 2 domain binds on the outer grooves of the triple - stranded coiled - coil HR 1 domain , resulting in the localization of the fusion peptide and transmembrane domains at the same end of the molecule [29,30] ( Figure 1F ) .
 This re - orientation and release of free energy drives the fusion of the viral and host cell membranes .
-
 HIV - 1 Receptors and Implications of Tropism
 The concept of inhibiting HIV - 1 replication by preventing the virus from entering the host cell has been contemplated since the first identification of the major receptor , CD 4 [4,14] .
 Early approaches suggested the use of monoclonal antibodies to CD 4 to block binding by virus .
@@ -74,7 +71,6 @@ Remarkably , individuals carrying these receptor polymorphisms lack any discerna
 The origin of the Δ 32 deletion in human or primate evolution is unknown but the impact of this polymorphism is differential depending on pathogen .
 The Δ 32 mutation has been shown to be protective against viral persistence with hepatitis B virus infection [73] .
 In contrast , heterozygotes and homozygotes for the Δ 32 CCR 5 deletion are at higher risk of early and rapid disease progression upon West Nile virus infection [74] .
-
 Interaction of HIV - 1 Envelope and CCR 5
 The envelope glycoprotein , when unligated with CD 4 , is not in a conformation that can interact with the coreceptor .
 A subset of HIV - 2 viruses and SIV isolates can bind to coreceptor independently of CD 4 , which has led to the suggestion that the chemokine receptors are the ancestral receptors of the early lineage viruses that gave rise to modern primate immunodeficiency viruses .
@@ -107,7 +103,6 @@ Some reports suggest that CCR 5 dimerizes through interactions in the first tran
 Dimerization of CCR 5 has been suggested to be ligand - dependent , though some studies have demonstrated ligand - independent oligomerization of CCR 5 [86] .
 The role of CCR 5 conformational heterogeneity in HIV - 1 entry and coreceptor interaction remains unclear at this time .
 It remains unknown whether HIV - 1 envelope can interact with all , or only a subset of the available CCR 5 conformational isomers .
-
 Inhibition of HIV - 1 Entry
 The major enzymatic processes of HIV - 1 replication are reverse transcription , integration , and protease maturation .
 Each represents a unique , virus specific event that can be targeted by drugs to block virus replication .
@@ -119,7 +114,6 @@ This compound binds to a pocket on gp 120 important for binding CD 4 and alters 
 The inhibitor binds with significantly higher affinity than CD 4 , and is an excellent candidate for therapeutic use .
 TNX - 355 is a humanized anti - CD 4 monoclonal antibody that binds to CD 4 and inhibits HIV - 1 envelope docking , but does not inhibit CD 4 function in immunological contexts .
 Currently no attachment inhibitors are approved for use in patients with HIV - 1 infection and none appear to be approaching phase I clinical trials .
-
 Fusion Inhibitors and Mechanisms of Resistance
 The crystal structure of the gp 41 ectodomain [29] and of the ectodomain partnered with an inhibitory peptide ( C34 ) [89] revealed that the fusion active conformation of gp 41 was a six - helix bundle in which three N - helices form an interior , trimeric coiled - coil onto which three antiparallel C - helices pack .
 Enveloped viruses use a generally conserved mechanism to initiate the fusion event between viral and host cell membranes , and this six - helix bundle formation has been well studied in the paramyxoviruses family of viruses [10,90] .
@@ -142,7 +136,6 @@ Completion of this process requires engagement of the coreceptor molecule , but 
 Thus efficiency of this process affects the amount of time that enfuvirtide has to bind gp 41 and prevent fusion .
 Any change in the system that decreases rate of fusion ( e.g. , reducing the levels of coreceptor expression ) also increases susceptibility of virus to inhibition by enfuvirtide .
 Consistent with this , ENF is synergistic with compounds that inhibit CD 4 or coreceptor engagement [105-107] .
-
 Chemokine Analogs
 Discovery of the chemokine coreceptors was facilitated by the observation that native chemokines can inhibit HIV - 1 replication [44] .
 Thus the first attempt to generate a coreceptor based entry inhibitor was modulation of the endogenous chemokine RANTES ( CCL 5 ) to produce a more potent version .
@@ -176,7 +169,6 @@ This residual activity has been associated with stimulation of viral replication
 AOP - RANTES , like RANTES , has been shown to activate mitogen - activated protein kinases and pertussis - toxin sensitive signals [121,123] .
 High concentrations of chemokine analogs clearly have a stimulatory effect on T cells , and are formally considered partial agonists of CCR 5 .
 This residual signaling activity may limit the effectiveness and potential use of chemokine analogs in vivo .
-
 Small Molecule CCR 5 Antagonists
 Small molecule CCR 5 antagonists bind to hydrophobic pockets within the transmembrane helices of CCR 5 [124,125] .
 This site does not overlap the binding sites of either CCR 5 agonists or HIV - 1 envelope , but instead induces and stabilizes a receptor conformation that is not recognized by either .
@@ -200,7 +192,6 @@ Vicriviroc is another CCR 5 inhibitor by Schering Plough currently in phase III 
 Preliminary results from the vicriviroc clinical trials indicate a reduction in viral load in patients taking vicriviroc in combination therapy [132] .
 In addition to maraviroc and vicriviroc , several other small molecule inhibitors are in various stages of development ( Table 2 ) .
 Aplaviroc was developed as a small molecule CCR 5 antagonist to block HIV - 1 entry but GlaxoSmithKline halted development in a phase II trial due to strong evidence of hepatic toxicity [133] .
-
 Resistance to Coreceptor Inhibitors
 As with any antiretroviral , resistance to entry inhibitors will inevitably arise .
 However , their resistance profile will be unlike any other class of antiretroviral since they bind to a host cell protein , not a viral protein .
@@ -230,7 +221,6 @@ This difference is much more demonstrable with infection assays using replicatio
 In 2005 , Dorr et al . reported less than a 10 - fold variation in MVC sensitivity with envelope pseudotyped viruses .
 In contrast , primary isolates in multiple cycle assays displayed a 100 - fold variation in MVC sensitivity but only a 10 - fold inhibition difference in single cycle assays [128] .
 Thus , it is quite possible that the remaining 55 failures in the MOTIVATE trials might relate to sensitivity of the infecting virus to MVC prior to treatment or simply , the inability to detect MVC resistance at the time of treatment failure with existing assays .
-
 Competitive Resistance Model : Increased Coreceptor Affinity
 If coreceptor switching is not the main mechanism of resistance to small molecule coreceptor inhibitors , then it is important to understand by what mechanism resistance does arise .
 Two models of resistance have been proposed : competitive and noncompetitive resistance ( Figure 4 ) .
@@ -246,7 +236,6 @@ Many questions about this potential form of resistance can be raised : 1 ) what 
 6 ) What are the consequences of affinity changes on overall viral replication ?
 7 ) What are the consequences of affinity changes on viral dynamics in vivo and disease progression ?
 Much work is still required to substantially address these issues .
-
 Non - competitive Resistance Model : Utilization of Inhibitor - bound Coreceptor
 The second model of resistance to coreceptor inhibitors is noncompetitive resistance ( Figure 4 ) .
 In this scenario , a small molecule inhibitor binds CCR 5 in an allosteric site , which induces and / or stabilizes a receptor configuration that is not recognized by HIV - 1 envelope ( or native chemokines ) .
@@ -309,7 +298,6 @@ Therefore the implications of the development of resistance to one small molecul
 In summary , mutations associated with resistance to CCR 5 antagonists in in vitro derived resistant isolates have largely mapped to the V 3 region of gp 120 with the exception of two viruses with resistant mutations in other regions of gp 160 .
 However , resistance in clinical trial patients failing treatment with R 5 tropic viruses have all been attributed to mutations in the V 3 loop arising during therapy [141,143] .
 While cross - resistance has been reported for some resistant variants , others have remained susceptible to small molecule inhibitors .
-
 Intrinsic Resistance to Entry Inhibitors
 Primary HIV - 1 isolates display a wide range of susceptibilities to entry inhibitors , with 50 % inhibitory concentrations ( IC ) varying by as much as 1000 - fold .
 This is in significant contrast to inhibitors of reverse transcription and protease cleavage , which exhibit modest differences in intrinsic sensitivity across diverse HIV - 1 isolates .
@@ -346,7 +334,6 @@ Furthermore , the mechanisms involved in these variations are not clear .
 The intrapatient population of viruses must infect cells in the presence of chemokine inhibitors , and some studies have suggested that viruses grow resistant to inhibition by chemokines over the course of HIV - 1 infection in a single patient [157] .
 One possible consequence of this hypothesis is that virus variants found at acute infection may be more susceptible to entry inhibitors than variants found late in infection .
 Variations in coreceptor affinity may be involved in determining sensitivity to coreceptor inhibitors .
-
 Implications of HIV - 1 Entry Efficiency
 HIV - 1 envelope - mediated entry is a highly cooperative process .
 The efficiency of this process can be modulated by factors specific to the host cell , including receptor density on the surface , as well as expression of receptors in antigenically permissive conformations .
@@ -386,7 +373,6 @@ Anastassopoulou et al . ( 2007 ) indicated that VCV - resistant variants selecte
 In vaginal microbicide trials in macaques , PSC - RANTES selected for SHIVenv viruses with a single V 3 and gp 41 mutation that conferred resistance but actually increased replicative fitness over the infecting virus by at least 100 - fold [142] .
 This increase in fitness was even greater when utilizing rhesus macaque CCR 5 than human CCR 5 .
 Together these findings suggest that a major mechanism for resistance to CCR 5 antagonists / agonists may relate to increased affinity for CCR 5 and increased entry efficiency in the presence or absence of the drug .
-
 Conclusions
 Clearly many questions remain in our understanding of HIV - 1 entry .
 It has become essential to answer many of these questions as inhibitors of the HIV - 1 entry process begin widespread use in the treatment of HIV infection .
@@ -395,7 +381,6 @@ The only FDA approved CCR 5 antagonist , maraviroc , has been utilized as salvag
 The propensity of HIV to develop drug resistance however , will ultimately result in treatment failures to this new class of inhibitors .
 Therefore it is of upmost importance to understand how resistance develops and by what mechanism ( s ) the virus is able to subvert inhibition .
 The research highlighted here provides a starting point towards understanding the complex mechanisms of resistance to HIV - 1 entry inhibitors .
-
 FDA approved therapeutics for the treatment of HIV infection [3] .
 NRTI - nucleoside reverse transcriptase inhibitor ; NNRTI - non - nucleoside reverse transcriptase inhibitor ; PI - protease inhibitor .
 Investigational Entry Inhibitors .

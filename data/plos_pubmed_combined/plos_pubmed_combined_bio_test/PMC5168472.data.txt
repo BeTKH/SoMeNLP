@@ -14,7 +14,6 @@ Clinical manifestations in a neonatal patient displaying infantile cortical hype
 Radiograph findings have demonstrated complete recovery of bones manifested by the disease .
 The pathologic findings are in accordance with previous microscopic examination summarized by the literature .
 Total patient cure , without sequels , could be demonstrated .
-
 1 .
 Introduction
 This report is a description of a patient who presented infantile cortical hyperostosis ( ICH ) , also called Caffey ' s disease .
@@ -26,7 +25,6 @@ Roentgen finding manifestations have shown subperiosteal new bone formation , ch
 Microscopic pathology for histological pattern study was performed .
 These aspects associated with longer duration of the disease definitely represent a rare syndrome described by John Caffey and William A . Silverman in July 1945 .
 Despite being well identified , much is still to be understood about this intriguing disease [1] .
-
 2 .
 History
 There was no record of description , of either radiographic or clinical aspects of this disease , until Roske ( 1930 ) [3] described an individual case similar to ICH , which he could not classify .
@@ -39,7 +37,6 @@ Bennett and Nelson ( 1953 ) [10] studied a dead fetus with ICH .
 Jackson and Lyne ( 1979 ) [11] mentioned in detail many complications associated with ICH .
 Pazzaglia et al . ( 1985 ) [12] reported a postmortem study in which many bones were examined by light and electron microscopy .
 Agrawal et al . ( 2011 ) [13] presented a bone scan done with 99m Tc - MDP and fluorodeoxy glucose positron emission tomography ( FDG PET ) , which have shown diffusely increased tracer uptake and patchy FDG in the long bones .
-
 3 .
 Case Presentation
 Typology of the design employed in this study was observational , interventional , and longitudinal ( follow - up ) with retrospective characteristics .
@@ -62,7 +59,6 @@ There were pain and tenderness during active and passive forearm and leg manipul
 Multiple skeletal thickenings and periosteal new bone formation surrounding long bone diaphyses as well as cortical thickening in mandible in the first X - ray examinations were recognized .
 Bone puncture biopsy of tibia was performed to evaluate and observe histological pattern ( Figure 1 ( e ) ) .
 Pathological studies were summarized as follows : thickening of periosteum , diffuse diaphyseal remodeling of affected bones and absence of cortical bone , intense proliferation of subperiosteal cells and new bone formation , and fibrosis of bone marrow were observed .
-
 4 .
 Results
 4.1 .
@@ -74,7 +70,6 @@ Plaques were 455.00 / mm .
 White cells , basophils 1 % ; segmented 62 % ; eosinophils 1 % ; monocytes 7 % ; and lymphocytes , 29 % were observed .
 Blood serum contained normal quantities of calcium and phosphorus levels .
 Abnormalities in urinary findings as hematuria were not evident .
-
 4.2 .
 Roentgenographic Findings
 Roentgenographic examination of the skeleton called attention to the presence of the disease studied .
@@ -84,7 +79,6 @@ The right ulna and fibula bones were unaffected .
 Growth plates and epiphysis were normal in appearance , without alterations .
 Radiuses , tibias , clavicles , and mandible were the predominant bones to be modified .
 General outlook was for bone spontaneous resolution [12] ( Figures 4 ( a ) , 4 ( b ) , and 4 ( c ) ) .
-
 4.3 .
 Pathologic Findings
 Bone biopsy for microscopic examination of the middle shaft of tibia was performed when patient was two months of age .
@@ -92,7 +86,6 @@ Needle puncture for histopathological studies was done .
 Histological pattern of tissue removed from tibia showed lamellar cortical bones and hyperplasia .
 Evidences of inflammation , subperiosteal hemorrhage , and neoplasia were excluded .
 In our study , biopsy studies disclosed no evidence of neoplasia as well as of bacterial infection ( Figure 5 ) .
-
 5 .
 Discussion
 Several reports mention the following : osteogenesis imperfecta , inflammatory pathogenesis , metabolic causes , syphilis , scurvy , infection , trauma , child abuse , obstetrical traumas , Kenny - Caffey disease , and neoplasia as differential diagnosis [7,14-17] .
@@ -125,7 +118,6 @@ Use of analgesics on the patient up to seven months of age was enough to control
 Prognosis was good [ 15 , 23 ] .
 We would recommend a genetic screening not only to confirm the diagnosis of Caffey disease but also to provide genetic counseling for future generations .
 Findings obtained in this work and the course of the disease have represented a classical ICH type .
-
 6 .
 Comments
 Clinical manifestations have shown us that soft - tissue swellings of patient displaying ICH have gradually decreased .

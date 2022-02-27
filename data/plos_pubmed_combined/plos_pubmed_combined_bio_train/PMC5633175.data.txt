@@ -1,14 +1,12 @@
 This study was performed within the distribution area of Pyrenean chamois and Cantabrian chamois in the two main mountain ranges from Northern Spain , the Pyrenees and the Cantabrian Mountains , respectively .
 Within these ranges , seven different geographical units were considered for the study , six from the Eastern and Central Pyrenees ( Catalonia , NE Spain ) : Freser - Setcases National Game Reserve ( PyFS ) , Cadi National Game Reserve ( PyC ) , Cerdanya - Alt Urgell National Game Reserve ( PyCAU ) , Boumort National Game Reserve ( PyB ) , Alt Pallars National Game Reserve ( PyAP ) and Vall Aran Game Reserve ( PyVA ) ; and one in the Eastern Cantabrian Mountains ( Leon , N Spain ) , the Natural Protected Area of Picos de Europa ( CmPE ) ( Fig 1 ) .
 In each study area , ungulate populations are managed independently along with hunting plans .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0186069.g001 Maps of the study areas and wild ruminant species composition in the Pyrenees .
 Location of the study areas in Cantabrian Mountains ( Picos de Europa - CmPE ) and Eastern and Central Spanish Pyrenees .
 Wild ruminant species composition by study area from the Pyrenees is showed in detail in the image of the bottom : Vall Aran ( PyVA ) , NGR Alt Pallars ( PyAP ) , NGR Boumort ( PyB ) , NGR Cerdanya - Alt Urgell ( PyCAU ) , NGR Cadi ( PyC ) and NGR Freser - Setcases ( PyFS ) .
 The asterisk means the same study area .
 Chamois in PyB is scarce and not representative of the area ( not shown in the map ) .
-
 These areas are high mountain habitats mostly composed of alpine or subalpine ecosystems with strong seasonal influence , with the exception of PyB which has a dryer climate with a higher Mediterranean and continental influence .
 Altitude ranges approximately from 800 in the bottom of the valleys to 3100 meters high in the Pyrenees and from 1100 meters to 2600 meters high in the Cantabrian Mountains .
 Chamois is the most abundant ungulate species in most of the study areas except in PyB , where red deer ( Cervus elaphus ) is the predominant wild ruminant ( Fig 1 ) .
@@ -18,15 +16,12 @@ Mean minimum chamois abundances per square Km during the study period , calculat
 Other wild ungulates that cohabit with chamois include roe deer ( Capreolus capreolus ) , red deer , mouflon , fallow deer ( Dama dama ) and wild boar ( Sus scrofa ) , but with a different ruminant community composition among study areas from the Pyrenees , shown in Fig 1 .
 Wild boars are present in all study areas and fallow deer and mouflon are not present in Cantabrian Mountains ( CmPE ) .
 Domestic ruminants ( i.e. cattle , sheep , and goats ) and domestic horses also share these habitats with the wild species during the grazing period ( May - November ) in all of the study areas .
-
 A long - term cross - sectional sampling design was performed on alpine wild ungulates hunted during the regular hunting seasons from 2009 to 2015 in the Pyrenees ( n = 1556 ) and from 2010 to 2013 in the Cantabrian Mountains ( n = 132 ) .
 Samples were collected from recently hunted ungulates in proportion to the total number of animals hunted in each study area ( Table 1 ) .
 Four sheep flocks from the Pyrenees that graze in the alpine meadows of three of the study areas ( PyVA , PyAP and PyFS ) were also sampled in 2014 ( around 30 sheep per flock ; Table 1 ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0186069.t001 Distribution of animals sampled by study areas and species .
 * Two sheep flocks .
-
 Samples were taken between the third eyelid and the palpebral conjunctiva with sterile cotton swabs without medium from each eye separately and frozen at - 20 ° C within 24 hours from collection .
 Basic information of the individuals was also registered , including ocular signs , sex , age based on the annual horn segments for chamois and mouflon [34] , date and location .
 Geographic coordinates were also recorded in PyFS from 2012 to 2015 .
@@ -36,7 +31,6 @@ The approval of an ethic committee was not needed since management and sacrifice
 Ungulate wild species studied are not endangered , and its abundant populations are managed along hunting plans , regulated by the competent public administrations .
 Samples were obtained by the rangers from hunted - harvested wild animals during the regular hunting plans from National Game Reserves and Hunting Reserves that belong to public administrations .
 Both samplings of wild animals and domestic livestock were performed in the frame of health surveillance programs approved by the Departament d ′ Agricultura , Ramaderia , Pesca , Alimentacio i Medi Natural - Generalitat de Catalunya ( DARPAMN , the Regional authority in charge of livestock and wildlife management ) .
-
 Eye swabs were thawed , cut and mixed during one minute with 0.5 mL lysis buffer ( 100 mM Tris - HCl , pH 8.5 , 0.05 % Tween 20 , 0.24 mg / mL proteinase K ) in sterile tubes .
 The lysates of the cells were obtained by incubating the tubes at 60 ° C for 60 minutes .
 Proteinase K was then inactivated at 97 ° C for 15 minutes [35] .
@@ -48,7 +42,6 @@ The threshold cycle ( Ct ) of each sample was defined as the number of cycle at 
 Samples were analyzed per duplicate and were considered valid only if difference between the replicates was less than one Ct .
 Samples with Ct ≤ 38 were interpreted as qPCR - positive .
 All PCR reactions were run on Applied Biosystems ™ 7500 Fast Real - time PCR system ( Applied Biosystems , Warrington , UK ) .
-
 Mycoplasma conjunctivae subtyping and cluster analyses : The lppS gene of M . conjunctivae encodes for a membrane lipoprotein that is involved in adhesion [36] , which variable domain can be used for M . conjunctivae subtyping and to perform molecular epidemiology analyses [28] .
 For cluster analyses , samples from this study with Ct values lower than 33 at the qPCR - M . conjunctivae were considered for sequencing .
 Available qPCR - M . conjunctivae positive samples from a previous study that analyzed 439 sheep and goats ( 19 flocks ) from the same study areas and period were also included [22] .
@@ -61,7 +54,6 @@ A phylogenetic analysis of the sequences was then performed by the generation of
 The generation of the phylogenetic tree was performed using MEGA software [38] .
 For the tree construction , sequences of M . conjunctivae strains described in previous works from the same study areas were included for comparison ( three chamois from PyAP and one mouflon from PyFS ) [16] , covering a temporal period from 2006 to 2015 ( S2 Table ) .
 Sequences from other areas ( n = 6 ) and the sequence of the type strain HRC / 581 were also included in the tree ( S2 Table ) .
-
 Data management and statistical analyses : Each individual was considered “ infected ” if the qPCR was positive in one or both eye swabs .
 When appropriate , database was organized as recommended for proportion data [39] .
 Mycoplasma conjunctivae apparent prevalence was analyzed to assess 1 ) the relation between ocular clinical signs and the presence of M . conjunctivae and 2 ) the trend of M . conjunctivae infection probability during the study period in each study area .

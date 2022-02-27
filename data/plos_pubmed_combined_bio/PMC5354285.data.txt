@@ -14,7 +14,6 @@ It means if formtok ≥ rc , there will be an edge connecting node i and j , oth
 The complex network consists of all the nodes and edges and the corresponding topological structure can be revealed by the adjacency matrix A .
 Newman ( 2004 ) proposed an idea of modularity Q .
 It is a quality function which is used to test whether the division of vertices into communities is meaningful and then community structure can be established . [34] .
-
 Supposing a network has n vertices .
 For a certain network divided into two parts , we set si = 1 if the vertex i is in part 1 and si = − 1 if the vertex i is in part 2 .
 And we annotate Aij as the number of edges between vertices i and j .

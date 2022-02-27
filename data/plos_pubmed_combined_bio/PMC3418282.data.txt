@@ -2,7 +2,6 @@
 The studies included in this review have been retrieved from the PUBMED database of the National Library of Medicine , National Institutes of Health , Bethesda , Maryland , by setting limits for papers published only from 1985 to 2012 , using the keywords “ Betel nut AND cancer ” .
 The search was refined using the operator ‘ AND ’ in order to retrieve the desired results .
 This search yielded 675 records ( see Figure 2 ; Flow Chart of included studies ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0042759.g002 Flow chart of included studies .
 The flow chart depicts the number of citations and resource materials that have been screened , excluded and / or included in the systematic review .

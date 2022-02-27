@@ -22,7 +22,6 @@ Outpatient records were less complete and procedure codes were rarely available 
 Outpatient records lacking procedure codes were only included where the fields coding the main specialty or the treatment speciality contained a code relating to either oncology or gynaecology .
 Investigations occurring within six months prior to diagnosis were included .
 Procedures were further classified into surgery ( hysterectomy , BSO and pre - surgical investigations ) , adjuvant therapy , and further treatment ( including management of complications ) .
-
 Estimating costs of inpatient and outpatient episodes : Costs were assigned to episodes of care on the basis of the associated HRG code [29] .
 This is a type of Diagnosis Related Groups ( DRG ) used to assign a reimbursement tariff in the English NHS .
 Version ( 3.5 ) was used , which allowed assignment of the 2005 Payment by Results ( PbR ) tariff to episodes from the entire period 2001 to 2010 [31] .
@@ -50,7 +49,6 @@ We applied a binary classification of histological subtype which grouped Atypica
 We used multiple Imputation ( MI ) to impute the missing data [35] .
 MI is a principled approach which fully captures the additional uncertainty generated in the imputation process [36-37] .
 Further details on the application of MI are provided in the supporting information ( S1 File ) .
-
 Costs arising in years following the first year after diagnosis were discounted at 3.5 % according to recommendations on technology assessment by the National Institute of Health and Care Excellence ( NICE ) [38] .
 FIGO stage was specified as follows : stages IA & IB ; stage IC ; stage II ; stage III ; stage IV .
 We subdivided costs into three categories : surgery ; adjuvant therapy and further treatment as detailed above .
@@ -63,7 +61,6 @@ We pre - specified the following covariates : age , year of diagnosis , histolog
 We categorised BMI as under 18.5 ; 18.5 to 30 ; over 30 .
 Year of diagnosis was specified as the number of years following the earliest diagnosis date in the sample ( January 2002 ) .
 Charlson scores were determined from ICD - 10 codes recorded for the hysterectomy ( or the first inpatient procedure following diagnosis in the absence of hysterectomy ) after exclusion of codes for cancer or metastases .
-
 Dates of death were available until June 2014 .
 Deaths were assigned to EC where the original underlying cause of death was EC ( ICD - 10 codes C54 .0 , C54 .1 ) .
 Regression modelling was used to investigate the impact of patient characteristics on survival over the total observation time considering both all cause and cancer specific mortality .

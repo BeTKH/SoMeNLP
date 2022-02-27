@@ -33,7 +33,6 @@ Furthermore , we found that 67.6 % of pregnant women attending antenatal consult
 In addition , 75.8 % of caregivers attending healthy child consultations did not receive advice on complementary feeding .
 The pilot study also found that 16.4 % of children under 5 years of age were wasted , 38.7 % were stunted , and the overall morbidity rate was 38.7 % ( S1 Table ) .
 The average birth weight was 2,926 ± 502 g , and the low birth weight prevalence was 14.1 % .
-
 We conducted a cluster randomized trial to assess the effect of preventive counseling during pregnancy and childhood on childbirth outcomes , child nutrition status , and morbidity .
 Healthcare workers were trained to offer counseling during their usual contacts with women .
 In the Burkina Faso health system , there are a limited number of healthcare providers in health facilities who interact with users daily .
@@ -56,7 +55,6 @@ No allocation concealment and blinding were possible .
 All participating centers , staff , and mothers were aware of the study arm to which they were assigned .
 Consent was obtained from each health center management committee , and a committee representative took part in the randomization session .
 No changes occurred in the trial conduct or outcomes after the study began .
-
 The study population comprised pregnant women and their offspring living in the catchment areas of the 12 selected health centers for at least 6 months , and not planning to leave in the next 2 years .
 The primary outcome used to compare the two groups was the incidence of wasted children .
 As no data were available on the incidence of acute malnutrition in the study area before the intervention , the prevalence of global acute malnutrition ( 16.4 % ) found in children under 5 years old in the 2008 pilot study was used as a proxy .
@@ -68,7 +66,6 @@ Pregnant women were eligible for inclusion if they had no intention of leaving t
 Eligible pregnant women were identified through antenatal consultations ( women attending their third antenatal visit ) , and were included until the desired sample size was reached in each health center .
 After birth , singleton babies without major birth defects were included in the study and followed quarterly until 18 months of age by external nurses not involved in the intervention delivery .
 Recruitment of study participants occurred from August 6 , 2009 through December 29 , 2011 , and participants were followed until June 27 , 2012 .
-
 In the control centers , routine preventive , promotional , and curative services were provided to pregnant and lactating women , and children aged < 5 years as per national policy .
 Monthly growth monitoring and promotion ( GMP ) of all children below 24 months of age is organized by auxiliary nurses .
 During these session children are weighed and , if applicable , vaccinated ( up to 9 months ) .
@@ -116,7 +113,6 @@ Finally , caregivers were counseled on recognizing symptoms of common childhood 
 The intervention was integrated into the health centers ’ routine activities , and the same actors working for the existing health program were responsible for implementation .
 No additional topping up was paid to these healthcare providers for intervention delivery that was monitored by the district health team during routine quarterly supervision .
 The investigators ’ role was restricted to the measurement of outcomes for assessment of intervention effects .
-
 Data were collected by trained field workers not involved in the intervention delivery , and who were not blinded to the intervention .
 Health center appointments were made each month with participating caregivers .
 At the scheduled follow - up visits ( at 3 , 6 , 9 , 12 , 15 , or 18 months ) , caregivers were invited to attend the health center for data collection .
@@ -155,11 +151,9 @@ All measurement instruments were calibrated before each measurement session .
 All measurements were performed twice .
 Standardization exercises for anthropometric measurements were conducted during the initial training and were repeated quarterly during the study .
 At the time of supportive supervision , the degree to which healthcare providers in the intervention clusters applied the training that they received was assessed by the responsible district nutrition physician through observation and interviews with healthcare providers .
-
 Primary outcomes were the cumulative incidence of wasting , and changes in child weight - for - height z - score ( WHZ ) .
 Secondary outcomes were the women ’ s prenatal dietary practices , the Infant and Young Child Feeding practices indicators [48] ( Table 1 ) , the child ’ s birth weight , changes in child height - for - age z - score ( HAZ ) , the prevalence of stunting at endpoint , and cumulative incidence of diarrhea , fever , and acute respiratory infection .
 Data were entered in double by two data clerks using Epidata [49] .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0177839.t001 Definitions of indicators related to Infant and Young Child Feeding practices .
 Household socioeconomic scores were calculated based on assets and main housing characteristics , using the first component of principal component analysis and presented in quintiles [50] .
@@ -208,7 +202,6 @@ Missing data were processed as they were for the main analyses .
 However , to assess the robustness of our findings , we conducted multiple imputation ( n = 50 ) of missing data using chained equations under the missing at random assumption , for the point outcomes : mother ’ s exposure to prenatal dietary counseling , counseling on early breastfeeding , counseling on how to breastfeed , counseling on exclusive breastfeeding , diet improvement during pregnancy , early initiation of breastfeeding , fed colostrum , received something else in the first 72 hours , child birth weight , and the endpoint prevalence of stunting .
 A P - value of 0.05 was considered to indicate statistical significance , and all tests were two - sided .
 All statistical analyses were conducted using Stata 12.0 ( Statacorp , College Station , TX ) .
-
 Eligible study participants were informed about the study aims and methods .
 Written informed consent was obtained from all enrolled mothers .
 The protocol was examined and approved by the Ethics Committee of the Ministry of Health of Burkina Faso ( Comite d ’ ethique pour la Recherche en Sante ) , deliberation N ° 2008 - 005 on 5 February , 2008 .

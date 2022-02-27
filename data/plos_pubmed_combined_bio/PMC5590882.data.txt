@@ -10,7 +10,6 @@ However , RFA treatment of HCC within BCLC stage 0 - A was recognized as curativ
 Those refusing any invasive treatments might be treated with best supportive treatment ( BST ) .
 This study has been approved by the ethics committee of Xi ’ an Jiaotong University and The First Affiliated Hospital .
 A waiver of informed consent was obtained , since the data were analyzed from the electronic medical record and reported without personal identifiers .
-
 Numerical data was expressed as median and range , and compared by Mann - Whitney U test or t tests , whereas nominal variables were expressed as number and percentages and compared by Chi - Square test or Fisher ’ s exact test .
 The overall survival rates were calculated by the Kaplan - Meier method , and the differences in survival between groups were compared using the log - rank test .
 Multivariate analysis was performed and hazard ratio ( HR ) and 95 % coincidence interval ( CI ) were calculated with forward stepwise Cox proportional hazard regression analysis .

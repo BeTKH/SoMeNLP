@@ -24,10 +24,8 @@ To determine the total daily circulation of all titles bearing each target story
 The Top 200 US newspapers , ranked according to their individual audited circulations , together have a cumulative daily circulation of 46.3 million .
 Accordingly , this part of the analysis was limited to the ranked newspapers that appeared in the Newseum during the specific days of interest .
 We therefore used three denominators in our analyses : 1 ) all newspaper titles ; 2 ) ranked newspaper titles ; and 3 ) total circulation of ranked newspapers .
-
 Other Medical News Reported on Front Pages : To further understand how newspapers prioritize medical stories , we identified all other front - page medical news reported on the same days as the four medical stories ( labeled as low profile ) .
 We noted their topic and assessed their news sources and coverage by newspaper title , ranked title , and circulation , as described above .
-
 Two trained coders used a coding form to review downloaded newspaper front pages .
 The two coding items were ( a ) whether the front page contained the target news story , and ( b ) whether the front - page story was produced by a newspaper staff writer , news syndicate , or wire service , or if it was an unauthored brief .
 The interrater agreement was high for deciding whether or not the five target news stories appeared on a front page ( 96.0 % , 98.2 % , 98.8 % , 98.8 % , 100.0 % observed agreement ; kappa = 0.92 , 0.96 , 0.98 , 0.98 , 1.00 for stories 1 , 2 , 3 , 4 , and 5 , respectively ) , and for identifying the sources ( 94.8 % , 97.0 % , 97.6 % , 95.8 % , 94.4 % observed agreement ; kappa = 0.92 , 0.94 , 0.96 , 0.94 , 0.91 for stories 1 , 2 , 3 , 4 , and 5 , respectively ) .

@@ -13,7 +13,6 @@
 
 
 
-
 Version_of	22.0	48	1	SPSS	43	0;;
 
 

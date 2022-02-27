@@ -1,23 +1,19 @@
 Background
 In acute respiratory distress syndrome ( ARDS ) , lung recruitment maneuvers can recruit collapsed alveoli in gravity - dependent lung regions , improving the homogeneity of ventilation distribution .
 This study used electrical impedance tomography to investigate the physiological effects of different recruitment maneuvers for alveolar recruitment in a pig model of ARDS .
-
 Methods
 ARDS was induced in ten healthy male pigs with repeated bronchoalveolar lavage until the ratio of arterial partial pressure of oxygen ( PaO ) of fraction of inspired oxygen ( P / F ) was < 100 mmHg and remained stable for 30 min ( T ) .
 ARDS pigs underwent three sequential recruitment maneuvers , including sustained inflation , increments of positive end - expiratory pressure ( PEEP ) , and pressure - controlled ventilation ( PCV ) applied in random order , with 30 mins at a PEEP of 5 cmHO between maneuvers .
 Respiratory mechanics , hemodynamics , arterial blood gas , and electrical impedance tomography were recorded at baseline , T , and before and after each recruitment maneuver .
-
 Results
 In all ten pigs , ARDS was successfully induced with a mean 2.8 ± 1.03 L bronchoalveolar lavages .
 PaO , P / F , and compliance were significantly improved after recruitment with sustained inflation , increments of PEEP or PCV ( all p < 0.05 ) , and there were no significant differences between maneuvers .
 Global inhomogeneity index significantly decreased after recruitment with sustained inflation , increments of PEEP , or PCV .
 There were no significant differences in global inhomogeneity before or after recruitment with the different maneuvers .
 The decrease in global inhomogeneity index ( Δ GI ) was significantly greater after recruitment with increments of PEEP compared to sustained inflation ( p = 0.023 ) , but there was no significant difference in Δ GI between increments of PEEP and PCV or between sustained inflation and PCV .
-
 Conclusion
 Sustained inflation , increments of PEEP , and PCV increased oxygenation , and regional and global compliance of the respiratory system , and decreased inhomogeneous gas distribution in ARDS pigs .
 Increments of PEEP significantly improved inhomogeneity of the lung compared to sustained inflation , while there was no difference between increments of PEEP and PCV or between sustained inflation and PCV .
-
 Background
 Acute respiratory distress syndrome ( ARDS ) is a clinical syndrome characterized by a decrease in functional lung size [1] .
 The pathophysiology of ARDS includes diffuse alveolar collapse [2] and acute exudative lesions distributed in a gravitationally dependent gradient [3] .
@@ -35,7 +31,6 @@ Previous research has focused on the effect of recruitment maneuvers on gas exch
 Literature describing the influence of recruitment maneuvers on global inhomogeneity and regional ventilation distribution is scarce .
 This study used EIT to investigate the physiological effects of different recruitment maneuvers that achieve the same maximum pressure for alveolar recruitment in a porcine model of ARDS .
 Findings may inform clinical decision - making around recruitment maneuvers while minimizing the risk of barotrauma in individuals with ARDS .
-
 Methods
 The protocol for this study was approved by the Science and Technological Committee and the Animal Use and Care Committee of the University School of Medicine , Nanjing , China .
 Domestic pigs ( Sus scrofa domesticus ) were purchased from a local farmer ( Qinglongshan animal breeding farm , JiangShu , China ) .
@@ -49,7 +44,6 @@ Following anesthesia , tracheotomy was performed , and pigs were mechanically ve
 Arterial blood samples were collected using a thermistor - tipped Pulse Contour Cardiac Output ( PiCCO ) catheter ( Pulsion Medical System , Munich , Germany ) inserted in the right femoral artery .
 Central venous pressure ( CVP ) and pulmonary arterial wedge pressure ( PAWP ) were measured using a Swan - Ganz catheter ( Arrow International , Reading , PA , USA ) inserted in the internal jugular vein .
 Cardiac output was measured with the Swan - Ganz catheter , and MAP was monitored with the PiCCO catheter .
-
 Experiment protocol
 Baseline measurements ( T ) were made after pigs had stabilized for 30 min .
 Subsequently , a pig model of ARDS was established using bilateral lung lavage with isotonic saline ( 30 ml / kg ; 38 ° C ) infused through a funnel .
@@ -64,7 +58,6 @@ For increments of PEEP and PCV , respiratory rate was set to 30 breaths / min .
 Respiratory mechanics , hemodynamic parameters , arterial blood gas , and EIT were recorded at T , T , and before and after each recruitment maneuver .
 MAP , CVP , and PAWP were monitored using calibrated pressure transducers .
 Blood gases were evaluated with an automated blood gas analyser ( Nova M ; Nova Biomedical , Waltham , MA , USA ) .
-
 EIT measurements and analysis
 EIT measurements ( PulmoVista 500 ; Drager Medical GmbH , Lubeck , Germany ) were performed for 3 min each at T , T , and before and after each recruitment maneuver as previously described [15] .
 EIT data were generated by applying small alternate electrical currents through 16 electrodes located equidistant apart on a belt positioned around the pigs ’ thorax , 5 cm above the xyphoid process .
@@ -88,7 +81,6 @@ The decrease in global inhomogeneity index ( Δ GI ) with each recruitment maneu
 General anesthesia was maintained throughout the study .
 After completion of the experiments , the animals were in deep anesthesia with propofol ( 2 mg / kg · h ) , fentanyl citrate ( 1 μ g / kg · h ) , midazolam ( 0.1 mg / kg · h ) , and atracurium ( 0.4 mg / kg · h ) .
 They were euthanized by a bolus injection of thiopental ( 0.1 g / kg ) intravenously .
-
 Statistical analyses
 Statistical analyses were performed using SPSS v 20 ( Chicago , IL , USA ) .
 Differences in global inhomogeneity and changes in global and regional end - expiratory lung impedance among different recruitment maneuvers were investigated .
@@ -96,7 +88,6 @@ Comparisons were made between values obtained before and after each recruitment 
 For non - normally distributed data , results are expressed as median and interquartile range , and comparisons were made with the Wilcoxon rank test .
 For data that was normally distributed , results are expressed as mean and standard deviation , and comparisons were made with paired samples t tests and Bonferroni correction .
 p < 0.05 was considered statistically significant .
-
 Results
 In all ten pigs , ARDS was successfully induced with a mean 2.8 ± 1.03 L ( 2800 ± 1032.80 ml ) bronchoalveolar lavages .
 Mean P / F was significantly decreased after the final lavage ( 81.69 ± 55.79 mmHg ) compared to baseline ( 362.48 ± 117.38 mmHg ) .
@@ -104,18 +95,14 @@ There were no significant differences in hemodynamic parameters after recruitmen
 No animals died during the experiments .
 Hemodynamic and oxygenation parameters before and after recruitment maneuvers
 HR heart rate ; MAP mean arterial pressure ; CVP central venous pressure PAWP pulmonary artery wedge pressure ; CO cardiac output ; PaCO 2 partial pressure of arterial carbon dioxide ; PaO 2 partial pressure of arterial oxygen ; SaO 2 arterial oxygen saturation ; P / F ratio of partial pressure of arterial oxygen to fraction of inspired oxygen ; Cr respiratory system compliance ; SI sustained inflation ; IP increments of PEEP ; PCV pressure - controlled ventilation ;
-
 < 0.05 versus Before
-
 PaO , arterial oxygen saturation , and P / F were significantly improved after recruitment with sustained inflation , increments of PEEP or PCV ( all p < 0.05 ) , and there were no significant differences between maneuvers .
 The recruitment maneuvers had no effect on PaCO or pH ( Table [1] ) .
 Overall respiratory system compliance was significantly increased after recruitment with sustained inflation , increments of PEEP , or PCV ( p < 0.05 ) ( Table [1] ) .
 The recruitment maneuvers had no significant effect on compliance in non - gravity - dependent lung regions .
 Compliance was significantly increased in gravity - dependent lung regions after lung recruitment with increments of PEEP or PCV ( preIP 0.74 ± 0.37 au / cmHO vs . postIP 2.51 ± 1.80 au / cmHO , p = 0.025 ; prePCV 0.75 ± 0.36 au / cmHO vs . postPCV 2.78 ± 1.65 au / cmHO , p = 0.012 ) , but there were no significant differences in compliance between maneuvers ( Fig [2] . ) .
-
 Global inhomogeneity index was significantly decreased after recruitment with sustained inflation , increments of PEEP , or PCV ( preSI 0.55 ± 0.14u vs . postSI 0.42 ± 0.040 ; preIP 0.62 ± 0.19u vs . postIP 0.42 ± 0.07u ; prePCV 0.60 ± 0.09u vs . postPCV 0.4431 ± 0.05u ; all p < 0.001 ) ( Fig [3] . ) .
 The Δ GI was significantly greater after recruitment with increments of PEEP compared to sustained inflation ( p = 0.023 ) , but there was no difference in Δ GI between increments of PEEP and PCV or between sustained inflation and PCV ( Fig [4] . ) .
-
 Discussion
 This study used EIT to investigate the physiological effects of different recruitment maneuvers that achieve the same maximum pressure when held for different time spans , including sustained inflation , increments of PEEP and PCV , for alveolar recruitment in a pig model of ARDS .
 Findings showed that these recruitment maneuvers increased oxygenation and compliance in overall and gravity - dependent lung regions , and decreased inhomogeneous gas distribution in the ARDS lung , with no adverse effects on hemodynamics immediately after the maneuver .
@@ -153,13 +140,10 @@ A peek pressure of 40 cmHO may not have been sufficient for opening certain alve
 Borges [28] et al . reported that when PEEP was set to 25 cm HO in patients with ARDS , producing peak airway pressures of 40 cm HO , lung recruitment was approximately 67 % .
 When peak airway pressures of 60 cm HO were reached , lung recruitment was approximately 87 % .
 Maximal recruitment would further improve the heterogeneity of the lung , but with a concrete risk of damaging the nondependent normally aerated compartments .
-
 Conclusions
 This study used EIT to show that different recruitment maneuvers that achieve the same maximum pressure , including sustained inflation , increments of PEEP , and PCV , increased oxygenation and overall and EIT - estimated regional compliance , and decreased inhomogeneous gas distribution .
 Increments of PEEP significantly improved inhomogeneity of the lung compared to sustained inflation and PCV .
 Further studies are needed to confirm the clinical significance of these findings .
-
 Supplementary information
-
 Additional file 1 .
 Schematic diagram of EIT image partitioning .

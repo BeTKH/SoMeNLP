@@ -3,7 +3,6 @@ Infants had no reported birth complications , as well as no visual or auditory i
 Seventy - nine infants were included in the final analysis ( M age = 12.36 months , SD = .42 , age range : 11.69 to 13.40 months ; 42 males ) as the remaining 27 participants were excluded due to fussiness ( n = 17 ) , throwing toys ( n = 8 ) , and parental interference ( n = 2 ) .
 The experimental procedures were approved by the Human Research Ethics Committee of Concordia University , and all the parents involved were informed and consented ( in written form ) to let their child participate prior to data collection .
 All participants were free to withdraw from the experiment at any time .
-
 Human Biological Motion Prime .
 The human point - light walker video was composed of 11 point - light dots placed on all the major joints of the body .
 The walker moved rightward with no horizontal translation , 20 steps ( 10 gait cycles ) .
@@ -22,7 +21,6 @@ The random motion control video used the same 11 point - light dots as the human
 Each dot was given a smooth line of trajectory and a fixed speed using VPixx ™ software [34] .
 None of the dots contained animate cues , such as the ability to change direction , change speed , or move contingently with other dots .
 The direction of the point - light dots was also controlled by having the same amount of dots moving to the right , left , up , or down .
-
 Infants were randomly assigned to the human biological motion prime condition ( n = 25 ) , the schematic motion condition ( n = 28 ) , or the random motion control condition ( n = 26 ) .
 Infants viewed the video prime on a 61 cm x 36 cm screen placed at eye level , approximately 100 cm from the infant .
 Infants ’ gaze was filmed and displayed on a computer monitor .

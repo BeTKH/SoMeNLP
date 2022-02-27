@@ -10,15 +10,12 @@ Cotinine and nicotine can also be measured in hair and toenails .
 NNAL ( 4 - [ methylnitrosamino ] - 1 - [ 3 - pyridyl ] - 1 - butanol ) , a metabolite of NNK , can be determined in the urine of SHS - exposed non - smokers .
 The selection of a particular biomarker of SHSe and the analytic biological medium depends on the scientific or public health question of interest , study design and setting , subjects , and funding .
 This manuscript summarises the scientific evidence on the use of biomarkers to measure SHSe , analytical methods , biological matrices and their interpretation .
-
 Introduction
 This article presents the scientific evidence on the use of biomarkers of secondhand smoke exposure ( SHSe ) , analytical methods , biological matrices and their interpretation .
 A biomarker for SHSe should be : ( a ) unique to SHSe ; ( b ) easily detectable using analytic methods reproducible across laboratories ; ( c ) reflect known toxic exposures or high correlation with such exposures ; and ( d ) exhibit changed levels with a corresponding change in disease risk [1] .
 Most toxicants in tobacco smoke result from combustion of organic materials and are not specific to SHSe [1] .
 Metabolites of nicotine ( cotinine , trans - 3 ′ - hydroxycotinine and their glucuronides , and nicotine glucuronide ) and NNK ( NNAL ( 4 - [ methylnitrosamino ] - 1 - [ 3 - pyridyl ] - 1 - butanol ) and its glucuronides ) can be measured in SHS - exposed individuals , with high sensitivity in various biological matrices ( table 1 ) [2,3] .
-
 Biomarkers of secondhand smoke exposure ( SHSe ) , characteristics and cut - off points for distinguishing smokers from non - smokers
-
 Selection of biomarkers of SHSe
 Selection of a SHSe biomarker depends on the scientific or public health question of interest , study design and setting , subjects , funding and laboratory access ( figure 1 ) .
 Novel biomarkers under development for use in highly controlled settings , such as chamber studies of exposures to volunteers , are not discussed here .
@@ -33,18 +30,15 @@ Six metabolites ( nicotine , cotinine and trans - 3 ′ - hydroxycotinine ( 3 - 
 Considerable between - individual variability exists in the rate and pattern of nicotine metabolism , possibly affecting cotinine concentration resulting from a given nicotine exposure .
 Factors influencing nicotine metabolism can include genetic variation , race , gender , oral contraceptive use or other oestrogen - containing hormones , kidney failure and drugs , including anticonvulsants and rifampin [6] .
 Cotinine concentrations in biofluids and nicotine in hair are generally higher in infants and children , compared to SHS - exposed adults ; this is probably due to greater inhaled nicotine doses ( closer proximity to smokers and higher minute ventilation per body mass ) and slower cotinine metabolism [8] .
-
 NNK and metabolites
 NNK is a nitrosamine and potent carcinogen formed primarily during tobacco curing , when nicotine or pseudo - oxynicotine reacts with nitrite in tobacco [9] .
 NNK is metabolised in the body to NNAL and NNAL - glucuronides , commonly measured together , total NNAL ( tNNAL ) .
 tNNAL remains in the body longer than cotinine ( t = 10 days to 3 weeks ) ( table 1 ) .
 NNAL is a potent lung carcinogen , with activity similar to NNK , and tNNAL detection in the urine of SHS - exposed non - smokers forms a biochemical link between exposure and lung cancer .
 In rats , NNK and NNAL are known to induce tumours of the pancreas , and NNK causes nasal mucosa and liver tumours , although at higher doses than for lung tumours [9] .
-
 Concentrations of urine and plasma cotinine are highly correlated with urine tNNAL [10,11] although no data link these biomarkers to other SHS chemicals .
 The dynamic nature of SHS is critical when interpreting biomarkers for particular exposure patterns , including brief high - intensity versus sustained low - concentration exposures .
 Volatile compounds including nicotine leave the smoke and adsorb to room surfaces ( eg , walls , floors , furniture ) quickly , while other volatile compounds may persist in the air [12] .
-
 Analytical methods for biomarkers of SHSe
 Choosing a laboratory for analysis should occur early in a study to assure that the collection protocol is suited to the assay .
 Analysis actually begins with sampling , and the collection protocol may have significant implications for subsequent assays .
@@ -57,7 +51,6 @@ Free cotinine is preferable to use as it correlates better with plasma cotinine 
 Current state - of - the - art methods are GC - MS / MS and LC - MS / MS , with limits of detection ( LOD ) of 0.05 ng / ml [20,21] a sensitivity concentration needed in countries with low SHSe due to clean air regulations and lower air nicotine concentrations .
 The advantages of determining SHSe with urine are that cotinine concentrations and other metabolites are higher than in other biological fluids ; it represents relatively acute exposure ; and collection is non - invasive .
 Disadvantages include the facilities for privacy during collection , difficulty collecting in population - based or children studies , variability in cotinine conversion factor and needing to adjust for creatinine clearance ( data on renal diseases and prescription drugs that interfere with metabolism and renal secretion ) .
-
 Blood nicotine and metabolites
 Nicotine , cotinine and 3 - HC can all be measured in blood , but cotinine is generally the preferred biomarker [4] because of its longer half - life [28] .
 With regular , sustained exposures , the longer cotinine t results in higher , more uniform steady - state concentrations than nicotine .
@@ -72,7 +65,6 @@ If extremely sensitive analytic methods are used , however , this is not a conce
 As serum does not require adjustment for hydration differences among individuals , it provides a more uniform matrix measurement than urine .
 Blood collection is invasive , however , and salivary cotinine may be a necessary alternative .
 An advantage for US studies is that using serum cotinine facilitates direct comparison with representative data for US non - smokers from the National Health and Nutrition Examination Survey ( NHANES ) [32,33] .
-
 Saliva cotinine and metabolites
 Cotinine molecules are small and relatively water soluble with minimal protein binding in the blood , with concentration in saliva that parallels serum , but approximately 15 % to 40 % higher [34] .
 Thus , the analytical sensitivity in this matrix is approximately equal to serum , and most methods can process either serum or saliva .
@@ -80,17 +72,14 @@ The primary advantage of salivary cotinine measurements is that is a relatively 
 Collection procedures are relatively simple and well tolerated .
 Contamination , though unusual , is clearly a greater risk for saliva samples than for serum samples .
 Issues of age , gender , race , oral pH , type of diet , dehydration , or drug treatment and their effect on salivary cotinine concentrations should be addressed for variability .
-
 Hair nicotine and metabolites
 Hair nicotine has been used and validated as a biomarker of SHSe among children and adults .35 - 38 Nicotine is incorporated into hair if it is present in the circulation , and environmental contamination of nicotine is minimal after washing samples [35,37] .
 The hair growth rate is 1 cm / month , 1 cm of hair proximal to the scalp represents the last month ' s exposure [39] .
 Hair can characterise exposure and time ; theoretically , 10 - cm of hair represents 10 months of past exposure , a longer period than covered by other biomarkers .
 The average hair nicotine dose ( cumulative exposure / duration of exposure ) is therefore less affected by daily variability from fluctuating exposure , varying metabolism and elimination of nicotine [40] .
-
 The sensitivity of hair nicotine methods varies ( LODs range 0.02 - 0.2 ng nicotine / mg hair ) [19,41,42] .
 LC - ultraviolet ( UV ) [42] , or GC - MS [41,43] can be used for hair nicotine determination .
 Hair nicotine concentrations are highly reproducible over 1 year , proving the method ' s sensitivity for detecting individual changes in smoking habits and SHSe [43] .
-
 Advantages of the hair matrix include collection ease , storage at room temperature without degradation for up to 5 years , and shipping without special handling [35,44] .
 Scarcity of hair can preclude using this approach for infants or some adults .
 Chemical hair treatments , however , can reduce hair nicotine concentration by 9 % to 30 % and relevant information should be collected with hair samples for any necessary adjustments [45,46] .
@@ -98,7 +87,6 @@ Similar to most biomarkers , gender and race may play roles in determining hair 
 Hair colour could likely influence nicotine concentrations , since nicotine is bound to melanin and the type and amount of melanin in hair varies with hair colour .
 However , Zahlsen et al [47] found that nicotine uptake did not differ due to hair colour or thickness , or person ' s age or gender .
 Among children , younger children have higher hair nicotine concentrations than older children , with the same SHSe [45,48] .
-
 Toenail nicotine and metabolites
 Toenail nicotine concentration shows promise for SHSe assessment , as it reflects relatively long exposure periods : depending on the length of the clipping , the concentration can represent up to several months of past exposure ( toenails grow at a rate of approximately 1 mm / month ) [49] .
 In one study , toenail nicotine concentrations strongly predicted self - reported exposure , even after 20 years ' storage at room temperature [50] .
@@ -107,13 +95,11 @@ Toenails are less directly exposed than hair to environmental nicotine , with co
 Slow toenail growth rates overcome day - to - day exposure variability and provide potentially more stable estimates of average exposure , which is critical to assessing long - term exposures [50,51] .
 In one study , toenail nicotine concentrations were significantly correlated with reported tobacco smoking ( r = 0.63 ) [52] .
 They are also predictive of high and low SHSe among non - smokers [50] ; in newborns , fingernails and toenails have been used to determine nicotine exposure in utero [53] .
-
 Population data on toenail biomarker concentrations are not available , and determining normative population concentrations is critical to relating these concentrations to disease risk and tobacco exposure .
 Given the low nicotine concentration per mg of toenail , collecting clippings from all 10 toenails is recommended .
 Age is inversely related to toenail nicotine concentrations in women , even after controlling for cigarette consumption and SHSe frequency [54] , while nail fungus infection and nail polish do not appear to influence concentrations or exposure .
 No data exist on toenail nicotine concentrations relating to gender or race .
 Laboratory methods to analyse nicotine in toenail samples include high - performance liquid chromatography - electrochemical detection ( HPLC - ECD ) ( LOD of 0.1 ng / mg toenail ) [19] , or GC - MS ( LOD range 0.025 - 0.01 ng / mg toenail ) [55,56] .
-
 NNK metabolites in urine
 NNK is a tobacco - specific lung carcinogen shown to induce adenocarcinoma of the lung in rats , mice , or hamsters [9] .
 Its metabolites , tNNAL can be measured in the urine of SHS - exposed non - smokers .
@@ -137,7 +123,6 @@ One study comparing tNNAL concentrations in teen versus adult smokers did not fi
 Studies of smokers do not indicate gender differences in tNNAL concentrations ; this is also true for exposed non - smokers .
 There may be racial differences in tNNAL concentrations in smokers ' urine , as some studies suggest higher concentrations in African Americans compared to Caucasians [61,62] .
 Whether these observations extend to non - smokers is unknown .
-
 Utility of NNK metabolites versus nicotine metabolites
 A moderately strong correlation is evident between NNK metabolites and nicotine metabolites in the urine of SHS - exposed non - smokers , with similar results in smokers .
 In a study of 74 children , as tNNAL increased from 0.05 to 0.35 pmol / ml urine , total cotinine ( the sum of cotinine and its glucuronide ) increased from 15 to 50 ng / ml urine [25] , leaving little doubt that cotinine at these concentrations in non - smokers ' urine implies the presence of tNNAL .
@@ -146,24 +131,20 @@ tNNAL in urine , however , may have greater public health impact and better pred
 This specificity reflects the pulmonary carcinogen NNAL and its parent NNK , although nicotine may be related to carcinogenesis , atherosclerosis , platelet adhesion and coronary heart disease ( CHD ) vasoconstriction , and has addictive properties and high - dose toxicity .
 Detection of an actual carcinogen , tNNAL , in non - smokers ' urine , signals a hazard , and using this biomarker to discourage smoking ( eg , feedback for parents of exposed children ) has been proposed .
 Its detection in the urine of SHS - exposed non - smokers repeatedly attracts media attention , leading to further support for tobacco - free legislation and tobacco control .
-
 Factors affecting concentrations of biomarkers
 Age
 Differences in drug elimination between children and adults are well documented , particularly during neonatal and early infant periods , when hepatic , renal , cardiac and lung functions are immature [63,64] .
 Nicotine and cotinine pharmacokinetics in neonates exposed in utero to nicotine had significantly longer nicotine t in the infants ’ serum than that reported for adults ( neonates t nicotine = 11.2 h ( 95 % CI 8.0 to 18.9 h ) ; adults t nicotine = approximately 2 h ) with no differences for cotinine [29] , suggesting that differences in the nicotine t but not in the cotinine t between neonates and adults may relate to differences in nicotine metabolism [65] .
 Several studies report cotinine elimination in children ' s urine , and all show younger children having slower elimination and / or higher concentrations than older children or adults 66 - 68 ; also observed with hair ( nicotine and cotinine ) [45,48,69] .
-
 Disease state
 Disease states may affect metabolite concentrations in children and adults .
 Children with asthma show higher cotinine concentrations in hair and urine compared to children without asthma [70,71] .
 However , it is difficult to determine if the differences are due to metabolism or exposure as the studies only used parental report to measure environmental exposure .
-
 Other sources of exposure to nicotine
 Other sources of nicotine exposure in non - smokers include breastfed infants with smoking mothers , even if the infant does not have SHSe .
 Children breast fed by mothers who smoke outside the house can also have higher urine cotinine concentrations than bottle - fed children with direct SHSe [72] .
 One study reported Alaska Native children , aged 4 years and older , chewing tobacco [73] .
 Finally , through hand - to - mouth activity , children may ingest floor dust containing nicotine or touch fabrics that have been exposed to SHS , such as smokers ' clothing [74] .
-
 Interpreting biomarker concentrations
 Results of quantitative biomarkers ' concentrations of SHSe need careful interpretation , which could consider incorporating cut - off points to separate smokers from SHS - exposed non - smokers ; using threshold concentrations for significant consequences of SHSe ; and assessing the severity of SHSe in non - smokers .
 Separating smokers and non - smokers
@@ -183,11 +164,9 @@ Generalisability from national sampling to particular subpopulations requires ca
 Thus , researchers should consider the target population when selecting the optimal cut - off point to separate smokers from non - smokers ( eg , casino workers with high SHSe ( optimal cut - off point : > 3 ng / ml ) .
 Hair cotinine cut - off point values in women , pregnant women and children ( 0.8 , 0.2 and 0.2 ng / mg , respectively ) have been determined using data from the USA , Canada and France [79] .
 Lack of representative population data for other biomarkers in the different matrices makes prediction of optimal cut - off values difficult for these markers .
-
 Assessing risk from SHSe
 For researchers interpreting a particular nicotine , cotinine , or NNAL concentration as a biomarker of risk from exposure , an appropriate comparison group is required .
 Three possible approaches are available : ( 1 ) to consider that any concentration resulting from a specific biomarker of SHSe such as nicotine , cotinine , or NNAL , indicates an increased risk [28] ; ( 2 ) to classify exposure with respect to tertile or quartile of a general population of exposed individuals , if available ( eg , US NHANES ( serum ) [80] , England ' s Health Survey ( saliva ) [77] , ) ; and ( 3 ) to classify exposure severity based on known environmental exposure ( eg , those heavily exposed in bars or casinos ) or on association with disease ( see Relationship of Biomarkers to Disease Risk ) .
-
 Interpreting total NNAL concentrations in urine
 Average tNNAL concentrations in the urine of SHS - exposed non - smokers range from 18 to 90 fmol / ml urine , while for smokers this figure is 1000 fmol / ml urine or higher [3,57] .
 Exceptions occur , however , and there may be some overlap in smokers and non - smokers ' NNAL concentrations .
@@ -198,7 +177,6 @@ The lowest total dose of NNK shown to induce lung tumours in rats is 1.8 mg / kg
 Another method is to compare tNNAL concentrations in SHS - exposed non - smokers to tNNAL concentrations in smokers .
 In one study , tNNAL concentrations in the urine of SHS - exposed women were 5.6 % of that in the urine of their partners who smoked [82] .
 Epidemiological studies estimate that the excess risk for lung cancer in SHS - exposed women is about 20 % higher than that for unexposed women [83] , or 1 % to 2 % of the excess risk for lung cancer in smokers ( 1400 % to 1900 % ) compared with non - smokers , a figure consistent with the 5.6 % relative NNAL concentrations [82] .
-
 Relationship of biomarkers to disease risk
 Two criteria for valid biomarkers of risk are that they predict disease risk and that a change in biomarker concentration corresponds to a change in disease risk .
 Such research is problematic because most SHSe - related diseases take years to develop , and established biomarkers , such as cotinine , measure short - term exposure .
@@ -216,7 +194,6 @@ Significant decreases in lung function and increases in inflammatory markers wer
 In addition , although the effects on lung function appear to disappear within 60 min ; inflammatory cytokines remain elevated for at least 3 h after SHSe .
 SHSe reduces birth weight [28] and cotinine levels of SHS - exposed pregnant women have been statistically significantly associated with reductions in mean birth weight ( range : 73 g to 200 g ) [28] .
 91 - 93 Non - significant associations have found with hair nicotine levels [94,95] .
-
 Conclusions
 This article summarises the current scientific evidence on the use of biomarkers to measure SHSe , analytical methods , biological matrices and their interpretation .
 Cotinine is the biomarker of choice for measuring SHSe in urine , blood and saliva .

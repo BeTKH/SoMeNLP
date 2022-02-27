@@ -84,22 +84,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Version_of	23.0.0	50	1	PASW Statistic	25	0;;
-
-
 
 
 

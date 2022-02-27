@@ -13,7 +13,6 @@ In order to investigate the cost - effectiveness of PCV - 13 inclusion in the li
 Ten levels of diffusion of PCV - 13 were compared with current PPSV - 23 strategy .
 Only single - dose subsidy was analysed and not the sequence of PCV - 13 / PPSV - 23 or PPSV - 23 / PCV - 13 , this is mainly due to PPSV - 23 immunisation being a newly - launched programme in Japan [ 12 , 13 ] .
 We reserve the evaluation of the cost - effectiveness of uptaking the two vaccines in the future research so as to delineate and emphasize on the main purpose of the study .
-
 A Markov model of courses followed by the cohort under consideration was constructed based on epidemiological data , vaccine effectiveness and models from previous studies .
 Seven mutually - exclusive health states were modelled : health ( without any S . pneumoniae - related diseases ) , bacteremia without pneumococcal pneumonia , bacteremia with pneumococcal pneumonia , meningitis , CAP caused by S . pneumoniae , neurological sequelae and death of or other than the related diseases ( Fig 1 ) .
 A Markov cycle for each stage was set at one year with a cohort timeframe of 15 years after being vaccinated .
@@ -21,7 +20,6 @@ We assumed all the individuals who survived until the timeframe age have a life 
 Adverse effects associated with vaccination of PPSV - 23 and PCV - 13 were not considered , since they were mild or moderate in severity [15-17] .
 Considering that all transition states did not occur simultaneously at the end of each cycle , while in reality , most kinds of transitions typically occur gradually throughout a time interval ( on average , half - way through ) , we implemented a half - cycle correction in estimating the incremental cost - effectiveness ratios ( ICERs ) of the programmes [18] .
 The half - cycle correction is implemented by using one - half of every state ’ s incremental reward in model ’ s initial and final reward .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0139140.g001 Markov Model .
 Outcomes in terms of QALY were estimated by assigning transition probabilities and utility weights from literature .
@@ -35,7 +33,6 @@ Deaths of causes other than the above diseases were taken from the vital statist
 Utility weights used to calculate QALY were assumed based on a study by Smith et al . [25] .
 Average lengths of hospital stay were from published government data [26] .
 All these data are shown in Table 1 .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0139140.t001 Model inputs .
 aOn Markov model , transition probabilities from health state A to health state B by ages were calculated as followsFrom “ Health ” to “ Bacteremia without pneumococcal pneumonia ” = Annual incidence rate of IPD × Bacteremia without pneumococcal pneumonia among IPD casesFrom “ Health ” to “ Bacteremia with pneumococcal pneumonia ” = Annual incidence rate of IPD × Bacteremia with pneumococcal pneumonia among IPD casesFrom “ Health ” to “ Meningitis ” = Annual incidence rate of IPD × Meningitis among IPD casesFrom “ Health ” to “ Non - bacteremic pneumococcal pneumonia ” = Annual incidence rate of CAP × CAP caused by S . pneumoniae Vaccine effectiveness of PPSV - 23 in reducing IPD incidence rate was cited from a Cochrane Review report [30] .
@@ -46,7 +43,6 @@ We assumed the effectiveness of both vaccines reduce by age of vaccination and b
 Extent of reduction was proportional to the effectiveness used in Smith et al . ’ s study [25] .
 All these data are shown in Table 2 .
 The vaccine serotypes causing IPD among elderly were 60.0 % and 46.0 % for PPSV - 23 and PCV - 13 [19] , respectively , those for NPP were 62.7 % and 49.3 % [13] ( Table 1 ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0139140.t002 Data used to estimate vaccine effectiveness ( VE ) and VEs used in the model .
 In this study , costs borne by government , municipalities , vaccinees , patients and third party payers were considered , while advertising costs borne by manufacturers were left unaccounted .
@@ -60,9 +56,7 @@ Age - specific treatment costs of per case of bacteremia with / without pneumoco
 Cost per case of meningitis was assumed to be twice the cost per case of bacteremia , while cost of sequelae was assumed ¥ 1,500,000 ( US $ 13,636 ) per case per year [27] .
 One vaccine shot was assumed at ¥ 8,116 ( US $ 74 : US $ 1 = ¥ 110 ) for PPSV - 23 and ¥ 10,776 ( US $ 98 ) for PCV - 13 , which were the sum of vaccine price ( ¥ 4,737 or US $ 43 for PPSV - 23 , ¥ 7,200 or US $ 65 for PCV - 13 ) [ 28 , 29 ] , doctor fee and technical fee for PPSV - 23 and PCV - 13 , respectively .
 All cost data are shown in Table 1 .
-
 Outcomes and costs were discounted at a rate of 3 % [32] .
-
 One - way sensitivity analyses and probabilistic analyses : We performed one - way sensitivity analyses on two pairs of comparisons .
 The first pair is ≥ 65 PPSV - 23 strategy vs . current PPSV - 23 strategy , which is to appraise the stability of ICERs with the assumptions made in our economic model , and to explore the impact of each variable relative to each other when the subsidy of the immunisation is limited to PPSV - 23 .
 The second pair is PCV - 13 strategy vs . current PPSV - 23 strategy , which is to appraise the same issues when PCV - 13 is also subsidised by current immunisation programme .

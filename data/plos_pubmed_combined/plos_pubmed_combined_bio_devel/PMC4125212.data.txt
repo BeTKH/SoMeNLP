@@ -12,7 +12,6 @@ The individuals enrolled in this study were all nonsmokers ( never smoked before
 Individuals were categorized into the control and chronic periodontitis groups .
 The healthy control group did not have signs of any periodontal disease at the time of sample collection and did not have a history of previous periodontal disease as determined by a lack of sites with probing depth ( PD ) > 3 mm and the absence of gingival recession , CAL , and bleeding on probing ( BOP ) .
 The 750 blood samples from periodontally healthy Han Chinese subjects were obtained randomly , which represented the controlled population ( 375 males and 375 females , aged 27 to 60 years with a mean age of 50.32 ± 8.27 years ; Table 1 ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0104436.t001 Demographic characteristics and clinical parameters of chronic periodontitis and controls .
 Patients with chronic periodontitis often presented an amount of destruction consistent with the amount of microbial deposits , presence of subgingival calculus , probable association with local predisposing factors and a slow to moderate rate of progression .
@@ -25,13 +24,11 @@ This patient group was composed of 400 subjects ( 200 males and 200 females , ag
 This study was approved by the Xi ' an Jiaotong University Ethics Committee .
 All participants completed written informed consent forms .
 Data related to the participants are described in Table 1 .
-
 IL - 8 polymorphisms were identified using the National Center for Biotechnology Information single nucleotide polymorphism database , and 209 SNPs were identified .
 For the first screen of the most common SNPs in Han Chinese chronic periodontitis patients , a MAF ≥ 0.01 was used as the cut - off .
 Based on these criteria , we selected 14 SNPs in IL - 8 ( rs 2227528 , rs 7682639 , rs 2227531 , rs 2227532 , rs 4073 , rs 2227538 , rs 2227307 , rs 2227549 , rs 2227306 , rs 2227543 , rs 2227545 , rs 1126647 , rs 10938092 and rs 13112910 ) .
 Next , we then searched for all SNPs with minor allele frequencies ( MAF ) ≥ 0.01 between 20 kb upstream and 20 kb downstream of IL - 8 in the HapMap HCB database using Haploview [41] , which identified 9 SNPs ( rs 12506479 , rs 10805066 , rs 10031141 , rs 46946336 , rs 11730667 , rs 1951242 , rs 11730284 , rs 10938095 and rs 2886920 ) .
 Therefore , we selected 23 SNPs in the 45 kb region containing IL - 8 ( Fig . 1 ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0104436.g001 Distribution of the 23 SNPs across the IL - 8 gene selected for the association analysis and their relationship with gene exons .
 Patients and controls were mixed on the same plates using a double - blind procedure .
@@ -44,7 +41,6 @@ PCR products were treated with shrimp alkaline phosphatase ( USB , Cleveland , O
 Single base extension products were desalted with SpectroCLEAN resin ( Sequenom ) , and 10 nL of the desalted product was spotted onto a 384 - format SpectroCHIP using the MassARRAY Nanodispenser .
 Mass determination was performed with a MALDI - TOF mass spectrometer , and MassARRAY Typer 4.0 software was employed for data acquisition .
 The final genotype call rate of each SNP was greater than 96 % and the overall genotyping call rate was 98.1 % , confirming the reliability of further statistical analyses .
-
 Statistical analysis and power analysis : Hardy - Weinberg equilibrium ( HWE ) for each SNP was assessed using GENEPOP v 4.0 .
 Allelic and genotypic association tests were performed using CLUMP v 2.4 with 10,000 simulations , and this program employed an empirical Monte Carlo test of significance through simulation .
 To control for possible confounding effects , age and gender were used as independent variables in a multiple logistic regression analysis for adjustment by commercially available software ( Statistical Package for Social Sciences , version 16.0 for windows , SPSS Inc . , Chicago , IL , USA ) .

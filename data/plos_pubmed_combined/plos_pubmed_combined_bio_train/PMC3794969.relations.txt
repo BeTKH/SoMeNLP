@@ -50,11 +50,6 @@
 
 
 
-
-
-
-
-
 Version_of	2.3	155	1	Luminex 100 ™ IS	136	0;;
 
 
@@ -65,18 +60,7 @@ Version_of	2.3	155	1	Luminex 100 ™ IS	136	0;;
 
 
 
-
-
 Version_of	15.0	55	1	SPSS	50	0;;
-
-
-
-
-
-
-
-
-
 
 
 

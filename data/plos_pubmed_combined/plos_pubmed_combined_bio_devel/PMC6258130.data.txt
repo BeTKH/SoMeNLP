@@ -3,11 +3,9 @@ The inclusion criteria were based on the PICOS framework : ( i ) population : fe
 We excluded studies with the following characteristics : ( i ) no treatment cost estimates by stage ; ( ii ) treatment costs not incurred in hospital settings which cannot reflect direct medical costs ( inpatient and outpatient ) ; ( iii ) costs not estimated from actual patient level data , but calculated according to treatment pathways in clinical guidelines ; ( iv ) disease stages categorised neither as 0 , I , II , III and IV in the International Federation of Gynaecology and Obstetrics ( FIGO ) staging system , nor as in situ , local , regional and distant cancer ; and ( v ) review articles .
 Only studies that had primary data on the breast cancer costs were selected to avoid repeating previously published information .
 There was no language limit for the eligibility criteria .
-
 We searched MEDLINE ( R ) ( 1946 to April Week 4 2018 ) , EMBASE Classic + EMBASE ( 1947 to 30 April 2018 ) , and NHS Economic Evaluation Database ( NHS EED , 1960 to April 2018 ) with search terms in S1 Table .
 Also , reference lists from relevant primary studies and review articles were used to identify other relevant publications .
 Titles and abstracts were first reviewed , and full - texts of the studies that potentially met the eligibility criteria were retrieved and full - text reviewed .
-
 Two investigators independently extracted the study characteristics and treatment costs of breast cancer by stage at diagnosis .
 Most studies conducted cost analyses up to a specified time rather than over a lifetime horizon .
 Although some studies reported the annual costs , we extracted the cumulative costs during the pre - specified time horizons for comparative purposes .
@@ -17,7 +15,6 @@ We used US dollars with the base year of 2015 to facilitate the comparison of co
 In this study , we used purchasing power parity ( PPP ) conversion factor to convert cost estimates reported in different currencies to US dollars , and used the consumer price index ( CPI ) for health care to convert cost estimates reported at different time points to the same year .
 PPP is the rate of currency conversion at which a given amount of currency will purchase the same volume of goods and services in two countries .
 CPI is a measure that examines the changes in the price level of a basket of consumer goods and services .
-
 Critical appraisal and methodological assessment : Two investigators used an established checklist by Drummond et al . [9] to assess the quality of reviewed studies independently .
 Items not applicable to costing studies were removed .
 A three - point response scale was added to better grade the quality of each item on the checklist , ranging from 0 ( not considered ) , through 1 ( partially considered ) , to 2 ( fully considered ) [10] .

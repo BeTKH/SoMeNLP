@@ -42,16 +42,7 @@
 
 
 
-
-
-
-
-
-
-
-
 Developer_of	Brain Products	37	1	Brain Vision Analyzer	4	0;;
-
 
 
 

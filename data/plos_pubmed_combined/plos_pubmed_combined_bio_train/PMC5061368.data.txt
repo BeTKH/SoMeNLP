@@ -14,7 +14,6 @@ All birds were kept in the same room with natural light patterns .
 Birds could hear but not see each other .
 Overall , birds were tested five times and then released .
 All experiments were video - taped .
-
 Birds were tested in three different experiments between 9.00 to 11.00 AM , except for experiment one which started when the bird was released into the cage .
 Either two or six birds were tested at a time due to the arrangement of the cages and availability of only three cameras .
 ( 1 ) On the day of capture , latency to feed was recorded on release into the cage as an indication of how quickly individuals adapt to their new situation .
@@ -29,7 +28,6 @@ The difference in time between feeding with and without the novel object reflect
 Neophilia and neophobia represent two independent motivations [ 47 , 49 - 50 ] and also belong to two different personality dimensions [51-52] .
 On day 9 and 10 , all birds were re - tested on the neophobia and neophilia test using the colour that was not used in the previous set - up ( balanced design ) to test for consistency of behaviours over time .
 The same object but a different colour was used to keep objects as similar as possible but not identical to avoid habituation [53] and retain novelty [54] .
-
 Five dependent variables were extracted from the experiments ; a ) latency to feed on the capture day , b ) latency to explore ( neophilia ) on the first trial and c ) on the second trial , d ) latency to feed beside the novel object ( neophobia ) on the first trial and e ) on the second trial .
 Neophobia latencies were calculated from the average time to feed without the novel object subtracted from the latency to feed with the novel object reflecting the neophobic reaction .
 Latency to explore was taken as a proxy for intensity of exploration as these variables were negatively correlated in an earlier study on the same population [35] as was the case in Great tits ( Parus major ) [55] .
@@ -54,6 +52,5 @@ Furthermore , consistency of neophilia and neophobia reactions was tested by com
 Finally , we tested for a correlation between latency to feed on the capture day , exploration and neophobia for possible behavioural syndromes by use of Pearson ’ s correlations .
 In all correlations , square - root transformed variables were used .
 All analyses were conducted in the program R version 3.2.2 [57] , with add - on packages ‘ nlme ’ [58] for mixed effects models .
-
 All birds started to feed within an hour after capture and were released with a higher body mass than at capture .
 Experiments conformed to Swedish regulations and were conducted under permit no M237 - 07 .

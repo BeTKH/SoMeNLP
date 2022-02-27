@@ -11,7 +11,6 @@ Did you have nightmares , or did you scream , walk , punch , or kick in your sle
 Did any of the following disturb you in your sleep : Pain ?
 Other physical symptoms ?
 Medications ?
-
 Information about the study was broadcast nationally in Norway three times between 29 January and 19 February 2007 .
 Viewers interested in participation were invited to visit the web pages of the study to enrol ( http://sovnstudien.forskningspuls.no/ ) .
 The initial screening of potential participants was conducted online and was automated .
@@ -22,13 +21,11 @@ We also informed participants that they had the right to withdraw from the study
 However , we encouraged them , once they were randomised , to complete the sleep diary for two weeks after they received the study tablets .
 Participants who withdrew from the study were asked to provide their reasons for withdrawing .
 Regardless of whether participants completed the sleep diary , we sent up to three email reminders and telephoned participants to obtain their self - assessments of global improvement when they took tablets compared to the two weeks without tablets .
-
 We assigned an identification number to potential participants who met the inclusion criteria and consented to participate in the trial .
 After completing the sleep diary for 10 days participants were allocated to valerian or placebo according to a pre - determined randomisation scheme , using a computerised procedure .
 The corresponding numbers had been printed on the boxes containing the study tablets .
 A pharmacy kept the randomisation list and sent the study tablets ( either valerian or placebo ) as a registered letter , requiring participants to confirm receipt by signature .
 Participants needed to enter the randomisation code on the tablet box in the sleep diary to verify receipt of the package .
-
 The study treatment was coated tablets containing 200 mg extract per tablet ( Valerina Forte ™ ) .
 The manufacturer ( Cederroth International AB ) stored the placebo and valerian tablets together in a sealed room before putting them into blister packages and shipping the tablets in boxes to the pharmacy , so that the placebo and valerian tablets , which were identical in appearance and taste , would smell the same .
 Participants received a box with 60 tablets and instructions to swallow three tablets every night about one hour before going to bed for 14 days .
@@ -41,21 +38,18 @@ It was found in N - of - 1 trials that 450 mg ( equivalent to 2 grams of dry roo
 We therefore tested a larger dose to ensure the best possibility of observing an effect and because there is not evidence of an increased risk of side effects with the higher dose .
 We asked participants to avoid using other medication for insomnia and to continue using their usual self - help strategies for their sleeping difficulties .
 Upon completion of the study we asked them to return the remaining tablets and the box to the pharmacy using a pre - paid , return - addressed envelope .
-
 Data collection and outcome measures : Potential participants who met the inclusion criteria and consented to participate were automatically sent an email .
 They needed to respond to this to activate their user name and password and access their sleep diary .
 Participants completed a structured online sleep diary every day during the study ( figure 1 ) , 14 days prior to starting to take the tablets and 14 days after .
 Data entered into the diary were automatically stored in a database .
 Participants were asked to check that the information they entered was correct before saving it .
 An automated email reminder was sent to participants who had not completed their sleep diary by 1 p.m . each day .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0001040.g001 Sleep diary .
 This is a translation of the diary , which was in Norwegian .
 The electronic diary included online help , a calendar indicating the number of days completed and remaining , options for viewing graphs of each of the five outcome variables , space for personal notes , and automated checks to ensure that the diary was completed each day and checked for correctness before being submitted .
 Changes could not be made after the data were submitted .
 Participants could print out paper versions of the sleep diary and enter the data electronically later if they chose to do so .
-
 Demographic data were collected from participants at the beginning of the study , including age , sex and education .
 The PSQI , which was used to screen potential participants for insomnia , includes 19 self - reported items and uses an algorithm to derive a global score from components of sleep quality , sleep latency , sleep duration , habitual sleep efficiency , sleep disturbance , use of sleeping medication and daytime functioning [23] .
 Scores range from zero to 21 .
@@ -69,14 +63,12 @@ We added an additional category at the upper end of sleep latency and we used ha
 In addition the sleep diary included questions about adverse events , concomitant medication , and the number of tablets taken .
 At the end of the study participants were asked to assess their sleeping problems during the two weeks when they took tablets compared to the two week run - in period on a 7 - point scale ranging from much worse to much better .
 They were also asked how many tablets they had left and were asked whether they thought the tablets were valerian , placebo or they did not know .
-
 Adverse events were defined as any undesirable experience occurring to a participant during the study , whether or not considered related to the study medication .
 Serious adverse events were defined as an adverse experience that was fatal , life - threatening , disabling or which resulted in - patient hospitalisation or prolongation of hospitalisation .
 Unexpected adverse events were defined as an experience not previously reported in the product information sheet or similar documents .
 Participants were asked to record all complaints that they had each day ; to indicate whether each of these was mild , moderate or severe ; and to note if a physician was seen because of the complaint .
 We monitored the sleep diary for severe side - effects in order to obtain information about potential serious adverse events if needed .
 When participants registered a complaint in the sleep diary as “ severe ” , a message was automatically sent to the secretariat and we determined whether these were serious adverse events and whether we needed to contact the participant or physician to obtain additional information .
-
 The primary outcome was the proportion of participants in each group with an improvement in self - reported sleep quality of ≥ 0.5 units between the average score for the two weeks before and two weeks during treatment .
 This was based on what we assumed likely to be a clinically important difference , based on findings from other 7 - point scales [29] .
 The two proportions were compared using a chi - square test .
@@ -94,13 +86,11 @@ The analyses were done using SAS ( Version 9.1.3 . SAS Institute Inc . , Cary , 
 The randomisation code was broken in two steps .
 The participants were identified as belonging to group “ A ” or “ B ” without revealing which was the valerian and placebo group .
 The “ A ” and “ B ” code was not broken until the primary and secondary statistical analyses had been completed and reviewed by the investigators .
-
 We estimated the number of participants needed to reject the null hypothesis ( no difference between valerian and placebo ) for the primary analysis for proportions from 0.15 to 0.40 in the placebo group and absolute improvements of 10 to 25 % based on Pearson Chi - square 2 - sided tests for two proportions , with a significance level of 0.05 and 80 % power .
 We did not allow for drop - outs since all participants who completed the sleep diary for at least one day were included in all of the analyses except for global self - assessed improvement .
 The calculations were performed with SAS , PROC POWER .
 The estimated sample sizes ranged from 58 to 388 per group , depending on the proportion in the placebo group and the minimum difference considered to be important .
 We intended to include 250 - 275 participants in each group in order to be able to reject the null hypothesis if the difference in proportions was between 10 and 15 % .
-
 The protocol , participant information and informed consent form were approved by the Regional Committee for Medical Research Ethics - Southern Norway , the Norwegian Medicines Agency and the Norwegian Social Science Data Services .
 The trial was registered and assigned an International Standard Randomised Controlled Trial Number ( ISRCTN 72748991 ) by Current Controlled Trials ( www.controlled-trials.com ) prior to commencing recruitment .
 The protocol is publicly available ( http://www.kunnskapssenteret.no/filer/sovnstudien_protokoll_3_1_2_2007_01_3.pdf ) .

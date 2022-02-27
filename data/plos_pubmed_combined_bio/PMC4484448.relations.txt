@@ -101,24 +101,10 @@
 
 
 
-
-
-
-
-
-
 PlugIn_of	ClueGO	166	0	cytoscape	173	1;;
 
 
 PlugIn_of	Reactome	21	0	Cytoscape	40	1;;
-
-
-
-
-
-
-
-
 
 
 
@@ -250,10 +236,6 @@ Version_of	2.4	116	1	MASCOT	105	0;;Developer_of	Matrix Science	122	2	MASCOT	105	
 
 
 
-
-
-
-
 Version_of	1.7.1	78	1	ClueGO	69	0;;Citation_of	[47]	84	2	ClueGO	69	0;;Version_of	2.8.3	105	4	Cytoscape	93	3;;Citation_of	[48]	111	5	Cytoscape	93	3;;PlugIn_of	ClueGO	69	0	Cytoscape	93	3;;
 
 Version_of	2.8.3	224	1	Cytoscape	211	0;;
@@ -290,12 +272,7 @@ Version_of	1.8	172	1	clusterMaker	156	0;;Version_of	2.44	189	3	BiNGO	180	2;;Plug
 
 
 
-
-
-
-
 Version_of	5	46	1	Prism	40	0;;Developer_of	GraphPad	50	2	Prism	40	0;;Developer_of	Microsoft	65	3	Office Excel	75	4;;
-
 
 
 

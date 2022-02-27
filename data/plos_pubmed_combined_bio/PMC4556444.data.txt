@@ -15,7 +15,6 @@ Thus , the final cohort included 53531 patients .
 These were divided into two groups : 9854 TCM nonusers and 43677 TCM users , and the values of their mean age were 66.75 ( SD = 13.5 ) and 61.82 ( 13.14 ) years , respectively .
 Given the fixed sample size of 53531 , the level of absolute precision d , that specifies the width of the 95 % confidence interval ( CI ) would be 0.26 % under the assumption that the TCM use in IHD patients was 75 % .
 Because common values for d are usually around ± 5 % for estimated proportions in the range of 20 % - 80 % , the width of the 95 % CI in the present study is small , indicating the size of sample provides high precision for estimating the prevalence of TCM use in patients with IHD .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0137058.g001 Flowchart of recruitment of subject recruitment from the 1 - million random sample of the National Health Insurance Research Database ( NHIRD ) from 2000 to 2010 in Taiwan.Abbreviation : IHD , ischemic heart disease ; TCM , traditional Chinese medicine .
 To determine the key independent variables for the use of CHPs among IHD patients , we selected the demographic factors of sex , age , occupational status , geographic area , and risk factors for IHD .
@@ -24,7 +23,6 @@ Age was categorized into five groups : ≤ 29 , 30 - 39 , 40 - 49 , 50 - 59 , an
 We split occupational status into three levels : white collar , blue collar , and other .
 Geographic areas of Taiwan were classified into the following four regions : Northern Taiwan , Central Taiwan , Southern Taiwan , and Eastern Taiwan and offshore islands .
 We considered DM ( ICD - 9 - CM : 250 ) , hyperlipidemia ( ICD - 9 - CM : 272 ) , hypertension ( ICD - 9 - CM : 401 to 405 ) , cardiac dysrhythmias ( ICD - 9 - CM : 427 ) , stroke ( ICD - 9 CM : 430 - 438 ) and MI ( ICD - 9 CM : 410 ) as risk factors for IHD .
-
 Data analysis included the prevalence of TCM use stratified by the patient ’ s demographic and risk factors , frequency and proportion of the most frequently prescribed herbal formulas for treating IHD .
 A multiple logistic regression model was developed to estimate demographic and risk factors that correlated with TCM use .
 The models produced odds ratios ( ORs ) and corresponding 95 % CIs .

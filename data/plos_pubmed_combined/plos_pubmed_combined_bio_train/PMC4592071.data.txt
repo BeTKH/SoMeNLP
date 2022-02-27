@@ -15,18 +15,15 @@ The southeastern region has a high density of parks as well but the visitor volu
 The parks in these regions are located mostly inland .
 In contrast , the southwestern parks distributed linearly along lakesides have a slightly higher volume of visitors than southeastern parks .
 Northern parks exhibit the same tendency for inland locations however the density of parks and the volume of visitors are significantly lower than the parks in central and southern regions .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0139353.g001 Patch geometry used for the simulation model .
 Partition 1 patches experiences a high visitor volume while Partition 2 patches experiences a low visitor volume .
 Transport strategists move firewood between patches in both partitions .
-
 Here , we simplify this structure to capture the basic distinction between centrally located parks with high visitor volumes , and proximal parks with low visitor volumes .
 We divide Ontario parks into two partitions : one for the southern and central Ontario , which receives a high volume of visitors , and the other for Northern Ontario , which receives a low volume of visitors .
 Each patch in either partition is connected with all patches in that partition as well as with all patches in the other partition as shown in Fig 1 .
 Hence , the total system is comprised of completely connected patches while patches are placed in either of the partitions according to their volume of visitors .
 Moreover , the strength of connection varies depending on whether patches are in the high volume or low volume partition : patches in the low volume partition receives a lower volume of visits from other patches in the same partition as well as a lower volume of visits from patches in the high volume partition .
-
 We developed a discrete - time , mechanistic , stochastic model to study pest invasions , human decision - making , and firewood movement in the 10 - patch system .
 The simulation time step is one week .
 Each patch has a population of Si ( t ) susceptible trees and Ii ( t ) infested trees .
@@ -42,7 +39,6 @@ In particular , the probability per time step that a susceptible tree becomes in
 This form of the transmission probability , where the infestation rate depends on the density of infested trees , is referred to as standard incidence [22] .
 We note that the time dependence of PS to I , i occurs due to its dependence on the variable Ii ( t ) , representing the number of infested trees at time t .
 The nonlinearity of the simulation model stems from Eq 1 , since the probability of infestation PStoI , i depends on the infestation prevalence Ii ( t ) / K instead of being a constant value , therefore the mean of the binomial distribution for the number of trees that get infected depends on the nonlinear term Si ( t ) Ii ( t ) / K .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0139353.t001 Model variables and transition probabilities .
 The total number of susceptible trees that become infested per time step , numStoI ( t ) , can be found from the probability PStoI ( t ) by sampling from a binomial distribution according to numS to I ( t ) = Binomial ( Si ( t ) , PS to I ( t ) ) ,
@@ -92,7 +88,6 @@ We assumed 5 ha = 50000 m2 of land with a spread rate of 25000 m2 / year , yield
 The fatality probability ε = 1 / 3 per year was taken from literature [27] stating that it takes three years , on average , for a tree infested by EAB to die in recent infestations in Michigan and Ontario .
 The economic parameters for the cost of local and transported firewood , CL and CT respectively , vary by region .
 However , in the case of Ontario , baseline values for the parameters CL = $ 6.75 and CT = $ 5.00 were determined by surveying park administration offices and surveying the local markets [10] .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0139353.t002 Parameter definitions and their baseline values .
 System - specific empirical data were not available for some sociological parameters ( e.g. n , f , σ ) hence baseline values for these parameters were calibrated until ecologically and sociologically plausible dynamics were obtained ( Table 2 ) .

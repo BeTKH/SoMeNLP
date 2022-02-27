@@ -3,7 +3,6 @@ Because of technical failure two participants did not participate in the experim
 The current comparison between TMS to occipital and parietal cortices therefore focuses on 8 participants that took part in both parts .
 The study was approved by the Human Research Ethics Committee of the Medical Faculty at the University of Tubingen .
 The data from IPS stimulation have been included in a previous report [15] .
-
 In a sustained spatial attention paradigm , participants detected visual targets that were presented in a placeholder in the left lower quadrant on 50 % of the trials .
 Across sessions we manipulated whether parietal , occipital or Sham - TMS was applied .
 Moreover , we also manipulated the presence vs . absence of concurrent task - irrelevant auditory inputs across runs .
@@ -14,7 +13,6 @@ We limited the presentation of the visual target to the left hemifield because r
 In all trial types , participants reported whether they had detected the visual target ( see Visual and auditory stimuli ) via a two choice key press .
 They were instructed to use a strict decision criterion and report that they had detected a target only when being confident and to report ‘ unseen ’ otherwise .
 Participants fixated a cross presented in the centre of the screen throughout the entire scanning session .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0181438.g001 Experimental design . ( A ) 2x 2x 3 factorial design manipulating ( i ) task - relevant visual input ( V present , V absent ) , ( ii ) auditory context ( A present , A absent ) and ( iii ) TMS condition ( Occ , IPS , Sham ) .
 ( B ) Timeline example of stimuli presentation .
@@ -27,7 +25,6 @@ Within a block the fixation cross was grey during volume acquisition and blue du
 At 100 ms after trial begin ( i.e. 2790 ms after begin of volume acquisition ) , the task - relevant visual stimulus was either present ( first depicted trial ) or absent ( second depicted trial ) .
 Bursts of 4 TMS pulses were applied during acquisiton gaps at 10 Hz and started 100 ms after the target onset time ( i.e. 2890 ms after begin of volume acquisition ) .
 ( D ) Illustration of approximate coil positions during i ) occipital and ii ) parietal stimulation .
-
 At the beginning of each trial , the fixation cross changed its colour from grey to blue ( Fig 1B ) .
 After 100 ms the visual target was presented for a duration of 16 ms with 50 % probability .
 On each trial , we applied bursts of 4 TMS pulses ( or Sham - TMS ) 200 ms after trial onset ( i.e. 100 ms after target onset in V and AV trials ) ( see Data acquisition and TMS procedures ; Fig 1C ) .
@@ -53,7 +50,6 @@ On each day , we manipulated the auditory context across runs within an ABBAABBA
 The visual target presence was randomized as trials within and across runs .
 Hence , we obtained a total of 168 trials for each condition ( e.g. number of trials for condition ‘ visual target present , auditory context present , IPS - TMS : 42 target - present trials per run x 4 runs with auditory context present x 1 TMS session for IPS ) .
 Each participant was trained in a minimum of six runs prior to the actual fMRI experiment .
-
 The task - relevant visual stimulus consisted of a small ( 9x 9 pixels , visual angle : 0.52 ° ) square presented for one frame ( i.e. 16 ms ) on a grey background .
 The visual stimulus was presented in the centre of a blue placeholder ( 40x 40 pixels , visual angle : 2.3 ° ) that was positioned 12 ° left and 5 ° down relative to the fixation cross .
 The placeholder was displayed throughout the entire run ( i.e. including fixation periods ) .
@@ -61,20 +57,17 @@ The ‘ overall grey level of the target square ’ was adjusted with the help o
 In other words , the ‘ overall grey level ’ was adjusted by manipulating the density of white pixels within the square .
 This detection threshold was selected to place increased demands on cognitive resources such as spatial attention .
 Importantly , identical grey levels were used across Occ , IPS and Sham stimulation and across auditory contexts .
-
 To ensure that auditory stimuli were easily segregated from the scanner noise and TMS clicks we generated an auditory stimulus by adding sinusoidal tones with base frequencies of 130.81 Hz , 164.81 Hz and 196 Hz and the following six terms of their respective geometric progressions ( i.e. adding the terms 2n * f , where f represents each of the three base frequencies and 1 ≤ n ≤ 6 ) .
 Hence , the auditory sound spanned a total of seven octaves and ranged from 130.81 Hz to 12543.58 Hz .
 The duration of each auditory stimulus was 40 ms .
 Next , we convolved this auditory signal with spatially specific head - related transfer functions ( HRTFs ) to create a left localized stimulus .
 This will provide participants with audiovisual spatial localization cues and thereby enhance audiovisual integration .
 The HRTFs were pseudo - individualized by matching participants ’ head width , height , depth and circumference to the anthropometry of participants in the CIPIC database [21] .
-
 Visual and auditory stimuli were presented using Psychophysics Toolbox version 3.0.10 [ 22 , 23 ] running on MATLAB 7.9 ( MathWorks Inc , MA , USA ) and a Macintosh laptop running OS - X 10.6.8 ( Apple Inc , CA , USA ) .
 The visual stimulus was back - projected onto a frosted Plexiglas screen using a LCD projector ( JVC Ltd . , Yokohama , Japan ; resolution : 800x 600 pixels , refresh rate : 60 Hz , viewing distance : 48 cm ) visible to the participant through a mirror mounted on the MR head coil .
 Auditory stimuli were presented via MR - compatible electrodynamic headphones at a sampling frequency of 44100 Hz ( MR Confon GmbH ) .
 Furthermore , earplugs were used to attenuate both scanner and TMS noise .
 Participants indicated their response ( i.e. visual target seen or unseen ) with their right hand using an MR - compatible custom - built button device connected to the stimulus computer .
-
 TMS was applied over the right anterior IPS and the right occipital cortex ( Occ ) as experimental sites and Sham TMS was included as a control condition .
 For the parietal stimulation site , we selected the MNI coordinates ( x = 42.3 , y = - 50.3 , z = 64.4 ) that had previously been associated with impairment of visuospatial processing by Oliver et al [24] .
 For the occipital stimulation site , we determined the MNI coordinates in an initial pilot hunting procedure outside the MRI scanner in seven additional participants .
@@ -107,7 +100,6 @@ During the Sham condition the coil was placed over the right hemisphere in a mid
 Critically , the Sham - TMS condition tightly controlled for the TMS side effects such as the TMS - noise and feelings of vibrations .
 Furthermore , comparing IPS - TMS or Occ - TMS with Sham - TMS did not elicit significant activations in the auditory cortex .
 Hence , we concluded that this particular application of Sham - TMS inside the scanner is a better control than low intensity TMS that does not control effectively for auditory confounds ( see Data acquisition and TMS procedures and [14] ) .
-
 Data acquisition and TMS procedures : A 3T TIM Trio System ( Siemens , Erlangen , Germany ) was used to acquire both a T1 - weighted three - dimensional high - resolution structural image ( MPRAGE , 176 sagittal slices , TR = 2300 ms , TE = 2.98 ms , TI = 1100 ms , flip angle = 9 ° , FOV = 240 mm x 256 mm , image matrix = 240 x 256 , voxel size = 1 mm x 1 mm x 1 mm , using a 12 - channel head coil ) and T2 * - weighted axial echoplanar images ( EPI ) with blood oxygenation level dependent ( BOLD ) contrast ( GE - EPI , TR = 3290 ms , TE = 35 ms , flip angle = 90 ° , FOV = 192 mm x 192 mm , image matrix 64 x 64 , 40 axial slices acquired sequentially in ascending direction , slice thickness = 3 mm , interslice gap = 0.3 mm , voxel size = 3 mm x 3 mm x 3.3 mm , using a 1 - channel Tx / Rx head coil ) .
 Each participant took part in a total of eight experimental runs per TMS condition .
 A total of 124 volume images were acquired for each run .
@@ -133,7 +125,6 @@ Extensive image quality tests of our setup are reported elsewhere ( [29] , [39] 
 For completeness , we acquired EPI data with a phantom using the same experimental design .
 After realignment , data were entered in a first level analysis using the same model as for the real participants .
 Computing all the relevant contrasts ( height threshold : p < 0.01 uncorrected ) yielded only a spurious and randomly distributed pattern .
-
 The fMRI data were analysed using SPM 8 ( Wellcome Department of Imaging Neuroscience , London ; www.fil.ion.ucl.ac.uk/spm ) [40] .
 Scans from each participant were realigned using the first as a reference , unwarped , spatially normalized into MNI space , resampled to a spatial resolution of 2 x 2 x 2 mm 3 , and spatially smoothed with a Gaussian kernel of 8 mm full - width at half - maximum .
 The time series of all voxels were high - pass filtered to 1 / 128 Hz .
@@ -161,11 +152,9 @@ Hence , effects of IPS - TMS were identified by comparing IPS > Sham and Sham > 
 Equivalent contrasts were calculated for Occ - TMS and for direct comparisons between the two experimental conditions .
 Please note that formally these ‘ main effects of TMS ’ test for an interaction ( e.g. main effect of Occ - TMS > Sham can be more precisely written as : ( TMS stimulation - Baseline ) under Occ - TMS > ( TMS stimulation - Baseline ) under Sham - TMS ) .
 Hence , this interaction contrast controls for non - specific TMS effects such as discomfort that may have been increased for Occ - TMS .
-
 State - dependent TMS effects : Interaction effects between visual input and TMS : Likewise , interaction effects between task - relevant visual input and TMS conditions were evaluated through direct comparisons between TMS conditions .
 Consequently , interaction contrasts for ( target present > target absent ) IPS ( or Occ ) > ( target present > target absent ) Sham and ( target absent > target present ) IPS ( or Occ ) > ( target absent > target present ) Sham were estimated .
 Interaction effects between Occ - and IPS - TMS were directly evaluated in the same manner .
-
 It is well established that in addition to being able to disrupt visual perception , TMS over the occipital cortex can elicit transient perceptions of light known as phosphenes .
 The ability to perceive phosphenes is quite variable across participants [44-46] and strongly depends on the amount of attention given to them [ 26 , 36 ] .
 On the other hand , the intensity needed to elicit phosphenes is generally lower than the one necessary to induce effective suppression effects [ 26 , 47 , 48 ] .
@@ -175,7 +164,6 @@ Only three participants reported having seen something , of which only two descr
 However , the reported distortions by one of these two participants were not specific to the vicinity of the placeholder but extended throughout the entire visual display comprising also the right visual field ( i.e. ipsi - laterally to TMS stimulation ) , which suggests that the reported distortions were not ‘ authentic ’ phosphenes .
 The remaining participant that reported visual distortions adjacent to the placeholder also reported that these distortions were distinct from the task - relevant visual stimulus .
 Hence , in total it is unlikely that phosphene perception influenced our results on the group level both behaviourally and for the BOLD measurements .
-
 Eye monitoring ( outside the scanner ) : To ensure that the observed activation pattern did not result from eye movements , twitches , or startle effects , 8 additional participants ( one left - handed ; 2 male ; mean age : 26.9 years ; standard deviation : 5.3 ) took part in a supplementary TMS - psychophysics experiment outside the scanner performed with equivalent parameters and comparable durations .
 One experimental run was acquired per participant for each TMS condition .
 To account for the absence of the high - current filter used in the concurrent TMS - MRI setup [29] , the TMS intensity was reduced to 63 % of total output .

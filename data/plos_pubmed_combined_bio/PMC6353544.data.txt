@@ -9,7 +9,6 @@ We included all districts within each county ( Kitui has two districts and Barin
 Within each district in Kitui , we purposefully selected the divisions with the highest and lowest number of households .
 From the two districts in Baringo with the highest population , we purposefully selected the divisions with the lowest number of households , while from the two districts with the lowest population , we selected the divisions with the highest number of households , for a total of four divisions in each county .
 Within each division , we randomly chose two sublocations , for a total of 32 sublocations representing the economic and geographic variation within each county .
-
 We tested data collection mode with two internationally - validated nutrition indicators : Minimum Dietary Diversity for Women ( MDD - W ) [44] and Minimum Acceptable Diet ( MAD ) for infants and young children [45] ( Table 1 ) .
 MDD - W accesses the micronutrient adequacy in the diet of women of reproductive age , a critical predictor of both maternal and child nutrition .
 MAD assesses the adequacy of Infant and Young Child Feeding ( IYCF ) based on both dietary diversity ( MDD ) and meal frequency ( MMF ) .
@@ -21,7 +20,6 @@ Recommended MMF is satisfied when either ( a ) breastfed infants less than nine 
 Both MDD and MMF criteria must be satisfied for MAD .
 Finally , PPI raw scores are converted into below poverty - line ( defined as $ 1.25 / day ) likelihoods using nonlinear conversion tables [46] .
 Thus , we were able to examine the equivalence between modes at three levels : population prevalence , individual indicator score , and responses to indicator subquestions .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0210050.t001 Summary of indicators .
 Sector , target population , survey length , data type , and conversion of score to prevalence for indicators in this study .1 MMF is considered a conditional step function because the inflection point of the function depends on the age and breastfeeding status of the child .2 The type of function used to convert PPI score to poverty likelihood depends on the definition of poverty used ( e.g. national poverty line , $ 1.25 / day , etc . ) .
@@ -32,12 +30,10 @@ We included two control arms to the experimental design .
 For the first control arm ( T3 ) , participants were interviewed via F2F mode in both rounds to understand potential learning and / or temporal effects .
 A fourth arm ( T4 ) of F2F interviews for respondents with no phone access was included for MDD - W , to better understand non - coverage bias in conducting studies via CATI .
 Phone access was defined as owning a mobile phone or having access to one via intrahousehold sharing and was determined by asking potential participants .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0210050.g001 Experimental design.Test - retest mode experiment on two nutrition indicators , MDD - W and MAD .
 Survey consisted of four treatment arms : two main treatment arms testing for mode differences , arm 3 controlling for temporal effects and arm 4 controlling for non - coverage bias .
 Target sample sizes are indicated .
-
 Participants were systematically assigned to treatment arms during the test round , whereby participants meeting the inclusion criteria for the indicators were alternately assigned to T1 and T2 , and every sixth house visited per day was assigned to T3 .
 For participants in T1 ( CATI first ) , phone numbers were collected and participants were called the next day .
 For participants in T2 and T3 , F2F interviews were conducted immediately .
@@ -49,7 +45,6 @@ Although attrition rates in mobile surveys can vary dramatically with mode and l
 For the power analyses , we used alpha = 0.2 and beta = 0.05 to minimize the rate of false equivalences .
 The resulting target sample size was 1000 participants , which we split evenly into the T1 and T2 arms .
 Control group sizes were chosen as 12.5 % or 125 respondents for F2F controls , and 20 % or 200 respondents for no - phone controls .
-
 Thirty - two field enumerators ( 16 men and 16 women ) and eight phone ( 3 men and 5 women ) operators were recruited from local populations in Baringo and Kitui Counties to ensure familiarity with local languages , diets , and context .
 Enumerators and operators were trained together for two days to standardize survey methodology and interpretation of responses .
 To collect phone numbers and conduct F2F interviews , enumerator teams working simultaneously in Kitui and Baringo visited each identified sublocation in sequence .
@@ -59,7 +54,6 @@ Only one participant was interviewed per household .
 Both enumerators and operators used the same survey instrument , Enketo ( Ona , Nairobi , Kenya and Washington , DC , USA ) , based on the Open Data Kit platform [48] , to collect survey data .
 Operators used Enketo ’ s web form on desktops in United Nations World Food Programme ’ s in - house call center in Nairobi to conduct CATI interviews , while enumerators used a similar offline platform on tablets for the face - to - face surveys in the field .
 All data were uploaded daily to a centralized ODK server from where raw data was then extracted and analyzed .
-
 We use F2F results as the “ control ” scores and CATI scores as the “ treatment ” , as F2F is the standard mode of nutrition data collection .
 We evaluated effect of data collection mode in several ways .
 First , paired t - tests evaluated mean score as a function of mode for participants that received both CATI and F2F modes .
@@ -77,7 +71,6 @@ Non - coverage bias was assessed by comparing dietary diversity , PPI , and demo
 The magnitude of the non - coverage bias , or the relative change in population - level estimates of dietary diversity by only surveying women with mobile phones , was estimated as RelativeBias = N2N 1 ( Y - 1 - Y - 2 ) Y - 1 Where Y - 1 and Y - 2 are the mean MDD - W scores for women with and without phone access , respectively , and ( N2N 1 ) is the proportion of women without access to mobile phones [53] .
 We estimated mobile phone access in our population from published sources [ 16 , 35 ] .
 All data analyses were conducted in R [54] .
-
 The study protocol received research clearance and ethical approval from Kenya ’ s National Commission for Science , Technology and Innovation ( NACOSTI ) , as well as the London School of Hygiene and Tropical Medicine ( LSHTM ) .
 All methods were performed in accordance with NACOSTI and LSHTM guidelines .
 For all participants , oral informed consent was obtained by the enumerator and / or operator before beginning each survey .

@@ -4,7 +4,6 @@ When we identified a relevant study , we then also investigated the articles cit
 In general , we restricted our interest to experiments in groups of at least 10 ( although we did not exclude the smaller eight - person groups in [31] for our analyses ) .
 We thus identified 21 relevant studies and contacted the corresponding authors .
 In the end , we obtained data for 18 of them .
-
 We measure wealth with the amount of points the player has amassed at the end of the game .
 We then use the Gini coefficient to measure inequality in wealth .
 A Gini coefficient of 0 indicates perfect equality where all group members have equal resources , while 1 indicates perfect inequality where a single individual commands all of the resources .
@@ -14,7 +13,6 @@ We replicated our analyses using another measure , the Theil index , and the res
 To measure cooperativeness , we calculate the mean number ( or amount ) of contributions over all periods .
 To measure the tendency for clustering , we calculate the network assortativity by cooperativeness and wealth in the final period .
 For continuous measures , which is the case for cooperativeness and wealth here , network assortativity is essentially the correlation in the measure for all connected pairs [52] .
-
 To test differences between experimental conditions for inequality , we use the Mann - Whitney U test .
 This is a non - parametric test that does not assume a normal distribution for the residuals .
 It essentially checks against the null hypothesis that a randomly selected value from one condition would be equally likely to be less than or greater than a randomly selected value from the other condition .

@@ -1,5 +1,4 @@
 All the animal care and research involved was approved by the departmental direction of veterinary services ( Ille et Vilaine , Permit number 005283 ) in accordance with the European Communities Council Directive of 24 November 1986 ( 86 / 609 / EEC ) .
-
 Mills & Faure [18] described in detail the selection procedures used to develop LTI and STI lines .
 Briefly , birds of two commercial strains where reciprocally crossed so as to constitute a common base line population for the two selected lines .
 TI was estimated when chicks were 9 to 10 days old .
@@ -10,7 +9,6 @@ When a bird failed to right itself after 300 s , it was given scores of NI betwe
 Adult females and chicks used in this study belonged respectively to the 36th and 37th generations of these genetic lines .
 A control line was also used , characterised by an intermediate TI level .
 All birds came from the INRA UEPEAT experimental unit ( 1295 ) , Nouzilly , France .
-
 For each experiment , maternal behaviour was induced in 22 STI and 21 LTI adult female quail via an original procedure facilitating rapid emergence of maternal care [17] , [26] .
 Chicks arrived in the laboratory a few hours after they had hatched and were wing banded .
 At the beginning of a dark phase , three chicks were placed underneath each female in a nest box and then each box was shut up for the night .
@@ -31,7 +29,6 @@ Brooded groups and young groups ( after separation from mother ) were housed in 
 Each cage contained a drinker , a feeder and a nest box .
 Water and food were available ad libitum .
 A 10 ∶ 14 hr light : dark cycle and an ambient temperature of 20 ± 1 ° C were maintained .
-
 Ethological tests , used for poultry , presenting different potentially fearful situations were used to assess the fearfulness of chicks [29] .
 Indeed , fearfulness is a complex trait and a combination of behavioural tests mainly aiming to induce a state of fear is usually needed to assess the susceptibility of individuals .
 Chicks were tested after separation from their mothers to avoid disrupting maternal behaviour .
@@ -48,7 +45,6 @@ Quail were tested when they were 21 days old .
 In these two procedures , birds were tested in their group and in their home - cage .
 Opaque lateral walls of the cages prevented visual contacts between groups and thereby , any possible effect of a group on the reactions of the neighbouring groups .
 A particular testing order was used to prevent the birds from seeing the experimenter just before their test .
-
 These tests were carried out in environments that were novel for the chicks .
 Chicks were caught before each test and carried gently in a wooden box ( 10 × 10 × 10 cm ) to the test room .
 Although these tests involved some contact with the experimenter , cross - test correlations were consistent with other within and between test correlations reported for domestic hens [24] , Japanese quail [31] and mammals [29] , clearly supporting the notion that these tests revealed general , non - specific fearfulness rather than only stimulus - specific responses .
@@ -73,7 +69,6 @@ Open - field test .
 Quail were placed individually in the middle of a wire - netting cylinder ( 120 cm diameter × 62 cm height ) on a linoleum floor , for 5 min .
 Hidden behind a black curtain with an observation window , the experimenter recorded latency of first step , comfort activities and active and passive fear behaviours .
 Subjects were 16 - 17 days old .
-
 Data for birds from a same mothering session were compared statistically .
 For tests performed on chicks ' brood ( hand - on - home - cage - door test and human - observer test ) , frequencies of each behavioural item were weighted by the number of chicks presented ( frequency per individual ) and used to compare data within a given session ( N chicks groups : 21 CL vs 22 CS , 20 LL vs 19 LS , 11 SL vs 16 SS ) .
 Synchronisation of siblings ' responses to human perturbation was evaluated for hand - on - home - cage - door - test .

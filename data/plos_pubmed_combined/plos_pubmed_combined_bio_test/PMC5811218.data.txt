@@ -2,7 +2,6 @@ The Beijing - Tianjin - Hebei area is usually regarded as an economic region sur
 This region encompasses nine cities , including Beijing , Tianjin , Baoding , Shijiazhuang , Tangshan , Cangzhou , Langfang , Zhangjiakou , and Chengde .
 However , in order to obtain an overview of the intercity correlation of PM 2.5 series within this region , this study includes all 17 cities that are within approximately 360 km of Beijing .
 Therefore , this study also includes Qinghuangdao , Hengshui , Chifeng , Datong , Yangquan , Dongying , Binzhou , and Dezhou ( Fig 2 ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0192614.g002 Cities in the Beijing - Tianjin - Hebei region .
 This map was generated using ArcGIS 10.2.2 ( www.esri.com ) .
@@ -24,7 +23,6 @@ This dataset is an atmospheric reanalysis dataset from NASA that uses the Goddar
 Specifically , this study used a monthly averaged atmospheric diagnosis product , i.e. , M2TMNXSLV version 5.12.4 [20] .
 The key variables in this dataset consisted of eastward and northward wind speeds at 50 m above the surface , from which wind speed and wind direction were computed .
 These data are available from NASA Modern - Era Retrospective Analysis for Research and Applications version 2 dataset ( MERRA - 2 ) website ( https://disc.gsfc.nasa.gov/datareleases/merra_2_data_release ) .
-
 This study used a visualization framework to visualize the underlying dynamic interactions of PM 2.5 time series in different cities based on the ground - based air quality monitoring data .
 The main component of the visualization framework is the cross - correlation method , which calculates intercity correlations between PM 2.5 time series in different cities .
 In the following sections , this paper will introduce the cross - correlation method , the threshold guidance and significance test for the coefficients , and the implementation and presentation of the results .
@@ -40,7 +38,6 @@ First , the correlation coefficients were calculated at different time lags ; th
 Fig 1B shows the maximum correlation coefficient occurs when the PM 2.5 time series from Qinhuangdao is shifted to the left by approximately 4 h .
 Therefore , the time lag that attained the best alignment and created the maximum correlation coefficient was determined as 4 h ( Fig 1B ) .
 As seen from Fig 1A , the best alignment between the two time series was obtained by shifting the Qinhuangdao PM 2.5 time series to the left by approximately 4 h , which is consistent with the calculation from the cross - correlation method .
-
 Threshold guidance and significance testing of coefficients : The maximum correlation coefficient in the example above is 0.697 ( Fig 2B ) , which suggests a reasonably strong correlation between the PM 2.5 time series in Beijing and Qinhuangdao .
 However , not all of the maximum correlation coefficients for PM 2.5 time series between each pair of cities attained such a desirable correlation .
 In some cases , the correlation of the PM 2.5 time series was very low , which indicated that the PM 2.5 time series were not correlated at all .
@@ -56,7 +53,6 @@ The correlation coefficient without the time lag is denoted as R ( 0 ) here .
 A value of Rmax that was significantly larger than R ( 0 ) indicates that the difference between the two coefficients is not due to random chance and that it is safe to use the time lag , Tdelay , and the maximum correlation coefficients for further analysis .
 To test the difference between two correlations , the correlations were transformed using Fisher ’ s r - to - z transformation [25] .
 Details about this transformation and calculation are illustrated in [26] .
-
 The cross - correlation method and the significance tests for coefficients are implemented using Python 2.7.5 ( https://www.python.org ) .
 All figures were drawn using Python 2.7.5 and Matplotlib 1.5.0 ( https://matplotlib.org/ ) .
 To provide a clear and intuitive presentation on the interactions between PM 2.5 time series in different cities , this study employed two different forms to display the results .

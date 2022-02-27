@@ -1,12 +1,10 @@
 Background
 The aim was to investigate changes in the prevalence and characteristics of male and female visitors to practitioners of complementary and alternative medicine ( CAM ) in a large adult population from 1997 to 2008 .
-
 Methods
 Two cross sectional adult total population health surveys from Central Norwegian ( the Nord - Tr ø ndelag Health Studies ( HUNT ) ) .
 In 1997 42,277 and in 2008 50,713 respondents were included .
 Variables included demographics ( age , education , working status ) , lifestyle ( daily smoker , did hard physical activities ) , health status ( self - rated health status , recent complaints , chronic complaints , psychiatric complaints , a range of diseases ) and health care use ( visit general practitioner , chiropractor ) .
 A test of difference between the results of multivariable logistic regression models for each year , including all variables , was used to analyse changes from 1997 to 2008 .
-
 Results
 In 1997 9.4 % ( 95 % CI 9.1 - 9.6 ) of the population had visited a CAM practitioner in the last 12 months and this increased to 12.6 % ( 12.3 - 12.9 ) in 2008 ( p < 0.001 for difference ) .
 Prevalence of CAM use in females was almost twice as high as that in males both years .
@@ -14,11 +12,9 @@ For males , the significant changes from 1997 to 2008 ( p < 0.05 ) were an incre
 There was a decrease for males who had a university degree , psychiatric complaint or hay fever .
 For females there was an increase in the odds for those under 50 years , who had a recent complaint or chronic complaint .
 It was a decrease for females with reported fair global health , psychiatric complaint , hay fever or if they had visited a chiropractor .
-
 Conclusion
 The increase in visits was mainly among younger people of both genders with more limited complaints .
 A larger proportion of the more healthy part of the population is increasing their visits to CAM practitioners .
-
 Background
 Complementary and Alternative Medicine ( CAM ) are treatment modalities outside the dominant health care system .
 Several studies have investigated the reasons why people use these practices [1] .
@@ -33,7 +29,6 @@ There are to date only few studies that have analysed whether prevalence and cha
 In USA there was an increase in total CAM use in the 1990 ' s [13] and this has been stable on a high level in the 2000 ' s [11,12] , a trend comparable to Australia for total CAM use although there has been an increase in visitors to CAM practitioners [6] .
 In smaller studies in Israel , there has been a steady increase in the proportion of adults visiting a CAM practitioner from 1993 to 2007 [7] and also Ireland saw an increase in visits from 1998 to 2002 [10] .
 To further expand on this research , the aim was to investigate changes from 1997 to 2008 in the prevalence and characteristics of male and female visitors to practitioners of complementary and alternative medicine ( CAM ) in a large adult population in Norway .
-
 Methods
 The data are from two cross sectional total population studies conducted in one county in Central Norway , the second ( HUNT 2 , conducted 1995 - 97 ) and third ( HUNT 3 , conducted 2006 - 08 ) Nord - Tr ø ndelag Health Study ( http://www.medisin.ntnu.no/hunt/ ) .
 The county and its population is considered fairly representative of Norway concerning geographical , demographic and occupational structure [15] , but have no larger cities and the population has an income and education level slightly below the national average .
@@ -49,16 +44,13 @@ CAM practitioners operate outside the government - funded health care system and
 CAM visitor
 A CAM visitor was defined as a participant who had consulted one or more CAM practitioners by answering yes to the question : " During the last 12 months , have you visited homeopath , acupuncturist , reflexologist , layer on of hands or another alternative treatment practitioner ? ( Yes / No ) " .
 There was a separate question about visits to chiropractors immediately before the CAM question , but as they are authorised health personnel in Norway , visit to a chiropractor was not included in CAM visits .
-
 Demographics
 The participants ' gender , age , marital status and education level were taken from public registers and a question on cohabitation .
 Level of education was reclassified as compulsory school , middle level education ( including vocational education below university level ) and university degree .
 Currently working were those answering yes to being in paid employment .
-
 Lifestyle
 Participants were classified as smokers or non - smokers based on whether or not they were daily smokers of cigarettes , cigar and / or pipe .
 Activity level was dichotomised to doing more or less than 3 hours of hard physical activity weekly during spare time last year .
-
 Health status
 Several measures of self reported health status were used ( question with answering categories ) :
 1 .
@@ -82,12 +74,10 @@ Hay fever : Do you have hay fever ? ( Yes / no ) .
 Cardiovascular disease ( yes to one or more of these questions ) : Do you have or have you had Acute myocardial infarction / Angina pectoris / Stroke ? ( Yes / No ) .
 11 .
 Musculoskeletal disease ( yes to one or more of these questions ) : Have you been diagnosed with Osteoporosis / Fibromyalgia / Arthritis / Artroses / Bechterew / Other longstanding musculoskeletal disease ? ( Yes / No ) .
-
 Health care utilisation
 Health care utilisation was answering yes to questions about visits the last 12 months :
 - Physician : During the past 12 months , have you visited a General practitioner / Specialist outside hospital / Psychiatric specialist in hospital / Somatic specialist in hospital ? ( Yes / No ) .
 - Chiropractor : During the last 12 months , have you visited a chiropractor ? ( Yes / No ) .
-
 Statistical Analyses
 Pearson chi - square tests were used to compare users with non - users for each year separately .
 Spearman ' s rho was used to check for co - linearity and the correlation coefficient was highest both years for currently working / age ( 1997 ; 0.410 , 2008 ; 0.561 ) and chronic complaint / global health ( 1997 ; 0.409 , 2008 ; 0.507 ) .
@@ -99,7 +89,6 @@ A ROR higher than 1 indicates higher odds of visiting a CAM practitioner in 2008
 Statistical significance accepted at the 5 % level ( p < 0.05 ) for these tests .
 The adjOR and ROR are given with 95 % confidence intervals ( 95 % CI ) .
 All data were analysed using SPSS statistics version 17.0.0 released Aug 23 . 2008 ( SPSS Inc , Chicago , USA ) .
-
 Results
 The final data from 1997 comprised 19,490 males and 22,244 females and 22,998 males and 27,715 females were included in 2008 .
 In total 9.4 % ( 95 % CI 9.1 - 9.6 , females 12.2 % , males 6.1 % ) of the population visited a CAM practitioner in 1997 and this increased significantly ( p < 0.001 ) to 12.6 % ( 95 % CI 12.3 - 12.9 , females 16.2 % , males 8.3 % ) in 2008 ( table [1] ) .
@@ -127,7 +116,6 @@ In 1997 there was no association with marital status and CAM visits , while in 2
 Both in 1997 and 2008 , being a smoker was associated with similar decreased odds of CAM visits ( adjOR 0.7 ) while doing hard physical activity was associated with increased odds in 2008 ( adjOR 1.3 ) , a statistical significant increase from 1997 ( ROR 1.4 ) .
 Having a chronic complaint was associated with increased odds of CAM visits in both years ( 1997 adjOR 1.3 , 2008 adjOR 1.4 ) , while having psychiatric complaint was only associated with increased odds in 1997 ( adjOR 1.9 ) with a reduction from 1997 to 2008 ( ROR 0.7 ) .
 In both 1997 and 2008 having a heart disease was associated with similar decreased odds of visits to CAM practitioners ( adjOR 0.7 ) , while having hay fever was associated with increased odds in 1997 ( adjOR 1.3 ) but reduced between 1997 and 2008 ( ROR 0.8 ) .
-
 CAM visits females
 For females , having poorer self reported global health was associated with increased odds of CAM visits both in 1997 ( adjOR from 1.5 for good health increasing to 3.5 for poor health ) and in 2008 ( adjOR from 1.4 for good health increasing to 2.5 for poor health ) , and although the odds was lower in 2008 it was only significantly different from 1997 for those with fair global health ( ROR 0.7 ) ( table [3] ) .
 In 1997 being between 30 and 59 years was associated with increased odds ( adjOR 1.3 ) while being above 80 years old was associated with decreased odds of visiting a CAM practitioner in 2008 ( adjOR 0.8 ) .
@@ -140,7 +128,6 @@ Being a smoker was associated with similar decreased odds for CAM visits ( 1997 
 Increased anxiety and depression score ( HADS - T ) was associated with CAM visits both in 1997 ( adj OR 1.1 for those with a score of 10 - 14 and above 20 to adj OR 1.5 for those with a score of 15 - 19 ) and 2008 ( adj OR 1.1 for those with a score of 10 - 14 to 1.3 for those with a score of 15 - 19 ) .
 Having a chronic complaint ( adjOR 1.2 and 1.4 ) or psychiatric complaint ( adjOR 1.4 and 1.2 ) was associated with increased odds of CAM visits in 1997 and 2008 , with a reduction for psychiatric complaint from 1997 to 2008 ( ROR 0.7 ) and an increase for chronic complaint ( ROR 1.2 ) .
 In 1997 ( adjOR 1.3 ) , having hay fever was associated with increased odds of CAM visits , a decrease from 1997 to 2008 ( ROR 0.9 ) .
-
 CAM visits in 2008 ; males vs . females
 There were most similarities among the characteristics of males and females CAM visitors in 2008 ( table [4] ) .
 Males had significantly ( p < 0.05 ) decreased odds of visiting a CAM practitioner compared to females if they were 50 years and older ( ROR between 0.6 to 0.5 for those 50 to 79 years old ) , had university education ( ROR 0.8 ) , were single ( ROR 0.7 ) , had higher anxiety and depression score ( HADS - T , from ROR 0.8 for those with a score of 5 to 14 to to ROR 0.6 for those with a score above 20 ) and hay fever ( ROR 0.8 ) .
@@ -149,7 +136,6 @@ Test of difference between males and females in 2008 with Ratio Odds Ratio ( ROR
 The test is based on the values given in table 2 .
 A ROR above 1 indicates that the Adjusted OR for male is higher than for female .
 * p - value < 0.05
-
 Discussion
 From 1997 to 2008 there was a significant increase in the percentages of males and females visiting a CAM practitioner .
 For males , the significant changes were an increase in odds of visiting for those under 50 years , who had a recent complaint , were widower or did hard physical activities .
@@ -185,19 +171,15 @@ Since having a recent complaint was among the variables with the largest increas
 It indicates that a larger proportion of the more healthy part of the population is increasing their visits to CAM practitioners .
 Although this study can give no answers to why this is so , one speculation might be that children who have been taken to a CAM practitioner by their parents have continued to use CAM .
 This speculation builds on the observed fact that in Norway , there was an increase in the proportion of children among patients visiting homeopaths , from one in ten in 1985 to one in four in 1998 [22] .
-
 Conclusions
 There has been an increase in the number of male and female adults who visit CAM practitioners from 1997 to 2008 .
 The most prominent changes were that younger people of both genders with more limited complaints increased among the visitors .
-
 Competing interests
 The authors declare that they have no competing interests .
-
 Authors ' contributions
 AS prepared the data file , performed the statistical analysis and drafted the manuscript .
 MBR and RJ helped to discuss the analysis and draft the manuscript .
 All authors have read and approved the final manuscript .
-
 Pre - publication history
 The pre - publication history for this paper can be accessed here :
 http://www.biomedcentral.com/1472-6882/11/61/prepub

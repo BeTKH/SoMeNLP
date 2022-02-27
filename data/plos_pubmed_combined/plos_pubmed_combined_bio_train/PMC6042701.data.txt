@@ -1,6 +1,5 @@
 All research procedures and protocols including participant recruitment materials were reviewed and approved by the University Committee on Activities Involving Human Subjects at New York University .
 Parents of participating subjects provided consent and all participating children and adolescents provided verbal assent .
-
 The CSRP program was evaluated through a cluster - randomized design , and Head Start sites were recruited based on four criteria : 1 ) receipt of federal Head Start funding ; 2 ) having two or more classrooms that offered full - day classes ; 3 ) location in a set of high - poverty Chicago neighborhoods that contained high crime rates , low rates of mobility , and a substantial portion of families living below the poverty line ; 4 ) completion of a screening self - nomination procedure [3] .
 The recruitment process led to 18 Head Start centers participating in the study , with centers grouped into pairs based on a set of 14 site - level characteristics .
 Within these pairs , which we subsequently refer to as “ blocking groups , ” sites were randomly assigned to either treatment or control , and treatment sites implemented the CSRP intervention program described above .
@@ -16,7 +15,6 @@ The participants of the study have been followed into adolescence , and the curr
 By the 2015 - 2016 follow - up year , 466 adolescents remained in the study ( 236 in the treatment group and 230 in the control group ) , and this 23 % rate of attrition did not statistically significantly differ between the groups ( p = 0.51 ) .
 At the time of the assessment , approximately 70 % of participants were in high school , and 30 % of the sample remained in middle school .
 This grade - level difference was largely due to the 2 cohort design of the study , though grade repetition and the substantial variation in student age at baseline ( M = 4.1 years , SD = .65 , range : 2.15 - 6.08 ) also contributed .
-
 Recall that the CSRP program consisted of 4 key components : 1 ) professional development to improve teacher behavior management strategies in support of children ' s self - regulation ; 2 ) MHC classroom visits to assist teachers in implementing the behavioral management program ; 3 ) MHC ’ s provision of stress reduction workshops ; 4 ) MHC services targeted at children identified as having especially severe emotional and behavioral issues .
 The intervention lasted 30 weeks , with MHC support occurring throughout the intervention .
 Full intervention details have been described in previous reports [3-5] .
@@ -26,23 +24,19 @@ These sessions were based on the Incredible Years Teacher Training Program [63] 
 For example , teachers were provided with video exemplars of being on the lookout for the opportunity to reward and praise prosocial behaviors among children whom they viewed as behaviorally difficult or misbehaving .
 This strategy of “ catching your student being good ” was demonstrated to staff as a way to break a coercive cycle of dysregulation and negative teacher attention using concrete examples , simple steps and discussion .
 Sessions were led by licensed clinical social workers , and MHC ’ s also attended each session to help foster better relationships between MHC ’ s and study teachers .
-
 The MHC ’ s were master ’ s level social workers who were required to have experience working with high - risk families in early childhood educational settings .
 MHC ’ s were recruited such that they had cultural match with teachers and children in the Head Start centers , and most spoke Spanish and English .
 In the fall and early winter months of the school year ( i.e. , the first third of the 30 - week intervention ) , the MHC ’ s first served as coaches and aides to teachers in their efforts to implement the behavioral management program in the classroom , and MHC ’ s visited treatment classrooms to provide intervention coaching .
 During mid - winter of the school year ( i.e. , the second third of the 30 - week intervention ) , MHCs held a stress reduction workshop for teachers at each site , and they also met one - on - one with teachers to discuss job - related stressors and provide strategies for mitigating burnout .
 Finally , during the last 10 weeks of the intervention , MHC ’ s worked directly with approximately 3 to 4 children per class who had been identified by teachers and MHC ’ s as needing individual attention for issues relating to behavioral and emotional dysregulation .
-
 In Table 1 , we present each follow - up measure collected next to the analogous outcome measure collected at the end of preschool .
 This table hilights the conceptual link between the original outcomes assessed and the outcomes considered in the current paper .
 Unfortunately , we were not able to collect as many measures for each construct as was originally collected at the end of preschool , but as with the end - of - preschool assessments , our follow - up indicators were also measured through both direct assessment and survey .
 We describe each follow - up measure collected during adolescence in detail below , and we provide information regarding the original end - of - preschool measures in the supplementary materials ( S1 Appendix ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0200144.t001 List of measures used in end - of - preschool evaluations and the current paper .
 Note .
 The PSRA stands for the Preschool Self - Regulation Assessment [64] , and all end - of - preschool measures are described at length in the original evaluation reports [4,5] , and we provide a brief description in the supplementary material ( S1 Appendix ) .
-
 All follow - up measures were completed as part of a 60 - to 90 - minute computerized assessment battery programmed using Inquisit 4.0.8 , a psychological measurement software capable of being tailored to execute various types of assessments [65] .
 The Inquisit software was programmed to include measures of executive function , emotional regulation , and behavioral problems into the battery .
 The battery was then presented on HP Stream 11.6 - inch notebooks .
@@ -62,7 +56,6 @@ When interpreting student performance on the task , we focused on mixed block pe
 We used the proportion of correct responses ( i.e. , the number of trials with a correct response divided by the total number of trials ) during mixed block as a measure of working memory , cognitive flexibility and inhibitory control .
 We also used mean reaction time on mixed trials minus mean reaction time on “ hearts only ” trials ( i.e. , the easiest trials ) as a measure of the effect of increased cognitive demand on basic processing speed .
 These two measures are commonly derived from the H&F task , and the H&F task has been used in other early childhood intervention evaluations [66] .
-
 We used self - reported GPA as our primary measure of adolescent academic achievement .
 Students responded to the question “ How would you describe your grades in school , ” and they were given the following set of options : “ mostly A ’ s , ” “ mostly B ’ s , ” “ mostly C ’ s , ” “ mostly D ’ s , ” “ mostly F ’ s , ” “ none of these grades , ” and “ not sure . ”
 We coded “ none of these grades ” and “ not sure ” responses to missing , and set the remaining options to a 4 - point GPA scale ( e.g. , “ mostly A ’ s ” was coded as “ 4 ” etc . ) .
@@ -73,14 +66,12 @@ We found that a minority of students ( n = 19 ) reported “ mostly F ’ s ” 
 We then recoded these 19 outlier cases to a “ C ” average , which provided a small improvement to the correlation between self - reported GPA and district - reported GPA ( r ( 172 ) = 0.68 ) .
 Thus , our final measure of self - reported GPA was on a 2 to 4 scale , which essentially created a measure with “ low , ” “ middle , ” or “ high ” categories .
 In the supplementary material ( S2 Appendix ) , we describe our analytic efforts to validate the self - reported measure with the administrative data available , and we describe models that tested whether our main GPA findings were sensitive to our decision to recode the 19 “ mostly F ’ s ” and “ mostly D ’ s ” cases to “ mostly C ’ s ” ( results did not substantively differ based on this recoding choice ) .
-
 Internalizing and externalizing behaviors were measured through student self - report on the Risks and Strengths Scale , an adapted version of the Children ’ s Health Risk Behavior Scale [71] , which was administered as the third task in the computerized assessment battery .
 On the internalizing subscale , students responded “ yes ” or “ no ” to items asking whether they felt safe , felt bad or scared due to how a peer or adult was treating them , felt unhappy , sad , or depressed , felt worthless or inferior , or felt that they had been crying too much .
 Similarly , students responded either “ yes ” or “ no ” to items on the externalizing subscale , which asked whether or not students had been involved in a physical fight , had gone out with or kissed a boy or girl , had a strong temper , were impulsive , or tried to break or destroy something .
 Internalizing and externalizing outcome variables were calculated by averaging scores for the items within each subscale .
 Thus , scores on the measures represent the proportion of times a student indicated that they engaged in either externalizing or internalizing behaviors .
 Both subscales were reliable measures for our sample , with a Cronbach ’ s alpha of .74 for internalizing and .67 for externalizing .
-
 Our measure of adolescent emotional regulation was the Emotional Go / No Go task ( EGNG ) [72] .
 Given the emotional changes and instability associated with adolescence [73] , it was important to administer a measure that could tap into inhibitory control skills specifically in the face of emotional stimuli .
 The EGNG task has been validated alongside neuroimaging techniques to display associations between task performance and neurological activity known to play a role in emotional processing [74,75] .
@@ -105,16 +96,13 @@ These three dimensions have been leveraged to understand the role of emotional r
 For “ Angry ” and “ Sad ” trials , we then calculated two measures of performance for our treatment impact analyses .
 The first was D - prime , which has been treated as the primary measure of emotion regulation in previous analyses of EGNG [72] , and it was calculated as the standardized difference between emotion - specific hit rate and false alarm rate ( e.g. , “ Angry D - Prime ” was calculated as the difference between “ Angry Hit Rate ” ( standardized ) and “ Angry False Alarm Rate ” ( standardized ) ) .
 Finally , as with Hearts and Flowers , we calculated respective measures of adjusted reaction time , which were calculated as reaction time during “ Emotion Go ” trials for either angry or sad faces minus reaction time during happy “ Emotion Go ” trials .
-
 In the supporting information ( S3 Appendix ) , we present a complete list of all baseline measures included in our treatment impact analyses .
 These characteristics , all assessed in the fall of the Head Start year , have been described at length in previous reports [4,5] .
 Here , we present a brief overview of each measure .
 Child - level demographic characteristics used in the analysis were collected from parents , Head Start site directors , and children themselves , and these characteristics included gender , age at preschool entry , and child ethnicity ( White , African American , Hispanic , multiracial , or other ) .
-
 Upon signing the CSRP consent form for his or her child , the parent or guardian completed a demographic interview .
 Family and parent characteristics used in the analyses included covariates related to family size , government assistance / support , immigrant status , parent employment , education , marital or partnership status , if the parent was African American or Hispanic , and the biological parent ’ s contact with the child .
 Income was represented via an income to needs ratio , calculated as the total family income from the previous year divided by that same year ’ s federal poverty threshold .
-
 Child baseline skills and behavior : Children ’ s self - regulatory skills and pre - academic skills were collected individually by a group of master ’ s level assessors who were blind to the treatment status of the children .
 Measures of executive function and effortful control were collected using the Preschool Self - Regulation Assessment ( PSRA ) [64] , which involved direct assessment of children ’ s performance levels or latencies on lab - based tasks that were adapted for field administration using paper , pencils , digital timers , and other materials .
 Executive function was measured with the Balance Beam task [77] and Pencil Tap [78] .
@@ -129,7 +117,6 @@ The early math skills portion of the assessment contained 19 items that covered 
 Children ’ s behavior problems were rated in the fall by teachers and teaching assistants using the Behavior Problems Index ( BPI ) [83] , a 28 - item scale modified for use by teachers .
 Items were summed into internalizing ( α = 0.80 ) and externalizing ( α = 0.92 ) subscales , and children ’ s scores were averaged across the child ’ s teacher and TA .
 Parents also reported their children ’ s behavior using the BPI , and ratings of internalizing and externalizing problems from both teachers and parents are included in this analysis .
-
 Head Start teacher characteristics were assessed through teacher report and observer ratings in the fall .
 Teachers reported on their age , level of education , and on several psychosocial characteristics that may influence their perception of their students ’ behavioral difficulty .
 Teachers completed the 6 - item K6 , a scale of psychological distress [84] , the 6 - item Job Demands , and the 5 - item Job Control subscales of the Child Care and Early Education Job Inventory [85] .
@@ -137,7 +124,6 @@ These variables were averaged across all teachers in the classroom .
 Classroom quality was collected with observational measures in the fall using four subscales of the Classroom Assessment Scoring System ( CLASS ) [86] and the Early Childhood Environment Rating Scale - Revised ( ECERS - R ) [87] .
 The CLASS was used to measure teacher sensitivity , positive climate , negative climate , and behavior management .
 Finally , class size and number of adults in the class were also added as covariates .
-
 We hypothesized that the CSRP intervention would have impacts on our measures of executive function , academic achievement , behavioral problems , and emotional regulation .
 To test our hypotheses , we began by regressing each dependent variable on treatment status and a series of blocking group fixed effects : formtok where Outcomeij represents a respective measure of adolescent executive functioning , academic achievement , behavioral problems , or emotional functioning for the ith child in blocking group j and Txij represents the treatment status dummy indicator ( coded “ 1 ” for treatment and “ 0 ” for control ) .
 We included a series of blocking group fixed effects to account for the cluster - randomized design of the study , and including the series of blocking groups also controls for cohort status , as each block was either in cohort 1 or cohort 2 .
@@ -150,6 +136,5 @@ With this regression model , we include the full set of baseline covariates in o
 Further , we adjusted standard errors for site - level clustering using the Huber - White adjustment in Stata 15.0 , and we used multiple imputation to account for all missing data on baseline covariates .
 For multiple imputation , we generated 25 multiply imputed datasets using the multivariate normal regression procedure in Stata 15.0 [90] .
 We also present results from supplementary analyses described below , including estimates that were generated by regression models that adjusted for study attrition , and we provide a host of sensitivity checks in the supplementary information files to ensure that results were not generated due to idiosyncratic features of the statistical models we chose to adopt .
-
 An anonymized version of the dataset used for the current paper has been made available at datadryad.org ( INSERT FINAL WEBSITE URL HERE ) .
 The data have been posted along with two additional files : 1 ) a “ readme ” explaining the variables contained within the dataset ; 2 ) a file containing the Stata 15.0 syntax that was used to generate the results tables shown in the main text and supplementary material .

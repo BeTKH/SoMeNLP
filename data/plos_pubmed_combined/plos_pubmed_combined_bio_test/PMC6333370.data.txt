@@ -11,7 +11,6 @@ Additionally , data regarding GDF - 15 plasma levels were also locally available
 In order to improve statistical power when predicting lymph node metastases and recurrence , the data were merged together with the current cohort when performing regression analyses .
 Data were missing for recurrence from 47 patients , histological type from 47 patients and myometrial infiltration from 49 patients , and the resulting cohort included 603 patients .
 Regarding lymph node status , data were missing for 190 patients and preoperative histology missing for 65 patients , and the cohort included 495 patients .
-
 GDF - 15 in plasma was measured by the Human enzyme linked GDF - 15 Quantakine ELISA kit ( # DGD 150 , batch # P153423 , R&D Systems , Minneapolis , USA ) .
 The ELISA was performed according to the manufacturers instructions .
 Briefly , 50 μ L plasma sample or standard was added in a 96 - well microplate coated with a monoclonal antibody specific for human GDF - 15 , and incubated for 2h in room temperature .
@@ -21,12 +20,10 @@ The absorbance was measured in a microplate reader at the wavelength of 450 nm ,
 To confirm reproducibility , a subset ( n = 102 ) were measured in duplicates .
 Clinical data were blinded while performing and evaluating laboratory investigations .
 The assay has a detection limit of 20 ng / L , an intraassay imprecision of 10.6 % or less , and an interassay imprecision of 12.2 % or less [21] .
-
 Preoperative magnetic resonance imaging ( MRI ) : In parallel , preoperative pelvic MRI scans for 141 patients were assessed to derive the following imaging variables : endometrial tumor size , signs of deep myometrial invasion , cervical stroma invasion and lymph node metastases .
 MRI was conducted on a whole body 1.5 - T MRI system ( Siemens Avanto running Syngo v. B17 , Erlangen , Germany ) using a six channel body coil applying a standardized imaging protocol [22] .
 To reduce motion artefacts 20 mg of butylscopolamine bromide ( Buscopan ; Boehringer , Ingelheim , Germany ) was administered intravenously .
 Mean time ( range ) between MRI examination and surgical staging was 1.5 ( 0 - 12 ) weeks .
-
 Statistical analyses were conducted applying Statistical Program for the Social Sciences ( SPSS ) , version 24 ( IBM Inc . Chicago , IL , USA ) .
 All p - values were two sided and p - value of less than 0.05 was considered statistically significant .
 Pearson Chi - square or Fisher exact test were used for categorical data .

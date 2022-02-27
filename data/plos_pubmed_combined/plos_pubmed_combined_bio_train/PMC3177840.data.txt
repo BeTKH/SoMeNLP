@@ -1,11 +1,8 @@
 All animal work was performed according to national and international guidelines following approved animal procedures by the Beltsville Area Animal Care Committee , United States Department of Agriculture ( Protocol no . 09 - 010 - Toxoplasmosis in mice ; approved June 4 , 2009 ) .
 This protocol is reviewed annually , and any amendments are approved separately .
-
 Growth of parasites and host cells : T . gondii strains were maintained in human foreskin fibroblasts ( HFFs ) as previously described [9] .
 PC - 12 cells obtained from ECACC ( Salisbury ) were maintained as described by the supplier .
-
 Female Swiss Webster mice infected with T . gondii VEG strain were used for histology .
-
 Immunofluorescence assay of brain sections : Immunofluorescence against multiple targets was performed on paraformaldehyde - fixed , paraffin - embedded mouse brain sections .
 Female Swiss Webster mice were infected with T . gondii VEG strain oocysts 6 - 8 weeks prior to processing .
 Tissues were collected , formalin - fixed and paraffin - embedded using standard protocols and following approved guidelines .
@@ -37,18 +34,15 @@ Immunofluorescence of tyrosine hydroxylase in cultured parasites was performed w
 Cultures of T . gondii stably expressing RFP - conjugated GRASP protein ( kindly donated by Manami Nishi from David Roos laboratory , University of Philadelphia , USA ) in human foreskin fibroblasts grown on polylysine - coated coverslips were alkaline induced for differentiation as published and differentiation monitored by counting the number of parasites in the vacuoles in the normal and pH shifted cultures .
 These conditions yielded bradyzoite forms as shown by RT - qPCR with the bradyzoite markers BAG 1 and SAG 4 [9] .
 After five days , coverslips were paraformaldehyde - fixed and probed with tyrosine hydroxylase antibody ( Cat # ab 112 , Abcam ) ( diluted 1 ∶ 500 ) with visualisation as described above .
-
 Immunohistochemical assay of brain sections : For immunohistochemical assays , sections were treated as described above , except for the following steps : for washing and dilution buffers , 0.1 M PBS supplemented with 0.1 % Tween was used .
 After antigen retrieval , slides were incubated in 0.3 % H2O 2 ( in 0.1 M PBS ) to quench endogen peroxidases .
 Following secondary antibody treatment , 5 μ g / ml HRP - conjugated streptavidin ( Cat # SA - 5004 , Vector Labs ) was applied , and next , the peroxidase substrate kit ( Vector Labs , ImmPACT ™ DAB , Cat # SK - 4105 ) was used according to the manufacture ' s protocol .
 Prior to mounting , sections were stained with haematoxylin to visualize cell nuclei .
 Imaging of slides was performed using a Zeiss Axioplan microscope equipped with DIC optics .
 Photomicrographs were collected with a Photometrics CoolSNAP camera and Improvision Openlab software .
-
 A cytochemical method was used to assess the dopamine staining of tissue cyst - containing neural cells in infected mice brain .
 Glyoxylic acid reacts with catecholamines in a gaseous reaction to form fluorescent products .
 Dopamine reacts with glyoxylic acid to form a product that specifically emits at 478 - 480 nm [17] .
-
 Dopamine accumulation and release from dopaminergic cells : The dopaminergic cell line PC 12 ( ECACC ) was infected with Prugniard strain of T . gondii tachyzoites that had been alkaline shocked to induce bradyzoite differentiation .
 Liberated tachyzoites were incubated in RPMI media at pH 8 with 1 % FCS at 37 ° C and ambient CO 2 for 16 - 18 h , then rinsed with DMEM and returned to standard PC 12 cell culturing conditions .
 PC 12 cultures were infected 2.5 × 105 - 7.5 × 105 parasites and cultured for five days prior to assay .

@@ -1,18 +1,14 @@
 Background
 Two signalling molecules that are attractive for targeted therapy are the epidermal growth factor receptor ( EGFR ) and the peroxisome proliferator - activated receptor gamma ( PPAR γ ) .
 We investigated possible crosstalk between these 2 pathways , particularly in light of the recent evidence implicating PPAR γ for anticancer therapy .
-
 Principal Findings
 As evaluated by MTT assays , gefitinib ( EGFR inhibitor ) and DIM - C ( PPAR γ agonist ) inhibited growth of 9 bladder cancer cell lines in a dose - dependent manner but with variable sensitivity .
 In addition , combination of gefitinib and DIM - C demonstrated maximal inhibition of cell proliferation compared to each drug alone .
 These findings were confirmed in vivo , where combination therapy maximally inhibited tumor growth in contrast to each treatment alone when compared to control ( p < 0.04 ) .
 Induction of PPAR γ expression along with nuclear accumulation was observed in response to increasing concentrations of gefitinib via activation of the transcription factor CCAT / enhancer - binding protein - β ( CEBP - β ) .
 In these cell lines , DIM - C significantly sensitized bladder cancer cell lines that were resistant to EGFR inhibition in a schedule - specific manner .
-
 Conclusion
-These results suggest that PPAR γ agonist DIM - C can be an excellent alternative to bladder tumors resistant to EGFR inhibition and combination efficacy might be achieved in a schedule - specific manner .
-
-http://www.src-crs.ca/en-CAhttp://www.frsq.gouv.qc.ca/en/index.shtmlIntroduction
+These results suggest that PPAR γ agonist DIM - C can be an excellent alternative to bladder tumors resistant to EGFR inhibition and combination efficacy might be achieved in a schedule - specific manner . http://www.src-crs.ca/en-CAhttp://www.frsq.gouv.qc.ca/en/index.shtmlIntroduction
 Almost all patients with metastatic bladder cancer succumb to disease , with median survival of 18 months even with the best available chemotherapeutic regimens .
 As understanding of biology of urothelial carcinoma ( UC ) improves , novel approaches need to be studied .
 Two signalling molecules that are attractive for targeted therapy are the epidermal growth factor receptor ( EGFR ) and the peroxisome proliferator - activated receptor γ ( PPAR γ ) .
@@ -38,7 +34,6 @@ A prior study has shown that PPAR γ agonists increase gefitinib ’ s antitumor
 Additionally , curcumin was shown to induce PPAR γ expression and inhibit proliferation in hepatic stellate cells [18] .
 Others have shown that curcumin can also inhibit EGFR activation and these findings further corroborate the potential crosstalk between the two signaling axes of interest .
 The aim of this study is to investigate crosstalk between these two signalling axes as they share some common downstream signalling effectors and evaluate whether combination of PPAR γ agonist and an EGFR inhibitor may overcome resistance to EGFR therapy in bladder cancer .
-
 Materials and Methods
 Cell Culture
 The UC cell line 253J B - V was generated from the 253J human UC cell line as previously described [19] and was kindly provided by Dr Colin P.N .
@@ -47,29 +42,24 @@ Anderson Cancer Center , Houston , Texas .
 The UM - UC series of urothelial carcinoma cell lines used in this study were genotypically characterised and provided by the Specimen Core of the Genitourinary Specialized Programs of Research Excellence in bladder cancer at M .
 D .
 Anderson Cancer Center [20] .
-
 Drugs
 Gefitinib ( Iressa ZD 1839 ) was supplied by AstraZeneca , London , United Kingdom ) and the orally available PPAR γ - active DIM - C was generously provided by Dr . S .
 Safe , Houston , TX as dry powder .
-
 Cell Proliferation Assay
 Bladder cancer cells were treated with different concentrations of gefitinib ( 0.001 μ M to 100 μ M ) and DIM - C ( 0.01 μ M to 10 μ M ) in EMEM ’ s supplemented with 10 % FBS for 48 hs Cell proliferation was evaluated using MTT assays ( Sigma - Aldrich , Canada ) .
 The GI 50 value was defined as the mean concentration of drug that generated 50 % of growth inhibition .
-
 Western Blot Analysis
 Cells were harvested at ∼ 75 % to 80 % confluence in lysis buffer ( RIPA ) and a cocktail of phosphatase and protease inhibitors ( Roche Diagnostics , Germany ) .
 Proteins were subjected to SDS - PAGE , transferred onto nitrocellulose membranes ( Bio - Rad , Hercules , CA ) by semidry electroblotting .
 Primary monoclonal antibodies [ EGF Receptor ( 15F 8 ) , tubulin and b - actin ( Cell Signaling Technology , New England , MA ) ] and PPAR γ ( sc - 7273 , Santa Cruz Biotechnology , California , US ) were applied to detect bands of interest .
 Additionally , the following rabbit antibodies from cell signaling were used : Akt ; phospho - Akt ( Ser 473 ) ; GSK - 3 β ; phospho - GSK - 3 β ( Ser 9 ) ; p21 Waf 1 / Cip 1 ; p44 - 42 MAPK ( Erk 1 / 2 ) ; phosphor - p44 / 42 MAPK ( Erk 1 / 2 ) .
 Anti - rabbit and anti - mouse immunoglobulins ( IgGs ) coupled to HRP / horseradish were used as secondary antibodies according to the primary antibody .
-
 Immunofluorescence
 Cells cultured in eight - well plastic chambers were washed on ice with cold PBS containing protease inhibitors ( Roche Diagnostics , Germany ) and fixed with 3.7 % paraformaldehyde .
 Cells were incubated with different concentrations of gefitinib ( 0 , 2 , 4 and 8 μ M ) for 24 hs and then incubated with mouse monoclonal PPAR γ primary antibody ( 1 ∶ 50 ) overnight .
 Immunofluorescence was revealed using anti - mouse antibodies coupled to FITC ( Alexa Fluor 488 ) or rhodamine ( CY 3 ; Invitrogen ) .
 4 , 6 - Diamidino - 2 - phenylindole ( DAPI ) was used to stain the nuclei .
 Photomicrographs were taken with an inverted Olympus IX - 81 microscope equipped with a CoolSnap HQ digital camera and the ImagePro + software ( version 5.0.1 ; Media Cybernetics ) .
-
 RNA Isolation and Real Time PCR
 Total RNA was extracted from cells using Trizol reagent ( Invitrogen , Carlsbad , CA ) , according to the protocol provided by the manufacturer .
 The synthesis of cDNA was performed using the Quantitec Reverse Transcription Kit ( Qiagen , Mississauga , ON ) .
@@ -81,7 +71,6 @@ Melting peaks of PCR products were determined by heat - denaturation over a 35 �
 The cycle numbers crossing an arbitrary threshold ( Ct ) were determined using MyIQ system software , version 1.0.410 ( BioRad , CA , U.S .A . ) .
 Fold change in target mRNA relative to β actin was calculated as follow : Fold change = 2C where Δ Δ Ct = ( Ct - Ct β actin ) X - ( Ct - Ct β actin ) Time X is time point after 3 hs gefitinib .
 Time 0 represents the experiment starting time ( no drug added ) .
-
 Bladder Tumor Xenografts
 Female nude mice ( purchased from Charles Rivers , Wilmington , MA ) were injected subcutaneously with the KU - 7 cells ( 10 cells per injection ) .
 Animals of each series ( 10 mice per group ) were randomised and assigned to treatment and a placebo arms .
@@ -92,7 +81,6 @@ Tumors were snap - frozen in liquid nitrogen for further analysis .
 This study was carried out following the Standard Operating Procedures for Care and Use of Laboratory Animals of the McGill University Animal Care Committee .
 The protocol was approved by the Facility Animal Care Committee of the Research McGill University Health Center ( Permit Number : 5428 ) .
 All surgery was performed under sodium pentobarbital anesthesia , and all efforts were made to minimize suffering .
-
 Immunohistochemistry
 Serial sections of tumor xenografts from mice treated with placebo and combination treatment ( gefitinib plus DIM - C ) were incubated overnight at 4 ° C , with primary specific antibodies against PPAR γ ( sc - 7273 mouse monoclonal IgG antibody 1 ∶ 1000 dilution , Santa Cruz , CA , USA ) , p21 ( 12D 1 rabbit antibody 1 ∶ 100 dilution , cell signaling , MA , USA ) .
 Goat polyclonal anti - rabbit IgG secondary antibody , conjugated with HRP was added and incubated for 1 h at room temperature .
@@ -100,7 +88,6 @@ Color development was performed with DAB substrate ( Sigma Aldrich , Canada ) , 
 Immunostaining was evaluated in a semiquantitative method based on the average of five foci on percentage of viable cells showing positive expression .
 Specimens were scored based on the intensity of antibody nuclear and cytoplasmic staining in each slide .
 Values were compared using unpaired Student ’ s t test .
-
 Microarray Analysis
 Bladder tumors xenografts , were sectored stained by hematoxilin and eosin and the tumors were mapped for further isolation .
 Total RNA was extracted as previously described .
@@ -113,12 +100,10 @@ The cDNA synthesis and in vitro transcription amplification were followed by hyb
 The BeadChips were imaged using Illumina ' s BeadArray or iScan reader .
 Statistical analysis and visualization of data from microarray experiments was performed using the software package FlexArray version 1.6 developed and provided by Genome Quebec .
 Functional and signalling pathway analyses were assessed using Ingenuity Pathway Analysis ( IPA ) software .
-
 Statistical Analysis
 All data were analyzed using the STATA version 10.0 software .
 Results from in vivo were compared using repeated measure ANOVA and Fischer ’ s exact test .
 P < 0.05 was considered to be statistically significant .
-
 Results
 Baseline Expression of PPAR γ and EGFR in a Panel of Urothelial Carcinoma Cell Lines
 We have previously reported that inhibition of EGFR signalling axis and activation of PPAR γ axis are both effective in significantly inhibiting proliferation of human carcinoma cells through different pathways , in part converging to PI3K / Akt , cyclin D1 , and cyclin - dependent kinase inhibitors [7] , [16] .
@@ -129,14 +114,12 @@ We did not demonstrate a correlation between baseline levels of expression and s
 We have also determined the dose response of among the urothelial carcinoma cell lines ( UM - UC 1 , UM - UC 3 , UM - UC 5 , UM - UC 6 , UM - UC 13 , RT 4 , 253JP , 253J - BV , KU 7 ) to different concentrations of EGFR inhibitor ( gefitinib ) and PPAR γ agonist ( DIM - C ) after 72 hs of treatment ( Figure 1 B ) .
 We were able to stratify several UC cell lines ranging from highly sensitive to relatively resistant to EGFR inhibition , while no significant changes were observed to justify a stratification in response to DIM - C .
 Of note , UC 5 , the most sensitive cell line to gefitinib , is different from the rest of the cell lines as it contains EGFR gene amplification .
-
 Effects of Combined EGFR Inhibitors and PPAR γ Agonists Therapy
 We investigated the antiproliferative effects of combined therapy , gefitinib and DIM - C , compared to each drug alone on bladder cancer cell growth in vitro .
 Growth and cell proliferation were monitored by MTT assays and conducted on two relatively EGFR - resistant cell lines ( KU 7 and UM - UC 13 ) .
 Cells were treated for 72 hs and used a fixed - ratio of different fractions of GI 50 ( 0.25 , 0.5 , 1.0 and 2.0 ) of each drug alone according to median effect method .
 Maximal inhibition of cell proliferation was demonstrated in the combined treatment compared to either drug alone ( Figure 2 ) .
 DIM - C rendered the resistant cells sensitive to EGFR inhibition .
-
 Effect of Combination on the EGFR Downstream Signaling and PTEN Expression
 Binding of EGFR to its ligand leads to activation of various signals , including the Ras / Raf / mitogen - activated protein kinase pathway ( MAPK ) [21] .
 Therefore , we investigated the effect of combination in the phosphorylation status of p42 / 44 MAPK ( Erk 1 / 2 ) .
@@ -144,7 +127,6 @@ As seen in Figure 3A , a significant time course deactivation of the Erk pathway
 Additionally , as previously mentioned , expression of PTEN increases in non - small cell lung cancer ( NSCLC ) treated with the PPAR γ agonists , rosiglitazone [17] .
 Therefore , we also investigated the effect of combination treatment in PTEN expression .
 As shown in Figure 3B , no difference in PTEN expression was observed , as compared to control , when cells were treated with combined gefitinib and DIM - C for 24 hs .
-
 Effects of Treatment on Bladder Tumor Growth in vivo
 To evaluate whether these findings can be translated in vivo , nude mice were inoculated subcutaneously with relatively resistant bladder cancer cells ( KU - 7 cells ) .
 The mice were treated with targeted agents via oral gavage ( PPAR γ - active DIM - Cs given 60 mg / kg 3 times per week , gefitinib given 2 mg / day 5 times per week , or both ) for 4 weeks .
@@ -154,7 +136,6 @@ Furthermore , gene expression profiling analysis of the bladder tumor xenografts
 Remarkably , cyclin - dependent Kinase inhibitor ( CDKN1A or p21 ) , which functions as a regulator of cell cycle progression at G1 , was significantly upregulated ( Fold change 2.6 , p value < 0.02 ) and this was validated by immunohistochemistry showing higher percentage of p21 positive cells in the combined arm in vivo ( 66 % vs 15 % , p < 0.001 ) ( Figure 5A ) as well as in vitro ( Figure 5B ) .
 Interestingly , it has been reported that PPAR γ plays an important role mediating the differentiation - dependent cascade expression of cyclin - dependent kinase inhibitors , thereby providing a molecular mechanism coupling growth arrest and adipocyte differentiation [22] .
 Analysis of molecular pathways and functions of the differentially expressed mRNAs of combined treatment compared to control group in bladder tumor xenografts .
-
 EGFR Inhibition Induces Gene Expression of PPAR γ in a Dose - dependent Manner
 We evaluated the effect of gefitinib on members of the PPAR γ signalling axes .
 Two resistant cells ( KU - 7 and UM - UC 13 ) were treated with different concentrations of EGFR inhibitor for 24 hs .
@@ -163,18 +144,15 @@ As shown in Figure 6A , a dramatic induction of PPAR γ expression was observed 
 Interestingly , a nuclear accumulation of PPAR γ was also observed following its upregulation , which is in fact the active form of the receptor . ( Figure 6B ) .
 These findings were confirmed in vivo , as seen in Figure 7 , that shows PPAR γ expression is higher among the xenograft tumors treated with gefitinib as compared to the placebo group .
 Of note , a nuclear staining was also observed , suggesting a nuclear translocation of PPAR γ following induction of its expression .
-
 Schedule - specific Efficacy of Combination Therapy
 If cells are sensitized to EGFR inhibition via induction of PPAR γ expression , then one would expect that efficacy of combination therapy may also be significantly affected and improved by sequence of administration of gefitinib and DIM - C .
 In fact , we observed marked effect on proliferation among three relatively resistant and one sensitive cell lines to gefitinib ( KU - 7 , UM - UC 3 ; UM - UM 13 ) when cells were pre - treated with gefitinib for 24 hs to allow for induction of PPAR γ expression compared to when the cells were simultaneous exposure to gefitinib and DIM - C ( Figure 8 ) .
 These findings strongly suggest PPAR γ agonist could significantly sensitize UC cell lines , particularly those that were resistant to EGFR inhibition , in a schedule - specific manner and provide an excellent potential for combination therapy .
-
 C / EBP β Expression After Gefitinib Induced - PPAR γ Expression
 Considerable evidence indicates that CCAAT / enhancer - binding protein beta ( C / EBP β ) acts as a transcriptional activator for PPAR γ genes [23] , [24] .
 This belief is supported by the fact that the proximal of its promoters possess C / EBP regulatory elements that are essential for transactivation of PPAR γ promoter - reporter transgenes .
 Here we report compelling evidence that sequential induction of PPAR γ expression by EGFR inhibition is mediated by C / EBP β ( Figure 9 ) .
 When cells were pre - treated with gefitinib at the same concentrations used to induce expression of PPAR γ , an increase in C / EBP β was also observed suggesting gefitinib induced - PPAR γ expression may be mediated by C / EBP β .
-
 Discussion
 Results from a large body of preclinical studies and clinical trials suggest that targeting EGFR represents a significant contribution to cancer therapy .
 However , the issue of constitutive resistance in a large number of patients and the development of acquired resistance in the responders remains an unexplored subject of investigation .

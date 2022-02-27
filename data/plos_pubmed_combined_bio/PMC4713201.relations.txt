@@ -31,11 +31,6 @@
 
 
 
-
-
-
-
 Citation_of	[40]	20	1	mothur	4	0;;
-
 
 

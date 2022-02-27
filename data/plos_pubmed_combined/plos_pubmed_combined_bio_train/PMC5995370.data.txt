@@ -24,14 +24,12 @@ At the national level , education rates remain low , despite recent policies to 
 In October 2006 , Benin implemented part of the promise of its 1990 Constitution tasking the State with ensuring free public education and making primary school compulsory ( Articles 12 and 13 ) .
 On October 14 , the Council of Ministers decreed free public schooling for all , but this was implemented only at the primary level .
 As of 2010 , responding to a dire gender disparity in secondary education , the government has gradually exempted female students from paying school fees for the first cycle of secondary education as well .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0198240.g001 Educational attainment and mobile phone usage / ownership in Benin , 2005 - 2017 . ( a ) Educational Attainment by Gender .
 Educational attainment has risen over the past decade in Benin , but at different rates for men and women , particularly for secondary school . ( b ) Mobile phone usage ( Afrobarometer rounds 3 & 4 ) and ownership ( Afrobarometer rounds 6 & 7 ) in Benin .
 Access to mobile technology has risen rapidly over the past decade .
 Location of Benin shown in inset ( red ) .
 Responses from Afrobarometer rounds 3 - 7 ( 2005 - 2017 ) [1] .
-
 The country ’ s efforts to expand public education have paid off to some extent .
 Indeed , the proportion of Beninois who have completed at least primary education rose from 29 % in 2005 to 43 % in 2017 .
 But gains have been slower in secondary education , where school fees come into effect .
@@ -44,7 +42,6 @@ At the same time , as it has across sub - Saharan Africa , mobile phone usage an
 In 2008 ( Afrobarometer Round 4 ) , just over half of the surveyed respondents nationally reported ever using a mobile phone ; by 2017 , over 91 % of respondents reported that they or someone else in their household owned a mobile phone .
 Our solution thus leverages two facts about rural households in Benin to make remittances work better : rural households want to send their children to school , and they own cell phones .
 A mobile money school - fee payment system thus promises to solve the above - challenges : rural households already have access to mobile phones ; remittance - senders have control over the use of their remittance ; and mobile money transactions are private .
-
 Our product is a bundle of three technologies , developed between May and October 2015 and refined from October 2015 to October 2016 , meant to address key needs in remittance networks and rural education , and to catalyze mobile money uptake and use more broadly .
 These components , their rationale , and details of their development are described below : A mobile money platform : The individual - to - institution capability was developed in conjunction with MTN , our mobile provider partner , to interface with their existing mobile money platform , called ‘ MoMo ’ .
 It is a USSD menu - based interface , designed by our team , for use on feature phones .
@@ -67,7 +64,6 @@ SMS - based messaging platform : At present , any communication between school a
 The messaging platform uses MTN and Moov ( the other main network in the pilot region ) modems to distribute mass SMS messages to subsets of the greater school community .
 This could be an announcement by the administration about a meeting , school closure , or exam date to the entire student body , or a distinct and targeted fundraising appeal to donors who have used the mobile money based payment system .
 The messaging platform is integrated with the student and payment database , and designed for easy use by administrators with low technological proficiency .
-
 The pilot implemented the innovation in Kalale , Benin , a commune of approximately 170,000 people , 80 to 90 % of whom depend on agriculture for their livelihoods , and where the median resident survives on less than $ 1.90 a day [22] .
 We chose Benin in part because our team already had extensive fieldwork experience , a network of relations , and a history of successful interventions previously implemented in collaboration with a local community - based development organization there .
 In June 2014 , our team traveled to Benin to introduce the idea to the pilot school and to discuss our innovation with stakeholders at all levels - the school administration , students , the parent - teacher organization , the local community - based development organization , commune administrators , members of the diaspora within Benin ( who pay school fees for dozens of students ) , the two main cell phone companies , and the Ministries of Secondary Education and of Telecommunication .

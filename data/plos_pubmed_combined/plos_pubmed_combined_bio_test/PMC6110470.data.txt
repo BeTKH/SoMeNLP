@@ -10,10 +10,8 @@ The majority of subjects derived from multiplex families with at least 2 affecte
 RE cohort : This cohort included 204 unrelated Rolandic patients of European ancestry which were recruited from centers in Austria ( n = 107 ) , Germany ( n = 84 ) , and Canada ( n = 13 ) .
 Control cohort : We used 445 females and 283 males ( 728 in total ) from the Rotterdam Study as population control subjects [22] .
 The same cohort was recently used for the screening of 18 GABAA - receptor genes in RE and related syndromes [23] .
-
 Our primary analysis workflow included three major steps as shown in Fig 1 .
 These are 1 ) data pre - processing , 2 ) SNV / INDEL analysis and 3 ) copy number variant analysis .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0202022.g001 Flowchart of the analysis steps .
 Parameters used in each step are described in detail in the methods section .
@@ -44,18 +42,14 @@ In the current study , we focused only on deletions , as the false positive rate
 CNV calls were annotated using bedtools version 2.5 [36] .
 NCBI RefSeq ( hg 19 , 20150322 ) was used to identify the genes that lie within the deletion boundaries .
 CNV filtering : The detected deletions were filtered based on the following criteria : 1 ) Z score < - 3 , given by XHMM ; 2 ) Q _ SOME score ≥ 60 , given by XHMM .
-
 Burden analysis of large and rare deletions : Excess deletion rate of the large deletions ( length > 400 kb ) in subjects with epilepsy compared to the controls was measured as described in [13] using PLINK version 1.9 [29] .
 We set the overlap fraction to 0.7 ( 70 % ) and the internal allele frequency cut - off < 0.5 % and evaluated the significance empirically by 10,000 case - control label permutations .
-
 The CNVs that are unique for cases ( not present in any of the in - house controls ) and occur at a low frequency , i.e. , present in ≤ 2 independent cases , while having a frequency of ≤ 1 % in the CNVmap , the DGV gold standard dataset [37] and 1000 genomes SV [38] were selected and subjected to further analysis as described below .
-
 We proceeded by visual inspection of depth variation across exons of the filtered deletions ; we also performed qPCR validations of three small deletions , two of which , NCAPD 2 and CAPN 1 , stood the filtering procedure ( see Table 1 ) .
 For RE patients , genomic DNA samples were analysed using the Illumina OmniExpress Beadchip ( Illumina , San Diego , CA , USA ) [13] .
 Twenty - three of 60 CNVs present in the RE patients were validated by available array data ( S1 Table ) .
 Generally , small CNVs cannot be reliably identified with SNP arrays [39] .
 Indeed , of the 37 CNVs that were not identified in the beadchip data , 23 have a size of < 10 kb , whereas only 2 of the 23 validated CNVs have a size of less than 10 kb according to the array data .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0202022.t001 Epilepsy associated microdeletions .
 Compound heterozygous mutations and protein - protein interactions : We checked for concurrence of a deletion in one allele and a deleterious variant in the second allele .
@@ -63,17 +57,13 @@ We included the first order interacting partners from the protein - protein inte
 We excluded all genes that had no HGNC ( HUGO Gene Nomenclature Committee ) entry resulting in a network of 13,364 genes and 140,902 interactions .
 This network was then further filtered for interactions likely to occur in brain tissues using a curated data set of brain - expressed genes [41] .
 The final brain - specific PPIN consisted of 10,469 genes and 114,533 interactions .
-
 Genes that were expressed in brain [42] and located within deletion boundaries were used as input for an enrichment analysis using the Ingenuity Pathway Analyser ( IPA ™ ) [43] .
 We performed the enrichment analysis with all deleted genes from the RE and GGE samples together as well as for each phenotype separately .
-
 To assess whether the deleted set of genes were enriched in known epilepsy - associated genes , we retrieved genes that were associated with the disease term “ epilepsy ” from the DisGeNET database [44] .
 Then we compared the overlap between the brain - expressed genes that are deleted in RE ( n = 85 ) , GGE ( n = 49 ) and RE + GGE ( n = 134 ) against the brain - expressed epilepsy - related genes in DisGeNet ( n = 674 ) .
 We used the total number of brain - expressed genes ( n = 14,177 ) as the background .
 The R GeneOverlap package ( https://bioconductor.org/packages/release/bioc/html/GeneOverlap.html ) was used to compute the p - value .
-
 The CNV tolerance score was used as defined in [45] .
 The CNV tolerance and deletion scores for the genes that are deleted in our study were obtained from the ExAC database [46] and their enrichment in GGE and RE cases was assessed by the Wilcoxon rank sum test .
-
 The overlap between the different data sets was obtained by gene symbol matches between the detected gene deletions and the gene lists from different databases ; more details are given in the discussion section .
 A workflow depicting the steps above is shown in Fig 1 .

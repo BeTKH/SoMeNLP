@@ -33,7 +33,6 @@ We use this model to explore how the probability of a VDPV outbreak changes for 
 The model of Sabin virus spread during the n SIAs described above can be reformulated ( Section A .2.1 in S1 Text ) and using this equivalent version , some system ’ s properties can be studied analytically , leading to a more general understanding of the model ’ s behaviour .
 Very briefly , we show that multiple rounds of SIAs with the same coverage v are equivalent ( in terms of the proportion of individuals infected with Sabin at some point and the proportion who remains susceptible after the SIAs ) to a single round of SIA with vaccine coverage given as a certain function of v , w and n .
 For interested readers , the equivalent version of the model and the analytical results that can be obtained are given in Section A .2 in S1 Text .
-
 Stochastic compartmental model : routine immunisation and SIAs : We wish to study the risk of VDPV emergence and spread in the context of OPV withdrawal .
 It is thus necessary to extend our previous conceptual framework to include routine immunisation .
 In order to include both routine and supplementary immunisation , we constructed a stochastic compartmental model of Sabin virus and VDPV spread that also considers births and deaths .
@@ -49,7 +48,6 @@ Routine immunisation with tOPV was assumed to stop at 6 months and the last tOPV
 We defined the risk of a VDPV 2 outbreak after OPV 2 withdrawal as the probability of having > 200 incident VDPV 2 infections during the 6 months following OPV 2 withdrawal ( robustness of this threshold for increasing population size is explored , Fig F in S1 Text ) .
 This corresponds to a probability of approximately 20 % of observing a case of poliomyelitis , given a case - to - infection ratio for serotype 2 of approximately 1 : 800 ( based on data indicating 4 - 5 times lower pathogenicity for this serotype compared with serotype 1 [18] , which has a case - to - infection ratio of about 1 : 150 [19,20] ) .
 We performed 500 simulations for each scenario and present the proportion of simulations that resulted in this outcome .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.ppat.1005728.g001 Illustration of results from the stochastic dynamic mathematical model of VDPV 2 emergence and spread .
 The model is simulated for 1 year and a population of 10,000 individuals , starting from a VDPV - free equilibrium that includes routine immunisation .
@@ -57,11 +55,9 @@ OPV 2 withdrawal occurs at 6 months ( red arrow ) and the last tOPV SIA is assum
 SIAs are implemented 4 weeks apart .
 We define the risk of a VDPV 2 outbreak after OPV 2 withdrawal as the probability of having > 200 incident VDPV 2 infections during the 6 months following OPV 2 cessation .
 In this illustration , the grey lines represent the number of VDPV infected individuals over time for 20 different simulations of the model assuming 20 % routine immunisation coverage and 3 tOPV SIAs with 80 % coverage implemented before OPV 2 withdrawal .
-
 For both models ( the SIA - analytical and the stochastic dynamic ) , the probability of vaccine “ take ” was set at w = 0.55 [21] and the reproduction number of Sabin virus was assumed to be < 1 and fixed to R 0S = 0.5 .
 The reproduction number of VDPVs was set at R 0V = 5 , similar to estimated values for wild poliovirus [22] .
 Finally , the probability of Sabin virus reversion to VDPVs was set at ρ = 5 × 10 − 4 , although we explored sensitivity of our results to this value .
-
 Risk factors for VDPV 2 emergence and spread in Nigeria ( 2004 − 2014 ) : Multiple emergences of VDPV 2 were identified in Nigeria during 2004 − 2014 on the basis of detection of virus in stool collected from children with AFP and phylogenetic analysis of the P1 / capsid region [15,23] .
 We recorded the district of residence and date of onset of paralysis for the first case of AFP associated with each of these independent emergences .
 We created a database for all the districts of Nigeria for the period 2004 − 2014 that included variables describing routine immunisation coverage , serotype - 2 population immunity , the number of tOPV SIAs in the preceding 6 months ( since VDPV 2 emergence will precede detection in a child with AFP by about this time period , based on observed genetic divergence from the Sabin virus [23,24] ) , and demographic variables including mean household size , population density and annual number of births ( Section B in S1 Text ) .
@@ -69,7 +65,6 @@ We compiled the data for 6 - month periods , defined as April - September and Oc
 This resulted in 772x 19 = 14,668 district 6 - month observations ( from April 2004 to September 2014 ) .
 Serotype - 2 population immunity was estimated among children 0 - 2 years old based on the vaccination histories of children with non - polio AFP and the SIA calendar ( Section C in S1 Text ) .
 Routine immunisation coverage was estimated interpolating data across the whole country for three doses of diphtheria - tetanus - pertussis ( DTP 3 ) vaccination from the Demographic and Health Surveys ( DHS ) [25] clusters ( Section D in S1 Text ) .
-
 We used a “ case - control ” approach to compare districts in a given 6 - month period where VDPV 2 emergences occurred with districts in a given 6 - month period where there were no VDPV 2 emergences .
 In this framework , a “ case ” was defined as a district over a 6 - month period ( district − 6 - months ) where the first AFP case associated with a VDPV 2 emergence was detected .
 A “ control ” was defined as a district − 6 - months with no VDPV 2 emergences .

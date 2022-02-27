@@ -34,8 +34,6 @@
 
 
 
-
-
 Version_of	1.1	92	1	Gower	59	0;;URL_of	www.pbarrett.net/software.html	98	2	Gower	59	0;;
 
 

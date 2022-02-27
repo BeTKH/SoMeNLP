@@ -29,20 +29,16 @@ Simplified version adapted from Alessandrini H , Oberladstatter D , Trimmel H , 
 NACA - Scoringsystem .
 Notfall + Rettungsmedizin 2012 ; 15 : 42 - 50 .
 Abbreviations : CPR , cardiopulmonary reanimation .
-
 Evaluation of subjective workload via NASA task load index : In line with prior work in the field of anesthesia [9] , a six - dimensional version of the NASA - tlx was used for the evaluation of subjective workload ; it included the categories mental demands , physical demands , temporal demands , performance , effort , and frustration [25] .
 Each rating scale ranges from 0 to 20 ; the steps do not have an additional description .
 For the study a German transcription of the simplified paper and pencil version of the NASA - tlx provided on the online appearance of the NASA was used [26] .
 An English translation of the query as well as the German version used for the study are provided in the supplementary material ( S1 Text ) .
-
 Based on the times gathered from the physician ’ s protocols , the timespan from the physician ’ s arrival at the patient to the handover of the patient at the admitting emergency ward was identified .
 Due to their high potential to differentiate workload in emergency medicine [15] as well as in anesthetists providing general anesthesia [9] , PeEn and mean HR were included in the analysis [ 9 , 27 ] of these ECG segments .
-
 Evaluation of physician pre - sortie anxiety related to the alarm code : The physicians were asked to complete a survey on their strain when reading a certain alarm code .
 Therefore , a query presented all alarm codes that occurred during the study period ( N = 99 ) in a randomized order .
 The physicians were asked to rate each alarm code .
 The Likert scale ranged from ‘ not nervous at all ’ ( 1 ) to ‘ very nervous ’ ( 5 ) .
-
 To evaluate the NASA - tlx , descriptive statistics for the NASA - tlx scores and the physician ’ s physiological workload correlates according to NACA scores were computed .
 It was accounted for repeated measurements within subjects .
 Thus , general linear mixed models ( GLMM ) were used to explore differences among the subjective and physiological workload correlates .

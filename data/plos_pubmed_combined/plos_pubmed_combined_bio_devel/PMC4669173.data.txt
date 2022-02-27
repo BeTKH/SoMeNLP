@@ -7,7 +7,6 @@ The number of mice was determined by our previous data and power calculation .
 Statistical Analysis was performed to determine whether the combinations of different types of mice are statistically different for experimental designs .
 If the analysis indicated it was valid to continue , individual group and the combinations of group × treatment were compared by use of the Bonferroni corrected t - test .
 Based on our design , we performed power calculation to see whether we have enough power to detect the differences ( http://www.stat.uiowa.edu/~rlenth/Power/ ) .
-
 Transient occlusion of bilateral common carotid arteries : The procedure to induce transient cerebral ischemia was conducted as previously described [ 64 , 65 ] .
 Briefly , surgical anesthesia was induced with isoflurane ( 3 % ) in a mixture of nitrous oxide and oxygen ( 70 : 30 ) .
 Anesthesia was maintained throughout the procedure with isoflurane ( 1.2 - 1.7 % ) delivered via a face mask .
@@ -20,7 +19,6 @@ Acetated Ringer ' s solution ( 0.5 mL ) was administered subcutaneously to all t
 All mice were housed in a temperature - controlled facility .
 Fast blood glucose levels were measured at the following time points : before the operation , 3 days post operation , 7 days post operation and 14 days post operation ( S1 Fig ) .
 14 days after the surgery , the mice were subjected to experiments .
-
 Mice brain mitochondria were purified as we previously described [ 24 , 66 ] .
 Briefly , brain cortex were dissected and placed in ice - cold isolation buffer [ 225 mM mannitol , 75mMsucrose , 2mM K2PO 4 , 0.1 % BSA , 5mM Hepes , 1mMEGTA ( pH 7.2 ) ] followed by a homogenization for 10 strokes using a Dounce glass homogenizer .
 The resultant homogenate was centrifuged at 1,300 g for 5 min to remove cell debris , and the supernatant was layered on a 10mL discontinuous gradient of 15 % ( vol / vol ) Percoll and centrifuged at 16,000 rpm on a Sorval RC 5C ( Rotor SS 34 ) for 10 minutes .
@@ -28,29 +26,24 @@ The resultant pellet was collected and subsequently resuspended in mitochondria 
 After a centrifugation at 8,000 rpm for 10 minutes , the pellet was collected and resuspended in cold mitochondrial isolation buffer .
 Mitochondrial protein concentration was determined by Bio - Rad protein concentration kit with BSA as standard .
 The purity of mitochondria was determined as we previously described [25] by using immunoblotting .
-
 Mitochondrial respiration assays were performed following our previously published method [24] .
 Purified mitochondria were energized by glutamate ( 5mM ) and malate ( 5mM ) and subjected to respiration assays on a Clark electrode .
 Oxygen consumption was triggered by the addition of ADP ( 25 μ M ) .
 The mitochondrial respiratory control ratio was defined as the ratio of State III respiration / State IV respiration .
-
 Samples were prepared in 1x sample loading buffer [ 50 mM Tris - HCl pH 6.8 , 2 % SDS , 10 % glycerol , 1 % β - mercaptoethanol , 12.5 mM EDTA and 0.02 % bromophenol blue ] and proteins were separated by SDS / PAGE ( 10 % or 12 % Bis - Tris gel ; Life technology ) , and then transferred to a PVDF membrane for blotting ( BioRad Laboratories ) .
 After blocking in TBS buffer ( 20 mM Tris - HCl , 150 mM sodium chloride ) containing 5 % ( wt / vol ) nonfat dry milk for 1 h at room temperature , the membrane was then incubated and gently shaken overnight ( at 4 ° C ) with primary antibodies .
 This was followed by the incubation with the appropriate secondary antibody for 1 h at room temperature .
 The following antibodies were used in this experiment : MFN 2 ( # 9482 , Cell Signaling Technology ) , OPA 1 ( # 612606 , BD Transduction Lab ) , DLP 1 ( # 611112 , BD Transduction Lab ) , pDLP 1 ( # 3455 , Cell Signaling Technology ) , VDAC ( # 4866 , Cell Signaling Technology ) , β - Amyloid ( # 8243 , Cell Signaling Technology ) , HSP 60 ( # 4870 , Cell Signaling Technology ) , Goat anti - mouse IgG HRP conjugated and goat anti - rabbit IgG HRP conjugated ( Life technology ) .
 Images were collected on BioRad Chemidoc Imaging System .
 Image J software ( National Institutes of Health ) was used for data analysis .
-
 For paraffin - embedded brain section , the slides after deparaffinization and rehydration were subjected to antigen retrieval by boiling in citric acid buffer for 15 minutes .
 After blocking , the slices were incubated with antibodies against 4 - HNE ( ab 48506 , Abcam ) .
 After washing in PBS , the slices were probed with anti - rabbit IgG conjugated with Alexa 594 ( Life technology ) .
 Images were collected on a Nikon confocal microscope and analyzed by using Nikon NIS Advanced Research software .
 A negative control using primary antibody preabsorbed with 4 - hydroxy - 2 - nonenal - diethylacetal ( OXIS Research , Inc . ) was used to determine the threshold of positive 4 - HNE staining .
 The images were binarized before analysis and the intensity was measured as previously described [67] .
-
 ELISA assay for brain and mitochondrial A β Measurement : Mouse cortex or mitochondrial fractions were incubated in 5 M guanidine HCl and 50 mM Tris HCl ( pH 8.0 ) overnight and then subjected to A β concentration detection using human A β 1 - 40 and A β 1 - 42 ELISA kits ( Life technology ) following the manufacturer ’ s instructions [ 24 , 25 ] .
 The level of A β was presented as ng / mg protein .
-
 Histological Assessment of A β Plaque : Mice after anesthesia ( Isofluorane ) were subjected to intracardiac perfusion [68] using saline followed by 4 % paraformaldehyde .
 Brain tissues were dissected and equilibrated in 30 % sucrose .
 Sections were cut at 20 μ m on a cryostat ( Thermo scientific ) .
@@ -61,7 +54,6 @@ After washing in PBS , the sections were incubated in HRP - conjugated Extraevid
 Images were collected on an Olympus microscope .
 The percentage of occupied brain area and the intensity of the plaque were determined for each sample using the Image J program ( NIH ) .
 Data from 3 slices per brain sample , spaced every 1 mm were averaged .
-
 In situ detection of mitochondrial superoxide levels : We performed In situ detection of mitochondrial superoxide levels by using Mitosox Red as we previously described [24] .
 Briefly , MitoSox Red ( Life Technology ) at 1mg / kg body weight was intravenously injected via the mouse tail vein .
 30 min after the injection , the mice were anesthetized the mice and sacrificed by transcardial perfusion with cold saline and then cold , freshly prepared 3.7 % paraformaldehyde .
@@ -73,7 +65,6 @@ We then examined sections under a fluorescence microscope immediately after the 
 The images were binarized for the analysis of MitoSox Red intensity .
 Brain sections from mice were blindly coded and processed in parallel .
 Codes were broken after the analysis was complete .
-
 Morris water maze was conducted to access the mice spatial learning and reference memory according to previously described protocol [69] .
 Briefly , mice were trained to find a submerged escape platform in an open swimming arena .
 Repeated trials ( n = 4 ) were performed each day for 9 days by starting the mice at different non - congruent start locations ( NW , N , NE , E , SE ) while keeping the platform at a single location ( SW ) .
@@ -81,7 +72,6 @@ Each trial lasted 60 seconds with an additional 30 seconds learning time where m
 After 9 days learning , mice were subjected to a probe test in which the platform was removed .
 Mice were analyzed for number of times they passed previous learning time platform location ( SW ) .
 Behavior data was analyzed using HVS Image 2015 software ( HVS Image ) .
-
 Mouse neuron culture and treatment : Neurons were cultured as previously described [25] .
 Briefly , mouse primary neurons were cultured in neuron culture medium ( neurobasal A with 2 % B27 supplement , 0.5mM L - glutamine , 50U / ml penicillin , and 50 μ g / ml streptomycin ) with an appropriate density .
 Neurons at Div 7 days were exposed to vehicle or oligomeric A β ( 200 nM ) in the absence of presence of mitotempo ( 10 μ M , Sigma ) for a co - incubation of 24 hours followed by glucose - and oxygen - deprivation ( OGD ) [70] .
@@ -90,17 +80,13 @@ Cultured neurons were then placed in an anoxic chamber ( NAPCO , Precision Scien
 Oxygen levels were maintained below 1 % O2 .
 Control neurons were washed with PBS and the culture medium was replaced with glucose - containing EBSS with vehicle or oligomeric A β treatment in the absence or presence of mitotempo in a regular 5 % CO 2 cell culture incubator .
 After the treatment , the neurons were then maintained in regular culture medium with or without Mitotempo in a regular 5 % CO 2 incubator .
-
 TUNEL assay was performed by using in situ colorimetric cell death assay kits from Promega following the manufacturer ' s instruction .
 The extent of brain damage was represented as number of TUNEL - positive cells per mm 2 and the cell death of cultured neurons was evaluated by the percentage of TUNEL - positive neurons .
-
 Oligomeric A β 1 - 42 was prepared as previously described [71] .
-
 Mitochondrial superoxide was determined as previously described by using Mitosox Red ( Life technologies ) [22-24] .
 Neurons were incubated with 2 μ M MitoSox Red and 200 nM mitotracker green ( Life Technology ) for 30 minutes followed by washing .
 The images of Mitosox Red staining were collected on a Nikon inverted confocal microscope with on stage incubator .
 The intensity was subsequently analyzed by using Nikon NIS Advanced Research software .
-
 Two - way ANOVA followed by Bonferroni post hoc analysis or Student t tests wherever appropriate were used for repeated measure analysis on SPSS software ( IBM software ) .
 The distribution and variance were normal and similar in all groups .
 P < 0.05 was considered significant .

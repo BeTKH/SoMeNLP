@@ -14,11 +14,9 @@ In contrast birds that were stressed with the harness were more prone to make sh
 Although belonging to two closely - related species [31] , the two individuals were similar in morphometry ( Table 1 ) and are thus expected to face similar constraints for soaring - gliding flight .
 Weather conditions were recorded at the site on the day of each experiment and for each flight .
 Two conditions prevailed during experiments : sunny days with no cloud cover and days with 100 % cloud cover .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0084887.t001 Morphometry and flight characteristics of the two vultures in different weather conditions .
 Values are mean ± SD with sample size in brackets .
-
 Vultures were equipped with bio - loggers including a GPS , a 3 - axial accelerometer , and an electrocardiogram recorder ( ECG ) .
 The 3D positions of birds were recorded 4 times per second using the high - precision GPS module ( Gipsy 1 , Technosmart , Italy ) .
 We performed immobility tests under open sky to assess the precision of the GPS loggers by calculating standard deviation around mean values of longitude , latitude and altitude ( respectively 0.8 , and 1.7 and 1.2 m ) .
@@ -28,7 +26,6 @@ Two electrodes were clipped on each side of the thorax and one on the middle of 
 The GPS , accelerometer and ECG were taped together and attached to a harness , which consisted of an aluminium plate ( 100 × 60 mm ) and two Teflon ribbon strips ( with silicon tubing for elasticity ) .
 The plate was positioned approximately at the centre of gravity on the back of the bird and held by leg - loops [33] , [34] .
 The total mass of the harness and loggers was 215 g which represented < 1.5 % of total body mass .
-
 ECG and acceleration data were processed using a program developed on Igor Pro for this purpose ( Wavemetrics , USA ) .
 The vectorial Overall Dynamic Body Acceleration ( generally called ODBA or VeDBA ) was calculated from the acceleration values , allowing identification of periods of inactivity ( resting or soaring - gliding ) and activity ( walking or flapping ) [35] - [37] .
 At first the dynamic acceleration was calculated for each axis by subtracting the smoothed acceleration from total acceleration .
@@ -48,7 +45,6 @@ We defined the “ baseline ” HR as the value when birds were “ resting ” 
 We considered HR as a proxy for metabolism since HR measured in a resting Eurasian griffon vulture as well as other birds is correlated with oxygen consumption [29] [16] .
 We collected data for a total of 255 min of flight but variability in HR patterns , inter - and intra - individual variations could not be statistically assessed with only 2 individuals .
 We thus presented only mean ± SD values .
-
 The study was not specifically approved by an ethical committee as a permit for equipping vultures with loggers was provided as part of the licence of O .
 Duriez from the Research Centre for Bird Population Studies ( CRBPO ) of the Natural History Museum ( MNHN , Paris ) .
 According to the French law of 22 September 2008 , the CRBPO has the delegation by the Ministry of Ecology , Energy , Sustainable Development and Land Settlement for allowing the owners of a general bird ringing licence to capture and handle birds from protected species and mark them ( with rings or any devices like loggers ) .

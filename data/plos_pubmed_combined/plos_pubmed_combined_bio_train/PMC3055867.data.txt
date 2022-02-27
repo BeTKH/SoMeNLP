@@ -2,18 +2,15 @@ Twenty - six undergraduate or graduate students ( 11 males , mean age 22 years ,
 Three participants were excluded from the analyses because of excessive head motion .
 All participants were in good health with no previous history of psychiatric or neurological disease , and they gave written informed consent .
 The study was approved by both the Institutional Review Board of the Institute of Psychology , the Chinese Academy of Sciences , and the Institutional Review Board of the Beijing MRI Center for Brain Research .
-
 We constructed 60 pairs of two - outcome monetary bets : one featuring a high probability of winning / losing a modest amount of money ( the P bet ) , and the other featuring a low probability of winning / losing a relatively large amount of money ( the $ bet ) ( Figure 1A ) .
 Outcome probabilities of the P bet ranged from 81 % to 97 % in 2 % or 3 % increments , and the outcome probabilities of the $ bet ranged from 19 % to 39 % in 2 % or 3 % increments .
 The expected values for the P bets and the $ bets ranged from Chinese Yuan ( CNY ) ± 16 to ± 44 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0014756.g001 Task trial structure.A .
 Trial types .
 B .
 Trial timing .
 Two bets were presented and the participants ' task was to indicate their decision by pressing one of two buttons on a response pad .
-
 In the preferential choice task , participants were asked to select their preferred bet from each pair .
 To make the participants perform a compensatory process , we developed a judgment - based choice task using the certainty equivalent method [42] , [43] .
 This method has traditionally been based on expected utility theory [41] .
@@ -42,12 +39,10 @@ If the result turned out to be a gain , the participants would receive money fro
 If the result turned out to be a loss , the participants would give money to the experimenter or sign an IOU if they could not afford to make a cash payment .
 The average real gain over the two selected bets was ¥ 29.57 per participant , whereas the average real loss over the two selected bets was - ¥ 31.52 per participant .
 At the completion of the study , the participants were paid ¥ 100 in cash for participating , and the debts / winnings determined by the above method were deducted from / added to the final payment .
-
 MR images sensitized to changes in BOLD signal levels were obtained by an echo planar imaging sequence on a 3.0 - Tesla Siemens MR scanner ( repetition time = 2,000 msec ; echo time = 30 msec ; flip angle = 90 ° , matrix = 64 × 64 ; field of view = 220 × 220 mm 2 ; slice thickness = 3 mm ; slice gap = 1 mm and , thus , acquisition voxel size = 3.4 × 3.4 × 4 mm 3 ) .
 Each brain volume was composed of 32 axial sections .
 Stimuli were presented with E - prime software ( Psychology Software Tools , Pittsburgh , PA ) on a personal computer , back - projected onto a screen using a liquid crystal display projector and viewed by participants through a mirror mounted on the MRI head coil .
 We also acquired a brief ( 6 - min ) resting - state scan , which was composed of 180 volumes ( the data were not used in this study ) .
-
 Image preprocessing and analyses were performed using statistical parametric mapping ( SPM 5 , Wellcome Department , London , UK ) that was run on a MATLAB 7 platform ( MathWorks , Natick , MA ) .
 The first three volumes in each scan series , which were collected before equilibrium magnetization was reached , were discarded .
 The remaining images were corrected for within - scan acquisition time differences between the slices and then realigned to the first volume to correct for inter - scan head motions .

@@ -7,7 +7,6 @@ Images were acquired between February 2004 and October 2011 .
 Maastro ( testing ) consists of 307 NSCLC stage I - IIIb patients , imaged with CT , with or without intravenous contrast , and treated with radiation therapy at MAASTRO Clinic , Maastricht , The Netherlands .
 Images were acquired between 2004 and 2010 .
 This dataset is available at https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics .
-
 The surgical dataset group consists of the following datasets : Moffitt ( training ) consists of 200 NSCLC stage I - IIIb patients imaged primarily ( 89 % ) with contrast - enhanced CT and treated with surgical dissection at the Thoracic Oncology Program at the H .
 Lee Moffitt Cancer Center , Tampa , Florida , US .
 Images were acquired between 2006 and 2009.MUMC ( tuning ) consists of 90 NSCLC stage I - IIIb patients , imaged with CT , with or without intravenous contrast , and treated with surgical dissection at MAASTRO Clinic , Maastricht , The Netherlands .
@@ -15,7 +14,6 @@ Images were acquired between 2004 and 2010 .
 This dataset is available at https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics-Genomics.M-SPORE ( testing ) consists of 101 NSCLC stage I - IIIb patients imaged with contrast - enhanced CT and treated with surgical dissection at the Thoracic Oncology Program at the H .
 Lee Moffitt Cancer Center , Tampa , Florida , US .
 Images were acquired between 2006 and 2009 .
-
 The stability assessment dataset comprises the following : RIDER consists of 32 patients with NSCLC , each of whom underwent 2 CT scans of the chest within 15 minutes [33] .
 Images were acquired between January 2007 and September 2007 .
 This dataset is available at https://wiki.cancerimagingarchive.net/display/Public/RIDER + Collections.Overall survival times were calculated from the start of respective treatment for the radiotherapy and surgery datasets .
@@ -28,12 +26,10 @@ This assignment system was applied to both the radiotherapy and surgery dataset 
 Initial experiments were done on the radiotherapy datasets as they contained the most data , followed by transfer learning and fine - tuning on the surgery datasets .
 This design also allowed for averting noise as a result of large variability in tumor sizes between the 2 dataset groups , with the surgery group comprising consistently smaller tumors on average .
 All patients were utilized as per the survival data available , without introducing artificial temporal cutoffs .
-
 Tumors were manually contoured and approved by an expert reader ( S1 Text ) .
 With slice thickness exceeding in - plane resolution , all datasets were resampled into isotropic voxels of unit dimension to ensure comparability , where 1 voxel corresponds to 1 mm 3 .
 This was achieved using linear and nearest neighbor interpolations for the image and annotations , respectively .
 If multiple disconnected annotation masks were found , the largest by volume was chosen .
-
 Data preprocessing for deep learning : Given full 3D tumor segmentations , both the center of mass ( COM ) and bounding box of the tumor annotations were calculated .
 3D isotropic patches of size 50 × 50 × 50 were extracted around each COM , capturing around 60 % of the tumor bounding boxes ’ dimensions in the radiotherapy training dataset ( S1 Fig ) .
 The patches were then normalized to a 0 - 1 range using lower and upper Hounsfield unit bounds of − 1,024 and 3,071 , respectively .
@@ -41,7 +37,6 @@ An augmentation factor of 32,000 was applied to the patches , yielding a trainin
 These augmentations included random translations ± 10 pixels in all 3 axes , random rotation at 90 ° intervals along the longitudinal axes only , and random flipping along all 3 axes .
 Augmentation was done in real time during training .
 No tuning - or testing - time augmentation was applied .
-
 We employed a 3D CNN architecture ( Fig 2 ) .
 The network comprises a total of 4 3D convolutional layers of 64 , 128 , 256 , and 512 filters with kernel sizes of 5 × 5 × 5 , 3 × 3 × 3 , 3 × 3 × 3 , and 3 × 3 × 3 , respectively .
 Two max pooling layers of kernel size 3 × 3 × 3 were applied after the second and fourth convolutional layers .
@@ -57,30 +52,25 @@ In applying transfer learning on the surgery training dataset , the number of fi
 The optimal setting included fine - tuning the final classification layer only , while keeping earlier layers fixed .
 With much fewer parameters to train , the learning rate and batch size were increased to 1 × 10 − 02 and 24 , respectively .
 Google ’ s deep learning framework TensorFlow [40] was used to train , tune , and test the CNN .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pmed.1002711.g002 Illustration of the convolutional neural network .
 This network was used to predict overall 2 - year survival of patients with non - small - cell lung cancer .
 The final classifier layer outputs normalized probabilities for both classes ( 0 = deceased and 1 = alive ) .
 Only the weights of the final fully connected layer were fine - tuned during transfer learning .
 The final convolutional layer ( conv 4 ) was used for activation mapping .
-
 Data preprocessing for engineered feature extraction : Image intensity was binned by 25 HU to increase pattern sensitivity .
 Preprocessing filters were applied prior to feature extraction in order to reveal underlying information .
 These included Laplacian of Gaussian , wavelet , square , exponential , square root , and logarithm filters .
-
 Engineered feature extraction and selection : Engineered features were computed using PyRadiomics [41] , an open - source radiomics package .
 Feature stability was quantified using the intraclass correlation coefficient ( ICC ) , using the irr package [42] and the test - retest RIDER dataset [33,43] .
 Features with an ICC > 0.8 were regarded as highly robust and selected for the study .
 Supervised selection was done using the mRMR method ( minimum redundancy maximum relevance ) with the mRMRe package [44] .
 The mRMR was applied on the tuning datasets to select the top 40 engineered features with the highest mRMR ranks .
 Those features were then used for the final model on the training and testing datasets .
-
 Machine learning on clinical parameters and engineered features : A random forest classifier was built using clinical parameters and engineered features .
 The tuning process involved a nested cross - validation technique ( 5,000 - fold , 5 times ) using the caret package [45] on the training dataset to select the best parameters , such as the number of variables randomly sampled .
 The predictive power was measured on the testing dataset using the area under the receiver operating characteristic curve ( AUC ) .
 Significant difference from random permutation was tested using a 2 - sided Wilcoxon rank - sum test between the score of the 2 classes .
-
 Benchmarking of deep learning networks against other models was done using a permutation test .
 AUC difference was defined as a Δ .
 For N permutations ( N = 1,000 in our case ) , new models were built after randomly permuting class labels , and new AUCs were computed from their respective scores .
@@ -89,15 +79,12 @@ Finally , the p - value was defined as formtok
 If the AUC difference between those 2 random models was higher than the true value , then the true class label was randomly permuted .
 A new model was then built , and its score distribution was compared to the true distribution .
 Finally , a meta p - value was computed combining the results of the radiotherapy and surgery datasets using the survcomp package [46] .
-
 To generate activation maps , we used a gradient - weighted activation mapping method [47,48] to map important regions in an input image with respect to predictions made .
 The final convolutional layer ( conv 4 in Fig 2 ) was set as the penultimate layer where the activation heatmaps ( gradients ) were generated during backpropagation .
 The heat maps were then thresholded at 0 , normalized , and enlarged to match the input image size .
 The heatmaps indicate regions in the input image having the most impact on the final prediction layer .
-
 Ground truth tumor annotations were used to delineate tumor areas , and all voxels beyond the annotations were given the value of air ( − 1,000 HU ) .
 The deep learning network was retrained with the masked data while keeping all hyper - parameters locked .
-
 We performed a pre - ranked gene set enrichment analysis ( GSEA ) as in previously published studies [14,49,50] .
 Briefly , more than 60,000 probes measured global gene expression on custom Affymetrix 2.0 microarray chipsets ( HuRSTA _ 2a 520709.CDF , GEO accession number GPL 15048 ) .
 Measured expression was normalized according to the robust multi - array average method [51] .

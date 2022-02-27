@@ -27,7 +27,6 @@ In the present analysis the following sociodemographic measures were taken into 
 The participants were divided into the three categories of place of residence according to the number of inhabitants in their living area ( “ rural ” area < 8 000 inhabitants ; small urban area 8 000 - 40 000 inhabitants ; large urban area > 40 000 inhabitants ) .
 Educational level was categorized as elementary ( no education / primary school ) , secondary ( high school vocational / incomplete high school / high school / vocational higher than high school ) and university attainment ( incomplete university / complete university education ) .
 All the analysed socio - demographic factors were thought as factors related to PA level of and therefore called “ contributing factors ” .
-
 Assessment of leisure time , occupational and commuting physical activity : Physical activity assessment was based on the WHO MONICA protocol and CINDI Health Monitor Questionnaire [17] .
 Similar set of questions was used in previous studies carried out in Polish population [11,13,18] .
 Self - reported data on PA were assessed in three domains : leisure - time , commuting ( transportation ) and occupational ( work - related ) physical activity .
@@ -45,7 +44,6 @@ The daily commuting return journey was categorized into four possibilities : usi
 The following questions were used in the questionnaire : “ How do you usually travel to and from your work / school ? There were three possible answers : “ By means of public transport ” , “ by car ” , “ walking or bicycling ” .
 Those who declare active commuting were asked : “ How much tim How much time do you spent walking or cycling to and from your work / school per day ? ”
 There were four answers : “ less than 15 minutes “ , 15 - 30 minutes ” , “ 31 - 60 minutes ” , “ more than 60 minutes ” .
-
 To compare the frequency and assess statistical significance of the categories of qualitative characteristics in the analysed groups the chi - square test was implemented .
 Additionally to p - values , omega - squared formula ( ω 2 ) was implemented as an effect size .
 Given that the potential correlates might differ between genders , all the analyses were performed separately for men and women .

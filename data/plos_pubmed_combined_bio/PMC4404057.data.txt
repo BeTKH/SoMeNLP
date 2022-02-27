@@ -2,13 +2,11 @@ The study sample consisted of 764 adult patients , all of which had a principal 
 Patients were admitted to treatment either through self - referral or through referral from psychiatric or primary care .
 All patients first completed an on - line screening battery of self - report questionnaires .
 Then , clinician administered assessments were conducted before admittance where the Mini - International Neuropsychiatric Interview ( MINI ) [28] diagnostic interview was used by psychiatrists ( or resident physicians supervised by psychiatrists ) to diagnose Axis I DSM - IV disorders .
-
 The study , including its consent procedure , was approved by the Regional Ethical Review Board in Stockholm , Sweden ( no 2011 / 2091 - 31 / 3 ) .
 Since this research was conducted as a retrospective cohort study , active informed consent was not required and therefore not obtained .
 However , as required by the ethics committee , a letter explaining the study was sent to all participants prior to data collection providing a choice of participation .
 Thus , participation in the study was obtained through an opt - out methodology .
 This approach ( i.e. passive consent ) is considered to be the most efficient procedure for registry data that does not violate the option of providing choice [29] and also increases the likelihood of having a more representative sample [30] .
-
 Over the study period , approximately 25 different psychologists delivered the treatments .
 These were trained in CBT and either licensed or occasionally resident psychologists under clinical supervision .
 Therapists followed a treatment manual originally developed by Andersson and colleagues [31] with documented effects in several randomized controlled trials [32] adhering to Clark and Wells ’ [33] cognitive model of social phobia developed for individual therapy of SAD .
@@ -30,7 +28,6 @@ The role of the therapists was to guide patients through each treatment module .
 This was conducted through online written conversations within the secure treatment platform .
 This included not only providing feedback on homework assignments , but prompting patients when they were inactive or helping them with problem solving when experiencing difficulties .
 Thus , more therapist time tended to be allocated to patients having a greater need for support and guidance .
-
 The primary outcome measure was the self - rated version of the Liebowitz Social Anxiety Scale , LSAS - SR [35] .
 The LSAS - SR has reported strong psychometric properties with an internal consistency of α = .
 95 and a 12 - week test - retest reliability of r = .
@@ -41,19 +38,14 @@ For the current sample , Cronbach ' s alpha of the LSAS - SR at pre - treatment 
 95 .
 Besides at pre - and post - treatment , social anxiety was measured weekly throughout the active treatment phase .
 The secondary outcome measure was treatment adherence , operationalized as the number of activated modules .
-
 All potential predictors of symptomatic change and adherence were measured at baseline except for treatment program factors , which were measured during treatment ( e.g. treatment credibility was assessed during the second week ) or after treatment ( e.g. adherence ) .
 Each variable was assigned to one of the following four domains : socio - demographic variables , clinical characteristics , family history of mental illness and treatment - related factors .
 This domain comprised 6 variables : age , gender , level of education , employment status ( dichotomized ; i.e. working part - or full - time or student vs . unemployed , part - or full - time sick leave or disability retirement ) , cohabitation status ( dichotomized ; i.e. single , divorced , widowed , or separated vs . married or living with partner ) and having children .
-
 The clinical domain consisted of 14 variables : Clinical Global Impression - Severity Scale [38] which was rated on a 7 - point scale ; co - morbid depressive symptoms were measured at baseline using the self - rated Montgomery - Asberg Depression Rating Scale ( MADRS - S ) [39] ; the Alcohol Use Disorders Identification Test ( AUDIT ) [40] was used prior to treatment to screen for alcohol problems and the Drug Use Disorders Identification Test ( DUDIT ) [41] was used to screen for drug misuse ; the Adult ADHD Self - Report Scale - V 1.1 ( ASRS ) was used as a short screening instrument for adult ADHD - like symptoms [42] ; the number of co - morbid diagnoses was assessed during the clinician diagnostic interview using the MINI ; the Global Assessment of Functioning ( GAF ) was used to assess social , occupational , and psychological functioning ; years since onset of symptoms was assessed during the clinical interview ; age of onset of symptoms was calculated by subtracting the reported number of years since onset of symptoms from the patient ’ s age at the time of treatment ; generalized beliefs of self - efficacy was assessed using the General Self - Efficacy Scale ( GSES ) [43] ; concurrent psychotropic medication , history of depression , history of inpatient psychiatric care and history of attempted suicide were assessed during the diagnostic interview .
-
 Family history of mental illness : The family history domain consisted of 14 variables reporting occurrence of family history of mental illness : family history of social anxiety disorder , social anxiety disorder - like symptoms , anxiety , depression , minor depression , panic disorder , neuropsychiatric condition , psychosis , bipolar disorder , dependence / substance abuse , suicide attempts and family history of completed suicide .
 These were assessed during the diagnostic interview by a clinician prior to treatment as part of the intake assessment process at the clinic in the form of a checklist .
 As such , the measure of family history was created for this study as a categorical variable .
-
 The treatment domain consisted of 9 variables : adherence , operationalized as the number of activated treatment modules ; treatment credibility , operationalized as the total score of the credibility / expectancy scale [44] where patients ’ attitudes to the credibility of the treatment and expectancy regarding treatment effectiveness were rated on a 10 - point scale ( 0 = not at all to 10 = very much ) after the first week of the treatment ; therapist time ( hours ) ; therapist time per module ( minutes ) ; patients ’ logged time online ; patients ’ number of logins ; patients ’ number of mouse clicks ; patients ’ number of sent messages and patients ’ number of posted messages on a common discussion forum within the treatment platform .
-
 Multilevel model of symptomatic change : When analysing predictors of symptomatic improvement during the course of treatment , a longitudinal multilevel framework was applied using the linear mixed - effects models procedure in SPSS version 21 .
 All available data was used in a full intent - to - treat analysis approach with full maximum likelihood estimation procedures for all multilevel models .
 The objective of using multilevel modelling was to model change in social anxiety over the treatment period and to examine the influence of predictors on this trajectory .
@@ -76,6 +68,5 @@ We also chose to recode the time variable between - 1and 0 as proposed by Heck e
 This coding has the benefit that the estimated coefficients reflect the magnitude of change in social anxiety achieved over the entire treatment period ( as opposed to the amount of weekly change ) .
 Therefore , since there were 12 measurement occasions , the distance between each step was 0.083 ; the time variable was therefore coded as - 1 , - 0.92 , - 0.83 , - 0.67 , - 0.58 , - 0.50 , - 0.42 , - 0.33 , - 0.25 , - 0.17 , - 0.08 and 0 .
 Finally , to facilitate comparison of coefficients for predictors measured on different scales , we followed the approach by Smits and colleagues [12] where predictor variables were standardized into z - scores prior to analysis .
-
 In the case of analysing adherence as an outcome , selection of variables to enter into the mixed - effects regression model was based on the same stepwise procedure described above .
 However , in the treatment factors domain , only treatment credibility and therapist time per module were tested since patient activity such as number of logins , mouse clicks , messages and time online were variables highly correlated with adherence ( p < . 001 ) .

@@ -13,7 +13,6 @@ Since statins are reimbursed drugs that are only available on prescription in Be
 In addition , for more than 90 % of the BCR population [19] , death certificates provided by the regional administrations can be used to retrieve causes of death using a linkage based on several variables ( such as date of birth , date of death , sex , residence at time of death ) .
 The linkage of the BCR - , the IMA - , the CBSS - and the regional administrations ’ databases thus provides information on all patients diagnosed with cancers in Belgium , on their vital status , their date and cause of death , the cancer treatments they received , and their medication use .
 Specific ethical approvals were not required because the analyses were conducted within the legal framework of the BCR , using only anonymized data and without any access to private information on individual patients .
-
 All patients with an OC ( ICD - 10 code C56 ) diagnosed between 2004 and 2012 were identified from the BCR .
 Patients with borderline malignant tumours or with non - epithelial cancers were excluded .
 Patients with another invasive cancer diagnosis ( apart from non - melanoma skin cancer ) prior to their OC diagnosis were also excluded .

@@ -72,7 +72,4 @@
 
 
 
-
-
-
 Version_of	12	48	1	Stata	34	0;;

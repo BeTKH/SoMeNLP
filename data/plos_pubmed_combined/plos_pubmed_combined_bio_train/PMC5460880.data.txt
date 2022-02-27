@@ -1,7 +1,6 @@
 The study acquired both national and the World Health Organization ( WHO ) ethical clearance referenced P70 / 02 / 2013 and Protocol ID B20278 respectively .
 All participants were of consenting age ( 18 years and above ) and were required to give written consent before engaging in any research activity .
 For illiterate participants , the researcher read out the consent form details and allowed participants to consent through provision of a thumb print instead of a signature .
-
 The study took place in Baringo County ’ s Central , North and Marigat sub - counties .
 The research team classified the study site into four zones namely the highland , midland , lowland and riverine based on altitude .
 The highland has an altitude of > 1500m above sea level ( asl ) , midland > 1000m - 1500m asl , the lowland and riverine zones at < 1000m asl . ( Fig 1 ) .
@@ -9,7 +8,6 @@ The riverine zone is the area on the extreme left while the lowland zone is on t
 The Tugen , a sub - tribe of the Kalenjin community , mainly inhabit the highland , midland and riverine zones while the Ilchamus who are a sub - tribe of the Maa community , are found in the lowlands .
 Both communities practice agriculture but the Tugen engaged in both crop and livestock farming while the Ilchamus are mainly livestock keepers .
 The 2006 - 2007 RVF outbreak occurred only in the lowland zone where the Ilchamus are found .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pntd.0005582.g001 Map of Baringo County showing the study site .
 Study design , sampling and data collection : The study utilized a cross - sectional research design in which a Knowledge , Attitudes and Practices ( KAP ) survey and focus group discussions ( FGDs ) were conducted sequentially .
@@ -32,7 +30,6 @@ Similarly , the survey questionnaire was pretested with 40 respondents in three 
 These sites were consequently excluded from the main survey .
 Final adjustments were made to the FGD and survey tools prior to data collection .
 Only Tugen and Ilchamus speaking enumerators participated in data collection .
-
 Survey data was analyzed in SPSS version 23 ( IBM SPSS Statistics , Armonk , New York ) after importation from CSPRO version 6.1 ( United States Census Bureau , Washington DC ) where it was entered and cleaned .
 Besides summary statistics , independent t - tests , one way ANOVA and Chi square tests were conducted to determine the relationship between different variables .
 Missing values were excluded from the analyses .

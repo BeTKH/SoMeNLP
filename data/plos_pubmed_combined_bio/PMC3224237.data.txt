@@ -2,15 +2,12 @@ Background
 Health informatics research has traditionally been dominated by experimental and quasi - experimental designs .
 An emerging area of study in organisational sociology is routinisation ( how collaborative work practices become business - as - usual ) .
 There is growing interest in the use of ethnography and other in - depth qualitative approaches to explore how collaborative work routines are enacted and develop over time , and how electronic patient records ( EPRs ) are used to support collaborative work practices within organisations .
-
 Methods / design
 Following Feldman and Pentland , we will use ' the organisational routine ' as our unit of analysis .
 In a sample of four UK general practices , we will collect narratives , ethnographic observations , multi - modal ( video and screen capture ) data , documents and other artefacts , and analyse these to map and compare the different understandings and enactments of three common routines ( repeat prescribing , coding and summarising , and chronic disease surveillance ) which span clinical and administrative spaces and which , though ' mundane ' , have an important bearing on quality and safety of care .
 In a detailed qualitative analysis informed by sociological theory , we aim to generate insights about how complex collaborative work is achieved through the process of routinisation in healthcare organisations .
-
 Discussion
 Our study offers the potential not only to identify potential quality failures ( poor performance , errors , failures of coordination ) in collaborative work routines but also to reveal the hidden work and workarounds by front - line staff which bridge the model - reality gap in EPR technologies and via which " automated " safety features have an impact in practice .
-
 Background
 The need for qualitative studies of organisational routines
 The study of innovation and change in healthcare organisations is , arguably , under - theorised and in need of methodological enrichment .
@@ -22,7 +19,6 @@ Our study seeks to contribute to a body of knowledge which lies at the interface
 Our 2004 systematic review on diffusion of innovations in healthcare organisations identified numerous studies of individual adoption but highlighted a dearth of research on the process by which innovations become routinised at organisational level [4] .
 A later update of that systematic review identified an emerging literature on routinisation [5] ; we explored its implications for healthcare in a further paper [6] .
 A recent systematic review on implementation of electronic patient records ( EPRs ) in organisations revealed a preponderance of experimental and quasi - experimental studies and a much smaller qualitative literature describing the social processes and contextual influences on EPR adoption and use [7] .
-
 Tensions in organisational research
 Scholars in organisational sociology tend to frame the study of innovation and change not in terms of interventions and outcomes but as the playing - out of tensions : between the general unwritten rules and forces which make up society ( ' social structures ' ) and individual behaviour ( ' agency ' ) [8] ; between collective knowledge and individual knowledge [9] ; and between continuity and change [10] .
 Sociological studies of information and communication technologies ( ICTs ) in organisations add a fourth tension : between standardisation and contingency [7,11-13] .
@@ -31,7 +27,6 @@ More generally , the researcher ' s challenge is usually seen as rising above ep
 Harold Garfinkel , the father of ethnomethodology , bucked this trend , arguing that the organisational researcher ' s main focus should be the non - generalisable particularities of small - scale social situations [14] .
 He argued that each utterance , written comment or action occurs in a micro - sequence that takes detailed and tacit account of the utterances , comments or actions preceding it , and proposed that it is these subtle contingencies of work , not the abstract routines and patterns an observer might see ' sedimenting ' from them , which are of greatest interest [15] .
 Both perspectives , of course , are important .
-
 Organisational routines
 To routinise an innovation is to embed it into routines .
 Organisational routines have been defined as " repetitive recognisable patterns of interdependent actions by multiple actors " [16] .
@@ -56,13 +51,11 @@ The routine ( noun ) is linked to efforts to routinise ( verb ) - a key step in 
 But even once routinised , an innovation must adapt to a changing context and to a continuous stream of other innovations and changes .
 Routines are differently reproduced every time they are enacted , because different people bring different prior knowledge , expectations , priorities , assumptions , personalities and skills to their work and are enabled and constrained by different local influences , both social and technical .
 Herein lies the scope for organisations to learn and for particular routines to move flexibly with the times [18] .
-
 Researching routines dynamically
 Analysing the divergence between ostensive and performative aspects of routines and the artefacts through which members attempt to codify and capture these can reveal rich meanings in aspects of organisational life ( data entry , telephone calls , administrative notes ) which were previously considered mundane , uniform and offering little in the way of research insights [19] .
 Divergence between artefacts and ostensive routines ( often overlooked since the artefact is assumed to be the routine ) , for example , may highlight failures of sensemaking , conflicts between management and staff , or conflicts between the organisation and a wider public .
 For example , a ' health and safety ' poster may be displayed within a reception area as a legal requirement but have little or no impact on individual or organisational routines relating to health and safety .
 Divergence between artefacts and performative routines may reveal organisational power struggles - most commonly when management introduce formal protocols in an effort to control behaviour , but these representations of recurrent action patterns fail to give rise to actual recurrent action patterns [26] .
-
 The electronic patient record as ' actor '
 Health informatics research conventionally portrays the EPR in terms of its essential , intrinsic properties as a ' container ' for data about the patient ( and perhaps , as a medicolegal record or source of secondary data ) .
 But research in fields such as sociology , actor - network theory and computer - supported cooperative work views the EPR in more dynamic terms - as an active player in an ever - changing ( and often unstable ) network of people and technologies [7] .
@@ -71,15 +64,12 @@ Rather , the focus of this alternative literature is to consider the EPR in rela
 This dynamic view of the EPR links elegantly to the literature on organisational routines described above and offers exciting possibilities for studying change in healthcare organisations through a novel , socio - technically informed analytic lens .
 The aims of this study are ( at an empirical level ) to explore the use of EPRs in collaborative work routines in general practice and ( at a more abstract level ) to develop theory and method which will inform a wider programme of qualitative research into ICT - supported collaborative work , innovation and change in healthcare organisations .
 At a theoretical level , we are interested in exploring how key organisational tensions ( collective - individual , continuity - change , standardisation - contingency ) play out over time and across settings via enactment of routines .
-
 Methods / design
 Research question
 How are collaborative work routines enacted , and how do they develop and change over time in healthcare organisations ?
 What is the role of information and communication technologies ( specifically , the electronic patient record ) in shaping , constraining and perpetuating this process ?
-
 Study design and setting
 Multi - centre case study in four UK general practices .
-
 Study objectives
 1 .
 To conduct detailed ethnographic observation of collaborative work involving the EPR in participating organisations over a period of time .
@@ -89,7 +79,6 @@ To map how selected collaborative routines are codified ( artefactual or proxy r
 To compare and contrast different versions of the routines within each organisation with a view to illuminating how key organisational tensions play out dynamically over time .
 4 .
 To compare findings across cases and through time with a view to making theoretically - informed generalisations about the routinisation process .
-
 Intended outputs
 We hope to generate four main outputs :
 1 .
@@ -100,18 +89,15 @@ A transferable methodology for the detailed qualitative study of ICT - supported
 Theoretical insights into how ICT - supported routines develop and evolve ( or not ) in healthcare organisations .
 4 .
 Hypotheses for further research on how to introduce and routinise ICT innovations intended to improve quality and / or safety of care .
-
 Management and governance
 Research ethics approval has been granted by Thames Valley Multi - centre Research Ethics Committee ( 06 / MRE 12 / 81 ) .
 An external steering group with a lay chair has been established and meets four - monthly throughout the 3 - year research period .
 Core team meetings occur monthly .
-
 Selection of organisational cases
 The selection criteria for the sample of four general practices are [ a ] opportunity to learn and [ b ] representativeness .
 Stake ' s approach to organisational case study views this as a fundamentally interpretive process in which generalisations are made by theoretical , not statistical , abstraction ( i.e. a rigorous case study analysis is one in which events and actions are linked via a plausible and richly - theorised account ) [28] .
 With this in mind , opportunity to generate learning is identified via features such as interest in the study , willingness of staff at all levels to participate in the research process , plausibility of planned data collection methods ( e.g. adequate physical space ) , and evidence of the organisation ' s engagement with previous comparable studies .
 Practices meeting these criteria will be selected for diversity in terms of size , geographical setting , demographics of population served and sophistication of in - house ICT systems .
-
 Selection of routines to be studied
 Contemporary general practice in the UK is characterised by low incidence of major emergencies ; high level of computerisation oriented to both primary uses of data ( patient care ) and secondary uses ( audit , research , surveillance , implementing quality incentives ) [29] ; an increasing focus on chronic disease management and risk assessment ( which depend on registration , recall and regular review ) [30,31] ; a well - demarcated division of labour , with patient care tending to be divided into tasks and delegated to the cheapest individual able to complete each task [32] ; and a growing patient safety agenda , especially in relation to medicines management ( i.e. prevention of drug - related errors and adverse reactions ) [33] .
 Because of the above characteristics , we are particularly interested in studying routines which [ a ] are oriented to ' everyday ' general practice rather than emergencies ; [ b ] span both clinical and administrative work ; [ c ] involve both primary and secondary uses of the electronic record ; [ d ] require collaboration between staff both synchronously and asynchronously in time and space ; and [ e ] address the quality and / or safety agenda .
@@ -126,7 +112,6 @@ Identifying and exploring routines will not be an end in itself .
 Indeed , the detailed tasks , processes and interactions for ( say ) repeat prescribing are of limited intrinsic interest .
 They are , however , a way of opening up to scrutiny the interaction between the EPR , its users , the general practice organisation and wider influences ( e.g. policy directives ) .
 By synthesising and comparing routines across a sample of practices , we aim to produce generic insights into the EPR as a technology - in - use [34] - and at a more abstract level , insights into how socio - technical micro - systems contribute to both perpetuating and changing collaborative routines in healthcare organisations .
-
 Data sources and collection methods
 Figure [2] shows the key data sources for this study .
 These comprise :
@@ -149,7 +134,6 @@ We will collect from the general practices any documentation describing the targ
 In relation to repeat prescribing , for example , these may include : staff protocols , training or induction materials , internal memos , algorithms , and relevant sections of the practice leaflet and website .
 • Background documents .
 We will also collect documentation relevant to the wider context such as practice annual reports , and relevant local and national guidelines and policies ( e.g. on medicines management or chronic disease surveillance ) .
-
 Data mapping and analysis
 In an initial familiarisation phase ( see Figure [2] ) , we will read , re - read and annotate field notes , transcripts and other texts and also view video data repeatedly to achieve immersion in the data [37] .
 This will feed into a mapping phase , in which we will identify and refine a picture of [ a ] the ostensive routine ( i.e. the sometimes conflicting narrative accounts and typifications which members give when asked to describe what is done ) including , where relevant , the use of space and time as structuring devices ; [ b ] the performative routine as directly observed , paying close attention to practices , puzzles faced , dilemmas encountered , people involved and language used ; and [ c ] the proxy routine as depicted in artefacts such as protocols , guidelines , templates , patient leaflets and so on .
@@ -158,7 +142,6 @@ In the analysis phase , we will compare ostensive , performative and proxy routi
 In this way , we will generate preliminary explanations of how collaborative work occurs and how the target routines are perpetuated and shaped by both human agency and the functionality of the EPR .
 We will use narrative accounts , ethnographic notes and video and screen capture data to " zoom in " on the micro - detail of small - scale incidents and interactions , and also use our wider data sources within and beyond the organisation to " zoom out " and consider external influences , thus placing the routine in wider context ( Swinglehurst D , Roberts C , Greenhalgh T : Opening up the " black box " of the electronic patient record : a linguistic ethnographic study in general practice , submitted ) .
 Finally , in a synthesis phase we will compare how routines vary both over time in a single organisation and across the different general practices in our sample .
-
 Discussion
 We have piloted the data collection methods in two general practices and found them feasible and acceptable to staff .
 Focusing on organisational routines rather than individual performance or outputs has helped significantly in gaining access and establishing productive research relationships , especially amongst non - clinical staff .
@@ -190,17 +173,14 @@ In summary , we have described an innovative study design and methodology for st
 In a sample of four UK general practices , we will collect narratives , ethnographic observations , multi - modal data , documents and other artefacts , and analyse these to map and compare the different understandings and enactments of selected organisational routines which span clinical and administrative spaces and which have an important bearing on quality and safety of care .
 In a detailed analysis informed by sociological theory , we aim to generate insights about how ICT - supported collaborative work is achieved in healthcare organisations .
 Our study offers the opportunity not only to identify potential quality failures ( poor performance or error ) but also to reveal the hidden work ( and workarounds ) by front - line administrative and clinical staff via which " automated " safety features of technology are adopted and have an impact in practice .
-
 Competing interests
 The authors declare that they have no competing interests .
-
 Authors ' contributions
 TG conceptualised the study with input from DS and JR .
 DS and MM developed and piloted the data collection methods , helped by TG and JR .
 DS and MM collected the data .
 DS and TG wrote the paper .
 All authors read and approved the final manuscript .
-
 Pre - publication history
 The pre - publication history for this paper can be accessed here :
 http://www.biomedcentral.com/1472-6963/10/348/prepub

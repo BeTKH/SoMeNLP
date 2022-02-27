@@ -23,10 +23,7 @@
 
 
 
-
-
 Abbreviation_of	CCS	148	1	Clinical Classifications Software	112	0;;Developer_of	HCUP	175	2	Clinical Classifications Software	112	0;;
-
 
 
 

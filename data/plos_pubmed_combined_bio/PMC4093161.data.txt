@@ -9,7 +9,6 @@ Butyric acid contents , which indicate badly fermented silages , were low in all
 There were two - way interactions ( p - values from < 0.001 to 0.045 ) for almost all fermentation end - products and pH , except for the molasses × inoculant interaction on NH - N ( p = 0.26 ) .
 Significant 3 - way interactions were found on all observed variables except for weight losses of silages .
 It is concluded that conserving wilted WH as silage for ruminants may be improved by the addition of molasses or rice bran .
-
 INTRODUCTION
 Ruminant production plays an important role in the predominantly agricultural economy of Vietnam ( Trach , 1998 ) .
 Due to the extreme scarcity of land for grazing and grass cultivation as well as adequate feeds , particularly in the dry season , the possibility of using fibrous feeds such as crop residues and water hyacinth has become more interesting for the improvement of ruminant production .
@@ -37,7 +36,6 @@ Inoculation rates of 10 to 10 colony forming units ( cfu ) / g herbage are often
 The effect of adding bacterial inoculants to wilted silage may increase lactic acid production and result in a faster decrease of silage pH if the forage contains at least 20 g water soluble carbohydrates ( WSC ) / kg fresh matter ( Pettersson and Lindgren , 1990 ) .
 Ensiling studies with WH , using additives such as rice bran , cassava root , ground corn , wheat bran ( El - Serafy et al . , 1989 ; Lowilai et al . , 1993 ) , organic acids ( Byron et al . , 1975 ) or urea and rice straw ( Wanapat et al . , 1985 ; Chkraborty et al . , 1991 ) , have been promising but have not yet been investigated in Vietnam .
 The aim of this study was to evaluate the influence of molasses , rice bran and fermented vegetable juice and their combined effects on the fermentation quality of ensiled WH .
-
 MATERIALS AND METHODS
 Study site and experimental design
 The experiment was conducted at Department of Animal Sciences , College of Agriculture and Applied Biology , Can Tho University , Vietnam between March and May 2011 .
@@ -70,7 +68,6 @@ Three mini - silos were prepared for each treatment , giving a total of 24 silos
 They were stored indoors at a temperature of 27 to 31 ° C and a relative humidity of 65 to 75 % .
 To follow the pH changes over time , a second set of silos were made of the same plant material .
 Two silos per treatment were opened after 3 , 7 , and 14 d of storage .
-
 Measurements and laboratory analyses
 Before ensiling , all samples of the mixed material were collected for the analysis of pH , DM and chemical composition .
 Weight losses during storage were determined by weighting the silos .
@@ -86,21 +83,18 @@ Amylase and sodium sulfite was not used for NDFom determination and both ADFom a
 Water soluble carbohydrates were analysed following the protocol of Uden ( 2006 ) .
 Ethanol , acetic , propionic , butyric and lactic acids were measured by HPLC ( Model 10A , Shimadzu Corp . , Tokyo , Japan ) .
 After opening the mini - silos , 10 g of silage from each replicate were homogenized in 20 ml distilled water , and pH of the filtrate was determined using a pH meter ( Mi 150 , Martini , Romania ) with a glass electrode .
-
 Statistical analysis
 Data for each analysis consisted of 2 ( levels of molasses ) × 2 ( levels of rice bran ) × 2 ( levels of inoculants ) × 3 ( replicated silos ) = 24 .
 All observations were used in the analysis of variance of chemical composition , fermentation quality and weight loss of silage DM .
 The GLM procedure of Minitab software , version 16.1 ( Minitab Inc . , 2010 ) was used and with the following model of fixed factors and their interactions :
 disp - formula where Y = the dependent variable , μ = the overall mean , M = effect of sugarcane molasses , A = effect of rice bran as absorbent , I = effect of inoculants and e = the random error .
 Pearson correlation coefficients among all dependent variables were also calculated using the same software .
-
 RESULTS
 Chemical composition of silage ingredients
 The chemical composition of the wilted WH , rice bran and sugarcane molasses is shown in Table 1 .
 Rice bran and molasses had a DM content of 920 and 814 g / kg , respectively , and wilted WH before ensiling had a DM content of 244 g / kg .
 The initial content of WSC was 4.3 g / kg DM in wilted WH .
 Concentrations of LAB in the fermented vegetable juice and the wilted WH were 2.1 × 10 cfu / ml and 1.2 × 10 cfu / g wilted WH , respectively .
-
 The fermentation quality of the silages
 No free liquid or effluent was found in any of the mini - silos .
 On visual inspection ( d 56 ) , spoilage moulds were found on the top of C and CA silos .
@@ -121,7 +115,6 @@ Ammonia nitrogen differed among treatments ( p < 0.001 ) , with treatment CM giv
 After ensiling for 7 d , pH values in all treatments , except C and CI , had decreased to approximately 4.0 and remained on that level until at least d 14 ( Figure 1 ) .
 After 56 d , pH had increased to approximately 4.8 .
 Both C and CI silages decreased only to pH 5.0 and 4.5 , respectively , at d 7 and then increased between 14 and 56 d to approximately 5.3 ( Figure 1 ) .
-
 DISCUSSION
 Because of its rapid spoilage and high moisture content , it is recommended to wilt WH in the shade for 2 d ( Gohl , 1981 ) .
 Prolonged wilting of crops has been shown to result in lower WSC of the crop ( Uchida et al . , 1989 ; Pettersson and Lindgren , 1990 ) , and to reduce acetic acid and NH - N production ( Liu et al . , 2011 ) .
@@ -167,13 +160,11 @@ Water hyacinths were successfully ensiled with either 4 % of sugarcane molasses 
 The best fermentation quality in the present study was achieved with silage treatments CM , CA and CAMI .
 Both rice bran and molasses are readily available all year round , but rice bran is more expensive than molasses .
 If the choice stands between molasses or rice bran , then molasses should be the first choice with regard to improving silage fermentation .
-
 CONCLUSIONS
 The present results suggest that there are marked influences on the formation of end - products and on pH in WH silages by addition of molasses or rice bran .
 The good results obtained in lab - scale silos suggest that the ensiling of WH on a larger scale could be a viable alternative to farmers and ensiled WH could serve as a source of roughage for ruminants in the tropics .
 Focus should be put on the maintenance of anaerobic conditions in silos because that is a vital precondition for good fermentation quality .
 Under practical conditions , the advantages of these additives must be balanced against their cost and efficacy .
-
 Dry matter and chemical composition ( g / kg DM ) of the wilted water hyacinth , rice bran and sugarcane molasses ( n = 3 )
 Dry matter ( DM ) and concentrations ( g / kg DM ) of water soluble carbohydrates ( WSC ) , crude protein ( CP ) , neutral detergent fibre ( NDFom ) and ash of water hyacinth ( WH ) silages after ensiling for 56 d ( n = 3 )
 Fermentation end - product concentrations , pH and weight losses in water hyacinth ( WH ) silages after 56 days of ensiling ( g / kg DM or as otherwise stated ) after addition of molasses ( M ) , absorbent ( A ) , inoculants ( I ) or combinations

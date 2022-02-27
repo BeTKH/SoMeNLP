@@ -51,10 +51,6 @@
 
 
 
-
-
-
-
 Developer_of	CorTechs Labs Inc.	127	1	NeuroQuant	114	0;;
 
 
@@ -69,14 +65,6 @@ Developer_of	CorTechs Labs Inc.	127	1	NeuroQuant	114	0;;
 
 
 Developer_of	Quarc	167	1	Quarc	141	0;;
-
-
-
-
-
-
-
-
 
 
 

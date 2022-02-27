@@ -3,7 +3,6 @@ Drawing on the literature on callous - unemotional traits , a novel intervention
 A mixed - methods design was used to investigate the perspectives of staff participant - observers in the change process , alongside standardised scores on measures of pupil performance and behaviour .
 Both qualitative and quantitative results showed reductions in externalising behaviour and improvements in measures of hypothesised underlying cognitive and affective processes .
 While externalising behaviour improved across subtypes , associated changes in underlying processes differed by subtype , supporting the potential value of neuroscience - informed contributions to intervention planning .
-
 Introduction
 There is great interest among teachers in the potential of neuroscience to enhance educational practice ( Goswami 2006 ; Pickering and Howard - Jones 2007 ) , but considerable debate about the extent to which this potential can be realised ( Varma et al . 2008 ) .
 Obstacles identified by Varma et al . ( 2008 ) range from the conceptual to the pragmatic .
@@ -43,7 +42,6 @@ Viding et al . ( 2011 ) have discussed a range of implications of these neurosci
 For example , it may be more effective to intervene with children who have SEBD and high CU levels in ways that appeal to their self - interest and focus on reward , rather than employing sanctions - oriented strategies or attempting to induce empathy for victims .
 For children with SEBD who do not exhibit CU traits , a focus on emotional regulation and behaviour management may be more appropriate .
 Given that children with different profiles will usually be learning side by side in the same classroom contexts , the challenge is to develop programmes that can be used to address a range of needs effectively .
-
 Programme development
 Let ' s Get Smart ( LGS ) , a flexible , multi - stranded behaviour intervention programme , was developed by the third author , an educational psychologist , in response to increasing requests for support for children with early - onset and more challenging aggressive and antisocial behaviour .
 Casework experience highlighted apparent differences in the emotional responses , social interests and behaviour of those children who engaged in the most damaging antisocial behaviour , e.g. persistent bullying .
@@ -63,7 +61,6 @@ An important component of the programme involves training adults to use the LGS 
 The training also enables schools to consider ways in which they might modify curriculum delivery , the structure of the school day and their behaviour polices .
 Children are actively involved in monitoring their progress towards their targets , to improve their self - awareness and capacity for reflection .
 Immediate , clear , detailed feedback is given to enhance progress and a carefully structured reward system is included to maximise motivation .
-
 School context
 The pilot school is a special school for children experiencing SEBD to the extent where they have been judged unable to learn within a mainstream environment .
 At the time the project started , the school had been open for 12 years and had a successful record of managing and changing children ' s learning and behaviour , reintegrating approximately 20 % of pupils to mainstream schools .
@@ -84,13 +81,11 @@ Later on , staff were able to apply LGS principles in order to modify and add to
 The children also contributed in shaping project implementation .
 For example , during work on inhibition training one of the children commented on his difficulties in stopping himself thinking , doing or saying certain things , saying that it was like having a ‘ stop button ’ in his head that did not work properly .
 The child ' s analogy was considered very helpful , and the phrase was widely adopted throughout the project when referring to inhibition activities .
-
 The pilot evaluation
 The evaluation of the pilot reported in this article was funded by the local authority in order to ascertain the extent of positive change for staff and pupils achieved in the first year of implementation .
 A mixed - methods design ( Creswell and Plano Clark 2007 ) was adopted in order to capitalise on the role of staff members as participant observers in the change process , while also utilising standardised measures of pupil performance in collecting information on change over time to address accountability requirements .
 The qualitative component of the study involved semi - structured individual interviews conducted with school staff by a university researcher in the summer term at the end of the first year of the pilot .
 The quantitative component involved completion by staff of standardised measures of child behaviour and performance on two occasions : in the autumn term prior to the introduction of the programme to the school , and again in the summer term in order to evaluate change in standard scores .
-
 Qualitative investigation of staff perspectives
 The purpose of this component of the study was to explore staff perspectives on the changes they had experienced in their work , and observed more generally in the pupils , following the implementation of the programme .
 In addition to this descriptive information , evaluative information was sought on what had , and had not , worked well .
@@ -102,29 +97,19 @@ Interviewees were assured of confidentiality and of anonymity in reporting .
 Semi - structured interviews allowed focused , open communication where not all questions were necessarily planned ahead of time , so providing opportunities to follow lines of enquiry that appeared particularly informative or important ( Wengraf 2001 ) .
 The interviews were based around the questions about changes resulting from the pilot .
 What has changed for you since September ?
-
 What has changed for the pupils ?
-
 What has worked well ?
-
 What has not been so effective and could be improved ?
-
 Data analysis
 The interviews were audio recorded and transcribed .
 Content analysis of the transcripts was based on procedures described by Vaughn , Schumm , and Sinagub ( 1996 ) as follows .
 Identification of key themes or ‘ big ideas ’ within the data , following reading and re - reading of each transcript .
-
 Identification and highlighting of units of information ( phrases and / or sentences ) relevant to the research purposes .
-
 Selection of category headings to sort and group these units of information .
-
 Coding of units of information according to category headings , to enable most of the units to be placed within a category .
 A software package for qualitative data analysis , Atlas.ti ( Muhr 2004 ) , was employed .
-
 Negotiation between the researchers to agree the category headings which most economically accommodate the relevant units of information .
-
 Review , revision and cross - validation of the categories generated in the first phase of data analysis through participant verification .
-
 Results
 Three overarching themes were identified in the data : changes for staff , changes for pupils and broader issues affecting programme implementation .
 The themes and subthemes identified in the first two of these areas are presented in detail in this section , and illustrated with direct quotations from the interview transcripts .
@@ -156,7 +141,6 @@ I am absolutely in support of all this now , but I wasn ' t convinced at the sta
 However , there were some reservations about the full integration of the programme into the whole of the school , and about difficulties staff had experienced in accommodating new practices :
 Although we get together at staff meetings we don ' t know an awful lot of what goes on in [ the Special Unit ] and it is somewhat like they are putting everything into this new project and it feels like some of the school are only doing bits and bobs and we are not getting any overlap .
 I think one of the difficulties - we have a migrant population , we have a lot of children in during the course of the year - the difficulty is when you have children who know how to do it a little bit and a new one in where all the behaviours come out and you have to go through it all again with the others .
-
 Changes for pupils
 The themes identified from the transcripts about changes staff perceived pupils to have made as a result of the programme are shown in Table 2 .
 These comments were mainly positive , although there were some comments about pupils experiencing difficulties in coping with the changes - this was mainly in relation to pupils in Year 6 .
@@ -174,7 +158,6 @@ Where video work had been used , it was considered to have been successful :
 when we have used it with X it has been so successful because he really has developed a sense of ‘ when I behave like this , this is what other people think and see , so I ' m not going to get [ desired outcome ] if I behave like it .
 There were some comments about pupil difficulties in coping with the changes which were focused on the Year 6 class :
 I think there is a lot of success , but for the children who have been here a long time under the old system I think it ' s harder to take on .
-
 Programme introduction and implementation
 The third set of themes identified from the transcripts concerned more general challenges experienced in programme introduction and implementation .
 A number of these related to issues , such as staffing and building work , which coincided with but were not perceived as changes resulting from the pilot and are not reported here .
@@ -186,7 +169,6 @@ Comments were made about looking forward to the next academic year and using the
 It ' s been a brilliant year , yes .
 I think the footings that we have put in are amazing .
 It ' s been really hard work - and getting over that initial hump to get going and have ideas formed about where we want to go has been really hard and we need to just keep going .
-
 Supplementary documentation
 In the course of transcript verification by participants a number of documents were provided in elaboration of points discussed in the interviews .
 These provided information on exclusions and incidents of notifiable damage .
@@ -197,20 +179,13 @@ The work reported in this article was mentioned in the following extracts :
 Working closely with [ X University ] , the school has gained national prominence for its work in recognising and addressing the weaknesses many pupils have that inhibit their ability to learn in a conventional manner . ( p . 4 )
 Evaluations carried out by [ X University ] show significant improvements in pupils ’ social awareness and their understanding of morality . ( p . 6 )
 The work with [ X University ] has seen significant improvement in the outcomes for pupils . ( p . 8 )
-
 Quantitative investigation of changes in behaviour and performance
 The purpose of this component of the study was to investigate specific questions about changes in pupil behaviour and performance over the 9 months following introduction of the intervention .
-
 Would standardised scores on measures of externalising , disruptive and aggressive behaviour show significant improvement ?
-
 Would these behavioural improvements be greater for children with low CU levels , in accordance with previous reports of greater intervention resistance in those with high CU levels ?
-
 Would standardised scores on measures of executive functions relating to behavioural regulation and metacognition show significant improvement over the school year ?
-
 Would any differences in executive function be found between children with higher and lower CU levels ?
-
 Would changes in performance on different indicators of cognitive and affective functioning be associated with improvements in externalising behaviour for children with higher and lower CU levels ?
-
 Method
 Participants
 At the beginning of the school year , parents were informed by the school by letter about the new programme and opt - out parental consent was obtained for the collection of evaluation measures .
@@ -218,7 +193,6 @@ As the measures in this study were teacher - completed and did not involve direc
 No parent withheld consent so all 35 pupils at the school were initially recruited into the project .
 Due to alternative placements and house moves , complete information at both time points was available for 29 pupils .
 Of these 29 pupils , 27 were male and the group had a mean age of 8.72 years ( SD = 1.71 ) , with 6 being in Key Stage 1 ( 5 - 7 years ) and 23 in Key Stage 2 ( 8 - 11 years ) .
-
 Measures
 The following measures were completed by class teachers on two occasions , once in the autumn term and once in the summer term .
 Inventory of Callous - Unemotional Traits ( ICU ; Kimonis et al . 2008 ) .
@@ -242,7 +216,6 @@ A total Global Executive Composite ( GEC ) can be summed from all subscales .
 On all the subscales , Index scores and GEC , the mean score is 50 , and the average t - score range is 41 - 59 .
 t - Scores at , or above , 65 on any of the scales or indices indicate clinically significant executive dysfunction .
 The manual reports good internal consistency reliability on all teacher - rated subscales ( α > .8 ) and convergent validity with other measures of inattention , impulsivity and learning skills .
-
 Results
 Descriptive statistics for all measures for the total sample , and the groups high and low on CU traits , are presented in Table 3 .
 Following preliminary assumption checking which established the suitability of the data for parametric statistical analyses , each of the research questions was investigated in turn .
@@ -253,14 +226,12 @@ Follow - up ANOVAs were conducted to investigate these significant differences f
 Significant changes over time were found on the Externalising Problems Composite , F = 15.11 , p = .001 , η = .36 and the Behavioural Symptoms Composite , F = 25.07 , p < .001 , η = .48 .
 Significant differences between the groups were found on all the composite scores except Internalising Problems .
 The High CU group scored higher than the Low CU group on Externalising Problems Composite , F = 23.07 , p < .001 , η = .46 , the School Problems Composite , F = 13.32 , p = .001 , η = .33 , and the Behavioural Symptoms Composite , F = 12.86 , p = .001 , η = .32 , but scored lower on the Adaptive Behaviour Composite , F = 35.29 , p < .001 , η = .57 .
-
 Changes in executive functions
 To investigate the second research question , relating to change in executive functions , a mixed MANOVA was conducted with the two index scores of the BRIEF as the dependent variables , CU group ( high or low ) as the between - participants variable , and time ( Autumn and Summer ) as the within - participants variable .
 A significant multivariate effect was found for the main effect of group , F = 5.82 , p = .008 , η = .31 , but not of time , F = 2.45 , p = .11 , η = .16 , and the main effect of group was qualified by a significant interaction between time and group , F = 4.27 , p = .025 , η = .25 .
 Follow - up ANOVAs revealed significant interactions between time and group for both the index scores : Behavioural Regulation , F = 6.43 , p = .017 , η = .19 ; and Metacognition , F = 7.19 , p = .012 , η = .21 .
 Simple effects analyses of these interactions showed that whereas there were no significant differences between the groups in the Autumn on either measure ( Behavioural Regulation : t = 0.74 , p = .46 ; Metacognition : t = 0.96 , p = .35 ) , in the Summer the Low CU group was significantly lower , and therefore performing better , than the High CU group on both measures ( Behavioural Regulation : t = 2.54 , p = .017 ; Metacognition : t = 4.01 , p < .001 ) .
 While the scores of the Low CU group reduced significantly between the two assessments on Behavioural Regulation , t = 2.80 , p = .013 , and Metacognition , t = 2.80 , p < .014 , the scores of the High CU group did not show significant change over time on either variable .
-
 Association of cognitive and affective change with behavioural change
 To investigate the third research question , change scores were calculated by subtracting the scores obtained in autumn from those obtained in summer .
 Pearson ' s correlations were first used to examine the association between improvements in externalising behaviour ( assessed by the change score for the Externalising Composite of the BASC - II ) , and improvements both in executive functioning ( assessed by the change score for the BRIEF Global Executive Composite ) and in CU levels ( assessed by the change score for the ICU ) .
@@ -268,7 +239,6 @@ Table 4 shows the correlations obtained for the whole sample , from which it can
 Multiple regression analysis indicated that the combination of the other two change scores significantly predicted improvement in externalising behaviour ( F = 11.52 , p < .001 , Adjusted R = .43 ) , with both variables significantly contributing to the prediction ( improvement in executive functioning : β = .43 , p < .01 ; improvement in CU score β = .41 , p < .05 ) .
 However , as can be seen from Table 4 , when these associations were examined separately for the high and low CU groups , improvement in externalising behaviour was significantly associated only with improvement in CU score for the High CU group , and with improvement in executive functions for the Low CU group .
 Correlations between change scores for externalizing behaviour , executive functions and CU traits .
-
 Discussion
 The results of this pilot programme evaluation offer initial support for the further development of the Let ' s Get Smart approach .
 Significant improvements across the first year of implementation were apparent on a number of measures of pupil behaviour and performance .
@@ -297,7 +267,6 @@ Third , while this evaluation uses mixed methods , there is only one source of s
 A number of the class teachers who completed the standardised measures also participated in the semi - structured interviews .
 A degree of congruence between the conclusions of the quantitative and qualitative elements of the study is therefore to be expected .
 While documentary evidence of reductions in exclusions and damage , and from the school Ofsted inspection report , offer some external validation , future research should systematically sample other sources of information .
-
 Further research
 While the content of this intervention programme was developed using a developmental cognitive neuroscience evidence base , and this pilot study offers tentative evidence of reductions in externalising behaviour and CU levels , with increases in executive function performance over the course of one year , it is not possible to relate these behavioural changes to brain structure or activity .
 Future work should consider pre - and post - measures of brain structure and / or activity in order to examine how far changes measured using teacher reports of observable behaviour are represented in the brain .
@@ -306,7 +275,6 @@ Many children attending SEBD provision are from disadvantaged backgrounds and ha
 However , future work conducted on a larger scale should seek to collect multi - informant information and to consider the transferability of new skills and behaviour improvement to the home context .
 It will also be important to investigate whether there are any groups of children for whom this approach may be inappropriate .
 In this study , the sample of pupils has been too small to investigate differential effects on particular subgroups .
-
 Conclusions
 In summary , this first evaluation study of a developmental cognitive neuroscience - inspired programme of intervention suggests a worthwhile method of bringing about positive behavioural change in a group of young children in SEBD provision .
 Understanding the neuropsychology and neural underpinnings of CU - type cognitive - affective and behavioural profiles allowed the programme to work to the relative strengths of this group , without being to the detriment of pupils without elevated CU levels .

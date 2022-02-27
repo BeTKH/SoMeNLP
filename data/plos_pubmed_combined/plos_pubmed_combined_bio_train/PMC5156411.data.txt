@@ -8,7 +8,6 @@ Furthermore , Wistar rat is an established model system for studying skeletal mu
 The age - related changes described in human muscle , the loss of fast motor units , muscle atrophy , conversion of fast - twitch to slow - twitch fibers and decrease in force were also observed in this rat model .
 Animals were housed individually in a controlled environment ( i.e. an ambient temperature of 21 ± 1 ° C , 12 - h light / dark inverted cycle ) , maintained on a low - protein ( 10 % ) standard diet ( SAFE A04 , SAFE , Augy , France ) and with ad libitum water , and they were handled daily for several weeks prior to the experimentation .
 Food consumption and animal weights were monitored weekly .
-
 Animals were randomly assigned to 3 groups according to protein supplements and balanced for body weights ( BW ) as CAS ( casein ) group , average BW of 493 ± 8 g , n = 16 , WHEY group , average BW of 495 ± 8 g , n = 16 , and PRO ( soluble milk protein ) group , average BW of 497 ± 10 g , n = 16 .
 Half of each treatment group was assigned to a concurrent treadmill activity program .
 At the beginning of the dark ( active ) phase , rats were introduced to the treadmill , which had a Plexiglas ™ cover to prevent their escape , and which provided a running surface that was 100 cm in length and 15 cm in width .
@@ -17,7 +16,6 @@ During the first two weeks , the speed of the treadmill and the duration of the 
 This moderate exercise program was very well tolerated by all the animals and they were classified as “ active old rats ” .
 The other half of the rat population was introduced for the same duration to the immovable treadmill , and they were classified as “ sedentary old rats ” .
 This protocol was maintained over a 2 - month period , until the rats reached the age of 19 months .
-
 During 8 weeks , protein supplements were administered once a day , 5 days a week , in the form of a 12 mL bottled free access drinking solution ( i.e. a bolus ) which contained either 0.85 g of casein ( for the CAS group ) , whey protein ( for the WHEY group ) , or soluble milk protein ( for the PRO group ) .
 Casein ( CAS ) is a slowly digested protein while whey ( WHEY ) and soluble milk protein ( PRO ) are rapidly digested proteins .
 Comparison between the soluble milk protein and whey was made due to difference between their production process and amino acids composition .
@@ -30,7 +28,6 @@ This procedure allowed us to avoid electrical shocks during the exercise activit
 The boluses also contained 0.2 % sucrose to increase appetence , and thus allowed assimilation over a short - time period without causing drinking water privation .
 As for exercise stimulus , this protein supplementation was maintained over a 2 - month period , until the rats reached the age of 19 months .
 Proteins were all provided by Lactalis Ingredients , Bourgbarre France and their amino acids compositions are displayed in Table 1 .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0167707.t001 Amino acids composition of proteins .
 Amino acids ( g ) per 100 g of protein As illustrated in Fig 1 , in vivo tests were performed in the same sequence for each rat , with equivalent time of rests between the tests .
@@ -43,12 +40,10 @@ Indeed , grip test is a stress - inducing method in aged rats and , in order to 
 Actimeter is often used to investigate locomotion in rodents but a pronounced habituation exhibited as a decrease in locomotion was observed after several trials .
 By contrast , with the gait experiments performed before and after 2 months of supplementation , there is limited stress and rats were encouraged to move freely across the walkway of the GaitLab system .
 This last point is one of the elements strengthening the use of the GaitLab system instead of the actimeter to analyze locomotion in a longitudinal aspect in aged rodents .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0167707.g001 Schematic study design .
 Study design and time line for the experimental protocol for all old rats over the 2 - month period of study .
 W0 to W8 : weeks of protocol .
-
 For all the rats in the experimental protocol , gait parameters for unforced walking rats were analyzed before and after the 2 - month period of protein supplementation using the GaitLab system ( ViewPoint ) ( Fig 1 ) .
 The GaitLab system consisted of a 2 m long glass walkway plate , illuminated with green light that is reflected within the glass at touched points , a high - speed video camera , and a software package for quantitative assessment of animal footprints .
 This system was used to analyze the gait of unforced moving rats , as described below .
@@ -67,29 +62,24 @@ By contrast , any gait where hindlimbs or forelimbs fell either as more or as le
 The successions of the movements are the result of the time lag between the action of ipsilateral fore and hind paw ( left and right lag ) .
 Analysis of these time lags then allowed us to identify the various types of symmetrical ( i.e. trot , diagonal , or lateral walk ) and asymmetrical ( i.e. transverse or rotary gallop ) walking used by the rats [31] .
 Other temporal and spatial gait parameters were determined for each paw , and expressed as averages of the data obtained on at least 3 consecutive strides by the limbs for each successful trial .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0167707.t002 Definition of gait parameters .
 Temporal and spatial measures were generated from a sequence consisting of at least 3 interrupted strides per paw selected from any of the successful trials .
 The latter being defined as having occurred when an animal finishes running the tracks without any interruption or hesitation , with a regularity of up to 98 % .
-
 At the end of the week 8 , motor behaviour was examined in an open field actimeter for all rats ( Fig 1 ) [34] .
 For this analysis , rats were individually placed in an automated photocell activity chamber ( Letica model LE 8811 , Bioseb , France ) which consisted of a Plexiglas ™ chamber ( dimensions of 45 cm × 45 cm × 50 cm ) surrounded by two rows of infrared photobeams .
 The first row of sensors was positioned at a height of 7 cm for measuring horizontal activity , and the second row was positioned above the animals to measure vertical activity .
 Spontaneous motor activity was measured over a period of 5 min using a movement analysis system ( Bioseb , France ) , which dissociates the activity time ( s ) , the total number of movements ( nb ) , and the total distance travelled ( cm ) .
 The average speed ( cm / s ) was also calculated by dividing the total distance travelled by the activity time .
-
 As for the open - field actimeter at the end of the week 8 , in order to see whether protein treatment could affect skeletal muscle strength , all rats were challenged using the grip test ( Fig 1 ) .
 Rats were placed with their forepaws on a T - bar , and they were gently pulled backwards until they released their grip [35] .
 A grip meter ( Bio - GT 3 , BIOSEB , France ) , attached to a force transducer , measured the peak force generated .
 Five tests were performed sequentially .
 The results are expressed as the mean of 3 median values in grams ( g ) , and normalized by the body weight ( g / g ) .
-
 At the end of the protocol , animals were anesthetized with a mixture of ketamine ( 100 mg / kg , Imalgene , Merial , Lyon , France ) and xylazine ( 10 mg / kg , Rompun , Bayer , Leverkusen , Germany ) ( Fig 1 ) .
 Rats were then sacrificed by intravenous administration of sodium pentobarbital ( 300 mg , Dolethal , Vetoquinol UK Ltd , Buckingham , UK ) .
 Immediately after being sacrificed , the body weight ( g ) and the body length ( cm ) of each rat were measured to determine the body mass index , which was calculated as body weight / ( body length ) 2 ( g / cm 2 ) .
 The tibialis anterior ( TA ) , extensor digitorum longus ( Edl ) and soleus muscles of the hindlimb , and the biceps brachii ( BB ) and extensor digitorum carpi ( Edc ) muscles of the forelimb were sampled and weighed .
-
 Statistical evaluation of the data was performed by the non - parametric Kruskal - Wallis test in order to analyse the difference between protein supplements under the two conditions , i.e. sedentary or active rats .
 When a significant overall effect was detected , differences across sedentary or active groups were assessed by Dunn ’ s post hoc test .
 For gait parameters a Wilcoxon matched - paired signed rank test was performed .

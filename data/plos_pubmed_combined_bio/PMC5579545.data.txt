@@ -5,7 +5,6 @@ This paper discusses the experiments that were performed by varying several para
 The experimental results demonstrate that an increase in the heating power , pressure , and cavity size leads to an increase in the accelerometer sensitivity .
 However , an increase in the pressure and / or cavity size results in a decrease in the frequency bandwidth .
 This paper also discusses the fact that a working - gas medium with a large thermal diffusivity and small kinematic viscosity can widen the frequency bandwidth and increase the sensitivity , respectively .
-
 1 .
 Introduction
 Microelectromechanical systems ( MEMS ) - based devices integrate various mechanical elements , sensors , actuators , and electronics onto a silicon substrate to achieve a multitude of different tasks over a diverse range of fields .
@@ -25,7 +24,6 @@ To improve the sensitivity and frequency response , the current study concentrat
 In addition , the proposed thermal convection - based accelerometer response was theoretically evaluated , and its operating characteristics were measured through experimentation .
 Various simple models were used to better understand the sensitivity and frequency response of the accelerometer .
 The more influential parameters were then taken into account in the sensor design .
-
 2 .
 Materials and Methods
 2.1 .
@@ -37,7 +35,6 @@ The silicon ( Si ) substrate was prepared with the 0.5 μ m thickness of silicon
 The back side of the Si wafer was etched and the heater and temperature sensors at the bottom wafer are made of platinum ( Pt ) , which has very stable physical properties and operates with a high temperature coefficient of resistance of 3.93 × 10 ( ° C ) .
 The frond side of Si was removed by wet etching to form thermal isolation in the microchamber .
 Finally , the sensor is packaged in a sealed microchamber that contains a working medium , e.g. , air or nitrogen ( N ) .
-
 2.2 .
 Principles of Operation
 Figure 2a shows the temperature distribution in the cavity when the accelerometer is not subjected to acceleration .
@@ -47,7 +44,6 @@ No temperature difference is detected between the two temperature sensors ; thus
 When the accelerometer is subjected to acceleration , the temperature profile shifts along the direction of the applied acceleration , as shown Figure 2b .
 This condition results in an increase in temperature around one temperature sensor and a decrease in temperature around the other sensor , generating a temperature difference between the two temperature sensors that is proportional to the magnitude of the applied acceleration .
 By measuring the electrical signal produced from the temperature difference , the acceleration can be determined .
-
 2.3 .
 Theory of Operation
 Because the working mechanism of the convective accelerometer is based on thermal convection , a method to improve its performance is to provide an appropriate convection environment to the accelerometer .
@@ -56,11 +52,8 @@ As expressed in Equations ( 1 ) and ( 2 ) , these parameters can be used to pred
 Previous works have shown that the temperature difference in the thermal convection - based sensor is linearly proportional to the G number ; thus , a larger G number results in higher sensitivity of the thermal convection - based accelerometer for a given acceleration [10,11,12] .
 Therefore , increasing the value of the Gr number is essential to obtain good sensitivity of the thermal accelerometer .
 According to Equation ( 1 ) , the following design parameters can be considered to increase the sensitivity of the thermal accelerometer : Large heating power and lower ambient temperature , which corresponds to increasing T ,
-
 Increase in the characteristic size , which corresponds to increasing L ,
-
 Selection of a gas medium with large gas density ρ and small kinematic viscosity μ .
-
 Previous papers on thermal accelerometer have discussed the dependence of performance on G and P , important factors in sensitivity and frequency response [11,12,13,14,16,17] .
 In particular , the frequency response of a thermal accelerometer can therefore be improved by taking into account the thermal variations in the gas properties and the dependence on the air thermal conductivity [12] .
 To obtain a fast and wider frequency response , we need to highly influence the thermal physical properties of the gas medium .
@@ -69,7 +62,6 @@ In addition , the frequency response is associated with the cavity dimensions an
 We can deduce that achieving heat uniformity in a larger cavity of an accelerometer at given heater power takes a longer time and shows a slower frequency response .
 On the other hand , the gas medium around the heater can quickly reach the temperature sensor when the distance between the heater and temperature sensor is small .
 All the above - mentioned methods to improve the sensitivity and frequency response of the thermal convection - based accelerometer must be experimentally carried out based on G and P parameters to optimize the sensor structural design and maximize the performance of the accelerometer .
-
 3 .
 Results and Discussion
 3.1 .
@@ -95,7 +87,6 @@ Energy can neither be created nor destroyed .
 However , it can be transformed from one form to another .
 In other words , powered heaters with high temperature can transfer a large amount of thermal energy to the working gas medium , which leads to high sensitivity of the thermal convection - based accelerometer [18] .
 In practical applications , however , we need to consider the power consumption and sensitivity of the accelerometer .
-
 3.2 .
 Effects of the Medium Type
 Because the thermal convection - based accelerometer detects the temperature distribution profile of the gas medium that fills the cavity , cavity conditions such as the pressure , size , and gas medium are critical parameters that affect the sensitivity of the accelerometer .
@@ -117,7 +108,6 @@ The medium properties directly determine how rapidly the gases can move toward t
 Gases with a lighter density and larger thermal diffusivity are advantageous as a working medium for a higher frequency response .
 A larger thermal diffusivity and a lighter density take less time to deliver the heated gas from the central microheater to the temperature sensor .
 From these factors , we can assume that the sensitivity of the accelerometer has a trade - off relationship with the frequency response .
-
 3.3 .
 Effects of the Gas Pressure
 The physical states of a gas medium in the cavity highly influence the sensitivity of the thermal accelerometer .
@@ -134,7 +124,6 @@ In contrast , the proof - mass - type sensor requires modification of the struct
 On the other hand , an inferior frequency response is observed at higher air pressure , as shown in Figure 6b .
 As revealed by the expression of the thermal diffusivity , α = k / ρ · c , the density ( ρ ) of the gas is linearly proportional to the pressure , whereas the thermal conductivity ( k ) and specific heat ( c ) undergo very small variations even if the pressure increases [22] .
 These factors explain why the frequency response of the sensor decreases as its internal pressure increases .
-
 3.4 .
 Effects of the Cavity Volume
 The volume of the gas medium cavity also influences the sensitivity and frequency response of the sensor because it is related to the gas density and the heat quantity per unit volume of the sensor .
@@ -149,7 +138,6 @@ We find that a larger chamber has a lower frequency , which implies that a longe
 Thus , small sizes might be more desirable to enhance the frequency response .
 Based on this result , we can see that simultaneously improving both the sensitivity and frequency response by optimizing the gas medium , gas pressure , and cavity size is not possible .
 Therefore , in designing the thermal accelerometer , we need to consider the practical applications of the accelerometer .
-
 4 .
 Conclusions
 An accelerometer based on convection was fabricated and tested in this study .
@@ -157,5 +145,4 @@ Several characterizations derived through experimentation demonstrated that the 
 This study paid particular attention to the frequency response of the convection - based accelerometer based on thermal exchanges .
 The characteristics of the sensor have been experimentally investigated as a function of the gas medium , pressure , heater power , and cavity volume .
 The experiment results have shown that the frequency response can be extended by optimizing various factors , such as a smaller cavity volume , a lower gas pressure , and a gas medium with a large thermal diffusivity .
-
 The gas medium properties at 50 ° C [20] .

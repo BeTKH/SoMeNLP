@@ -10,7 +10,6 @@ The Tennessee forest was dominated by upland oaks ( Quercus spp . ) , hickory ( 
 The Florida forest was dominated by oak ( Quercus spp . ) , maple ( Acer spp . ) , interspersed with shortleaf pine and a shrub layer dominated by tree saplings .
 Average canopy cover estimates for the sites during the study months ranged from 86 % - 92 % .
 Meteorological measurements ( temperature and relative humidity ) were recorded hourly at each site in both years , using paired iButton data loggers ( Hygrochron , Dallas Semiconductor ) placed just below the surface of the leaf litter level ( 0 cm ) and above ground ( 10 cm ) .
-
 The laboratory - reared nymphs used in 2011 originated from 22 ( WI = 8 , SC = 14 ) engorged female I . scapularis collected in November 2010 from hunter harvested deer at check stations in Monroe County , Wisconsin ( latitude 44.01 ° N ) and Aiken County , South Carolina ( latitude 33.56 ° N ) .
 Engorged females were allowed to oviposit in individual vials in humidity chambers at 21 ° C and 98 % relative humidity at 16 : 8 ( L : D ) hour photoperiod conditions .
 At 2 to 7 weeks of age , the resulting larvae were fed on female laboratory mice ( ICR ( CD - 1 ) strain , Mus musculus ) and allowed to molt into nymphs ; at 2 to 4 weeks of age , these nymphs were transferred to the field sites .
@@ -21,7 +20,6 @@ Adults of a single origin ( WI or SC ) were then mated together on New Zealand W
 The resulting engorged females were maintained as described above through the ovipositional period .
 Resulting larvae were reared to nymphs using the 2011 protocol .
 In November 2011 , 5 additional engorged females were collected from hunter killed deer at check stations in Hyde County , North Carolina ( latitude 35.50 ° N ) and Aiken County , South Carolina ( latitude 33.56 ° N ) to provide additional nymphs for the 2012 experiment .
-
 Experimental apparatus and questing observations : Ticks originating from Wisconsin ( WI ) and South Carolina ( SC ; 2011 and 2012 ) and North Carolina ( NC ; 2012 ) were placed at field sites in the eastern US ( Wisconsin ( WI ) in 2011 ; WI , Rhode Island ( RI ) , Tennessee ( TN ) , and Florida ( FL ) in 2012 ) .
 The design of the 2011 experiment consisted of 5 blocks , each containing 4 arenas .
 All naturally - occurring ticks were removed by heat - treating locally - obtained leaf litter before adding it to the arenas .
@@ -45,12 +43,10 @@ Observers , who were blind to the origin of nymphs in the arenas , recorded the 
 Control arenas were checked in the same manner during each sampling visit .
 This sampling design was employed because it was not known whether I . scapularis nymphs from different origins might have divergent patterns of diel activity .
 The questing behavior of the SC versus WI nymphs was compared statistically based on the log - odds of their presence on stems .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0127450.g003 Ixodes scapularis nymph questing on stem in experimental arena .1 cm of a 10 cm dowel is visible .
 Photo by G .
 Hickling .
-
 In 2012 , the experimental design at each site consisted of four blocks of four arenas , each arena containing 37 - 62 nymphal ticks from a single geographic origin ( 5 from WI , 3 from NC , and 8 from SC ) and two unseeded additional arenas which served as controls for the leaf litter and arena barriers .
 The WI site had two additional arenas containing SC derived ticks .
 Arenas were established using the same protocol as 2011 , except that the number of stems used was reduced from 24 to 15 ( 5 of each of the same heights used in 2011 ) leaving a larger area of “ stem - less ” leaf litter adjacent to the arena walls .
@@ -67,7 +63,6 @@ Ticks emerged from the leaf litter can instantly position their forelegs in the 
 Ticks under the leaf litter ( not emerged ) would have difficulty making direct contact with hosts walking upon the leaf litter , as the leaf litter would create a barrier between the nymph ’ s forelegs and the host body .
 The questing behavior of the nymphs was again assessed by estimating the log - odds of observing emerged nymphs .
 In 2012 , each site had its own set of observers .
-
 Once behavioral observations were complete ( in July 30 , 2011 and mid - September 2012 , respectively ) , we assessed the relative survival of the nymphs in each arena by conducting searches of the arena litter .
 In 2011 , we placed air - activated hand warmers ( Grabber , Byron Center , Michigan ) , wrapped in white flannel into the arenas for 1.5 - 2 hours .
 Nymphs attracted to the heat were removed from the flannel and placed in 95 % ethanol .
@@ -75,7 +70,6 @@ A 12 cm x 12 cm square of white flannel material was then pressed against the le
 After the initial microdrag , a second round of microdrags was performed , again stirring the leaf litter and with moving the cloth through the leaf litter to contact in the sub - surface layers .
 Individuals were placed in 95 % ethanol to preserve their field collected condition .
 In 2012 , the heat pack method was abandoned because it appeared to preferentially target WI ticks ( captured 53.9 % of all WI ticks recovered ) over SC ticks ( captured 6.0 % of all SC ticks recovered ) and survival was assessed using only the microdragging method .
-
 We used a Bayesian approach for predicting the log - odds of nymph questing behavior as a function of nymph geographic origin .
 No p - values are reported ; but rather summaries of the posterior distributions generated from models using the data obtained .
 These posterior distributions describe the plausibility of possible parameter values generated from the model , given the data we observed [76] .

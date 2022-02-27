@@ -15,7 +15,6 @@ In most of these cases the player ID or the initial of the first name helps in t
 All together , less than of all data points were ignored for the current analysis .
 There is no reason to believe that the resulting data is biased in any sense due to the cleaning procedure .
 The cleaned data is available in Dataset S1 .
-
 As mentioned above there are three types of of free throws sequences : a single attempt , a sequence of two consecutive attempts and a sequence of three consecutive attempts .
 For all the two attempts sequences of every player , , we measured the success rate for the first and second free throws attempts and denoted them by and respectively .
 Throughout this text lower case letters denote single individual properties .

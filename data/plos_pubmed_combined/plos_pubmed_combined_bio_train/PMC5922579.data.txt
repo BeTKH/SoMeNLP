@@ -1,6 +1,5 @@
 All fMRI data collection at Dartmouth College was approved by the Dartmouth Committee for the Protection of Human Subjects .
 Resting state data from the Human Connectome Project was approved by the Institutional Review Boards associated with that project .
-
 Movie data : Raiders of the Lost Ark : We scanned 11 healthy young right - handed participants ( 4 females ; Mean age : 24.6 + / - 3.7 years ) during movie viewing .
 Participants had no history of neurological or psychiatric illness .
 All had normal or corrected - to - normal vision .
@@ -13,13 +12,11 @@ The video image subtended a visual angle of approximately 22.7 ° horizontally a
 Audio was presented through MR Confon ’ s MRI - compatible headphones .
 Participants were instructed to pay attention to the movie and enjoy .
 See [16] for details .
-
 Participants were scanned in a Philips Intera Achieva 3T scanner with an 8 channel head coil at the Dartmouth Brain Imaging Center .
 T1 - weighted anatomical scans were acquired at the end of each session ( MPRAGE , TR = 9.85 s , TE = 4.53 s , flip angle = 8 ° , 256 × 256 matrix , FOV = 240 mm , 160 1 mm thick sagittal slices ) .
 The voxel resolution was 0.9375 mm × 0.9375 mm × 1.0 mm .
 Functional scans of the whole brain were acquired with an echo planar imaging sequence ( TR = 2.5 s , TE = 35 ms , flip angle = 90 ° , 80 × 80 matrix , FOV = 240 mm × 240 mm ) every 2.5 s with whole brain coverage ( 41 3 mm thick interleaved axial slices , giving isotropic 3 mm × 3 mm × 3 mm voxels ) .
 We acquired a total of 2718 functional scans with 1350 TRs in four runs during the first session and 1368 TRs in four runs during the second session .
-
 fMRI movie data were preprocessed using AFNI software [42] ( http://afni.nimh.nih.gov ) .
 Functional data were first corrected for the order of slice acquisition and head motion by aligning to the last volume of the last functional run .
 Any spikes in the data were removed using 3dDespike in AFNI .
@@ -27,7 +24,6 @@ Data were then filtered using 3dBandpass in AFNI to remove any temporal signal v
 Each subject ’ s anatomical volume was first aligned to the motion corrected average EPI volume and then to the MNI 152 brain template in AFNI .
 Functional EPI BOLD data were then aligned to the MNI 152 brain template using nearest neighbor resampling by applying the transformation derived from the alignment of the anatomical volume to the template .
 Data acquired during the overlapping movie segments were discarded resulting in a total of 2662 TRs with 1326 TRs in the first session and 1336 TRs in the second session .
-
 Definition of masks and searchlights for movie data : We derived a gray matter mask by segmenting the MNI _ avg 152T 1 brain provided in AFNI and removing any voxel that was outside the cortical surface by more than twice the thickness of the gray matter at each surface node .
 It included 54,034 3 mm isotropic voxels across both hemispheres .
 We used this mask for all subsequent analyses of all subjects .
@@ -42,7 +38,6 @@ We used surface disk searchlights [44] centered on these nodes as the movie data
 These searchlights had a radius of 13 mm , as did those used for the HCP data , producing complete coverage of the cortex with overlapping searchlights .
 Cortical disks centered on these voxels were dilated using the same procedure as for hyperalignment of cortical surface searchlights .
 Movie connectivity target searchlights had a mean of 99 voxels .
-
 Resting state data : Human Connectome Project : In the HCP database [20] , we found unrelated subjects of age < = 35 with at least four resting state scans , yielding a list of 64 subjects .
 We chose the first 20 of these subjects in the sorted order of subject IDs for our analysis .
 For each subject , we used their cortical surfaces and fMRI data aligned to the group using MSM - All [22] with 32K nodes in each hemisphere as provided by the HCP .
@@ -61,7 +56,6 @@ These searchlights had a radius of 13 mm , producing complete coverage of the co
 HCP connectivity target searchlights had a mean of 142 loci .
 See further details below for how time - series were extracted from these searchlights .
 For validation of task fMRI , we used all of the maps provided by the HCP after removing redundancies ( such as FACE - AVG and AVG - FACE ) , which resulted in 46 maps ( S2 Table ) .
-
 We use CHA to derive a common model of the human connectome and the transformation matrices that project individual brains ’ connectomes into the common model connectome space .
 The common model connectome is a high - dimensional information space .
 In the current implementation , the model space based on movie fMRI data has 54,034 dimensions , corresponding to the number of voxels in the gray matter mask , and the model space based on HCP resting state fMRI data has 59,412 dimensions , corresponding to the number of cortical nodes in those data .
@@ -105,7 +99,6 @@ Transformation matrices derived from connectivity data also can be applied to re
 In other words , RHA and CHA are complementary methods for deriving a common model of information spaces in cortex , and RHA - derived and CHA - derived transformation matrices are alternative projections for mapping individual brain data into the same common model space .
 Note that each column of the transformation matrix RiA contains weights for cortical loci in subject i ’ s brain .
 These columns of weights are basis functions for modeling functional topographies in individual brains as linear weighted sums of topographies associated with model dimension functional profiles .
-
 Derivation of transformation matrices for regions of interest and searchlights : The derivation of individual transformation matrices that map individual brain spaces into the common model space is a three - level iterative process .
 We present the iterative algorithm for deriving transformation matrices and the common model space in greater detail here to help readers understand better its structure .
 In the first step of the first level , the data matrix for a cortical field in one subject , B2j , is transformed to be in optimal alignment with the same cortical field in another subject ’ s brain , B1j , referred to here as the reference subject : formtok
@@ -146,13 +139,11 @@ Thus , we use the reference subject ’ s cortex for illustration , but note tha
 Data matrices in the model space also can be mapped into any subject ’ s cortical anatomy by using the transpose of that subject ’ s transformation matrix ( Eq 4 ) .
 Thus , the hyperaligned data in the common model space can be illustrated in any subject ’ s anatomical space .
 The anatomical space that we use for illustration , that of the reference subject , should not be considered a canonical space but , rather , simply as one of many possible physical instantiations .
-
 We define functional connectivities as the correlations of the response profiles - series of responses across time - of cortical loci or dimensions with the response profiles of targets ( tj ) distributed across the cortex .
 We use two sets of connectivity targets , one reduced set to derive the transformation matrices and common model connectivity data matrix , and a more complete set to test the validity of the model .
 We define a reduced set of connectivity targets using surface - searchlight target ROIs to make derivation of the model more computationally tractable , as compared to using all cortical loci as individual connectivity targets .
 For the reduced set , we use 3852 targets ( top 3 components for 1284 searchlights ; note that the searchlights for connectivity targets are different from the searchlights that are hyperaligned as described above in the Resting State Data and Movie Data sections ; see details for defining searchlight PC connectivity targets in the next section ) .
 For validation testing we analyze the full connectome , defining connectivity targets as all cortical loci in the brain ( Ncl = 54,034 gray matter voxels in the movie data and 59,412 cortical nodes in the HCP resting state data ) .
-
 Each surface - searchlight connectivity target has a radius of 13 mm and is centered on a node of a coarse surface with a total of 1284 nodes covering both hemispheres .
 Thus , neighboring connectivity targets searchlights are overlapping .
 Unlike others ( e.g. , [5] ) we do not assume that a searchlight connectivity target has a single response profile .
@@ -169,24 +160,20 @@ We then performed a singular value decomposition ( SVD ) of each searchlight ’
 Each of these components is a weighted sum of cortical loci in a target searchlight for each subject , and these weights afford calculation of a time - series response whose connectivity profile with other targets is shared across subjects .
 Each individual subject ’ s time - series responses for the top three components were then used as target response profiles for CHA .
 This step gave us 1284 × 3 = 3852 target response profiles in each subject ’ s cortex .
-
 Validation tests and statistical analyses : In addition to analyzing the results of validation tests in each feature or searchlight across the whole cortex , we also examined the results of validation tests in functional ROIs associated with different sensory , perceptual , and cognitive functions to assess the general validity of the common model [16] .
 We searched for terms and cortical areas implicated in visual , auditory , cognitive , and social functions in NeuroSynth [22] and took the coordinates for the peak location associated with each of 24 terms ( S1 Table ) .
 For validation testing using the movie dataset , we used volume searchlights centered around those peak loci with a radius of 3 voxels as our functional ROIs .
 For validation testing using the HCP dataset , we found the closest surface node corresponding to each peak locus and used a surface searchlight with a 10 mm radius around that surface node as the functional ROI .
 Functional ROIs that were medial and encompassing both hemispheres in the volume space were split into left and right ROIs in the surface space resulting in 26 ROIs for tests on the HCP data .
 For analyses of ISCs and PSFs of connectivity profiles in functional ROIs , we calculated the mean ISC or PSF across all cortical loci within the ROI searchlights ( Figs 3C , 4D , 5A , and 5C ) .
-
 We used bootstrapping to test for significance of the contrasts between alignment methods by sampling subjects 10,000 times to compute 95 % CIs using BootES [51] .
 We did this for each ROI and for the mean of all ROIs separately .
 We used the same bootstrapping procedure for all validation tests unless specified otherwise .
-
 Control for effect of filtering : In addition to the anatomically - aligned movie data and MSM - All aligned HCP resting state fMRI data , we calculated a third dataset that controls for the effect of filtering the data through CHA transformations but aligns those filtered data across subjects based on anatomical or MSM - All alignment .
 To produce the filter control data , we created multiple common model connectomes using each subject as the reference .
 Each subject ’ s connectome was transformed into the common connectome whose reference subject was the next subject in our order of subjects .
 The last subject ’ s connectome was transformed into the common model connectome whose reference brain was that of the first subject .
 Thus , each subject ’ s connectome is filtered by hyperalignment , but since the common model connectome for each subject has a different reference , the correspondence across filtered connectomes is based only on anatomical alignment and preserves the anatomical variability in the movie data and HCP datasets .
-
 Intersubject correlation ( ISC ) of connectivity profile vectors : For validity testing we applied a more detailed definition of the connectome to measure fine - grained structure .
 The connectivity profile vector for a feature ( or a cortical node or voxel ) was defined as the correlation of its time - series with of all other cortical nodes or voxels .
 ISCs of connectivity profiles were computed between each subject ’ s connectivity profiles and the average connectivity profiles of all other subjects in each cortical locus .
@@ -198,13 +185,11 @@ Session REST 1 was used for deriving the common model connectome and transformat
 ISCs were calculated for data mapped into the common model connectome , for movie data aligned anatomically , for HCP resting state data aligned with MSM - All , and for filter control movie and HCP data .
 We also computed within - subject between - session ( REST 1 and REST 2 ) correlation of resting state connectivity profiles .
 Within - subject between - sessions correlations were calculated on data that are transformed by CHA as used for our main analyses .
-
 To investigate the spatial granularity of representation , we computed a spatial point spread function ( PSF ) of ISCs or WSCs of connectivity profiles .
 We computed the correlation of connectivity profiles in each cortical locus ( surface node or voxel ) with the average connectivity profiles of cortical loci at varying cortical distances in other subjects ’ data .
 To account for the effect of filtering , we did this analyses with filter control data that were filtered with CHA but aligned based on anatomy and MSM - All and after CHA with each subject aligned to the same reference subject [16] .
 We computed similar PSFs for connectivity profiles within - subject between - sessions ( REST 1 and REST 2 ) .
 This was also performed after CHA to account for any filtering effects but to a single common space as used for our main analyses .
-
 ISCs of similarity structures were computed within each movie half separately using a searchlight of 3 voxel radius .
 The mean number of voxels in these searchlights was 102 .
 In each searchlight , similarity structure was computed as a matrix of correlation coefficients between patterns of response for every pair of time - points from that movie half for each subject .
@@ -213,7 +198,6 @@ ISC of representational geometry in each searchlight was computed as the correla
 Correlation values were Fisher transformed before averaging across both movie halves in each voxel .
 These were then averaged across all subject - average pairs and inverse Fisher transformed before mapping onto the cortical surface for visualization .
 The same steps were performed to compute inter - subject correlation of representational similarity before and after hyperalignment .
-
 Between - subject multivariate pattern classification ( bsMVPC ) : bsMVPC of 15 s movie time segments ( 6 TRs ) was computed within each movie half separately using searchlights of 3 voxel radius , as in the analysis of representational geometry .
 bsMVPC was performed using a one - nearest neighbor classifier based on correlation distance [12,16] .
 Each 15 s ( 6TR ) sequence of brain data for an individual was compared to other subjects ’ mean responses to that sequence and all other 15 s sequences in the same movie half using a sliding time window , resulting in over 1300 alternative time segments ( chance classification accuracy < 0.1 % ) .

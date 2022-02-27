@@ -3,7 +3,6 @@ The Experimental Unit is registered by the ministry of Agriculture with the lice
 All experiments were approved by the Ethic Committee in Animal Experimentation of Val de Loire CEEA Vdl ( permit number 2011 - 02 - 8 ) .
 The CEEA vdl is registered by the National Committe ‘ Comite National de Reflexion Ethique sur l ' Experimentation Animale ’ under the number 19 .
 All experiments were performed in accordance with the European Communities Council Directive 2010 / 63 / UE .
-
 Forty 20 - week old White leghorn hens ( Gallus gallus domesticus ) from the experimental unit PEAT ( INRA , Nouzilly ) were equally stratified into 2 groups .
 The groups were balanced for the hen mass and egg mass .
 The hens of the 2 groups were housed in 2 similar thermo - regulated rooms ( 40 m2 ) .
@@ -17,7 +16,6 @@ This temperature is considered as a moderate heat challenge for White leghorn he
 These birds had a physiological potential to maintain their laying rate under 30 ° C .
 Detrimental effects are commonly known to appear with temperatures above 32 ° C [32] .
 The control group was maintained at a temperature of 21 ± 0.5 ° C ( standard breeding temperature ) throughout the experiment .
-
 Each hen was weighted 5 times : once a week before the beginning of the treatment and once every week during the first 4 weeks of treatment .
 Rectal temperature of each bird was recorded twice : once before the treatment and once after 3 weeks of treatment ; the temperature was measured using a digital thermometer ( Testo , Forbach , France ) .
 The daily feed intake was measured once before the treatment and once during the first 3 weeks of treatment .
@@ -40,7 +38,6 @@ Inter - and intra - assay variations were respectively 9.99 % and 7.07 % .
 The lowest detectable concentration of corticosterone was 0.14 ng / mL .
 Two samples were serially diluted in the assay buffer , and their displacement curves were parallel to the standard curve .
 The mean recovery of the standard spiked in a sample was 92 % .
-
 Since heat stress was shown to increase the tonic immobility duration in laying hens [33] , which could indicate a state of stress in animals , all the hens were tested once before the heat period and after 3 weeks of treatment .
 This test followed a procedure similar to that described by Jones [34] .
 Animals were caught individually and carried to another room .
@@ -54,10 +51,8 @@ The observer remained out of the hen ' s sight during the test .
 Duration of tonic immobility and number of induction attempts were recorded .
 The duration of the tonic immobility reaction is considered to be a standard and robust measure of fearfulness [34] .
 This manipulation induces a reversible catatonic state , the duration of which is positively correlated with the general underlying fearfulness [35] , [36] .
-
 Eggs from all females were collected daily for 6 consecutive weeks ; i.e. , 1 week before the heat period and during the 5 - week treatment .
 The laying rate was calculated as the number of laid eggs / female / day .
-
 Incubation and yolk hormonal assays : Since the formation of individual yolks requires 21 days and the hens were progressively acclimated to heat , egg collection for incubation and hormonal assays was started on the 21st day after the beginning of the heat period [37] .
 Eggs were collected during 15 days in each group and stored at 17 ° C for incubation .
 The hens were fertilized by artificial insemination on the fifth and sixth days before egg collection and then once a week during two weeks .
@@ -80,7 +75,6 @@ Therefore , whether yolk testosterone , androstenedione , progesterone , and est
 The presence of corticosterone in egg yolk remains controversial [40] and was not found to be modulated by environmental conditions in laying hens [29] , [30] nonetheless its potential implications were also investigated to provide a more complete picture of yolk content .
 One yolk sample per female was analyzed for corticosterone and estradiol concentrations ( Biological Center of Chize , France ) .
 Another yolk per female was analyzed for measuring immunoreactive progesterone , androstenedione , and testosterone concentrations ( Veterinary University of Vienna , Austria ) .
-
 Yolk corticosterone and estradiol radio - immunoassays : Yolk concentrations of corticosterone and estradiol were assayed using the same procedure .
 Briefly , 100 mg of each sample was homogenised in 1 mL of distilled water .
 Steroids were extracted by adding 3 mL of diethyl - ether to 300 μ L of the mixture , followed by vortexing and centrifugation .
@@ -95,7 +89,6 @@ Inter - assay and intra - assay variations for corticosterone and estradiol were
 The lowest detectable concentrations of corticosterone and estradiol were 1.55 pg / mg , and 0.69 pg / mg respectively .
 Two yolk samples were serially diluted in the assay buffer , and their displacement curves were found to be parallel to the standard curve .
 The mean recoveries of the standard spiked sample for corticosterone and estradiol were 120 % and 90 % respectively .
-
 Yolk progesterone , testosterone , and androstenedione assays : The concentrations of progesterone ( P4 ) and androgens ( androstenedione = A4 and testosterone = T ) were assayed using a method similar to that described by Lipar et al . [41] , Mostl et al . [42] and Hackl et al . [43] .
 Each yolk was cut in half .
 Because the distribution of hormones vary between egg layers [41] , [42] , the mixed half yolk was assayed .
@@ -104,7 +97,6 @@ The emulsion was diluted with 8 ml methanol , vortexed for 30 min and stored ove
 After centrifugation ( minus 10 ° C 1500 g , 15 min ) the supernatant was diluted with assay buffer ( 1 + 10 ) and used for enzyme immunoassays ( EIAs ) for measuring the concentrations of immunoreactive progesterone , testosterone and androstenedione [44] .
 Inter - assay coefficients of variation were 12.2 % , 10.7 % and 10.1 % respectively .
 The intra - assay variation was 8.5 % , 4.2 % and 9.2 % .
-
 We kept 96 chicks ( 48 controls and 48 experimental ) , all hatched on the 21st day of incubation for the experiment .
 Each chick was identified with a numbered ring on its leg .
 The chicks were weighted , and their body temperature under the wing was recorded using an infrared thermometer ( TES 1326S ) .
@@ -113,11 +105,9 @@ Approximately 2 h after the chicks hatched , their quality was assessed by 2 exp
 Of the 8 parameters completely described by Tona et al . [44] , 6 were used in this study .
 Each chick received a quality score that varie from 0 ( bad quality ) to 40 ( good quality ) ( Table 1 ) .
 The chicks were weighed at hatching , and at 6 , 13 and 20 days .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0057670.t001 Allocation of scores to morphological parameter observations ( completely described by Tona et al . [41] ) .
 Between 17 and 25 weeks of age , female offspring were weighted and placed in individual cages to record the onset of laying and laying rate .
-
 The 96 chicks were placed in pairs in plastic tubs measuring 50 × 40 × 40 cm with a wire top and a floor covered by wood shavings ; the chicks were divided in 2 groups .
 Each group consisted of 24 pairs of chicks : 24 pairs of control chicks ( C21 ) and 24 pairs of experimental chicks ( C30 ) .
 The pairs of chicks were randomly allocated to 2 rooms of equal size and maintained on a 10 - h : 14 - h light : dark cycle ; water was provided ad libitum .
@@ -128,7 +118,6 @@ Two opaque drinking bottles ( 1 L ) with pipettes were placed in each cage .
 Ambient temperature was maintained at 33.0 ± 1.5 ° C from hatching until the chicks were 8 - days - old ; subsequently , it was decreased progressively to 24 ± 1 ° C , until the chicks were 25 - days - old .
 The sex of the animals was determined by observation of the comb and legs at 3 weeks of age .
 The control and experimental groups consisted of 26 females and 22 males , and 21 females and 27 males , respectively .
-
 The daily intake was measured for each pair of chicks at 3 , 11 , and 17 days .
 The weight of each trough was recorded every 24 h to determine the food consumption by each pair .
 Food preference : the preference of chicks for their standard food ( fat content : 6.6 % ) or an energetic food ( mash insectivore ; La Ferme de Manon , France , fat content : 13 % ) was tested when they were 10 days old .
@@ -153,7 +142,6 @@ Food neophobia in offspring and habituation to a novel food were investigated us
 Chicks were exposed twice to a novel food ; once at 12 days of age and once at 19 days of age .
 After 1 h of food deprivation , pairs of chicks were exposed for 3 min to a familiar trough containing 100 g of millet seeds following the same protocol as the food preference test .
 An experimenter recorded the latency to ingest the novel food and the number of distress calls .
-
 Analysis of the emotional reactivity : A tonic immobility test , as described for adult hens , was performed on all chicks when they were 7 days of age .
 The number of inductions and the tonic immobility duration were recorded .
 Open field test : the open - field test involves transferring the birds from a familiar home cage to an unfamiliar and open environment .
@@ -163,7 +151,6 @@ The latency of the first step , number of distress calls , and activity of the b
 Animal activity in an open - field test is considered inversely correlated with emotional reactivity .
 Quiet and inactive animals are commonly considered to have a higher level of emotional reactivity than active animals [50] .
 This test was performed when the chicks were 23 - 24 days of age .
-
 Kolmogorov - Smirnov tests determined whether the data were normally distributed .
 In the hens , all the morpho - physiological and behavioral measures were analyzed using one - way analysis of variance ( ANOVA ) for repeated measures ( treatment × time ) .
 When required , PLSD Fisher post - hoc tests were performed .

@@ -50,16 +50,7 @@
 
 
 
-
-
-
-
-
 Developer_of	Software Secure	235	1	Remote Proctor Now	211	0;;URL_of	http://softwaresecure.com	253	2	Remote Proctor Now	211	0;;URL_of	http://proctoru.com	295	4	ProctorU	284	3;;
-
-
-
-
 
 
 

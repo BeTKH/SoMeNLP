@@ -3,7 +3,6 @@ We included children who had been extremely preterm infants , and who had been a
 Neither were children not seen at their 18 months old corrected age visit as their care had been transferred to the rehabilitation center for treatment of severe handicap prior to that age , or who were being followed in another paediatric clinic as per geographical criteria .
 The Children ’ s Hospital of Eastern Ontario Research Ethics Board approved the study .
 Considering the retrospective design of the study consent was not required , patient records and information was anonymized and de - identified prior analysis .
-
 In our region , infants at high risk for developmental delay are usually seen at 4 , 10 and 18 months corrected age and at 4 years of age .
 During these visits children are assessed by a multidisciplinary team including a nurse , one of five paediatricians involved in the clinic , a physiotherapist at the 4 months corrected age visit and a psychologist at the 18 months corrected age visit .
 At the 18 months corrected gestational age visit the nurse reviews the medical history , and assesses feeding , growth , behavior and socio - familial status through a structured interview .
@@ -23,15 +22,12 @@ The combination of the ASQ 3 scores and the qualitative information informs the 
 Similarly , the Bayley - III results plus the qualitative information inform the preliminary psychologist referral decisions .
 Both preliminary referral decisions consolidated into a brief written communication between the psychologist and the physician generally achieves consensus for final integrated decision ( FID ) , that is communicated by the physician to the family at the end of the visit .
 In the case of discrepancies in decisions , these are addressed at a short meeting between the physician , psychologist and the nurse coordinator , to review the scores obtained from the ASQ 3 and the Bayley - III and to discuss other qualitative information to achieve a FID between team members .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0170171.g001 18 months old corrected gestational age decision - making process and analysis .
 Qualitative information includes information gathered from the medical , behavioral and socio - family environmental assessment and the neurological exam .
 ASQ , Ages and Stages Questionnaire ; Bayley - III , Bayley Scales of Infant Development 3rd edition ; FID , Final integrated decision ; TRD , Theoretical referral decision .
-
 In our clinic , both the ASQ 3 and the Bayley - III scores support physicians ’ and psychologists ’ decisions to refer to services of developmental resources including : early return to the NNFU clinic , physiotherapy ; audiology and speech therapy ; Ontario Early Years Center ( EYC ) for education on parenting skills [14] ; Infant Development Program ( IDP ) for early developmental intervention [15] ; and Ottawa Children ’ s Treatment Center ( OCTC ) [16] , a local rehabilitation center , when there is a clear suspicion of developmental delay .
 Additional NNFU visits ( early return ) , usually within 6 to 12 months , are suggested when the team has concerns and wants to reassess before the routine visit at 4 years of age .
-
 Procedures to reconstruct the decision - making process : For the purpose of this study , we conceptualized the decision making into three dimensions : the preliminary professional opinion that is based on the developmental assessment or screening tool plus the qualitative information ; the theoretical referral decision ( TRD ) which is the referral decision based solely on the scores obtained for the developmental assessment tool ( Bayley - III ) or screening tool ( ASQ 3 ) ; and the final integrated decision ( FID ) which represents the interdisciplinary team referral decision made in clinic for a particular child .
 In two one - hour focused ASQ - Bayley project meetings held outside of the clinical NNFU clinic hours , physicians and the psychologist working in the clinic first reviewed and created a model of how the decisions were made during the NNFU clinic visits ( Fig 1 ) ; and second discussed and obtained consensus on the TRD for every possible array of test results ( S1 and S2 Appendices ) .
 To reflect the sequence in the decision - making process within our NNFU clinical practice , the study design assumed that both the physician and the psychologist independently formulate preliminary opinions at the end of their respective assessments .
@@ -48,7 +44,6 @@ The R program applied the cut - off ranges for normal , grey zone , and abnormal
 TRDs were obtained by matching these ranges to the algorithmic logic tables .
 The TRDs were then compared to FIDs to obtain estimates of sensitivity and specificity .
 The results of the computed TRDs were manually verified for each child .
-
 Demographic characteristics of children included in the study and those excluded for missing data were summarized using descriptive statistics .
 To test for demographic characteristics , differences between the excluded for missing data and included groups , Pearson ’ s chi - square or Fisher ’ s exact test and Student ’ s t - test were applied as appropriate .
 Holm ’ s adjustment was used for multiple testing [18] .

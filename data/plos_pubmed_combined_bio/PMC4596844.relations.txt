@@ -17,8 +17,6 @@
 
 
 
-
-
 Version_of	1.33.3	54	1	Mothur	44	0;;Citation_of	[12]	61	2	Mothur	44	0;;
 
 
@@ -30,7 +28,6 @@ Version_of	1.33.3	54	1	Mothur	44	0;;Citation_of	[12]	61	2	Mothur	44	0;;
 
 
 Version_of	2.0.2	10	1	Venny	4	0;;
-
 
 
 

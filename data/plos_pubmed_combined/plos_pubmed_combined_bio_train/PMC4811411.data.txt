@@ -7,20 +7,17 @@ Sample size was estimated from a previous study in which data from 2 individual 
 Calculation was performed based on a type I error risk of 5 % and a power of 80 % , in a two - sided approach and with a Fisher exact test .
 A total of 183 patients per group was calculated as necessary to show a difference of 15 % in the prevalence of patients showing a Rankin score [0-2] at three month after stroke onset : 35 % in the progressive - sitting group versus 50 % in the early - sitting group .
 Additional risk of low tolerance for early sitting was estimated at 9 % ( from our own observations ) so the sample size has been adjusted to a total of 200 patients per group .
-
 Protocol approval , registration and patients consent : The SEVEL ( Stroke and Early VErticaL positioning ) study was approved by the Ethics Committee at the Nantes University Hospital in France ( approved September 06th 2011 ) .
 The authors confirm that all on going and related trials for this intervention are registered .
 This study was registered at clinicaltrials.org ( registration number NCT 01573299 ) , with a delay .
 Indeed it has been registered as a “ usual care ” study at the level of the Institutional research board , and a miscommunication between our team and the clinical research department caused the delay , which was not sufficiently problematic to force a study restart .
 Informed and written consent was obtained from all patients .
-
 Patients , inclusion and exclusion criteria : Patients were recruited from 11 centers located in the North West region of France .
 Ischemic stroke was diagnosed by a neurologist and defined by the sudden onset of a persistent neurological deficit without sign of bleeding on the CT scan , or MRI .
 Patients were eligible to participate in the study if they were above 18 year old , exhibited neurological deficits at the inclusion time , were kept in bed ( 30 ° maximum ) until inclusion time , and if they were enrolled in a healthcare plan ( French social security ) .
 Patients had to be included at the earliest possible time , and no later than one calendar day after stroke onset .
 Exclusion criteria were based on 1 . stroke severity ( malignant infarction , NIHSS > 22 , alteration of consciousness with a Glasgow Coma Score < 13 ) , 2 . fluctuation of the neurological signs before admission ( history of worsening linked to an upright positioning ) , 3 . known intra - cranial stenosis > 50 % , symptomatic of the current episode , 4 . minor neurological deficit ( isolated facial palsy , isolated hemianopia , isolated sensory impairment ) , 5 . iterative vomiting or difficulty in breathing , 6 . contra - indication for sitting , e.g. deep vein thrombosis ( diagnosed or suspicion ) or lower limb fracture , 7 .
 Pre - admission Rankin score [3-6] 8 . anticipated difficult follow up ( e.g. not speaking French , living in another region ) , 9 . pregnant women , and 10 . enrollment in another trial or refusal to participate .
-
 In this study we aimed to test two different protocols for sitting in acute ischemic stroke patients : early and progressive .
 In the early sitting arm , patients would be seated out of bed at the earliest time possible , but no later that the calendar day after stroke onset .
 The progressive sitting arm started the day of stroke onset ( day 0 ) when the patient would be positioned in bed at 30 ° , 45 ° the day after ( day 1 ) and 60 ° at day 2 and sitting out of bed at day 3 ( which corresponds to the first sitting in this group ) .
@@ -34,7 +31,6 @@ Close monitoring of the blood pressure and heart rate was performed : before the
 While sitting , patients showing any sign of low tolerance , defined by neurological worsening ( of current or new neurological deficits ) , vagal reaction ( bradycardia or nausea ) , a greater than 40 mmHg increase of blood pressure topping 180 / 100mmHg , or a symptomatic decrease in blood pressure , would be put back in bed .
 Sitting was repeated on a daily basis according to initial tolerance of the procedure , as approved by the physician in charge .
 Physiotherapy and deep vein thrombosis prevention by low molecular weight heparin were performed as usual in each unit .
-
 Evaluations were made during the intermediate time point at 7 days ( or the day of discharge , if before 7 days ) and at 3 - month after stroke , by a neurologist from the same stroke unit , aware of the study and unblinded to the patient group assignment .
 The primary outcome measure was the proportion of modified Rankin score [0-2] at three months visit after stroke onset .
 Patients with major deviation to the protocol or serious adverse event that were enrolled but couldn ’ t continue the study were assigned a Rankin score in the category [3-6] .
@@ -47,7 +43,6 @@ The presence of fatigue ( question about the presence or not of an abnormal sens
 The duration of sitting out of bed was calculated from the recorded time at which the patient was positioned seated out of bed to the time at which the patient would be put back in bed .
 The observer would directly write on the case report both first sitting time and sitting duration through specific sections .
 Length of hospitalization was also recorded for each patient .
-
 Analyses were performed on all data available from patients whose primary outcome was assessed .
 Continuous variables were presented with mean and standard deviation .
 Categorical data were expressed as number and percentages ( calculated on the number of available data from each group ) .

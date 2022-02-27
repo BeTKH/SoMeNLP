@@ -4,24 +4,20 @@ The horses were ridden according to NTU Equestrian Centre guidelines and were de
 As such this was not a regulated procedure ( Animals in Scientific Procedures Act 1986 ) and did not contravene the Animal Welfare Act 2006 .
 The horses were owned by Nottingham Trent University or loaned under contract for use by the university in ridden work for any purpose .
 Nottingham Trent University gave permission for the use of the horses in this study .
-
 The gaze behaviour of ten female riders was recorded .
 The riders were staff at the Nottingham Trent University Equestrian Centre , each with over 15 years riding experience and aged between 22 and 45 years ( mean age 32 years ) .
 Their jumping skill was assessed by self - report ( see below for details ) .
 The horses ridden were regularly used in the riding school and were all used for jumping lessons for riders of various levels of ability ( mean height 167.13 cm , mean age 14.8 years ) .
 Each horse was ridden by two riders .
-
 A 5 × 3 within - subjects design was employed comparing rider gaze behaviour across five rounds over three fences .
 Features of gaze behaviour were recorded ( timing , location and duration of position of gaze ) and the effects of round and jump number and of the skill level of the rider on this visual behaviour were assessed .
 The number of errors made at each jump was also recorded .
 A questionnaire was used to assess the skill level of the riders .
 The questionnaire was adapted from that used by Hall , Liley , Murphy and Crundall [11] and incorporated questions relating to jumping skill level ( see Table 1 ) .
 The questionnaire scores were then used as a measure of rider skill .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0097345.t001 Questionnaire used for rider self - reported assessment of competitive experience .
 Table showing the questions , optional responses and associated scores used to calculate the self - reported jumping skill of the riders .
-
 The course of jumps was set up at in an indoor riding arena ( 40 m × 55 m ) with a silica sand wax and fibre mix surface ( Softrack ) .
 The course consisted of three almost identical jumps ( the only difference was that jump 1 and 3 had white supporting stands and jump 2 had black supporting stands ) .
 The course and practice jump were situated in one side of this arena in an area of 20 m × 55 m which had been sectioned off by means of a central white plastic barrier 1.20 m in height .
@@ -34,13 +30,11 @@ All three jumps were situated in a line across the arena , 24 m from the end wal
 The riders approached the first jump on the right rein , turned right to jump the second jump and then left over the third .
 The practice fence ( a cross pole with a central height of 0.45 m ) was positioned centrally and in parallel with the long side / central barrier at the opposite end of the arena to the test course .
 The test area , course of three jumps and the practice jump are shown in Figure 1 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0097345.g001 Test arena , course of 3 trial jumps and practice jump .
 The test area , three trial jumps and the practice jump are shown .
 The blue and yellow jump in the foreground was used as the practice jump .
 The course was approached from this end with the jump on the left being jumped first , followed by a right turn across the diagonal ( jump 2 ) and then a left turn to approach jump 3 ( adjacent to the white barriers ) .
-
 A mobile eye tracking device ( Applied Science Laboratories ( ASL ) , Bedford , USA : Mobile Eye ) , was used to monitor the gaze behaviour of the riders .
 This required the rider to wear a spectacle - mounted unit ( SMU : consisting of a scene camera and an eye camera ) which was attached via the recorder mounted unit ( RMU ) to a digital video cassette recorder ( DVCR ) housed in a backpack worn by the rider .
 The ASL Mobile Eye recorded data at 60 Hz by interleaving images taken from the two cameras .
@@ -48,20 +42,17 @@ The eye camera recorded the eye being tracked whilst the scene camera recorded t
 Both image streams were recorded on the same digital videotape medium by alternating frames and position of gaze ( POG ) was shown by a red cursor and was recorded every frame of video or 33.33 milliseconds .
 A purple circle appeared within the frame and indicated that the pupil had been identified [13] .
 See Figure 2 for an example of scene camera / POG cursor as recorded during these trials ( the resolution of this image is that recorded by the scene camera and cannot be improved ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0097345.g002 Frame showing POG cursor ( red circle ) and pupil indicator ( purple circle ) on jump approach .
 Frame taken from the ASL Mobile Eye recording showing POG ( red circle ) and pupil indicator ( purple circle ) as a rider approaches a jump .
 The image was taken from footage from the eye tracker and consequently the resolution of the image is limited .
 The frame provides an example of the information recorded by the equipment and the gaze behaviour measures were calculated using frame by frame analyses .
-
 The Mobile Eye used a technique of eye tracking known as dark pupil tracking , which uses the relationship between two eye features , the pupil and a reflection from the cornea to compute gaze within a scene .
 Calibration of the equipment was carried out to determine the POG of each individual .
 The POG was calibrated every time the Mobile Eye was fitted to ensure that small differences in spectacle position did not affect the recording [13] .
 The equipment and calibration was checked repeatedly throughout the trials because of the movement associated with riding a horse over jumps and with mounting initially .
 An x - point calibration was performed with calibration points ( N = 10 ) located at varying heights and planes of motion .
 The calibration of the spot cluster and pupil display settings of the equipment were checked before the rider mounted , then once the rider had mounted , after the warm - up period and practice fence and after each round within the trial session .
-
 Within the test session the rider was fitted with the eye tracking device before mounting the horse and the initial POG calibration was carried out .
 The rider then walked the course of jumps while wearing the equipment to ensure that they were not adversely affected by it .
 After mounting the horse the equipment was checked to ensure that the eye and scene cameras were in the correct position and a second POG calibration was carried out .
@@ -73,7 +64,6 @@ Jumping errors were recorded and a score allocated ( similar to the faults syste
 If the pole was knocked but did not fall a score of 2 faults was allocated ; a pole that was knocked down scored 4 faults .
 The maximum error that could be scored was 60 points .
 Total scores for each rider were calculated for each jump number and for each round number for comparison with gaze data .
-
 Gaze Data Collection and Analysis : EyeVision data processing software was used to calibrate POG from the recorded data and the data stream for each of the ten riders was recorded from the DVCR using EyeVision for identification of POG .
 The location of POG was recorded for each frame as being either on the jump ( defined as part or all of the gaze cursor being located on the jump or on the area between the two poles ) , on the ground ( any area of the ground in front , to the side of or beyond the jump ) , or on other ( which included all other locations within the scene , for example , the horse , arena wall , mirror , people , gallery and other jumps ) .
 Frames in which no gaze cursor was visible were recorded as no eye .

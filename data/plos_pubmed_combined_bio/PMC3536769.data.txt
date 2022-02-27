@@ -1,7 +1,6 @@
 This study was conducted according to the principles expressed in the Declaration of Helsinki .
 The study was approved by the local ethics committee ( Kantonale Ethikkomission : EK - 80 / 2008 ) .
 All participants provided written informed consent for the collection of samples and subsequent analysis .
-
 Example 1 - real data : For the first illustration of the problem associated with this approach we used EEG data from a previous study [19] .
 Seventy - four healthy male students ( mean / standard deviation : 25 , 5 / 4.86 years ) participated in the study .
 After recording seven minutes of spontaneous EEG at rest , subjects conducted the Raven Advanced Progressive Matrices ( RAPM ) [20] , which is a widely used measure of psychometric intelligence .
@@ -28,14 +27,12 @@ Thus , in the first trial we obtained 10 measurements for each small - world par
 Afterwards , we separately compared these small - world parameters between the low IQ and the high IQ groups for each trial by using a t - test for independent samples ( p < 0.05 ) .
 Since we have to consider the fact that p - values depend on sample size , we also calculated effect sizes according to Cohen [22] .
 All statistical analyses in the present study were performed with MATLAB [23] .
-
 For the first trial ( thresholding the matrix 10 times ) , there were no significant differences between the low and the high IQ groups regarding small - world parameters ( clustering coefficient : t ( 8 ) = 1.87 , p = 0.078 , Cohen ’ s d = 0.42 ; path length : t ( 8 ) = − 1.30 , p = 0.21 , Cohen ’ s d = 0.31 ; number of edges : t ( 8 ) = 1.85 , p = 0.08 , Cohen ’ s d = 0.42 ) .
 For the second trial ( thresholding the matrix 15 times ) , we found significantly more edges ( t ( 13 ) = 2.40 , p = 0.02 , Cohen ’ s d = 0.38 ) , a higher cluster coefficient ( t ( 13 ) = 3.07 , p = 0.004 , Cohen ’ s d = 0.46 ) , and no differences regarding characteristic path length ( t ( 13 ) = − 1.51 , p = 0.14 , Cohen ’ s d = 0.25 ) for the high IQ group compared to the low IQ group .
 For the third trial ( thresholding the matrix 35 times ) , t - tests revealed highly significant differences between the high and the low IQ groups .
 There was a significantly increased number of edges ( t ( 33 ) = 3.52 , p = 7.76 * 10 − 4 , Cohen ’ s d = 0.39 ) , and a higher clustering coefficient ( t ( 33 ) = 4.44 , p = 3.33 * 10 − 5 , Cohen ’ s d = 0.47 ) in the high IQ group .
 In contrast , we found a significantly decreased characteristic path length ( t ( 33 ) = − 2.24 , p = 0.02 , Cohen ’ s d = 0.26 ) .
 An overview of this data is presented in Figure 1 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0053199.g001 Results of the multiple - thresholds - approach of the example with the real data .
 Mean values for the small - world parameters clustering coefficient , path length , and number of edges .
@@ -45,7 +42,6 @@ For the version with 15 increments , the clustering coefficient and number of ed
 In the version with 35 different thresholds , the comparison between the high and low IQ groups revealed significant effects for all small - world parameters .
 The high IQ group showed a significantly enhanced small - world topology .
 For an optimized display , the numbers of edges were scaled ( number of edges divided by 1000 ) .
-
 In our second example , we use a simulation to illustrate how the commonly used multiple - threshold - approach may lead to false positive results .
 An illustration of the method is displayed in Figure 2 .
 We set up our simulation to mimic the multiple - threshold - approach with data obtained by structural MRI or FA - DTI data .
@@ -73,12 +69,10 @@ In the second trial , we calculated with 25 connectivity matrices ( increments :
 In the third trial , we calculated with 50 connectivity matrices ( increments : 0.001 ) per group .
 This was done for the three threshold ranges ( 0.01 - 0.06 ; 0.50 - 0.54 ; 0.86 - 0.91 ) .
 Because the networks were randomly generated , we hypothesized that there would be no differences between the networks of the two groups in any small - world parameter .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0053199.g002 Procedure of the multiple - thresholds - approach with artificial data .
 Networks of two groups based on artificial data .
 The networks were thresholded over a set of thresholds .
-
 Comparing the random networks of the two simulated groups for the first trial ( 10 thresholded connectivity matrices ) within the threshold range of 0.86 - 0.91 revealed no significant difference in any of the small - world parameters .
 In the second trial ( 25 thresholded connectivity matrices ) , we found significantly more edges ( t ( 23 ) = 2.18 , p , = 0.03 , Cohen ’ s d = 0.29 ) and a lower characteristic path length ( t ( 23 ) = − 2.09 , p , = 0.04 , Cohen ’ s d = 0.28 ) for the first group .
 For the third trial ( 50 thresholded connectivity matrices ) , the t - tests revealed highly significant differences between the two simulated groups .
@@ -91,14 +85,12 @@ In the third trial ( 50 thresholded connectivity matrices ) , the random network
 The path length of the first group was significantly higher ( t ( 48 ) = 2.24 , p = 0.03 , Cohen ’ s d = 0.22 ) .
 For the lower threshold range ( 0.001 - 0.06 ) , the first and second trials revealed no significant differences , but the third trial showed ( 50 thresholded connectivity matrices ) a lower number of edges ( t ( 48 ) = − 2.41 , p = 0.02 , Cohen ’ s d = 0.23 ) and a lower clustering coefficient ( t ( 48 ) = − 2.21 , p = 0.03 , Cohen ’ s d = 0.22 ) for the first group ’ s random network .
 All the results are presented in Figure 3 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0053199.g003 Results of the multiple - thresholds - approach of the example with the artificial data .
 Displayed are the results of the second example , which used artificial data .
 The comparison of the two networks , based on artificial data , revealed several significant differences .
 Depending on the number of thresholds ( defining the different measurement units within each group ) and the threshold range used for the comparison , completely distinct results could be obtained .
 For an optimized display , the numbers of edges were scaled ( number of edges divided by 1000 ) .
-
 Example 1 - real data : The same data set was used as in the first example , which made use of multiple - thresholds - approach ( see above ) .
 In line with the first example using the multiple - thresholds - approach , we created a mean connectivity matrix ( averaged across all subjects ) , which was then thresholded with a set of different thresholds ( range r = 0.55 - 0.95 , increments : 0.05 ) .
 In the second step , small - world network parameters ( clustering coefficient , path length ) were calculated for the different thresholded mean coherence matrices .
@@ -124,18 +116,15 @@ For each random group pair , we calculated the mean correlation matrix and then 
 In the second step of analysis , the differences in small - world network parameters between the pairs were obtained .
 To statistically prove the real differences between the high and the low IQ groups , we tested the real differences within the distribution of the randomly generated differences and a global level of significance was set at p < 0.05 .
 When setting the error probability to p < 0.05 , the real difference must exceed the extreme of 5 % of the difference distribution , in order to reach statistical significance .
-
 The permutation analysis revealed that the high IQ group demonstrate significantly more edges than the low IQ group ( p < 0.001 ) .
 Moreover , we found an increased clustering coefficient ( p < 0.001 ) and a decreased characteristic path length ( p = 0.004 ) for the high IQ group compared to the low IQ group .
 Thus , the high IQ group exhibits significantly more small - world topology .
 All results are summarized in Figure 4 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0053199.g004 Results of the group - level - permutation - statistics - approach of the example with the real data .
 Displayed are the distributions of the randomly generated group pair differences .
 The red arrow indicates where the differences of the real data ( = empirical difference between high and low IQ groups ) are located within the distribution .
 The results show that the high IQ group revealed increased small - world network parameters .
-
 Example 2 - simulated data : In the present example , we used the same data set as in the second example of the multiple - thresholds - approach with artificial random networks ( connectivity matrices ) .
 Again we assume to have two different groups with 30 subjects per group , but there is only one value per node and subject ( i.e. cortical thickness or FA value in this specific region ) .
 We again have 84 simulated brain regions per subject , where we again allocated random values to each simulated brain region for each single subject .
@@ -155,16 +144,13 @@ As for the originally assigned group , we again calculated the difference betwee
 These randomly achieved difference values now form the test - distribution and the difference of our originally assigned group of interest can now be tested using this distribution .
 A global level of significance was set at p = 0.05 .
 Since all groups were randomly generated , we assumed that there would be no significant differences regarding small - world topology .
-
 The permutation analysis revealed no significant differences regarding the clustering coefficient ( p = 0.46 , p > 0.05 ) or the characteristic path length ( p = 0.88 , p > 0.05 ) .
 The results are illustrated in Figure 5 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0053199.g005 Results of the group - level - permutation - statistics - approach of the example with the artificial data .
 Displayed are the distributions of the randomly generated group pair differences .
 The red arrow indicates where the differences of the original data are located within the distribution .
 The results show , that there are no significant differences regarding the clustering coefficient or the characteristic path length .
-
 The same data set was used as in Example 1 of the multiple - thresholds - approach and the group - level - permutation - statistics - approach ( See above ) .
 In contrast to the two previous methods , we now used the correlation matrix of each subject instead of averaging the connectivity matrices over the entire group .
 The correlation matrices were thresholded by applying a set of different thresholds ( r = 0.65 - 0.95 , increments : 0.05 ) .
@@ -175,13 +161,10 @@ Subsequently the correlation matrix of each subject was subjected to tnet softwa
 For statistical comparisons of the small - world networks , we compared the subjects of the low IQ group with those of the high IQ group ( based on median - split in the RAPM performance ) by calculating a t - test for independent samples .
 The global level of significance was set at p < 0.05 .
 Another possibility would be to calculate a regression analysis between the performance in the intelligence task and the small - world parameters , as was done in our previous study [19] .
-
 The t - test for independent samples comparing the high IQ group vs . the low IQ group revealed a significantly increased number of edges ( t ( 57 ) = 2.83 , p = 0.006 ) , a significantly increased clustering coefficient ( t ( 57 ) = 3.54 , p = 0.001 ) , and a significantly decreased characteristic path length ( t ( 57 ) = − 2.70 , p = 0.009 ) ( See [19] , for the results of the regression analysis ) .
-
 In this example we used a similar data set as in the second example of the multiple - thresholds - approach and the group - level - permutation - statistics - approach with artificial random networks .
 Again , we assume to have two different groups with 30 subjects per group , but in this example we assume that each subject has an individual network , as is the case for MEG , EEG , resting fMRI , and DTI data when using tractography .
 We artificially created 60 networks with 84 nodes per network ; representing for each subject a particular network .
 Subsequently the unthresholded weighted correlation matrix of each subject was subjected to tnet software , which calculated the small - world indices ( clustering coefficient and characteristic path length ) for each individual subject .
 The two groups were then compared with a t - test for independent samples ( threshold was set p < 0.05 ) .
-
 The t - test for independent samples comparing the two groups did not reveal significant effects for the clustering coefficient ( t ( 58 ) = 0.24 , p = 0.81 ) or for the characteristic path length ( t ( 58 ) = 0.56 , p = 0.58 ) .

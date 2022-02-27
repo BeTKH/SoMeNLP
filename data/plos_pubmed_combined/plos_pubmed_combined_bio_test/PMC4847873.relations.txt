@@ -77,13 +77,6 @@
 
 
 
-
-
-
-
-
-
-
 Citation_of	[59, 60]	140	1	SLINK	126	0;;
 
 
@@ -130,7 +123,6 @@ Citation_of	[66]	98	1	PLINK	92	0;;
 
 Citation_of	[80]	206	1	MERLIN	199	0;;
 
-
 URL_of	http://snp.gs.washington.edu/SeattleSeqAnnotation137/HelpHowToUse.jsp	179	2	Seattle Seq	161	0;;Version_of	76	288	4	Variant Effect Predictor	253	3;;Citation_of	[81, 82]	291	5	Variant Effect Predictor	253	3;;Citation_of	[83]	330	7	GEMINI	323	6;;Version_of	137	173	1	Seattle Seq	161	0;;
 
 
@@ -140,7 +132,6 @@ URL_of	http://snp.gs.washington.edu/SeattleSeqAnnotation137/HelpHowToUse.jsp	179
 Citation_of	[84]	106	1	GATK	101	0;;
 
 Citation_of	[85]	243	2	PolyPhen	234	1;;Abbreviation_of	CADD	298	4	Combined Annotation Dependent Depletion	256	3;;Citation_of	[86]	312	5	Combined Annotation Dependent Depletion	256	3;;
-
 
 
 

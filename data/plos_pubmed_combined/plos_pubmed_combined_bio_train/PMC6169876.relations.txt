@@ -16,7 +16,6 @@
 
 
 
-
 Developer_of	Microsoft	57	0	Visual Basic	69	1;;Release_of	2010	84	2	Visual Basic	69	1;;Developer_of	Microsoft Corp.	100	3	Visual Basic	69	1;;
 
 
@@ -27,10 +26,7 @@ Developer_of	Microsoft	57	0	Visual Basic	69	1;;Release_of	2010	84	2	Visual Basic
 
 
 
-
 Developer_of	Adobe	45	0	Photoshop	51	1;;Developer_of	Adobe Systems	72	2	Photoshop	51	1;;Developer_of	Pixelmator Team Ltd.	127	4	Pixelmator	114	3;;
-
-
 
 
 

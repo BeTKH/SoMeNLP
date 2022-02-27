@@ -12,7 +12,6 @@ This large range results from differences in site type , degree of preservation 
 Modern development obscures Iron Age sites in particular , as many major settlements of this period are buried under modern - as well as medieval and Roman - cities .
 Although dividing the study area into smaller sub - regions limited the size of comparative samples , such division was necessary for investigating differences within the Po Basin .
 Illustrations and tables have been organised to clearly demonstrate where gaps are present .
-
 Quantifying taxonomic abundance and animal size : The relative proportions of cattle ( Bos taurus ) , sheep / goat ( Ovis aries / Capra hircus ) , and pigs ( Sus scrofa ) were quantified using the number of identified specimens ( NISP ) .
 Although subject to several systematic biases , NISP offers a widely employed and easy to calculate method of assessing the relative frequency of different species [108] .
 Inter - observer differences in identification and recording are a primary concern [109-111] , as they artificially inflate the importance of taxa with a greater number of ‘ identifiable ’ remains .
@@ -35,12 +34,10 @@ Because accurate species distinction can be challenging for closely related taxa
 Undistinguished Sus sp . were grouped with domestic pigs .
 The Mann - Whitney U Test , conducted in R , was used to identify statistically significant differences between populations .
 Only LSI values from cattle , sheep , and pig were subject to statistical analysis ; goats were excluded due to a lack of reliable biometric information .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0208109.t001 Measurements used in calculation of LSI values for each taxon .
 Mc = Metacarpal .
 Mt = Metatarsal .
-
 Metacarpal measurements were used to investigate diachronic changes in sex ratios for cattle and sheep .
 The balance of males , females , and castrates within a population can influence observed variation in animal biometry , especially if the sexual composition of the group changed over time .
 Metacarpals are the most sexually dimorphic element in domestic bovids [119-121] , and consideration of metacarpal size and shape can provide information on sex representation [ 122 , 123 ] .

@@ -1,11 +1,9 @@
 The present study was conducted in accordance with the guidelines of the Department of Environment and Natural Resources of Mexico ( SEMARNAT ) under Research Permits DGVS 00910 / 13 and DGVS 02716 / 14 .
 Each permit authorized our research activities with a wild population of spider monkeys ( an endangered species ) within the Otoch Ma ’ ax Yetel Kooh protected area in Mexico , during 2013 and 2014 respectively .
 None of the authors had any direct or indirect interaction with the primates in the study .
-
 Field data were collected in the Otoch Ma ’ ax Yetel Kooh protected area in the Yucatan peninsula , Mexico .
 The 5367 ha area is composed of a mosaic of semi - evergreen forest with different successional stages [90] .
 Average annual temperature fluctuates around 24 ° C peaking in August , and 70 % of annual rainfall is typically concentrated between the months of May and October [91] .
-
 The study was conducted on a habituated group of black handed spider monkeys ( Ateles geoffroyi ) ranging around the south - eastern side of the lake located on the eastern margin of the protected area , very close to the village of Punta Laguna [41] .
 The group has been subject to continuous monitoring since 1997 by local field assistants , researchers and students .
 Except for infants ( age : 0 - 3 years ) , group members are all identified through distinctive facial or body marks [92] .
@@ -17,7 +15,6 @@ During the study , group size fluctuated between 18 ( 7 male and 11 female ) and
 During 2013 three of these females ( all with offspring ) increased their frequency of visits to the core area of the group , associating regularly with group members and continuing to do so through the rest of the study .
 All males analyzed were born in the group and both their age and mother are known .
 Adult female ages and maternity relations are unknown ( except for that of a 9 year old natal female ( LO ) who has reproduced repeatedly in the group ) and their tenure in the group varies from 5 to over 18 years for three females which were already part of the group by 1997 when they were first observed .
-
 Throughout a 20 month - period between January 3rd 2013 and September 18th 2014 , data were collected by four field assistants ( each with over ten years of experience ) and one of the authors ( SESA ) , following the same standard methodology implemented at the study site since 1998 [92] .
 We conducted observations during subgroup follows of 4 - 8 daily hours which began after opportunistically locating monkeys by searching commonly used areas within the home range .
 Once a subgroup was spotted , we began our instantaneous scan observations every 20 - min registering its composition , position , and the identity and activity of all visible individuals .
@@ -28,7 +25,6 @@ When individuals joined a subgroup , we recorded a fusion if they remained prese
 When individuals were out of sight for two consecutive scans , we recorded this event as a fission .
 Our data comprise 4916 subgroup scans collected during 325 days within four seasons : dry 2013 , wet 2013 , dry 2014 and wet 2014 .
 For all our analyses , we defined seasons as beginning in November 15th ( dry ) and May 15th ( wet ) .
-
 For a general estimate of fruit availability within the study site , we used an index of fruit abundance [45] calculated using data from a phenological trail monitored fortnightly , recording the presence or absence of fruit in 10 individual trees of each of 11 tree species most consumed by the study group over the long - term [94] .
 We also used tree - density estimations for these species , and measures of the diameter at breast height ( DBH ) obtained from trees ( larger than 10 cm DBH ) in forty - eight 100 x 2 m2 linear transects and four square transects of 0.25 ha in the study site [95] .
 The index of fruit abundance is the resulting sum of the proportion of trees with fruit ( out of 10 ) from each species per fortnight , multiplied by the density ( individuals / ha ) and the sum of the DBH per ha for each species [45] .
@@ -39,7 +35,6 @@ This pattern largely reflects the abundance of Brosimum alicastrum ; a species w
 The study group has been shown to consistently concentrate its long - term activities in a core area that contains a greater proportion of mature forest than the protected area as a whole ( more than 50 % vs . less than 25 % [41] ) .
 Considering that B . alicastrum is ten times as abundant in the mature forest than in other successional stages , fruiting of this species during the wet season results in large and abundant patches within the area where the monkeys concentrate their activities [41] .
 Therefore , the change from dry to wet season is accompanied by a combination of increased fruit abundance and density of patches within the ranging area of the study group .
-
 Since the decision to follow a subgroup each field day was not based on the membership of any particular individual , differences in individual spatial preferences produced uneven sample sizes across individuals .
 To reduce the resulting bias , we restricted our data set to adult individuals observed throughout the four seasons of the study in at least 10 % of the total scans from each period .
 Consequently , all our analyses used data on 11 adult monkeys ( four males and seven females ; S1 Table ) with the exception of the analysis of grouping patterns which included data for any of the adult individuals considered as part of the group each season .
@@ -64,14 +59,12 @@ Group spatial gregariousness was defined by : gSGI = ( Σ i = 2ji * Oi ) / ( K *
 Values of the group spatial gregariousness index range between 0 and 1 where 1 indicates total spatial overlap of all possible core areas and 0 indicates no coincidence at all ( i.e. completely non - overlapping core areas ) .
 To calculate the individual spatial gregariousness for individual x , we used a very similar formulation where instead of A , the denominator includes the individual ’ s core area Ax , and the overlap Oi is restricted to areas of overlap within Ax , becoming Oix in the expression iSGIx = ( Σ i = 2ji * Oix ) / ( K * Ax ) .
 Values of this index also range between 0 and 1 where 1 indicates total spatial overlap of the individual ’ s core area with all other possible core areas and 0 indicates no coincidence at all between that individual ’ s core area and any other ( S3 Fig ) .
-
 Grouping tendencies ( analysis level 2 ) : Grouping patterns were analyzed using average seasonal subgroup size ( subgroup size ) and the average subgroup size experienced by each individual ( individual subgroup size ) .
 For calculating subgroup size , we included all subgroup scans where at least one of the adult monkeys of the group was in sight , and counts only included adult individuals .
 Therefore , subgroup size can have values higher than 11 since it considers all adults present at the time .
 Individual subgroup size was calculated for each individual , by including only scan points where it was in sight .
 In combination with the predicted decrease in core areas , both subgroup metrics were expected to increase in the food - abundant season if individuals were mostly driven by passive aggregation .
 Individual subgroup size was additionally used to detect potential differences in the effect of passive and active processes of association on individual gregariousness [74] .
-
 Pair - wise associations ( analysis level 3 ) : Our analyses of associations were based on two indices , each constructed from a different type of co - occurrence between pairs of individuals : spatial dyadic association index and dyadic association index .
 Both indices are based on the simple ratio dyadic association index [105,106] which describes the association between individuals A and B by : Association ( A , B ) = NAB / ( NA + NB − NAB ) , where NAB corresponds to the number of co - occurrences of individuals A and B , while NA refers to all the occurrences of A and NB to all the occurrences of B .
 Given our sampling methodology , this index is also equivalent to the twice - weight association index [105] .
@@ -136,7 +129,6 @@ An increase in the number of associations or their intensity will therefore resu
 The clustering coefficient indicates how well the associates of an individual are connected among themselves [112] .
 The version of the coefficient implemented in SOCPROG 2.5 is based on the matrix definition for weighted networks by Holme et al . [113] , where the clustering coefficient of individual i is given by : Cw ( i ) = ( Σ jkwijwjkwki ) / ( maxij ( wij ) Σ jkwijwki ) , Where wij , wjk and wki are the values of the association indices between individual i and all its pairs of associated jk , while maxij ( wij ) is the maximum value of the association index of i with any individual j .
 As with the dyadic association index , this metric is expected to be higher if individuals increase the frequency of occurrence with their associates from the previous season ( i.e. if they are more strongly connected ) , or if they increase the number of individuals with which they occur ( i.e. if individuals are connected to an increased number of others ) .
-
 Seasonal comparisons were done using Wilcoxon signed - rank tests unless specified otherwise .
 For other comparisons we used Mann - Whitney U and Kruskal - Wallis tests .
 P values for pair - wise differences after multiple comparisons were adjusted with the Bonferroni correction ( Padj ) .

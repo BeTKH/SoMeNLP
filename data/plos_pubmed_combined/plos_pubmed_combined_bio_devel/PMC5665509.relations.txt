@@ -33,10 +33,6 @@
 
 
 
-
-
-
-
 Citation_of	[34]	66	1	Psychopy	57	0;;
 
 

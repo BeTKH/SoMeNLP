@@ -1,20 +1,16 @@
 OBJECTIVE
 Prevalence of insulin resistance is high in the American Indian population , likely as a result of the high prevalence of obesity .
 This condition may be influential for clinical outcomes such as cardiovascular disease ( CVD ) and decreased kidney function .
-
 RESEARCH DESIGN AND METHODS
 Normal glucose tolerant ( NGT ) participants free of hypertension and CVD at the baseline examination ( 1989 - 1992 ) ( N = 964 ) of the Strong Heart Study were selected to explore the cross - sectional association between insulin resistance quantified by homeostasis model assessment ( HOMA - IR ) and demographic , behavioral , and cardiometabolic variables .
 The longitudinal association between baseline HOMA - IR and the development of CVD was also explored .
 The longitudinal association between baseline HOMA - IR and the development of high urinary albumin - to - creatinine ratio was explored among nondiabetic participants ( N = 1,401 ) .
-
 RESULTS
 Cross - sectionally , HOMA - IR was associated with sex , residence location , smoking , and high - risk cardiometabolic profile .
 Prospectively , insulin resistance is associated with the development of CVD and decreased kidney function in this population .
-
 CONCLUSIONS
 Insulin resistance may have an important role in the pathogenesis of CVD and chronic kidney disease .
 Since obesity contributes to the development of insulin resistance , intervention focusing on modifiable factors such as physical activity and weight control may reduce the development of these diseases .
-
 Insulin resistance plays a major role in the development of type 2 diabetes ( [1,2] ) .
 It has been reported as an independent predictor of cardiovascular diseases ( CVDs ) , hypertension , and dyslipidemia ( [3,4] ) .
 It is also involved in the development of polycystic ovary syndrome ( [5] ) , nonalcoholic fatty liver disease ( [6] ) , and certain types of cancer ( [7,8] ) .
@@ -60,7 +56,6 @@ Nonfatal CVD events included definite myocardial infarction , coronary heart dis
 During each examination , a 12 - lead electrocardiogram and medical history including the Rose Questionnaire for angina pectoris were obtained .
 The average follow - up time is 14 years .
 Mortality follow - up data were available in 99.8 % of the participants , and morbidity follow - up data were available in 99.2 % of the participants .
-
 High UACR .
 High UACR was defined as UACR ≥ 13.3 mg / g .
 This represents the fourth quartile of UACR at the baseline examination ( 1989 - 1992 ) .
@@ -68,7 +63,6 @@ A previous SHS article indicated that high UACR within the normal range is relat
 Specifically , participants with a UACR in the fourth quartile had 72 % greater risk of incident CVD events and 199 % greater risk of CVD mortality than those with a UACR in the lowest quartile .
 Nondiabetic participants who were free of CVD and not in the fourth quartile of UACR at the baseline visit were in this analysis ( n = 1,401 ) .
 The development of high UACR was recorded at the 2nd ( 1993 - 1995 ) and 3rd ( 1997 - 1999 ) visits .
-
 Statistical methods
 Baseline behavioral , demographic , and cardiometabolic variables including age , sex , study location , physical activity duration per week , physical activity energy cost per week measured by MET h , smoking , waist circumference , systolic blood pressure , diastolic blood pressure , LDL cholesterol , HDL cholesterol , triglyceride , and 2 - h glucose were presented by the quartiles of baseline HOMA - IR .
 Generalized linear model was used to test trends for continuous variables , and Mantel - Haenszel χ test was used to do trend analyses for categorical variables .
@@ -83,7 +77,6 @@ The results of the initial models are described in the text .
 The results of stepwise selected Cox proportional hazards models are reported in the Tables .
 For the association between HOMA - IR and incident CVD events , baseline age , sex , systolic and diastolic blood pressure , LDL cholesterol , HDL cholesterol , smoking , and micro - and macroalbuminuria were included in the initial Cox model as covariates ( [25,26] ) .
 For the association between HOMA - IR and the development of decreased kidney function , baseline UACR , age , sex , BMI , smoking , and systolic and diastolic blood pressure were included in the initial Cox model as covariates ( [27,28] ) .
-
 RESULTS
 Cross - sectional associations
 At baseline exam , more women than men had high HOMA - IR .
@@ -92,13 +85,11 @@ There are more past smokers but fewer current smokers who had high HOMA - IR .
 Physical activity levels measured by duration or MET h were not significantly different among participants in different quartiles of HOMA - IR .
 Except LDL cholesterol , all cardiometabolic variables including waist circumference , systolic and diastolic blood pressure , HDL cholesterol , triglyceride , and 2 - h glucose became unfavorable with increases of HOMA - IR ( Table 1 ) .
 Baseline demographic , behavioral , and cardiometabolic variables according to insulin resistance level
-
 Incident CVD
 In the Cox proportional hazards model that included all possible risk factors , only age , sex , LDL cholesterol , and smoking were significantly associated with incident CVD events .
 After stepwise selection of covariates , HOMA - IR level , sex , age , LDL cholesterol , smoking , and albuminuria remained in the Cox proportional hazards model .
 The hazard ratio of incident CVD increased as baseline HOMA - IR increased and reached statistical significance at the fourth quartile of HOMA - IR ( 1.8 [ 95 % CI 1.2 - 2.8 ] ) ( Table 2 ) .
 Cox proportional hazards model for incident CVD according to baseline quartiles of HOMA - IR *
-
 Incident high UACR
 In the initial model that included all possible risk factors of decreased kidney function , compared with participants in the first quartile of HOMA - IR , those in the fourth quartile of HOMA - IR had 1.4 times higher risk of decreased kidney function ( hazard ratio 1.43 [ 95 % CI 1.03 - 1.98 ] , P = 0.031 ) .
 The other significant factors are age , sex , and baseline UACR levels .
@@ -106,7 +97,6 @@ Baseline blood pressure levels , BMI , and smoking status were not significantly
 After stepwise selection , baseline HOMA - IR , UACR , age , and sex remained significant , and no other factors were selected in the model .
 Compared with participants in the first quartile of HOMA - IR , those in the fourth quartile of HOMA - IR have 1.5 times higher risk of decreased kidney function ( 1.5 [ 1.19 - 2.02 ] , P = 0.001 ) ( Table 3 ) .
 Cox proportional hazards model for incident high UACR ( ≥ 13.3 mg / g ) according to baseline quartiles of HOMA - IR *
-
 CONCLUSIONS
 This study demonstrated that insulin resistance is related to the development of decreased kidney function measured by high UACR among nondiabetic participants .
 To the best of our knowledge , this is the first large population - based prospective study to report this association .

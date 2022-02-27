@@ -7,9 +7,7 @@ Results confirm that at least one phase of the northwest Kimberley rock art asse
 A complete motif located on the ceiling of a rockshelter returned a minimum age estimate of 16 ± 1 ka .
 Further , our results demonstrate the inherent problems in relying solely on stylistic classifications to order rock art assemblages into temporal sequences .
 An earlier than expected minimum age estimate for one style and a maximum age estimate for another together illustrate that the Holocene Kimberley rock art sequence is likely to be far more complex than generally accepted with different styles produced contemporaneously well into the last few millennia .
-It is evident that reliance on techniques that produce minimum age estimates means that many more dating programs will need to be undertaken before the stylistic sequence can be securely dated .
-
-http://www.arc.gov.au/http://www.arc.gov.au/Data Availability
+It is evident that reliance on techniques that produce minimum age estimates means that many more dating programs will need to be undertaken before the stylistic sequence can be securely dated . http://www.arc.gov.au/http://www.arc.gov.au/Data Availability
 All relevant data are within the paper and its Supporting Information files .
 Introduction
 The rock art sequence of the rugged and remote Kimberley region of tropical northwestern Australia is likely to prove one of the longest and most complex anywhere in the world .
@@ -49,7 +47,6 @@ The relationship between the age estimates obtained for overlying nest , crust o
 Therefore , it will be essential to build an extensive database of minimum ( and maximum ) age estimates before a realistic temporal framework for the Kimberley rock art sequence can be established .
 With this as a major aim , a rock art dating project was undertaken to apply independent dating techniques to different Kimberley rock art styles .
 The research forms part of a much broader archaeological research project : Change and Continuity : archaeology , chronology and art in the northwest Kimberley , Australia focused on the Mitchell and Lawley River drainage basins ( Fig 1 ) .
-
 Background
 The research has been undertaken with agreement and participation of the Wunambal Gaambera people , who are the recently determined Uunguu native title holders for Wunambal Gaambera country ; their Wanjina Wunggurr culture is also listed as part of the West Kimberley included on the National Heritage List .
 The story that researchers are building sits alongside Wunambal Gaambera people ’ s Wanjina Wunggurr culture and religious beliefs , which have been integrated into an understanding and exploration of the material evidence in order to supplement the Wanjina Wunggurr traditions and their cultural world view .
@@ -65,7 +62,6 @@ The wasps collect material to make the nests from the surrounding landscape from
 It is these nests , constructed in crevices , cracks and other shielded locations like rockshelters , which are sometimes found in a fossilised state ( Fig 2F ) over and under rock art motifs thus providing potential material for dating .
 This species may occupy the same sites year after year creating large numbers of nests that can remain in situ in protected locations for extended periods of time .
 Usually , the wasp favour the stub of a former nest to construct their new nests [33] , thus at least two phases of nest formation can be observed in each nest [20,36] .
-
 Establishing a chronology for Mudwasp nests using optically - stimulated luminescence ( OSL ) dating
 OSL is a light sensitive signal that builds up over time during a period of ‘ burial ’ or cover .
 Provided the samples are not exposed to light during burial or collection , the signal can be stimulated in laboratory conditions and measured .
@@ -79,7 +75,6 @@ However , the procedure was further developed by Yoshida et al . [37] using line
 This allows the ‘ fast ’ component of the OSL signal ( that is easily removed by sunlight or ‘ bleaches ’ rapidly ) to be distinguished from the slow component ( that bleaches very slowly ) .
 The differences between the two signal components can provide evidence for the degree of bleaching received by each grain prior to burial , thus they retrospectively identified the ‘ light - safe ’ grains .
 Aubert [22] in his review of rock art dating recommended that to obtain robust age estimates using the mudwasp nest technique : 1 ) the relationship between the quartz grains and the art must be clearly established , 2 ) phases of nest development are established with a consideration of the nest stub , and 3 ) only large nests are sampled .
-
 Methods
 Research was completed under Western Australian Department of Indigenous Affairs , Section 16 Permit Nos .
 465 ( 2010 ) , 490 ( 2011 - 12 ) , and Authority 4 Permits from the Western Australian Department of Environment and Conservation ( DEC ) , CE 002829 ( 2010 ) , CE 003254 ( 2011 ) , and CE 003574 ( 2012 ) .
@@ -107,7 +102,6 @@ The mudwasp nests were carefully removed from the rock surface using a small raz
 Quartz grains of 180 - 212 μ m diameter were separated from the matrix under dim red illumination using standard purification procedures , including a final etch in 40 % hydrofluoric acid for 45 minutes to remove the external alpha - dosed rinds [38] .
 The very low quartz yield meant that for some samples certain procedures were modified such as removing the 2.62 mg separation to maximize the amount of material prior to a hydrofluoric acid ( HF ) etching procedure .
 The feldspars were then removed during the HF procedure and the presence of feldspar contamination was checked prior to measurement using an IR wash and after measurement using a light microscope .
-
 Stimulation and testing of the quartz grains
 We used OSL techniques applied to single - grains of quartz incorporating a modified SAR protocol [39] for between 100 - 500 single - grains loaded on aluminum single - grain discs and measured in a TL - DA - 20 Ris ø unit containing the single - grain attachment [40-41] .
 Each of the quartz grains were stimulated for 2 s using a 10 mW 532 nm Nd : YV 0 solid - state diode - pumped green laser with 50 % power corresponding to 25 W / cm [41-42] , and the ultraviolet emissions were detected by an Electron Tubes Ltd 9235QA photomultiplier tube fitted with 7.5 mm of Hoya U - 340 filter .
@@ -122,7 +116,6 @@ Small 1 mm mask aliquots of the fresh quartz ( 180 - 212 um size fraction ) were
 When plotted , this revealed a preheat plateau at ~ 250 ° C so this temperature was chosen to perform dose recovery tests .
 The natural OSL signal was bleached using 100 s of blue diodes at 50 ° C temperature and a SAR run was conducted on 8 aliquots using a surrogate dose of 20 Gy .
 All 8 aliquots returned a dose within 2 sigma error of the surrogate dose confirming that the measurement protocol was valid , the recycling ratios were low and there was negligible recuperation ( Fig 2 ) .
-
 Estimating the environmental dose rate
 To estimate the environmental dose rate at the sites in situ measurements were made using a Canberra Inspector 1000 portable gamma spectrometer .
 To assess the gamma contribution from just the sandstone bedrock it was impractical to create holes large enough to accommodate the 2 - inch gamma spectrometer probe to allow a 4 π geometry around the scintillation crystal .
@@ -143,7 +136,6 @@ To estimate water content a small section of the larger off - art nest ( UP1B ) 
 In addition , we estimated the weight of its maximum saturation by adding water to a suspended sample until it began to release liquid .
 Thus within the known boundaries of dry - saturated and present day weights , we could more accurately estimate how the water content has changed over time .
 We did not detect any change in weight so assigned a water content of 0 ± 0 % for all the nests sampled , apart from the CA - MOD nest which we assigned 2 ± 0.2 % .
-
 Disequilibrium in the mud nest and on the rock surface
 Disequilibrium is a deficiency or excess in the daughter nuclides in relation to the parent nuclides .
 Excesses or deficiencies in the decay chains of U and Th can cause over and underestimations in the estimated dose rate that has a knock on effect on the final age estimation .
@@ -153,7 +145,6 @@ This test could not be conducted for all samples due to a lack of material .
 A final dosimetry consideration is the use of HRGS as opposed to Neutron activation analysis ( NAA ) for investigating the disequilibrium in the decay chains .
 Some radioisotopes such as Th , U and Th do not emit gamma rays so cannot be measured using the former technique .
 Therefore , we have made allowance for this potential loss and have factored this into the error margin .
-
 Analysis of the single grains of quartz
 Quartz SG - OSL analysis allows aberrant and non - luminescing grains to be removed from the equivalent dose ( D ) determination and enables an assessment of the dose populations within one sample .
 This ensures that the grains that have been exposed to the light ( on the outer sections of the nest ) can be separated from the grains that have acquired a dose during burial ( the core of the nest ) .
@@ -169,7 +160,6 @@ Using the overdisperson values for the sample combined with the distribution see
 A population is defined as a group of grains with D values and errors that can be described by a Gaussian distribution and that are statistically outside the range of another distribution .
 As more than one population has been interpreted in the mudwasp data , we have analysed the grains using a Finite Mixture Model ( FMM ) [49] .
 This statistical analysis assumes that there is more than one dose population within the grain distribution and aims to identify the number , D values and overdispersion of each population .
-
 The bleaching and burial of grains in the nests
 The assumption of this technique is that the quartz grains were all well - bleached before being buried in the nest so that any signal that accumulates is derived from radioactive nuclides in the nest and on the rock surface rather than from a residual OSL signal .
 It was also assumed that , even for the small nests , there is sufficient light shielding for the inner core grains to accumulate a signal that can be measured .
@@ -184,12 +174,10 @@ Measuring bleaching of the grains within a modern nest ( sample CA - MOD 20 x 20
 This nest was determined to be modern as it was still fresh ( wet ) with no fossilization and the team could verify that it was not present at the time of the previous year ’ s fieldtrip so its age is < 1 yr .
 The nest still retains its original outer coating .
 In theory , the grains should only contain very small OSL signals ; larger OSL signals may indicate that the grains are retaining a residual dose prior to being buried in the nest ( Fig 3E and 3F )
-
 Measuring and comparing the difference in signal between the grains that form the inner and outer parts of a large ( 65 x 20 mm ) ancient nest ( sample UP1B ) by sampling each layer within the nest for OSL dating .
 This sample represents the bottom half of the UP1A sample used for dating , but this section is much larger and lies off - art .
 In addition , the outer layer of the nest is absent in places so this provides a useful test of signal retention ( Fig 3B ) .
 In theory , there should be a gradation of signal with the inner core containing the most signal and the outer grains containing the least .
-
 Before sampling the nests , we considered their construction and taphonomic history by observation and using footage of nest construction .
 It was determined that the nests have a core that is a residual stub of a former nest , and each cylindrical tube is built separately on the base core and then joined with mud .
 Therefore , we sampled the ancient nest in four layers .
@@ -205,7 +193,6 @@ This value was determined by bleaching fresh aliquots of sample UP1B using a sol
 Where possible we compared the OSL results from mudwasp nests with AMS C dating of either beeswax resin found on the art of the same motif or from AMS C dating of pollen from the actual mudwasp nest .
 Due to the limited amount of material available for OSL dating we used pollen found in the < 90 um size fraction that is usually not used for OSL dating .
 Only one sample ( BRY - 6 ) yielded enough material from this size fraction to be processed by C .
-
 Accelerator Mass Spectrometry radiocarbon dating
 The material sampled for AMS C dating is a resinous compound originating from native stingless bees rather than pure wax .
 Australia has around 12 species of native stingless bees , three of which are found in the Kimberley and recognised by Wunambal Gaambera people [50-51] .
@@ -216,12 +203,10 @@ Their nests are made of wax and a resinous compound .
 These elements are likely to incorporate aggregations of pollen grains , pieces of young adult bee exoskeleton and fragments of xylem fibres and vessels [54] making them ideal for AMS C dating .
 Samples were collected in a similar manner to those obtained for OSL dating although all were collected during the day .
 Standard AMS C dating techniques were using to process the samples .
-
 Uranium Series dating of rock surface coatings
 Twenty - three samples of gypsum rich coatings and amorphous silica skins were collected for U - series dating .
 The results yielded either insufficient U - series isotopes for dating or proved to be too contaminated with detrital material to provide a meaningful age estimate .
 Therefore no comparisons could be made using this technique . ( M . Aubert , pers . comm . )
-
 The Rock Art and Samples Selected for Dating
 Fig 4A .
 A large motif painted in a ‘ star - yam ’ form was located on the back wall of a large rockshelter ( UBSC 02 ) at the headwaters of Bush Spirit Creek .
@@ -284,7 +269,6 @@ Fig 5E .
 Three samples of beeswax resin ( LR 03C - 2 , LR 03C - 3 , and LR 03S - 01 ) were collected overlying motifs located in the same complex of caverns ( LR 03 ) .
 One sample , ( LR 03S - 01 ) overlay the Argula motif ( Fig 4B ) described above , while the remaining two samples covered the legs of one of a pair of red anthropomorphic figures painted on the vertical wall of the adjacent cavern ( LR 03C ) .
 The figure is classified as a Wararrajai Gwion and is depicted in full frontal position with an outlined torso infilled with irregular lines , stick arms , a solid head , and legs that end in squared extremities and a headdress that sweeps off to the side .
-
 Results
 The radial plots have been presented in Fig 4 and Fig 5 , and D values using the CW FMM have been presented in Table 1 .
 These results showed a wide spread of minimum age estimates for art motifs ranging from 530 years up to 16 ka .
@@ -333,7 +317,6 @@ A minimum age estimate of 650 ± 10 years was returned for the ‘ star - yam �
 Two different dating techniques provided minimum age estimates for the Argula : 1.6 ± 0.1 ka ( CA - 7 , Fig 4B , Table 1 ) using OSL for an overlying mudwasp nest and 687 - 884 yr cal .
 BP ( LR 03S - 01 , Fig 4B , Table 3 [ S - ANU 33109.9551 ] ) for AMS C on wax resin .
 The two zoomorphic figures sampled , returned a minimum age estimate of 1.4 ± 0.5 ka ( BRY - 6 , Fig 4D , Table 1 ) for the bi - chrome fish , while the large poly - chrome macropod provided a minimum age estimate of 5.1 ± 0.2 ka ( LM - 13 , Fig 4E , Table 1 ) .
-
 Discussion
 The dose rate for the nest only using the HRGS method had a large gamma dose rate ( 1.051 - 1.678 Gy / ka ) that far exceeds that estimated by the in situ method ( ~ 0.23 Gy / ka ) and that estimated by other authors for a similar geology ( e.g. , [37] ~ 0.31 Gy / ka [57] , ~ 0.4 Gy / ka ) .
 We attribute this discrepancy to the difference in material used - the HRGS was applied to the nest only while the dosimetry of the in situ method ( portable gamma spectrometry and beta counting ) was damped down by the inclusion of lower - dose sandstone .
@@ -435,7 +418,6 @@ The single , older minimum age estimate we were able to obtain during the projec
 In many cases , taphonomic processes have led to the gradual breakdown of nests leaving only nest stubs comprising limited unbleached grains .
 The single older minimum age estimate we obtained for the ‘ yam - like ’ motif provides supporting evidence for the claim that rock art was produced in the Kimberley during the terminal Pleistocene [20] .
 Further , the oldest of the minimum age estimates ( 16 ± 1 ka ) sits well inside the temporal framework proposed for the emergence of Arnhem Land rock art between 26,913 - 28,348 years , calibrated BP [24] .
-
 Conclusion
 The results we have obtained demonstrate the limitations of relying on minimum age estimates alone to establish a temporal framework for Kimberley rock art .
 Many more samples will have to be processed before a sound chronology can be proposed .
@@ -448,7 +430,6 @@ Our results have pushed back the timing of the emergence of the Wanjina Period a
 Moreover , the results have identified at least one case of the co - occurrence of recent Kimberley rock art stylistic phases previously considered sequential , thus signalling that the relationships between styles may not necessarily be temporally separated .
 The potential for different contemporaneous art styles performing separate functions then becomes a possibility emphasising the need for ongoing fine - grained rock art analyses and contextual studies .
 While the results are by no means conclusive or extensive , they provide a significant step towards our understanding of the complexities of Kimberley rock art .
-
 Supporting Information
 LR 03D floorplan with location of samples CA - 7 , CA - 8 , CA - 9 , LR 03S - 01 , LROIC - 2 and LROIC - 3 . ( TIF )
 Click here for additional data file .

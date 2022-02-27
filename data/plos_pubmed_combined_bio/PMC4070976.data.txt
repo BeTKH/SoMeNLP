@@ -1,9 +1,7 @@
 The study was approved by the Medical Ethics Committee of the VU University Medical Center , Amsterdam .
 Besides , the participating departments ( Neurology and Medical Oncology ) gave their approval for the research to be carried out .
 Written informed consent to participate in the study and publish the results was obtained of all respondents at each interview appointment .
-
 We conducted a qualitative descriptive study [28] in which in - depth interviews with advanced cancer patients were performed .
-
 Two patient populations facing palliative treatment decisions were included in this study .
 The first group consisted of patients diagnosed with glioblastoma ( GBM ) , the most common and most malignant type of primary brain tumor in adults , that underwent postoperative combined chemo - and radiotherapy [29] .
 These patients have a poor prognosis and cannot be cured of their disease .
@@ -16,7 +14,6 @@ Chemotherapy can be effective in prolonging time to disease progression and surv
 In both patient groups , when progression of the disease occurs , a decision is often required on whether or not to start a ( second - line ) treatment aimed at prolonging life , but with the disadvantage of burdensome side effects .
 Patients diagnosed with GBM were included at the beginning of their adjuvant temozolomide chemotherapy , soon after the end of the postoperative concomitant chemo - irradiation .
 Metastatic colorectal patients were included at the beginning of treatment with first - line palliative chemotherapy .
-
 Patients were recruited in a large university hospital through consecutive sampling .
 The study with GBM patients started in May 2010 and patients were included till December 2012 .
 Recruitment for colorectal cancer patients started in November 2011 and ended in February 2013 .
@@ -33,7 +30,6 @@ They were handed an information letter by their physician during their visit on 
 Of these patients 12 GBM patients and 1 metastatic colorectal patient declined to participate in the study of whom 5 patients were not interested in the study , 5 patients felt they were too ill to participate , 1 patient said it was too emotionally demanding because she had problems with her speech , 1 patient was too stressed about how the disease would develop in the future , and 1 patient did not want the researcher to attend patient - physician conversations .
 This resulted in 28 participating patients ( their characteristics are shown in Table 1 ) , of whom 18 were diagnosed with GBM and 10 with metastatic colorectal cancer .
 The patients ranged in age from 27 to 82 .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0100435.t001 Characteristics of participants * 1 patient was not able to pick a card The in depth interviews lasted approximately 45 - 60 minutes and were held at the patients ' homes .
 We used an interview topic list based on the objectives of the study .
@@ -46,12 +42,10 @@ Further questions followed up on answers respondents provided and aimed to clari
 At the end of the interview the researcher checked whether all topics had been covered [35] .
 All interviews were performed by the first author ( LB ) and were recorded and transcribed verbatim .
 The interviewer kept field notes , describing her reflections on the interviews and the study .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0100435.t002 Control Preference Scale During the interview all patients said that they understood the severity of their disease and were aware of the fact that at some point in the disease trajectory the disease would progress and new treatment decisions must be made .
 They also knew that they would eventually die from the disease .
 They told that their treating physician informed them on their diagnosis after their surgery ( GBM patients ) or after CT scans were made ( metastatic colorectal patients ) .
-
 As our study was explorative , we used open coding as described by Strauss and Corbin [36] .
 Data analysis started during data collection and was an ongoing process .
 The constant comparative method was used to compare codes within and between interviews and to identify the main themes [37] .

@@ -1,7 +1,6 @@
 The fMRI study included eight right - handed healthy volunteers ( 5 males , 3 females , mean age 26.2 years , range 20 - 34 years ) , who were either students or physicians and already experienced in participating in psychophysical studies .
 All participants participated voluntarily in the experiments and none of them were taking medication that might have interfered with the induction of subacute muscle soreness or with pain sensations ( i.e. analgesics , anesthetics or other centrally acting drugs ) .
 The study adhered to the claims of the Declaration of Helsinki and the protocol was approved by the local ethics committee ( Institutional Review Board of the University Erlangen - Nuremberg ) .
-
 Induction of delayed onset muscle soreness ( DOMS ) : DOMS is a physiological pain state that occurs following a bout of eccentric muscle contractions and peaks in intensity 24 - 48 hours after exercise [18] .
 To induce DOMS in the quadriceps muscle group , subjects performed 120 - 150 up - down step cycles with their right leg .
 A step cycle consisted of stepping up onto a small platform with the right leg ( concentric quadriceps contraction ) then stepping back down with the left leg which forces the right leg to bear the body weight ( eccentric quadriceps contraction ) .
@@ -9,7 +8,6 @@ The height of the platform was adjusted such that the included knee angle was 90
 36 to 48 hours later , subjects were psychophysically evaluated .
 Eight of the eleven subjects experienced intense soreness and long lasting pain in their quadriceps muscle upon contraction or physical stimulation and were admitted to the fMRI experiment .
 None of the subjects reported resting pain .
-
 Experimental pain model and intensity rating : The intensity of the pain was quantified and monitored using the visual analogue scale ( VAS ) ranging from 0 to 100 % as previously described [19] .
 The rating scale was fed back to the subject as a light bar representing the levels 0 - 100 % of the common VAS scale , whereby “ 0 % ” signifies no pain , “ 100 % ” marks maximal imaginable pain .
 For psychophysical measurements , the subjects sat reclined in a dental chair and the paradigm was carried out as later in the fMRI sessions , with the only difference that subjects were asked to operate the VAS with a turning knob to rate the pain as perceived during the contractions and during stimulation with the heavy marble roll .
@@ -18,7 +16,6 @@ Only those subjects who judged the contraction / stimulation with the roll on th
 The success rate ( of achieving painful DOMS with this training method ) exceeded 70 % , i.e. eight of the eleven subjects that were initially trained by eccentric exercise , had developed painful soreness and were admitted to the scanner to record their brain activation in response to stimulation of the painful muscles .
 For control purposes , the subjects were asked after the fMRI experiment , to estimate the intensity of pain they had experienced during both self - controlled contraction and physical stimulation .
 In all subjects the pain ratings confirmed the ratings that were obtained during the psychophysical training session prior to the fMRI measurement .
-
 Shortly before subjects attended the fMRI scanner they were instructed to refrain from movement as much as possible .
 In the scanner the subjects ' head was immobilized by fixing the head binaurally with a thrust device .
 A mirror was mounted above the eyes to allow the subject to see the light indicating the protocol , which was positioned outside the scanner .
@@ -43,7 +40,6 @@ Accordingly , the marble roll was held perpendicularly to the surface and rolled
 Furthermore , care was taken to exert pressure only by imposing the 1.75 kg dead load of the roll and no additional force .
 This way of stimulation produced in all subjects a deep and constant painful feeling with fast on - and offset .
 Few hours before accessing the fMRI scanner , each subject underwent a training session in order to make the subjects familiar with the stimulation procedure , but also to evaluate intensity and time course of the pain and to find and mark the most painful areas of the thigh with tape .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0047230.g001 Stimulus conditions and experimental paradigm.a .
 Muscle pain was evoked in a muscle group suffering DOMS during an fMRI measurement by two paradigms : voluntary contraction of the painful muscle ( paradigm 1 ) and painful physical stimulation of the sore muscles with a 1.75 kg heavy marble rolling pin ( paradigm 2 ) .
@@ -53,7 +49,6 @@ A Scout epoque - used to determine the position of the subject ' s head within t
 A short EPI sequence is required to accustom the subject to the unfamiliar noise of the following EPI scans .
 The numbers in the block design ( x - axis ) are equivalent to scanning frames and one frame corresponds to 3 s acquisition time .
 The conditions were as follows : 1 : resting condition ( baseline ) ; 2 : contralateral painless quadriceps contraction or painless physical stimulation ; 3 : ipsilateral painful quadriceps contraction or painful physical stimulation .
-
 Image acquisition , study design and MRI sequence order : Images were collected with a 1.5 Tesla MRI scanner ( Magnetom Sonata , Siemens , Erlangen , Germany ) using a standard quadrature head coil .
 Preceding the functional measurements , a high resolution data set of each subject ’ s brain was acquired using a T1 - weighted , 3D gradient - echo pulse sequence ( MPRAGE : magnetization prepared rapid acquisition gradient echo ; voxel size = 1 , 0 mm 3 ; TR / TE = 1950 ms / 4.38 ms , FOV = 256 mm , 256 × 256 matrix , 160 slices , FOV = 256 mm , slice thickness = 1 mm ) .
 Functional scans were acquired using a blood - oxygen - level - dependent ( BOLD ) protocol with a T2 - weighted gradient echo - planar imaging ( EPI ) sequence ( TR / TE / θ = 3000 ms / 60 ms / 90 ° ; slice thickness = 4 mm ; interslice interval = 1 mm , FOV = 220 mm , 64 × 64 matrix ) .
@@ -63,7 +58,6 @@ MRI sequences were measured in the following order : anatomical scout , MPRAGE ,
 The first EPI was short and applied to accustom the subject to the noise .
 The second EPI consisted of 150 whole brain acquisitions divided into 5 cycles and entailing the protocol as described above .
 Eight sequences were acquired during the stimulus period time ( 24 s ) and six during the interposed baseline periods ( resting condition , 18 s ; see Fig .1 ) .
-
 Data processing and statistical analysis : Imaging data analysis , registration , visualisation and statistical analyses were performed with the BrainVoyager QX software package ( Brain Innovation B.V . , Maastricht ; The Netherlands ) .
 Pre - processing of the data was performed as previously described [22] and included three - dimensional motion correction , temporal Gaussian smoothing of 4 s , spatial Gaussian smoothing of 4 mm , linear detrending and temporal high pass filtering using 0.01 Hz .
 The 3D - MPRAGE data set was transformed into the standard stereotactic space [23] and the T2 weighted images were realigned to this high - resolution 3D - data set [24] thus enabling a 3D - reconstruction of the activation maps .
@@ -80,7 +74,6 @@ Table 1 lists clusters with a minimum number of 250 voxels corresponding to 250 
 We focussed on clusters located in the following brain areas : frontal and parietal lobe , insula , cingulum , thalamus , basal ganglia and the cerebellum .
 Processing of the clusters included identification of Brodman ' s Area ( BA ; or closest BA in case the centre of the cluster was located in the white matter ) , determination of spatial centre ( coordinates ) , and their statistical significance ( t - value ) .
 Psychophysical data were recorded with custom made software .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0047230.t001 Brain regions with increased activity during DOMS : comparison between painful voluntary contraction and physical stimulation with a rolling pin .
 p - values < 0.000005 are indicated as “ * ” ( uncorrected ) ; S1 : primary somatosensory cortex , M1 : primary motor cortex ; S / IPL : superior / inferior parietal lobule ; STG : superior temporal gyrus ; SSA : somatosensory association cortex ; SMA : supplementary motor area ; ACC : anterior cingulate cortex ; PCC : posterior cingulate cortex ; CMA : cingulate motor area ; BA : Brodmann Areas or closest BA in vicinity ; “ Pain ” , T - values are indicated for Pain = painful condition and Con = control condition and contrast ; x , y , z : Talairach coordinates .

@@ -121,16 +121,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 Abbreviation_of	GATK	130	2	Genome Analysis Toolkit	104	1;;Citation_of	[49]	137	3	Genome Analysis Toolkit	104	1;;Citation_of	[50,51]	242	5	GATK	206	4;;
 
 
@@ -142,21 +132,7 @@ Citation_of	[52]	34	1	VAX	30	0;;Citation_of	[53]	108	3	Polyphen	99	2;;Citation_o
 
 
 
-
-
-
 Version_of	7.1.4	70	1	Geneious	53	0;;Developer_of	Biomatters	87	2	Geneious	53	0;;URL_of	http://www.geneious.com/	100	3	Geneious	53	0;;
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -233,11 +209,7 @@ Version_of	5.0	49	1	Prism	41	0;;Developer_of	GraphPad	55	2	Prism	41	0;;
 
 
 
-
-
 Developer_of	NIH	66	1	ImageJ	57	0;;
-
-
 
 
 

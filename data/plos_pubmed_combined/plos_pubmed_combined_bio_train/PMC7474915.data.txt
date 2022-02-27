@@ -12,7 +12,6 @@ We examined mortality weekly , finding that the peak of cases and deaths in chil
 The proportion of deaths attributable to COVID - 19 in children was stable over May , June and July .
 We predict this proportion will decline assuming the continuation of public health control measures and improvements in treatments .
 Mortality for the USA , United Kingdom , Italy , Germany , Spain , France and South Korea in 0 - to - 9 and 10 - to - 19 - year - olds ( 0 - 4y and 5 - 14y in the USA ) from all - causes , unintentional injury , lower respiratory tract infection , influenza and COVID - 19 with estimated absolute numbers and mortality per 100,000 population .
-
 Five months of data show that in these countries , children are at much greater risk of death from other elements of normal life , than from COVID - 19 .
 Our fears of increased virulence in children , so far , are unfounded .
 Nonetheless , vigilance is necessary as the pandemic may unfold differently .
@@ -22,5 +21,4 @@ Children have sacrificed much to international efforts to contain COVID - 19 .
 We know that negative experiences in childhood matter lifelong .
 Cases , hospitalisations and deaths due to COVID - 19 may increase during the northern hemisphere winter .
 If this happens , we must remember the minimal direct risk to children of COVID - 19 and to act to minimise the harmful effects of future lockdown measures - including school closures - on children especially those without good evidence of likely efficacy .
-
 Our data have implications for quantitatively demonstrating the safety and effectiveness of potential vaccines in children and planning for vaccination should a safe and effective vaccine be invented .

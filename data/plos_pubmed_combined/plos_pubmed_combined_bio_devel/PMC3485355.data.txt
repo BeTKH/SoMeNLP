@@ -2,7 +2,6 @@ We conducted our experiment at La Selva Biological Station ( LSBS ) from May 17 
 LSBS encompasses 1500 hectares of primary and secondary lowland tropical wet forest ( sensu [17] ) on the Caribbean slope of Costa Rica .
 Using a mold formed from a preserved specimen of D . pumilio , we crafted frog replicas from precolored , non - toxic Sculpey ™ brand polymer clay ( Polyform Products Company , IL , USA ) .
 Modeling clay is often used in predation experiments because predators that attack a replica leave identifiable impressions in the clay ( e.g. , [2] , [11] , [13] ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0048497.t001 Number of replicas deployed , recovered , and attacked .
 We manufactured 200 frog replicas that resembled the local D . pumilio form with a red body and blue limbs ( i.e. , an aposeme assumed to be familiar to LSBS predators ) and 200 frog replicas that resembled a form of D . pumilio novel to LSBS but found on Isla Colon , Bocas Del Toro , Panama , with a yellow body , orange limbs and black spots [18] ( Fig . 1 ) .
@@ -15,12 +14,10 @@ Because previous studies have shown that D . pumilio also has low reflectance in
 We also compared spectrometric measurements of our red clay ( the main color of the dorsum of the local aposematic form ) against spectrometric measurements of the dorsum of live red - and - blue D . pumilio morphs taken by Summers et al . [20] .
 Reflectance values of live frogs remain near zero until a sharp peak between 625 and 675 nm ( Fig . 12 in ref . [20] ) , matching reflectance spectra for the red clay , which remain relatively flat until a sharp peak around 625 nm ( Fig . S1 ) .
 Given the similarity in reflectance spectra for red clay and live frogs , we assume that predators at La Selva are likely to be “ familiar ” with the red replicas and will treat them like live , local frogs .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0048497.g002 Relative contrast estimates for the three visual contrast methods under an avian visual model , scaled to 1 .
 Estimates are not directly comparable among methods .
 Color forms assigned different letters differ significantly from each other after Bonferroni correction ( Table S1 ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0048497.g003 Observed - minus - expected avian attacks .
 Expected attack distributions were generated using the three visual contrast methods .
@@ -31,7 +28,6 @@ Stars denote significant departures from the expected attack distribution .
 Crosses denote significant departures from the expected attack distribution from pairwise comparison of red vs . yellow replica attack rates .
 † † : P < 0.01 , n.s .
 : not significant .
-
 We conducted six predation trials over 12 days with each trial in a unique location along LSBS ’ s dendritic trail system .
 Each trial consisted of ten 60 m transects ; transects were spaced 50 m apart .
 Each transect contained 40 regularly spaced frog replicas placed directly onto the forest floor in a regular , alternating color order , haphazardly with respect to the background substrate .
@@ -45,15 +41,13 @@ These search time data were collected as a proxy for replica conspicuousness , a
 If a replica was not found after 180 seconds , it was considered missing .
 We chose 180 s as our cutoff because a February 2008 pilot study determined that replicas not found by 180 s would likely not be found at all .
 Following recent studies , missing replicas were not included in subsequent analyses since their fates could not be determined reliably [15] , [22] .
-
 Avian Visual - model - based Estimates of Replica Conspicuousness : To account for differences in visual conspicuousness among replica color forms , we took spectrometric measurements of the clay color mixtures used in the replicas as well as leaf litter samples collected from the replica transects .
 At each transect , a 25 cm × 25 cm quadrat was thrown haphazardly onto the forest floor , and four representative leaves were selected from this quadrat .
 On each leaf we measured reflectance at three locations ( averaging three spectrometer readings per location ) , and then calculated an average reflectance measurement for each leaf ( Fig . S3 ) .
 To quantify clay colors , we measured five samples of each standardized color mixture ( red , orange , yellow , blue , brown , and black ) used in the replicas , and one pen mark from a black permanent marker on a yellow clay background .
 We averaged three spectrometer readings per clay sample and then averaged across the five samples to obtain one spectrum representing each standard color mixture .
 For all color measurements , we used an Ocean Optics USB - 2000 spectrometer with an R - 400 reflectance probe and PX - 2 pulsed xenon light source , and Optics OOIBase 32 v 2.0.6.5 software ( Ocean Optics , Inc . , FL , USA , 2002 ) .
-We used white and dark standards to calibrate the spectrometer before measurements were taken .
-( ii ) Replica conspicuousness to the avian eye : We focus on the avian predator assemblage because birds were likely the most common visual predators of D . pumilio at LSBS [15] , [23] , [24] .
+We used white and dark standards to calibrate the spectrometer before measurements were taken . ( ii ) Replica conspicuousness to the avian eye : We focus on the avian predator assemblage because birds were likely the most common visual predators of D . pumilio at LSBS [15] , [23] , [24] .
 The avian visual system has both double - cones , which seem to be used in brightness and motion detection , and four single - cone classes that are used for color discrimination [25] .
 In general , bird eyes can be divided into two types according to their single - cone classes [26] : V - type and U - type ; the latter type has greater sensitivity to UV wavelengths [26] .
 We used a model of the UV - insensitive , V - type avian visual system for this study [26] , [27] , assuming that the ambient light profile of LSBS ’ s forest understory matched the UV - poor “ forest shade ” profile of other lowland tropical forest sites [28] .
@@ -69,7 +63,6 @@ Double - cone excitation values came from the reflectance spectra and a cone fun
 Then , under the assumption that chromaticity contrast and brightness contrast contribute equally to object - background discrimination , we summed the chromaticity and brightness contrast proportions to obtain a composite contrast measure.Hereafter , we refer to these three distance - based contrast measures as the “ chromaticity , ” “ brightness , ” and “ composite ” measures , respectively .
 To calculate an overall visual contrast score for each replica color and contrast method ( chromaticity , brightness , and composite ) , we averaged the clay / leaf contrast scores across all leaf samples .
 Because aposematic replicas incorporated more than one clay color , we estimated whole - replica contrast under each contrast method by calculating the contrast between each individual clay color and the leaf litter background , and then taking a weighted average of these contrast values according to the area covered by each color on the replica ( areas measured from digital photographs of frog replicas viewed dorsally ) .
-
 We used a Chi - square ( χ 2 ) test of independence to test for differences in absolute predation rates ( i.e. regardless of contrast ) among color forms .
 Then , to ask whether predation rates are proportional to the contrast of each form ( i.e. do differences in attack rates match differences in conspicuousness ? ) , we generated an expected attack distribution given replica contrast for each color form under each contrast method according to the equation : where i is the contrast method ( chromaticity , brightness , or composite ) , j is the replica color ( red , yellow , brown , or black ) , Ei , j is the expected number of attacks , Rj is the number of replicas recovered , Ci , j is the visual contrast value , and α is a constant of proportionality that ensures that the total number of expected attacks is equal to the total number of observed attacks .
 Finally , we compared the expected attack distributions to the observed distribution using a χ 2 test of independence .

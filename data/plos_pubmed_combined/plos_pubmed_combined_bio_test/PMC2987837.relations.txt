@@ -16,14 +16,7 @@
 
 
 
-
-
 Version_of	1.0	58	1	Mach	53	0;;Citation_of	[16]	89	3	Mach	53	0;;AlternativeName_of	Markov Chain Haplotyping	64	2	Mach	53	0;;
-
-
-
-
-
 
 
 
@@ -76,11 +69,6 @@ Citation_of	[16]	181	3	Mach	145	0;;Version_of	1.0	150	1	Mach	145	0;;AlternativeN
 
 
 
-
-
-
-
-
 Citation_of	[20]	143	2	GRIMP	137	1;;
 
 URL_of	www.sph.umich.edu/csg/abecasis/metal	96	1	METAL	88	0;;
@@ -92,7 +80,6 @@ URL_of	www.sph.umich.edu/csg/abecasis/metal	96	1	METAL	88	0;;
 
 
 Citation_of	[21]	111	1	PLINK	105	0;;Version_of	17.0	149	3	SPSS Statistics	133	2;;
-
 
 
 

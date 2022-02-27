@@ -1,5 +1,4 @@
 All participants gave written informed consent , and the study was approved by the local ethics committees in the participating countries and the Internal Review Board of the International Agency for Research on Cancer .
-
 The design and methods of the InterAct case - cohort study have previously been described [9] .
 InterAct is a case - cohort study nested within the EPIC cohort , and the project involves 29 institutions in nine European countries .
 Ascertainment of incident T2D involved a review of the existing EPIC datasets at each centre using multiple sources of evidence including self - report , linkage to primary - care registers , secondary - care registers , medication use ( drug registers ) , hospital admissions , and mortality data .
@@ -17,7 +16,6 @@ By design , because of the random selection , this sub - cohort also included a 
 Participants in the random sub - cohort were similar to all EPIC participants eligible for inclusion in InterAct [9] .
 InterAct cases were followed - up for a mean ( standard deviation [ SD ] ) of 6.9 ( 3.3 ) y , and 49.8 % were men .
 The overall incidence of T2D in InterAct was 3.8 per 1,000 person - years of follow - up .
-
 Weight and height were measured with participants not wearing shoes and in light clothing or underwear in the majority of centres [10] .
 Waist circumference ( WC ) was measured either at the narrowest circumference of the torso or at the midpoint between the lower ribs and the iliac crest .
 Hip circumference was measured horizontally at the level of the largest lateral extension of the hips or over the buttocks .
@@ -38,7 +36,6 @@ The Mediterranean dietary pattern as used here is characterised by a high consum
 Adherence to the Mediterranean diet was assessed using the relative Mediterranean diet score that has previously been associated with the risk of incident T2D in InterAct [20] .
 This score included nine nutritional components characteristic of the Mediterranean diet : seven potentially beneficial components ( vegetables , legumes , fruits and nuts , cereals , fish and seafood , olive oil , and moderate alcohol consumption ) and two potentially detrimental components ( meat and meat products , and dairy products ) .
 The overall relative Mediterranean diet score was divided into categories reflecting low ( 0 - 6 points ) , medium ( 7 - 10 points ) , and high ( 11 - 18 points ) adherence to the Mediterranean diet on the basis of previously published cutoff points [21] .
-
 DNA was not available for Danish ( n = 4,037 ) participants , leaving a total maximum sample size of 10,348 incident cases and 14,671 random sub - cohort participants with DNA available , including 13,394 non - diabetic InterAct sub - cohort participants .
 Hence , of the original 27,779 InterAct participants , a maximum of 23,742 were eligible for genetic analyses .
 Of these , a total of 19,651 participants , including 8,582 incident cases and 11,069 non - diabetic sub - cohort participants , had DNA available for genotyping ( Table S1 ) .
@@ -58,9 +55,7 @@ The top - ranked SNP at DUSP 9 on the X chromosome was also unavailable and with
 Hence , a total of 49 variants were selected for the InterAct genetic score , including two established obesity loci ( FTO and MC4R ) and two loci that reached genome - wide significance in sex - differentiated meta - analyses ( CCND 2 and GIPR ) [22] .
 The top - ranked SNP at HNF1B ( rs 11651052 ) was not available on the Illumina 660 W - Quad BeadChip , and a proxy in high linkage disequilibrium ( rs 4430796 ; r 2 = 0.97 ) was used instead .
 Risk alleles ( Table S4 ) were summed into a genetic risk score , including imputation of missing genotypes .
-
 Characteristics of all InterAct participants and of the random sub - cohort are summarised , alongside those of individuals who had DNA available for genotyping , in Tables S2 and S3 , respectively .
-
 Associations between the published T2D risk allele for each SNP ( Table S4 ) and incident T2D were estimated using Prentice - weighted Cox regression models , separately within each country , with age as the underlying time scale , adjusted for sex and centre and assuming additive genetic effects with the T2D risk allele as the effect allele [9] .
 The hazard ratio ( HR ) for each SNP was combined across countries using random effects meta - analysis .
 Sensitivity analyses were performed replacing centre by linearized ( i.e. , expressed in kilometres ) latitude and longitude of the centre [24] , [25] , and also with additional inclusion of BMI ( continuous ) in the sex - and centre - adjusted model .
@@ -71,7 +66,6 @@ The HR for T2D per 1 - SD increase in the score ( SD calculated in the sub - coh
 Sensitivity analyses were performed using the original non - imputed genetic risk score , and also a weighted version of the two scores , where the weights for each SNP were equal to the log odds ratio for that SNP from DIAGRAM replication samples [22] .
 Further sensitivity analyses were performed removing CCND 2 from the risk score , and also removing CCND 2 and GIPR ( identified in sex - differentiated meta - analyses ) specifically for the analysis of interaction with sex .
 Meta - regression models were used to explore whether average age , BMI , or WC by country in the sub - cohort explained any of the heterogeneity between countries .
-
 Interactions between the imputed , unweighted genetic risk score and each of the following risk factors previously shown to be associated with T2D in InterAct were assessed : sex [9] , diabetes family history [14] , BMI ( three levels : < 25 , 25 to < 30 , ≥ 30 kg / m2 ) [12] , WC ( three levels : men , < 94 cm [ 34.6 inches ] , 94 to < 102 cm [ 34.6 to < 40 inches ] , ≥ 102 cm [ ≥ 40 inches ] ; women , < 80 cm [ 31.5 inches ] , 80 to < 88 cm [ 31.5 to < 35 inches ] , ≥ 88 cm [ ≥ 35 inches ] ) [12] , age ( continuous ) [9] , physical activity ( four levels : inactive , moderately inactive , moderately active , active ) [26] , and Mediterranean diet score ( integer scale from 0 - 18 , included as a continuous variable ) [20] .
 To estimate p - values for interaction with either the genetic risk score or individual SNPs , a parameter representing the interaction between the score or SNP and the variable of interest was included in country - specific Prentice - weighted Cox regression models , with additional adjustment for centre and sex and using age as the underlying time scale ( except for analyses of baseline age , where calendar time was used ) .
 The interaction parameter estimates were then combined across countries using random effects meta - analysis , and observed versus expected p - values were plotted for individual SNP interactions ( Figure S1 ) .

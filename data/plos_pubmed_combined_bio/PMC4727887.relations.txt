@@ -28,11 +28,6 @@
 
 
 
-
-
-
-
-
 Release_of	2015a	105	1	MATLAB	88	0;;
 
 
@@ -52,10 +47,7 @@ Release_of	2015a	105	1	MATLAB	88	0;;
 
 
 
-
 Citation_of	[29]	46	1	EEGLAB	31	0;;
-
-
 
 
 

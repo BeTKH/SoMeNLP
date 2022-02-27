@@ -1,9 +1,7 @@
 The study has been conducted according to the principles expressed in the Declaration of Helsinki .
 The design of the study was approved by the ethical committee of the Psychology Department of the University of Geneva , and all participants gave written informed consent before participating in the study .
-
 Thirty - six students ( 18 males , mean age 24 years old , range 18 - 33 ) were recruited through advertisement at the University of Geneva to participate simultaneously in a “ game involving repeated anonymous computer - mediated interactions with other persons ” in return for payment that would depend on their behavior during the experiment .
 Participants who asked for more information were told that they would be required to make a series of decisions , that their decisions would directly influence their payoff as well as the payoff of others , and that similarly , the decisions of others would affect their own as well as others ' payoffs .
-
 The instructions and questionnaires were similar to those used in Bediou et al . [28] and are briefly outlined in the procedure below .
 In this study , we used ratings of the intensity of the emotions that participants experienced as a consequence of the offer .
 To assess these emotional experiences , we used the Geneva Emotion Wheel ( GEW ) , which allows us to obtain ratings on 20 emotion categories and their intensity ( five levels ) at the same time .
@@ -15,7 +13,6 @@ Future studies should try to separate these two measures in time or at least cou
 We used the classic nine - item triple dominance measure [39] , which classifies individuals as cooperators , individualists , or competitors if they make six of nine choices consistent with a certain SVO .
 Here we used the alternative scoring method , according to which an individual who makes six choices that are consistent with either an individualistic or competitive orientation would be classified ( more broadly ) as pro - self [41] , [42] .
 Because 11 of the 12 pro - selfs were primarily classified as individualists , we refer to this group as individualists ( N = 12 ) , in opposition to prosocials ( N = 18 ) .
-
 On arrival in the laboratory , participants were divided into two groups and directed to different rooms .
 Participants in each room were then told that they would participate in 28 independent interactions , each with a different and anonymous partner .
 Half of these partners would be students from the same university , all located in the other room ( University of Geneva , 14 trials ) , whereas the other half would be students from a different university ( University of Zurich , 14 trials ) .

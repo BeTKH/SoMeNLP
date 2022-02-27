@@ -6,7 +6,6 @@ As stress is a risk factor for AD , and women are twice as likely to develop moo
 In line with this , sex divergence in biochemical responses to stress have been noted along the hypothalamic - pituitary - adrenal ( HPA ) axis and among known molecular effectors of AD , with crosstalk between these processes also being likely .
 In addition , activation of the cortical corticotrophin - releasing factor receptor 1 ( CRF 1 ) signaling pathway leads to distinct female - biased increases in molecules associated with AD pathogenesis .
 Therefore , the different biochemical responses to stress between women and men may represent an intrinsic , sex - dependent risk factor for AD .
-
 Introduction
 Alzheimer ' s disease ( AD ) is a progressive neurodegenerative disease that affects 5.4 million Americans and is the fifth leading cause of death among Americans aged 65 or older ( http://www.alz.org/facts ) .
 The neuropathological basis of the disease involves production of pathogenic amyloid - β ( A β ) oligomers from amyloid precursor protein ( APP ) , hyperphosphorylated tau , and synapse loss resulting in a “ dying back ” neuropathy and ultimately neuron death in both cortical and sub - cortical regions ( Katzman , 1986 ; Arnold et al . , 1991 ) .
@@ -22,7 +21,6 @@ The risk of AD in general is increased with chronic stress , which in pre - clin
 Notably , women are twice as likely to develop other disorders where stress is a central etiology , such as mood disorders ( Verma et al . , 2011 ) , prompting the possibility that stress and sex may also interact for AD risk .
 In this review , we summarize the specific evidence suggesting stress increases AD risk and severity in both sexes and then discuss possible mechanisms where stress and sex interact and lead to greater disease burden for women .
 In particular , we describe both corticosteroid - driven and central Corticotrophin releasing factor receptor 1 ( CRF 1 ) - driven signaling mechanisms whereby women are more greatly affected by chronic stress and develop increased activity along known pro - AD pathways .
-
 Chronic stress , glucocorticoids , and AD
 In mammals , the HPA axis , sympathetic nervous system , and centrally active stress hormone signaling pathways are activated in response to stress .
 The HPA axis is the most often described response mechanism ( Bao et al . , 2008 ; Johnson et al . , 1992 ) , and includes CRF release from the periventricular nucleus ( PVN ) of the hypothalamus , downstream facilitation of pituitary secretion of adrenal corticotrophin hormone ( ACTH ) , final activation of the adrenal cortex to induce release of glucocorticoids ( GCs ) , and lastly negative feedback onto CNS regions to limit harmfully high somatic stress responses .
@@ -45,7 +43,6 @@ In terms of GC effects on AD pathogenesis , administration of the corticosteroid
 In addition , it has been shown that co - administration of A β and GCs into the rat hippocampus increases hyperphosphorylated tau and worsens cognition ( Catania et al . , 2007 ; Sotiropoulos et al . , 2011 ) .
 Mechanistically , a recent paper has shown that the non - genomic effects of GCs through membrane bound GR - α cause an increase in A β through Gs - cAMP - PKA - dependent signaling , downstream pCREB transcriptional activation , and resultant increases in BACE 1 ( Choi et al . , 2017 ) .
 Thus , it is likely that there is a direct link between stress and AD pathogenesis , and the increased cortisol seen in AD patients may further influence the rate of AD pathology through GCs promoting pro - AD signaling .
-
 CRF / CRF 1 signaling pathway and AD
 Outside of the HPA axis , increased CRF Receptor 1 ( CRF 1 ) density has been noted in the brain of AD patients compared to age - matched controls ( Behan et al . , 1995 ; De Souza , 1995 ) , and CRF signaling through this receptor may also contribute to AD pathogenesis and severity .
 Again , data from animal models have shown that acute restraint stress increases hyperphosphorylated tau in a central CRF 1 - dependent manner in adrenalectomized mice ( Rissman et al . , 2007 ) .
@@ -70,7 +67,6 @@ One last important aspect of CRF 1 signaling is the indirect impact that CRF 1 -
 It has been noted that increased PKA intracellular signaling leads to the reduction of prefrontal neuron firing and impairments in working memory ( Birnbaum et al . , 2004 ; Hains and Arnsten , 2008 ) , and thus increases in CRF 1 signaling may worsen the cognitive deficits that already plague AD patients .
 Overall , the increase in GCs and CRF with chronic stress is likely to have quantifiable impacts on AD pathogenesis .
 Moreover , the central CRF 1 signaling cascades could result in worsened cognition , earlier AD onset , and increased AD severity .
-
 Sex differences in glucocorticoid responses to stress and AD
 In addition to evidence suggesting that stress affects AD pathogenesis , sex dimorphism in stress responses likely lead to increased AD risk for women who suffer from chronic stress as compared to men .
 As there is evidence that both GCs and centrally active CRF play a role in this increased risk , understanding pro - AD signaling processes affected by both is important for delineating the mechanism behind this sex - specific risk increase .
@@ -101,7 +97,6 @@ Though the reason for these differences between the sexes in these chronic stres
 In terms of GCs directly interacting with sex in promoting AD , the data is alarmingly scarce .
 In fact , nearly all the pre - clinical studies on GC - dependent increases in pro - AD signaling were done in males , and so it is unknown if these same processes cause a larger change in females ( Catania et al . , 2007 ; Sotiropoulos et al . , 2015 ; Choi et al . , 2017 ) .
 Still , given the high likelihood that females exhibit higher GC burdens with chronic stress , it is likely that GCs represent one mechanism whereby AD risk and severity is increased in women .
-
 Sex differences in CRF 1 signaling and AD
 Though GC signaling makes up an important component of the chronic stress response , there is increasing emphasis on signaling pathways outside of the HPA axis that predispose individuals to certain neuropsychiatric diseases .
 Of these different signaling pathways , central CRF / CRF 1 signaling in areas like the amygdala , hippocampus , prefronal cortex , locus coeruleus ( LC ) , and dorsal raphe ( DR ) have been shown to have a major impact on behavior ( Blank et al . , 2002 , 2003 ; Gallagher et al . , 2008 ; Orozco - Cabal et al . , 2006 ) .
@@ -122,7 +117,6 @@ When CRF was overexpressed in the forebrain of Tg 2576 mice , cortical tissue de
 These changes in amyloidogenesis further impacted behavior , as female Tg 2576 mice with CRF overexpression showed greater deficits in prefrontal cortex - dependent working memory than male genotype - and age - matched controls and both male and female Tg 2576 - only mice ( Bangasser et al . , 2016 ) .
 In all , it seems that sex divergent CRF 1 signaling plays a significant role in promoting AD - like pathogenesis in female rodents ( Fig . 1 ) , and while human studies of HPA axis response to CRF in women further support different downstream signaling pathways to CRF ( Bangasser and Valentino , 2014 ) , confirmation of the existence of these sex differences at the second messenger level are essential for understanding how sex affects AD in humans .
 Future research into sex divergent phosphoproteomic patterns in post - mortem samples would be especially informative , especially from aged and AD patients .
-
 Conclusion and future direction
 Across the literature presented in this review , there are three major points of convergence that should be emphasized : First , while an explanation for the apparent difference in the rate of AD diagnoses between men and women remains elusive , more and more evidence is beginning to suggest that a true increase in risk is partly due to sex dimorphism in chronic stress responses .
 As clinical epidemiological studies indicate that neuropsychiatric diseases with stress as a major etiology have a higher incidence in women , such as MDD , PTSD , and GAD , perhaps AD should be similarly thought of as a disease with an etiology based on stress , though probably to a lesser degree than for mood disorders .
@@ -151,6 +145,5 @@ It is also important to note that investigations of sex - specific risk are just
 By careful comparison and inclusion of both sexes in preclinical and clinical research , upstream and downstream pathways that converge in both sexes will point the way towards shared mechanisms , such as Gs - cAMP - PKA signaling .
 Exploiting these commonalities is more likely to lead to successful interventions and treatments than ignoring sex as a potential risk factor , as careful consideration of disease pathogenesis by sex will reduce sex - specific motifs that are mistaken as being causative but are , in truth , epiphenomenal .
 So , while improving our understanding of underlying sex dimorphism in AD risk will be critical for developing treatments that are especially effective in women , this line of research also has the potential to reveal new targets for the treatment of AD and other neurodegenerative disorders in both sexes .
-
 Declarations of interest
 None .
