@@ -16,13 +16,11 @@ The expected capacity dimension is D0 * = 1 / d = 1 / p .
 There are always errors between the theoretical values derived from the correlation models with continuous variables and the corresponding computational results based on discrete variables from observations or experiments [38] .
 The squared error between computational capacity dimension and expected capacity dimension can be defined as e2 = ( D0 − D0 * ) 2 .
 Parts of these results from the least square computation are listed in Table 2 for reference .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0024791.g001 Four typical patterns of size correlation of cities measured by yardstick and correlation number .
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0024791.t002 Partial results of mathematical experiments for hierarchical correlation analysis of city rank - size distributions .
 Note : R 2 denotes the correlation coefficient square , i.e. , the goodness of fit .
-
 From the process and results of the mathematical experiments , we can come to the following judgments .
 First , if p ≤ 0.5 , the size correlation experiments cannot be implemented , or there is no hierarchical correlation .
 This suggests d0 > 0.5 , and thus D0 = 1 / d < 2 .
@@ -35,7 +33,6 @@ The conclusions can be drawn as below .
 First , the value range of the scaling exponent is 0.5 < d0 < 2 , or 2 > D0 > 0.5 .
 Second , the standard rank - size distribution described by the p - sequence is a monofractal distribution rather than a multifractal distribution , and thus the expected fractal dimension is D0 = D2 = 1 , and the corresponding Zipf dimension is d0 = d2 = 1 .
 In short , the mathematical experiments support the results from the correlational analyses fully .
-
 As an empirical case , the cities of the United States of America ( USA ) are employed to make a hierarchical correlation analysis .
 The population in urbanized area ( UA ) is always used to measure the city sizes of America .
 The 513 largest cities with UA population over 40,000 in the year of 2000 are available from the U.S .
@@ -48,7 +45,6 @@ This implies D0 < D2 , and the result is abnormal .
 However , if we replace the least square method with the nonlinear fit method , the results are D0 ≈ 1.225 , D2 ≈ 1.012 , respectively .
 This time , D0 > D2 , and this seems to be normal .
 As is often the case , different algorithms yield different results and then lead to different conclusions .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0024791.g002 The rank - size pattern of the first 513 US cities in 2000 ( The trend line is given by the least square computation ) .
 Figure data removed from full text .
@@ -59,7 +55,6 @@ By the 2n principle , the capacity dimension is estimated as D0 ≈ 0.992 ( d0 �
 In this instance , the correlation dimension is expected to approach 1 , that is , formtok ( Table 3 ) .
 The self - similar hierarchy can filter the random disturbance of various noises so that the result is more stable and dependable .
 It can be seen that the size sequence of cities in the real world is more complicated than the p - sequence in the mathematical world .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0024791.t003 Different approaches to estimating the fractal dimension values of the U.S . city - size distribution ( 2000 ) .
 Applying the hierarchical correlational analysis to the U.S . cities gives us an insight into the city - size distributions .

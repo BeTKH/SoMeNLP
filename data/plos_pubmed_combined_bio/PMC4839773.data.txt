@@ -12,7 +12,6 @@ For these participants missing values were replaced with the mean of the person 
 Data of the remaining 30 % ( n = 83 ) were excluded ; they did not differ from the included sample .
 75.5 % of the final sample were born in the United Kingdom .
 Ethnicity was 46.9 % white , 20.9 % Asian - Indian , 11.0 % Asian - Oriental , 8.1 % Black / African - Caribbean , 7.7 % mixed and 5.5 % other ethnic background .
-
 The Adolescent Risk - Taking Questionnaire ( ARQ ) [45] is a two - part questionnaire that assesses adolescent risk - taking behaviours in addition to perceptions of the risk of these behaviours .
 The questionnaire contains 44 items that are rated on a 5 - point Likert scale for judgment of riskiness ( e.g. “ Put a cross in the box corresponding to the word that best describes your opinion about how risky you think each situation or behaviour is : smoking ” ) and frequency of participation in the behaviours ( e.g. “ Put a cross in the box corresponding to the word that best describes your behaviour : smoking ” ) .
 The ARQ has adequate internal reliability with Cronbach ’ s alphas ranging from 0.7 to 0.79 for the antisocial subscales and Cronbach ’ s alphas exceeding 0.8 for the other subscales for males , females , young adolescents and older adolescents [30] .
@@ -29,13 +28,11 @@ The BIS - 11 has adequate internal reliability with Cronbach ’ s alphas rangin
 The Social Interaction Anxiety Scale ( SIAS ) and the Social Phobia Scale ( SPS ) [49] assess anxiety symptoms related to initiating and maintaining interactions with people in social situations as well as anxiety symptoms in relation to performance of various tasks while being observed by other people ( e.g. SIAS “ When mixing socially , I am uncomfortable ” ; e.g. SPS “ I become nervous if I have to write in front of other people ” ) .
 Both scales consist of 20 items , rated on a 5 - point Likert scale , and are summed to obtain a score representing anxiety related to social situations .
 The scales have good to excellent internal reliability with Cronbach ’ s alphas of 0.9 for the SPS and 0.88 and 0.9 for the SIAS for undergraduate and community samples respectively [49] and 0.94 for the SPS and 0.92 for the SIAS in the current study .
-
 Students completed the questionnaires in their classrooms .
 They were asked to answer the questions honestly and not discuss their answers with their friends while completing the measures .
 Questionnaire items that were difficult to understand were explained in a standardised way that was agreed between the researchers prior to the start of the study .
 Students were given a sheet that included contact details of organisations for advice on mental health .
 The duration of a typical testing session was 40 - 50 minutes .
-
 Data were analysed using IBM SPSS Statistics 21 and IBM SPSS Amos 21 for Windows ( IBM Corp . , Armonk , NY ) .
 Path analysis was employed to investigate the influence of personality characteristics on adolescents ’ perception of risk and their risk - taking behaviour with plausibility of the postulated relationships being indicated by a good fitting model [ 50 , 51 ] .
 Models were estimated using a maximum likelihood algorithm and model fit was judged using guidelines provided by Byrne ( 2001 ) , Hu & Bentler ( 1999 ) and Kline ( 1998 ) .

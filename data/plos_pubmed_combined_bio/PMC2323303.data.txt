@@ -5,7 +5,6 @@ Because borough - specific death statistics were not available prior to 1982 in 
 For each county unit , we calculated annual sex - specific life expectancies .
 Table 1 provides summary information on the sociodemographic characteristics of counties .
 We also calculated probabilities of death from all causes as well as from specific diseases and disease clusters in the following age groups : 0 - 4 , 5 - 14 , 15 - 44 , 45 - 64 , 65 - 74 , and 75 - 84 y .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pmed.0050066.t001 Summary Statistics for Socioeconomic and Demographic Characteristics of the 2,068 County Units Used in the Analysis in the Year 1999 We report the standard deviation ( SD ) of life expectancies of the 2,068 county units in the United States , as well as life expectancy for counties that make up the 2.5 % of the US population with the highest and lowest county life expectancies in each year , by sex .
 We also report changes in mortality from specific diseases for six groups of counties , defined on the basis of how their life expectancy changed in relation to the national sex - specific change as follows : group 1 , counties whose life expectancy increased at a level ( statistically ) significantly higher than the national sex - specific mean ; group 2 , counties whose life expectancy increased at a level significantly higher than zero but not significantly distinguishable from the national sex - specific mean ; group 3 , counties whose life expectancy increased at a level significantly higher than zero but significantly less than the national sex - specific mean ; group 4 , counties whose life expectancy change was statistically indistinguishable from zero and from the national sex - specific mean ; group 5 , counties whose life expectancy change was statistically indistinguishable from zero and was significantly less than the national sex - specific mean ; and group 6 , counties whose life expectancy had a statistically significant decline .
@@ -21,7 +20,6 @@ Linear interpolation was used to estimate values for intermediate years ; ( 3 ) 
 Per - capita income for other years was interpolated using an exponential growth model .
 All income estimates were adjusted for inflation with 2000 as the base year ; and ( 4 ) cross - county migration , IRS External Data Product “ County - to - County Migration Flows ” ( see http://www.irs.gov/pub/irs-soi/prodserv.pdf ) , which contains tabulations of the number of individuals moving from each county to every other county , and their mean and median income , by matching the Taxpayer Identification Number and comparing zip codes of filing addresses from one year to the next .
 Detailed data to quantify cross - county migration for all counties were available for 1993 - 1999 .
-
 Statistical Methods for the Analysis of Mortality Data : We estimated life expectancy and probabilities of death between specific ages , from all causes combined as well as from specific diseases , using standard life table techniques [23] .
 Life tables for each county - year were constructed using age - specific death and population data in 5 - y age groups .
 Following standard life table techniques [23] , those surviving to 85 y of age were assigned a life expectancy equal to the inverse of their observed mortality rate .
@@ -34,7 +32,6 @@ We simulated 1,000 draws from this distribution for every age - sex combination 
 The distribution of the 1,000 differences in the randomly drawn life expectancies for 1961 - 1983 and for 1983 - 1999 was then used to calculate confidence intervals and establish the statistical significance for life expectancy change .
 Owing to computational constraints , we used 100 draws for estimating the confidence intervals for absolute disparity between counties at the extremes of mortality advantage and disadvantage .
 The total number of simulated life tables was 40,946,400 , calculated from 737,035,200 death rates .
-
 Effects of Cross - County Migration on Life Expectancy Change : We simulated the effect of cross - county migration on each county ' s life expectancy using a time - based simulation model .
 This analysis was only done for 1993 - 1999 , for which sufficiently detailed cross - county migration data were available .
 For each year after 1993 , simulated life expectancy in each of the 2,068 county units was calculated as the weighted sum of its own life expectancy from the previous year and those of immigrants from all other counties , with weights being equal to the proportion of the new population from each county ( i.e. , population mixing based on a 2,068 × 2,068 migration matrix ) .

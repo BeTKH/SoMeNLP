@@ -11,7 +11,6 @@ CLSA questionnaire data were linked to census data via the first three digits of
 Postal codes are used by Canada Post for the purpose of sorting and delivering mail , with FSAs representing geographic areas .
 As of 2011 , there were 1638 FSAs in Canada [61] .
 The present study received ethics approval from the University of Manitoba ’ s Health Research Ethics Board .
-
 A total of 51,338 participants living in 1558 FSAs participated in the CLSA baseline .
 Of these , FSAs with less than 10 participants were excluded from analyses , as estimates of social isolation and loneliness are less meaningful for these FSAs .
 Our final sample included 48,330 participants aged 45 to 85 from 977 FSAs .
@@ -19,7 +18,6 @@ Because of missing values on some variables , the unweighted sample size in the 
 A comparison of FSAs that were included in the analyses to those excluded indicated that they were comparable ( e.g. , 51.0 % versus 50.4 % for the % women in the FSAs ) .
 CLSA participants were also similar .
 For example , 51 % of CLSA participants in the included FSAs were female and 5.6 % had a household income of less than $ 20,000 , compared to 50.2 % and 6.3 % , respectively in the excluded FSAs .
-
 Social isolation has been defined in different ways in previous literature [1] .
 Conceptually , our definition was guided by the Convoy Model of Social Relationships , according to which individuals are surrounded by a series of social network ties that range from closest to less close [62] .
 Spouses tend to play a key role in people ’ s social networks , followed by children , siblings ( or other relatives ) , and friends .
@@ -39,13 +37,11 @@ For example , individuals with no family ( relatives / siblings , children ) liv
 Sensitivity analyses were also conducted with a 2 - 5 ( vs . 0 / 1 ) cut - off .
 Given that CLSA contains two cohorts ( Tracking and Comprehensive ) we compared the percent socially isolated in each cohort .
 The ( unweighted ) percentage of participants identified as socially isolated using a 3 + cut - off on our social isolation index was relatively similar in the Tracking cohort , compared to the Comprehensive cohort ( 6.7 % vs . 5.5 % ) .
-
 As the CLSA baseline questionnaire does not contain a loneliness scale , a single - item loneliness question that is part of the CESD depression scale [63] was used .
 Questions focus on the past week and participant were asked : “ How often did you feel lonely ? ” ( 1 = all of the time [ 5 - 7days ] ; 2 = occasionally [ 3 - 4 days ] ; 3 = some of the time [ 1 - 2 days ] ; 4 = rarely or never [ less than 1 day ] .
 Similar single - item measures are commonly used in the literature [1] .
 The item was dichotomized , with “ all of the time ” and “ occasionally ” responses considered lonely ( coded as 1 ) and the remaining categories as not lonely ( coded as 0 ) .
 The ( unweighted ) percent of participants classified as being lonely was similar in the Tracking versus Comprehensive cohort ( 11.2 % vs . 10.8 % ) .
-
 Personal factors included : age , sex , education , household income , functional status , and chronic conditions .
 Age was categorized into four categories ( ages 45 - 54 , 55 - 64 , 65 - 74 , and 75 - 85 ) .
 Sex was coded as 0 = women and 1 = men .
@@ -61,7 +57,6 @@ The items can be used to categorize individuals into : no functional impairment 
 As most participants had no functional impairment , responses were dichotomized : 0 = no functional impairment ” , and 1 = at least some functional impairment .
 Chronic conditions were measured with a list of 33 conditions , such as osteoarthritis , respiratory conditions , and cardiac / cardiovascular conditions , with participants asked if a doctor had diagnosed them with the condition .
 An index was created by summing affirmative responses .
-
 A rural / urban variable is available in the CLSA data .
 The variable was added by CLSA based on a Statistics Canada definition and postal code conversion file [65,66] .
 “ Urban core ” refers to census metropolitan areas ( CMA ) with a population of at least 100,000 ( 50,000 or more of which live in the core ) or census agglomerations ( CA ) with a core population of at least 10,000 .
@@ -80,7 +75,6 @@ We selected census variables that were similar to individual predictors of socia
 Census data further contain the percent of the population aged 65 or older with low income based on the after - tax low - income cut - offs ( LICO - AT ) .
 Statistics Canada defines the LICO - AT as an after - tax income threshold below which a family is expected to spend a larger share of its income on food , shelter and clothing ( 20 percentage points more ) than the average family [67] .
 The percent of the population whose first language was not one of the two official languages ( English , French ) , was also included as a way to assess the ethnic diversity of areas .
-
 Data were analyzed using multilevel analyses , given the nested nature of the data ( individuals within FSA ) using SAS version 9.4 .
 Given that social isolation and loneliness were defined as dichotomous outcomes , logistic regressions were conducted using Proc Glimmix .
 A series of analyses were conducted for the two outcome variables .

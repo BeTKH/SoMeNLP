@@ -13,14 +13,7 @@
 
 
 
-
 Version_of	14.1	97	1	Presentation	55	0;;URL_of	http://neurobs.com	104	2	Presentation	55	0;;
-
-
-
-
-
-
 
 
 
@@ -177,10 +170,7 @@ Citation_of	[34]	100	1	SPM anatomy toolbox	80	0;;Citation_of	[35]	129	3	WFU-Pick
 
 
 
-
-
 Version_of	8	66	1	SPM	62	0;;PlugIn_of	LI-toolbox	68	2	SPM	62	0;;Citation_of	[36]	118	3	LI-toolbox	68	2;;
-
 
 
 

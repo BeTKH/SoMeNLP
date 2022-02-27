@@ -1,7 +1,6 @@
 Background
 Trials financed by for - profit organizations have been associated with favorable outcomes of new treatments , although the effect size of funding source impact on outcome is unknown .
 The aim of this study was to estimate the effect size for a favorable outcome in randomized controlled trials ( RCTs ) , stratified by funding source , that have been published in general medical journals .
-
 Methods
 Parallel - group RCTs published in The Lancet , New England Journal of Medicine , and JAMA between 2013 and 2015 were identified .
 RCTs with binary primary endpoints were included .
@@ -10,21 +9,17 @@ The OR of a favorable outcome in each trial was calculated by the number of posi
 A meta - analytic technique with random effects model was used to calculate summary OR .
 Data were stratified by funding source as for - profit , mixed , and nonprofit .
 Prespecified sensitivity , subgroup , and metaregression analyses were performed .
-
 Results
 Five hundred nine trials were included .
 The OR for a favorable outcome in for - profit - funded RCTs was 1.92 ( 95 % CI 1.72 - 2.14 ) , which was higher than mixed source - funded RCTs ( OR 1.34 , 95 % CI 1.25 - 1.43 ) and nonprofit - funded RCTs ( OR 1.32 , 95 % CI 1.26 - 1.39 ) .
 The OR for a favorable outcome was higher for both clinical and surrogate endpoints in for - profit - funded trials than in RCTs with other funding sources .
 Excluding drug trials lowered the OR for a favorable outcome in for - profit - funded RCTs .
 The OR for a favorable surrogate outcome in drug trials was higher in for - profit - funded trials than in nonprofit - funded trials .
-
 Conclusions
 For - profit - funded RCTs have a higher OR for a favorable outcome than nonprofit - and mixed source - funded RCTs .
 This difference is associated mainly with the use of surrogate endpoints in for - profit - financed drug trials .
-
 Electronic supplementary material
 The online version of this article ( doi : 10.1186 / s13063 - 017 - 1872 - 0 ) contains supplementary material , which is available to authorized users .
-
 Background
 Results of well - conducted randomized controlled trials ( RCTs ) are the most important building blocks of evidence - based medicine and guide clinical management .
 Clinical decisions based on RCTs rest on the assumption that selection bias is reduced compared with in nonrandomized trials .
@@ -41,27 +36,20 @@ Furthermore , the mechanisms related to more favorable outcome in studies funded
 It has been suggested by one group of authors to be caused by the use of surrogate endpoints [7] , but other authors have not been able to confirm this [8] .
 To address the issue of the association of funding source with outcome and follow - up regarding the implementation of the reporting of clinical trials , we evaluated all parallel - group RCTs published in JAMA , The Lancet , and New England Journal of Medicine between 2013 and 2015 .
 The primary aim of this study was to calculate the OR for a favorable outcome in the intervention group compared with the control group in RCTs , stratified by funding source of trials published in 2013 - 2015 , using a meta - analytic approach .
-
 Methods
 Data source
 A librarian performed an electronic search to identify studies published in JAMA , The Lancet , and New England Journal of Medicine between 2013 and 23 September 2015 .
 Trials were identified by using the search terms “ randomized controlled trials , ” “ N Eng J Med , ” “ Lancet , ” and “ JAMA ” in the PubMed database .
 A full search strategy is presented in Additional file [1] : Table S1 .
 The study followed the Preferred Reporting Items for Systematic Reviews and Meta - Analyses ( PRISMA ) guidelines .
-
 Study selection
 The following inclusion criteria were used : Only two - armed RCTs were included .
-
 RCTs with binary primary endpoints were included .
-
 We decided a priori to study the primary outcome of each study as stated in the published articles .
 When primary outcome was a continuous variable and the secondary outcome was binary ( e.g. , survival ) , the secondary outcome was chosen for evaluation .
 The following exclusion criteria were used : Multiarm RCTs
-
 Editorials , abstracts , observational studies , and commentaries
-
 Non - RCTs
-
 Data extraction
 The primary specified outcome was the OR of a favorable outcome in the intervention group compared with the control group .
 The intervention group was defined as the group receiving a new treatment compared with a standard treatment or a control group .
@@ -78,7 +66,6 @@ Outcome data were then hidden , and data on funding source were extracted .
 This procedure was repeated twice .
 Data on funding were stratified into three groups depending on funding type : for - profit organization ( as the only funding source ) , nonprofit organization ( as the only funding source ) , or mixed funding with both for - profit and nonprofit funding ( at any percentage each ) .
 Free provision of drugs / devices to studies was defined as funding and thus was assigned to the for - profit - financed trial group if no nonprofit organization participated in the study .
-
 Statistical analysis
 The Open Meta - Analyst ( Center for Evidence Synthesis in Health , Brown University , Providence , RI , USA [9] ) was used for all analyses .
 For each study , data were analyzed to estimate the OR for a favorable outcome by the published per - protocol analyses as reported in the published article and according to the intention - to - treat ( ITT ) population .
@@ -93,7 +80,6 @@ To explore factors associated with the magnitude of OR , we performed a metaregr
 A logistic mixed effects model for the metaregression implemented in R [11] as a plugin for Open Meta - Analyst was used because it allows for both within - study variation and between - study variation .
 To investigate differences in the OR between different subgroups , prespecified sensitivity analyzes were performed , including medical fields , type of intervention , type of endpoint , blinding , and comparator ( placebo / nonplacebo ) in drug trials .
 Because we had a rather strict definition of funding source in which free provision of drug was considered as sponsorship by industry , we carried out a sensitivity analysis excluding studies with industry - funded free provision of drugs .
-
 Results
 Description of included studies
 The electronic search identified a total of 1149 publications , of which 509 RCTs fulfilled all inclusion criteria .
@@ -102,20 +88,15 @@ One hundred forty - eight ( 29 % ) trials were exclusively funded by for - profi
 Characteristics of the included studies are presented in Table [1] .
 There were no differences in study sample size or the use of clinical and / or surrogate endpoints between funding sources ( Table [1] ) .
 Characteristics of 509 included studies
-
 Denotes statistical significant difference compared with the for - profit - funded group ( p < 0.05 )
-
 Denotes statistical significant difference compared with mixed group funded research ( p < 0.05 )
-
 Association of funding source on outcome
 Calculation of the effect size for a favorable outcome in the intervention group compared with the control group was performed for all included studies and stratified for funding source .
 The OR for a favorable outcome in for - profit funded RCTs was 1.92 ( 95 % CI 1.72 - 2.14 ) , which was higher than in the mixed - funded RCTs ( OR 1.34 , 95 % CI 1.25 - 1.43 ) .
 For - profit - funded RCTs had a higher OR for a favorable clinical outcome than nonprofit - funded RCTs ( OR 1.32 , 95 % CI 1.26 - 1.39 ) .
 No statistical differences were found between the per - protocol and ITT analyses ( Table [2] ) .
 There was considerable heterogeneity between the included studies ( I 2 73 % to 96 % ) .Meta - analysis comparing OR of favorable outcome , stratified by result analysis , primary outcome , and funding source
-
 Statistical difference compared with for - profit - funded research ( p < 0.05 )
-
 Subgroup analyses , metaregression , and sensitivity analyses
 Medical field
 Effect estimates in different medical fields and different funding sources are presented in Table [3] .
@@ -125,11 +106,8 @@ Almost exclusively , behavioral intervention trials were nonprofit - funded ( n 
 Excluding behavioral intervention trials did not change the overall results for the nonprofit group ( OR 1.31 , 95 % CI 1.23 - 1.41 ) .
 There were no differences in the ORs between different funding sources in device and procedure trials .
 Subgroup analysis of medical fields , stratified by funding source , comparing OR of favorable primary outcome between intervention and control groups
-
 Denotes statistical difference compared with the for - profit funded studies ( p < 0.05 )
-
 Denotes statistical difference compared with mixed funded studies ( p < 0.05 )
-
 Metaregression
 Metaregression was performed to assess the role of moderator variables on the effect size .
 The following factors were included : sample size , medical journal , clinical / surrogate endpoint , intervention type , and funding source .
@@ -137,24 +115,19 @@ The metaregression analysis showed that differences in OR could be explained by 
 Furthermore , drug trials are associated with a higher OR than device trials and procedure trials in combination with other types of intervention .
 Smaller sample size and medical journal were not related to differences in effect size ( Table [4] ) .
 Multivariate metaregression examining factors associated with effect size
-
 Clinical and surrogate endpoints
 The OR of a favorable outcome for clinical endpoints was significantly higher in for - profit funded RCTs ( OR 1.50 , 95 % CI 1.40 - 1.61 ) than in mixed - funded RCTs ( OR 1.27 , 95 % CI 1.16 - 1.34 ) and nonprofit - funded RCTs ( OR 1.27 , 95 % CI 1.19 - 1.37 ) .
 This difference in OR between for - profit and nonprofit / mixed - funded RCTs was also seen in surrogate endpoints ( Table [2] ) .
 When we stratified drug trials into clinical and surrogate endpoints , we found no difference in the OR of clinical endpoints between funding sources .
 However , we found significantly higher OR for surrogate endpoints in for - profit - funded drug trials ( OR 4.10 , 95 % CI 2.64 - 6.37 ) than in nonprofit - funded drug trials ( OR 1.66 , 95 % CI 1.11 - 2.47 ) ( Table [5] ) .
 Subgroup analyses comparing OR of favorable outcome , stratified by intervention type and funding source
-
 Denotes statistical difference compared with profit funded studies ( p < 0.05 )
-
 Denotes statistical difference compared with mixed funded studies ( p < 0.05 )
-
 Drug trials
 Excluding drug trials changed the OR from a statistical difference depending on funding source to a nonsignificant difference in OR between funding .
 Placebo - controlled for - profit drug trials had a higher OR than mixed - and nonprofit - funded placebo drug trials .
 Double - blind drug trials and non - double - blind trials had a higher OR in for - profit - financed trials than nonprofit - financed trials ( Table [5] ) .
 Non - placebo - controlled drug trials with for - profit funding had a higher OR than mixed - funded trials , but there was no difference from nonprofit - funded research .
-
 Discussion
 In this study , we calculated the OR for a favorable outcome in 509 RCTs published in general medical journals between 2013 and 2015 , stratified by funding source , and we investigated the underlying mechanisms for differences in OR .
 RCTs funded by for - profit organizations had a higher OR for a favorable outcome than both nonprofit - funded and mixed - funded RCTs .
@@ -224,11 +197,8 @@ Recently , the International Committee of Medical Journal Editors proposed the c
 In a previous study , Ebrahim et al . [34] evaluated reanalyses of published RCTs and found that 35 % of the reanalyses could alter conclusions from those originally published , were the original authors to have concluded that they were inept in their analysis , further indicating this need for an open access to published study data .
 Other strategies can contain greater public funding of RCTs or “ money - blind ” independent organizations that would help to develop trial methodology on the basis of industry funding .
 The findings of the present study indicate that the use of surrogate markers as primary endpoints should be clearly stated as such in the abstracts of the trials , in order not to overestimate the potential clinical benefit for the individual patients .
-
 Conclusions
 Our study shows evidence supporting the hypothesis that for - profit - financed RCTs are associated with a higher OR for a favorable outcome of a new treatment than nonprofit - and mixed - funded RCTs , and that this difference is associated mainly with the use of surrogate endpoints in for - profit - financed drug trials .
 However , for - profit - financed drug trials with clinical endpoints have ORs equal to those of trials with other funding sources .
-
 Additional file
-
 Supplementary material . ( DOCX 14 kb )

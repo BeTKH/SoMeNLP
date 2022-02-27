@@ -12,7 +12,6 @@ We found that the size of MVO in patients receiving intracoronary adenosine was 
 There was no statistically significant difference in TIMI flow and clinical outcomes after primary PCI .
 Conclusion .
 We found significant evidence that selective high - dose intracoronary administration of adenosine distal to the occlusion site of the culprit lesion in STEMI patients results in a decrease in microvascular obstruction .
-
 1 .
 Introduction
 The concept of “ no reflow ” refers to a state of myocardial tissue hypoperfusion in the presence of a nonoccluded epicardial coronary artery .
@@ -24,11 +23,9 @@ Multiple therapies [5] for no reflow have been tested in animals and to a lesser
 Beneficial effects of intracoronary diltiazem , verapamil , epinephrine , nitroprusside , and adenosine have been reported [5-8] .
 While large randomized trials [ 4 , 5 , 9 ] have suggested that intravenous administration of adenosine during intervention for STEMI may reduce infarct size , especially at higher doses , the effect of intracoronary adenosine in reducing microvascular obstruction is still relatively controversial [ 9 , 10 ] .
 In a trial of 54 patients who underwent primary percutaneous transluminal coronary angioplasty , intracoronary adenosine significantly decreased the rate of noreflow [9] ; however , in a later trial of 112 patients undergoing primary PCI with stenting [ 10 , 11 ] , adenosine use was not associated with an improvement in the degree of microvascular obstruction or in a decrease in infarct size at four months [ 12 , 13 ] .
-
 2 .
 Study Aims
 The aim of this study was to investigate the effect of selective intracoronary administration of adenosine immediately before initial balloon inflation on microvascular obstruction in an unselected population of patients with STEMI .
-
 3 .
 Materials and Methods
 This study was a single - centre , retrospective , randomized , blinded clinical study with blinded evaluation of endpoints .
@@ -36,47 +33,11 @@ All consecutive patients presenting with a suspected acute STEMI to a large tert
 Data was collected using our trust local interventional cardiology database ( Datacam ) , electronic discharge summaries , and medical notes .
 The study was designed and carried out in the Oxford Centre for Clinical Magnetic Resonance Research Centre ( OCMR ) , located at the John Radcliffe Hospital , Oxford .
 Inclusion criteria were as follows : symptoms of chest pain suggestive of myocardial ischaemia for at least 20 min ,
-
-a time from onset of symptoms of < 12 h ,
-
-an ECG showing ST - segment elevation of > 0.1 mV in two or more limb leads or > 0.2 mV in two or more contiguous praecordial leads ,
-
-presumed new left bundle - branch block ,
-
-raised troponin ( cut - off taken to be troponin > 0.04 in Oxford Radcliffe Hospitals NHS Trust ) ,
-
-patients undergoing primary angioplasty with lesions amenable to stenting ,
-
-patients consenting to MRI within 24 hours of primary angioplasty ,
-
-patients aged > 18 .
-
-Exclusion criteria were as follows : patients receiving intravenous adenosine during the procedure ,
-
-contraindication to heparin , low - molecular - weight heparin , or clopidogrel ,
-
-anticipated difficult vascular access ,
-
-cardiogenic shock ,
-
-inability to give informed consent ,
-
-High - grade atrioventricular block
-
-severe asthma ,
-
-treatment with theophylline , glibenclamide , or dipyridamole ,
-
-prior coronary artery surgery ,
-
-participation in any investigational drug or device study within the past 30 days ,
-
-contraindications to MRI , for example , an incompatible pacemaker in situ ,
-
+a time from onset of symptoms of < 12 h . an ECG showing ST - segment elevation of > 0.1 mV in two or more limb leads or > 0.2 mV in two or more contiguous praecordial leads . presumed new left bundle - branch block . raised troponin ( cut - off taken to be troponin > 0.04 in Oxford Radcliffe Hospitals NHS Trust ) . patients undergoing primary angioplasty with lesions amenable to stenting . patients consenting to MRI within 24 hours of primary angioplasty . patients aged > 18 .
+Exclusion criteria were as follows : patients receiving intravenous adenosine during the procedure . contraindication to heparin , low - molecular - weight heparin , or clopidogrel . anticipated difficult vascular access . cardiogenic shock . inability to give informed consent ,
+High - grade atrioventricular block severe asthma . treatment with theophylline , glibenclamide , or dipyridamole . prior coronary artery surgery . participation in any investigational drug or device study within the past 30 days . contraindications to MRI , for example , an incompatible pacemaker in situ ,
 Patients with non - STEMI ,
-
 Patients with ST - elevation MI but absent coronary artery disease angiographically .
-
 4 .
 Treatment
 After coronary angiography , eligible patients received a bolus injection of intracoronary adenosine ( 900 micrograms in 5 mL of 0.9 % sodium chloride solution ) .
@@ -90,13 +51,11 @@ As the study was carried out after 2006 , we had to ensure that we excluded case
 All patients received aspirin ( 300 mg ) , low - molecular - weight heparin ( in the form of dalteparin ACS treatment dose as per patient ' s weight ) , and clopidogrel ( 600 mg ) after confirmation of ST - segment elevation on the first ECG .
 Before commencing primary PCI , patients received a bolus of the glycoprotein IIb / IIIa inhibitor abciximab ( 0.25 mg / kg ) , followed by a 12 h infusion .
 The standard treatment in all patients after primary PCI included aspirin , clopidogrel , β - blockers , lipid - lowering agents , and angiotensin - converting enzyme inhibitors .
-
 5 .
 Endpoints
 The primary endpoint was microvascular obstruction ( MVO ) , which was defined as the very dark region within a bright area of myocardial infarction scar tissue ( Figure 2 ) .
 MVO on MRI at Day 1 was expressed as a percentage of the infarcted area .
 Secondary endpoints were TIMI flow grade , major adverse cardiac events at 30 days , left ventricular ( LV ) function as assessed using MRI at Day 1 , and evolution of cardiac markers in the first 24 hours ( Figures [3] and [4] ) .
-
 6 .
 Cardiac Magnetic Resonance Imaging
 Cardiac MRI studies were performed on Day 1 of acute STEMI .
@@ -107,26 +66,21 @@ The myocardium was divided into the relevant segments , using a reference point 
 The remaining segments were automatically assigned .
 The start of the upslope of the time - intensity segment was identified for each slice .
 The time - intensity curve for each myocardial segment was viewed ( Figures [5] and [6] ) .
-
 7 .
 Angiographic Analysis
 Coronary angiograms obtained before and after primary PCI were reviewed by two experienced interventional cardiologists and a report created on the Datacam software .
 On the initial angiogram and on the angiogram after stenting , TIMI flow grade was assessed .
 Site of infarct , door - to - balloon times , medications used during the procedure , and intraprocedural adverse events were also recorded .
-
 8 .
 Biomarkers Reflecting Infarct Size
 Serum troponin I measurements were collected in all patients during hospitalization .
 Blood was collected on admission and at 12 hours after revascularization .
-
 9 .
 Followup
 Followup data at 30 days after primary PCI was collected from hospital records and discharge summaries .
-
 10 .
 Acute Adverse Events
 These were recorded onto Datacam by the interventional cardiologist performing the procedure .
-
 11 .
 Statistical Analysis
 Continuous normally distributed variables are presented as mean values and standard deviations .
@@ -136,7 +90,6 @@ Subgroup analyses were performed for MVO by age , gender , time to PCI , diabete
 All tests were two - sided and assessed at the 5 % significance level .
 In view of the exploratory nature of this study , no correction was applied for multiple testing .
 Statistical analysis was performed using the SPSS and Excel software , version 2010 for Mac .
-
 12 .
 Results
 This study comprised 81 patients who underwent primary PCI for STEMI at the John Radcliffe Hospital , Oxford Radcliffe Hospitals NHS Trust .
@@ -147,7 +100,6 @@ Patients who received intracoronary adenosine more often had a medical history o
 TIMI flow 0 or 1 was present in 36 of the 40 patients ( 90 % ) having intracoronary adenosine and in 32 of the 40 patients ( 80 % ) receiving intravenous adenosine .
 All other procedural characteristics did not significantly differ between the two treatment groups - including the stent type and size used , as well as the use of Abciximab ( Reopro ) infusion during the procedure ( Table 1 ) .
 All patients included in this study had drug - eluting stents ( DESs ) used during primary PCI .
-
 13 .
 Magnetic Resonance Imaging Results
 Of the 80 patients included in the study , all underwent MRI during the first 24 hours of admission for primary PCI .
@@ -160,32 +112,26 @@ Other MRI analyses were comparable between the two treatment groups , with the e
 Additional analyses , adjusted for baseline TIMI , diabetes , time to PCI , and infarct location , were performed for the main endpoints of interest .
 Subgroup analyses for microvascular obstruction ( MVO ) revealed a statistically significant interaction between treatment and baseline TIMI flow grade ( 0 / 1 versus 2 / 3 ) ( P = 0.042 ) , whereby a statistically significant treatment benefit of intracoronary adenosine was found for patients with TIMI 2 / 3 at baseline ( P = 0.037 ) .
 A similar beneficial effect of treatment was found in the group of patients with TIMI flow grade 0 / 1 at baseline , but this difference was not statistically significant ( P = 0.068 ) .
-
 14 .
 Angiographic Results
 After primary PCI , TIMI flow grade 3 was present in 40 of the 40 patients ( 100 % ) receiving intracoronary adenosine and in 36 of the 40 patients ( 90.0 % ) receiving intravenous adenosine ( P = 0.077 ; Table 3 ) .
-
 15 .
 Biomarkers
 Calculation of the area under the curve of cardiac markers as an estimation of infarct size was not performed if either the first or last measurement was missing .
 Other missing values were imputed by linear interpolation .
 The area under the curve for troponin I could only be calculated for 78 of the 80 patients and showed no significant differences between treatment groups ( Table 4 ) , irrespective of time from symptom onset .
-One major limitation in the measurement of troponin was the fact that the assay used by the Oxford Hospitals Trust did not enable measurements of troponin , which meant that any troponin value exceeding this range was consistently reported as being > 50 .
-
-16 .
+One major limitation in the measurement of troponin was the fact that the assay used by the Oxford Hospitals Trust did not enable measurements of troponin , which meant that any troponin value exceeding this range was consistently reported as being > 50 . 16 .
 Complications during Primary PCI
 An increase of chest pain during or immediately after selective administration of adenosine 900 micrograms distally to the occlusion site was not observed at all .
 Occlusion of a significant side branch , no reflow phenomenon , bradycardia , ventricular tachycardia , and ventricular fibrillation were not seen in either of the two treatment groups .
 Dissection was numerically more frequent in the intravenous group of patients compared with patients receiving intracoronary adenosine , the difference , however , not reaching statistical significance ( 2 / 40 ( 5 % ) versus 0 / 40 ( 1.9 % ) , P = 0.87 ) .
 The incidence of second - and third - degree atrioventricular block was also numerically higher in the intravenous group of patients ( 4 / 40 ( 10 % ) and 2 / 40 ( 5 % ) ) than in intracoronary - treated patients ( 2 / 40 ( 5 % ) 0 / 40 ( 0 % ) ) .
 These conduction blocks disappeared within 4 minutes , without clinical sequelae ( Table 5 ) .
-
 17 .
 Clinical Outcomes
 None of the patients died during initial hospitalization : one patient from the control group developed heart block 9 hours after stenting of the right coronary artery ( RCA ) , which required urgent pacing .
 Between discharge and 30 - day followup , an additional patient randomized to intravenous adenosine developed a recurrent myocardial infarction at 28 days , for which he underwent repeat coronary angioplasty .
 At 30 days , none of the patients had died in each treatment group .
-
 18 .
 Discussion
 This retrospective , blinded , case - controlled clinical study demonstrated that selective intracoronary administration of adenosine distally to the occlusion site and immediately before initial balloon inflation improved reperfusion in patients with STEMI .
@@ -201,7 +147,6 @@ Finally , in each case the intracoronary adenosine was consistently administered
 One may argue that the presence of a beneficial effect of intracoronary adenosine is due to differences in baseline clinical characteristics , favouring intracoronary - treated patients .
 However , there were no significant differences in baseline characteristics between the two treatment groups with the exception of a slightly higher heart rate on admission in patients who received intracoronary adenosine and a higher incidence of diabetes mellitus and previous PCI in the same group of patients .
 On the contrary , such differences should logically have favoured the intravenous group , thus inducing smaller amounts of MVO - which was clearly not the case in this study .
-
 19 .
 Limitations of the Study
 First , the primary endpoint was MVO and we cannot comment on clinical endpoints , for which the study was underpowered .
@@ -212,12 +157,10 @@ At this stage , it is not very clear to us how this finding can be explained .
 Third , the trial included a significant proportion of patients with small and / or completed infarcts .
 Fourth , infarct size cannot be reliably assessed when biomarkers are drawn every 8 h as in this study .
 And finally , intracoronary adenosine boluses may be too short acting for any beneficial effect and we cannot exclude the efficacy of prolonged intracoronary administration .
-
 20 .
 Conclusions and Implications
 We found convincing evidence that selective intracoronary administration of high - dose adenosine as adjunctive therapy to primary PCI reduces MVO in patients with STEMI .
 Future attempts at improving myocardial reperfusion , preventing reperfusion injury , and salvaging ischaemic myocardium should focus on finding the optimal dose of intracoronary adenosine that should be used in order to create a maximum beneficial effect .
-
 Baseline patient characteristics ( % in brackets ) .
 Magnetic resonance imaging results at Day 1 .
 TIMI flow grade following primary PCI .

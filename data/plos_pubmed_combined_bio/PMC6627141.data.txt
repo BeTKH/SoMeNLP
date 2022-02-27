@@ -6,7 +6,6 @@ Each model was evaluated for weight gain , fat mass , fasting plasma glucose , i
 All animal models presented with insulin resistance and dyslipidemia except the HF + STZ and HSu 4 weeks , which argues against the use of these models as metabolic syndrome models .
 Of the remaining animal models , a higher weight gain was exhibited by the Zucker fatty rat and wild type rats submitted to a HF diet for 19 weeks .
 We conclude that the latter model presents a phenotype most consistent with that observed in humans with metabolic disease , exhibiting the majority of the phenotypic features and comorbidities associated with type 2 diabetes in humans .
-
 1 .
 Introduction
 Over the last few years , the incidence and prevalence of metabolic diseases such as obesity , type 2 diabetes ( T2D ) and metabolic syndrome has increased dramatically , recently being highlighted as a worldwide epidemic , with a high socioeconomic impact [1] .
@@ -34,7 +33,6 @@ However , a lack of consensus exists on the best diets and time of exposure to t
 The present investigation evaluates the impact of different hypercaloric diets and different times of exposure to diets on weight gain , insulin resistance , glucose intolerance , as well as autonomic dysfunction and consequences hypertension , and lipid deposition in the liver as an indication of non - alcoholic fatty liver disease .
 Additionally , we compared these models with a genetic model , the Zucker fatty diabetic rat , which is a reference model for obesity and T2D .
 Moreover , we discuss the outcomes for these different animal models , with the aim of identifying the most appropriate model ( s ) to investigate physiopathological mechanisms and therapeutic strategies for metabolic diseases .
-
 2 .
 Methods
 2.1 .
@@ -52,25 +50,21 @@ At a terminal experiment , animals were anesthetized with sodium pentobarbitone 
 Afterwards , blood was collected by heart puncture for serum and plasma quantification of mediators and the liver , soleus , and gastrocnemius and the adipose tissue pads as the visceral , perinephric , epidydimal , and subcutaneous fat were then rapidly collected , weighted , and stored at − 80 ° C for further analysis .
 Laboratory care was in accordance with the European Union Directive for Protection of Vertebrates Used for Experimental and Other Scientific Ends ( 2010 / 63 / EU ) .
 Experimental protocols were approved by the NOVA Medical School / Faculdade de Ciencias Medicas Ethics Committee and by Portuguese DGAV .
-
 2.2 .
 Insulin Tolerance Test
 Insulin sensitivity was evaluated using insulin tolerance test ( ITT ) after overnight fasting as previously described [24] .
 Briefly , fasting blood glucose was measured and immediately followed by an insulin bolus ( 100 mU / kg ) , administered via the tail vein .
 Subsequently , the decline in plasma glucose concentration was measured over a 15 min period .
-
 2.3 .
 Oral Glucose Tolerance Test
 Glucose tolerance was evaluated using oral glucose tolerance test ( OGTT ) after overnight fasting as described by Sacramento et al . [25] .
 Briefly , fasting blood glucose was measured and immediately followed by administration of a saline solution of glucose ( 2 g / kg , VWR Chemicals , Leuven , Belgium ) , by gavage .
 Blood glucose levels were measured at 15 , 30 , 60 , 120 , and 180 min .
-
 2.4 .
 Quantification of Biomarkers : Plasma Insulin , C - Peptide , Lipid Profile , and Catecholamines
 Insulin and C - peptide concentrations were determined with an enzyme - linked immunosorbent assay kit ( Mercodia Ultrasensitive Rat Insulin ELISA Kit and Mercodia Rat C - peptide ELISA Kit , respectively , Mercodia AB , Uppsala , Sweden ) .
 Catecholamines were measured in plasma and in homogenized adrenal medulla samples as previously described [25] .
 The lipid profile was assessed using a RANDOX kit ( RANDOX , Irlandox , Porto , Portugal ) as described by Sacramento et al . [23] .
-
 2.5 .
 Blood Pressure Evaluation
 Mean arterial pressure ( MAP ) was determined by catheterization of the femoral artery .
@@ -78,9 +72,7 @@ The catheter was connected to a pressure transducer ( − 50 , + 300 mmHg ) and 
 MAP was calculated using the values of systolic blood pressure ( SBP ) and diastolic blood pressure ( DBP ) by the Iox 2.9.5.73 software ( Emka Technologies , Paris , France ) .
 To calculate a mean arterial pressure , double the diastolic blood pressure and add the sum to the systolic blood pressure .
 Then divide by 3 .
-MAP = ( SBP + 2 ( DBP ) ) / 3 .
-
-2.6 .
+MAP = ( SBP + 2 ( DBP ) ) / 3 . 2.6 .
 Lipid Deposition in the Liver
 Lipid deposition in the liver was quantified by an extraction method described by Folch [26] .
 Briefly , 0.5 g of liver samples were homogenized in 3 ml of Folch solution .
@@ -90,7 +82,6 @@ Afterwards , the organic phase was collected and transferred to a petri dish .
 To the other phase was added 2.5 mL of Folch solution : NaCl 0.58 % ( 80 : 20 ) .
 The process was repeated , and all the organic phase collected was left to dry for 24 h before weighing the petri dish , for determination of total lipids in the sample .
 The results were expressed as a percentage of lipids per total weight of homogenized liver .
-
 2.7 .
 Western Blot Analysis
 Visceral adipose tissue ( 100 mg ) was homogenized in Zurich ( 10 mM Tris - HCl , 1 mM EDTA , 150 mM NaCl , 1 % Triton X - 100 , 1 % sodium cholate , 1 % SDS ) with a cocktail of protease inhibitors ( trypsin , pepstatin , leupeptin , aprotinin , sodium orthovanadate , phenylmethylsulfonyl fluoride ( PMSF ) ) , and samples were centrifuged ( Eppendorf , Madrid , Spain ) and supernatant was collected and frozen at − 80 ° C until further use .
@@ -99,20 +90,16 @@ After blocking for 1 h at room temperature with 5 % nonfat milk in Tris - buffer
 The membranes were washed with Tris - buffered saline with Tween ( TBST ) ( 0.1 % ) and incubated with mouse anti - goat ( 1 : 2000 ) or goat anti - mouse ( 1 : 2000 ) in TBS and developed with enhanced chemiluminescence reagents in accordance with the manufacturer ’ s instructions ( ClarityTM Western ECL substrate , Hercules , CA , USA ) .
 Intensity of the signals was detected in a Chemidoc Molecular Imager ( Chemidoc ; BioRad , Madrid , Spain ) and quantified using Image Lab software ( BioRad ) .
 The membranes were re - probed and tested for Calnexin ( 1 : 1000 , SICGEN , Cantanhede , Portugal ) immunoreactivity ( bands in the 85 kDa region ) to compare and normalize the expression of proteins with the amount of protein loaded .
-
 2.8 .
 Evaluation of Autonomous Nervous System
 The balance between the sympathetic and parasympathetic components of the autonomic nervous system was made by calculating the sympathetic nervous system ( SNS ) and parasympathetic nervous system ( PNS ) indexes computed in Kubios HRV software ( www.kubios.com ) .
 The SNS index in Kubios is based on Mean heart rate , Baevsky ’ s stress index , and low frequency power expressed in normalized units and the PNS index which is based on the mean intervals between successive heartbeats ( RR intervals ) , the root mean square of successive RR interval differences ( RMSSD ) and high frequency power expressed in normalized units .
 Heart rate and RR intervals were obtained using Iox 2.9.5.73 software ( Emka Technologies , Paris , France ) , with an acquisition frequency of 500 Hz .
-
 2.9 .
 Statistical Analysis
 Data were evaluated using GraphPad Prism Software , version 6 ( GraphPad Software Inc . , San Diego , CA , USA ) and presented as mean values with SEM .
 The significance of the differences between the mean values was calculated by one - and two - way ANOVA with Bonferroni multiple comparison test .
-Differences were considered significant at p < 0.05 .
-
-3 .
+Differences were considered significant at p < 0.05 . 3 .
 Results
 3.1 .
 Weight Gain , Fat Mass Depots , and Lipid Profile in Animal Models of Type 2 Diabetes and Obesity
@@ -128,7 +115,6 @@ When comparing the levels of cholesterol , HDL , LDL , and triglycerides , it wa
 HF 19 weeks , HSu 4 weeks , and Zucker 17 weeks groups showed increased levels of total cholesterol and HF 3 weeks , HF 19 weeks , Hsu 4 weeks , HSu 16 weeks , HFHSu 25 weeks , and Zucker 17 weeks showed increased levels of triglycerides .
 Further , HDL levels were decreased in HF 3 weeks , HF 19 weeks , HSu 16 weeks , and Zucker 17 weeks , and LDL levels were increased in the HF 19 weeks , HSu 16 weeks , HFHsu 25 weeks , and Zucker 17 weeks groups .
 The HF 19 weeks and Zucker 17 weeks groups exhibited dysfunctional levels in all the parameters of the lipid profile evaluated .
-
 3.2 .
 Effect of Hypercaloric Diets and Genetic Deletion of Leptin Receptors on Glucose Metabolism in Animal Models of Obesity and Type 2 Diabetes
 Figure 2A represents the effect of hypercaloric diets and genetic deletion of leptin receptors on fasting glycemia in animal models of obesity and T2D and their correspondent age - matched controls .
@@ -149,7 +135,6 @@ The disease models tested showed decreased expression of the insulin receptor an
 Further , the expression of Akt and its phosphorylated form decreased by 35 % and 42 % ( for Akt ) in HF 3 weeks and HSu 4 weeks , respectively , and by 26 % , 43 % , and 22 % ( for Akt phosphorylated form ) in HF 3 , HSu 4 , and HSu 16 weeks respectively .
 As a glucose transporter , GLUT 4 expression also decreased by 17 % , 20 % , and 22 % in HF 3 , HSu 4 , and HSu 16 weeks , respectively .
 Note that the effects of diet on the expression of these proteins were higher for 4 weeks of HSu than for the 16 weeks , suggesting compensatory mechanisms to maintain cellular insulin sensitivity .
-
 3.3 .
 Comorbidities in the Distinct Models of Obesity and Type 2 Diabetes
 Hypertension is one of the main illnesses associated with obesity and T2D ( 1 - 3 ) .
@@ -161,7 +146,6 @@ All animals present an increase in lipid deposition with a marked hepatocellular
 Note also some degree of fibrosis in HF 19 weeks animals as well as in Zucker diabetic fatty 23 weeks .
 Figure 5B represents the percentage of lipids in the liver quantified by the Folch method , and it can be observed that all disease models showed higher lipid deposition when compared to their correspondent age - matched controls ( % increase in lipid deposition HF 3 weeks = 88 % ; HF 19 weeks = 136 % ; HF + STZ = 86 % ; HSu 4 weeks = 33 % ; HSu 16 weeks = 31 % ; HFHSu 25 weeks = 48 % ; Zucker 17 weeks = 147 % ; Zucker 23 weeks = 123 % ) ) .
 All animals submitted to high fat diet ( HF 3 weeks , HF 19 weeks , HF + STZ ) and the Zucker animals were the groups that exhibited higher lipid deposition in the liver , with HSu animals showing a lower liver lipid deposition .
-
 3.4 .
 Autonomic Function in Obesity and Type 2 Diabetes
 Sympathetic nervous system activation has been pointed out as one of the mechanisms contributing to cardiometabolic dysfunction in obesity and T2D .
@@ -170,7 +154,6 @@ We have previously described that 3 weeks of HF diet and 4 weeks of HSu induced 
 Herein we showed that hypercaloric diet disease models tested ( HF 19 weeks and HFHSu 25 weeks ) , but not the genetic model , showed an increased SNS index in comparison to age - matched controls , suggesting an increased sympathetic activation ( Figure 6B ) , without any alteration of the PNS .
 The absence of SNS activation in Zucker 17 weeks might be explained by the absence of the effect of leptin , a powerful sympathetic activator , in this animal model .
 In agreement with this increased sympathetic activation , hypercaloric disease models exhibited increased plasma catecholamine levels as well as increased catecholamines in adrenal medulla content when compared to their age - matched controls [ Table 2 and Sacramento et al . [25] ] .
-
 4 .
 Discussion
 In this study , we evaluated the effect of different hypercaloric diets and different exposure times to obesogenic diets as well as the genetic deletion of leptin receptors in terms of the key pathological characteristics of obesity and T2D , with the aim of identifying the most appropriate model ( s ) for the study dysmetabolism .
@@ -200,7 +183,6 @@ However , it is now generally accepted that hyperinsulinemia can itself trigger 
 In fact , several animal and human studies have supported the view that increased insulin levels , even in the presence of normal weight , induce insulin resistance , by producing insulin receptor desensitization [37,38,39] .
 Further , it was recently found in rat hepatoma cells that persistent high insulin levels are associated with a persistent alteration at the insulin receptor tyrosine kinase domain , which may act to initiate or progressively worsen insulin resistance [40] .
 Therefore , our data are in agreement with the fact that hyperinsulinemia can cause insulin resistance , given that the HF + STZ model studied here lacks increased insulin secretion ( Figure 2D ) and does not exhibit insulin resistance , despite the fact that other dysmetabolic features are present .
-
 5 .
 Conclusions
 The incidence and prevalence of metabolic diseases such as obesity and T2D has increased dramatically .
@@ -210,7 +192,6 @@ We concluded that the most appropriate rat model is the 19 - week HF diet , whic
 In contrast to the Zucker rat , the 19 - week HF diet has the advantage of better representing the wider phenotype presented in humans .
 Notable in this respect is the fact that the Zucker rat did not exhibit sympathetic hyperactivity .
 Additionally , we conclude that of all the animal models tested , the HF + STZ and HSu 4 weeks animals should be excluded from future studies relating to metabolic syndrome - related disorders , due to the absence in these models of insulin resistance and obesity / dyslipidemia .
-
 Adipose tissue depots and lipid profile ( total cholesterol , triacylglycerols , high - density lipoprotein ( HDL ) - cholesterol and low - density lipoprotein ( LDL ) - cholesterol ) in animal models of obesity and type 2 diabetes .
 Catecholamine ( epinephrine and norepinephrine ) levels in plasma and in adrenal medulla in animal models of obesity and type 2 diabetes .
 Summary of the main pathological features of animal models of dysmetabolism .

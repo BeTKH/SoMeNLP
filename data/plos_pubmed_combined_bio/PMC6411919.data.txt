@@ -4,10 +4,8 @@ With a potential link between dysfunctional repair and immunoreactivity , we inv
 In the absence of foreign antigens , a sustained immune response involving both innate and adaptive immune systems accompanies a transition to chronic kidney damage .
 At late stages , B lymphocytes exhibite an antigen - driven proliferation , selection and maturation into broadly - reacting antibody - secreting cells .
 These findings reveal a previously unappreciated role for dysfunctional tissue repair in local immunomodulation that may have particular relevance to transplant - associated immunobiology .
-
 Allograft can induces local chronic inflammation , but how this feeds back to regulating late immunity is still not clear .
 Here the authors show , by charactering B cell transcriptome landscape dynamic in human allografts and in mouse kidneys transitioning from acute to chronic injury , that late B cell activation is associated with renal dysfunction and inflammation .
-
 Introduction
 The immune system participates in tissue repair with contrasting effects : inflammation after injury is important to initiate the repair response but immune cells can contribute to secondary tissue damage [1,5] .
 Organ transplantation is an interesting model to investigate the interaction between tissue injury and local immune regulation .
@@ -19,7 +17,6 @@ Refined pathologic and immunologic diagnostic tools ( e.g. , C4d stain and detec
 However , at a time when the criteria for chronic antibody - mediated rejection are met , even aggressive immunosuppressive therapy does not substantially improve graft survival [10,17] .
 The mechanisms initiating a donor - specific immune response , several months / years after transplantation and often without any clear precipitating event , are unclear and clinically important .
 In this study , we take advantage of recent technical advances in the characterization of the adaptive immune system and molecular processes determining the transition from acute to chronic kidney injury ( CKI ) to investigate the impact of dysfunctional kidney repair on the late immune response following kidney injury and kidney transplantation .
-
 Results
 Kidney injury and B lymphocytes after renal transplantation
 Transcriptional profiling of protocol biopsies from 42 kidney allografts in the 1st year after transplantation enabled an examination of changing gene activity in the post - transplant kidney .
@@ -28,7 +25,6 @@ In agreement with the previous reports , B cell - associated transcripts and imm
 The heterogeneity of this population at 12 months after transplantation was highlighted by t - distributed stochastic neighbor embedding ( t - SNE ) analysis , which identified a group of patients separating from the remaining study population by virtue of the higher expression of genes associated to classical features of CKI , such as with fibrosis , wound healing and immunity ( further identified as CKI - group ; Fig . 1f - h , Supplementary Data [1] ) [1,20,21] .
 The sample cluster analysis based on B cell - associated genes indicated the subset of patients displaying a strong B cell signature substantially overlapped with the CKI - group ( odds ratio for the overlap 45.5 , P < 0.0001 , Fisher ’ s exact test , Fig . 1e ) .
 We reasoned that the strong concordance between chronic injury and B cell signature could be explained by two non - exclusive scenarios : ( 1 ) the host immune response to the allograft causes kidney damage and sustains the transition to CKI , ( 2 ) the B cell response is an intrinsic component of CKI , independently of alloreactivity .
-
 Kidney injury precedes B cell - mediated immunity
 To find evidence to distinguish between these alternative possibilities , we examined earlier biopsies from the patient cohort to examine the transcriptional response in the same kidney over time for factors that might precede the development of CKI and late B cell activity signatures .
 We compared the CKI - group ( as defined at 12 months after transplantation , Fig . 1f ) with the rest of the study population referred to as the “ non - CKI ” group .
@@ -49,7 +45,6 @@ Histological analysis at 12 months revealed no evidence of increased inflammatio
 In summary , a transcriptional signature of acute kidney injury at 3 months was associated with chronic organ damage and lower eGFR at 12 months .
 The clinical data supported the hypothesis that fibrosis in CKI patients does not result from a pathological immune response to the antigenically distinct allograft .
 In contrast , the late immune response may reflect a dysfunctional immune response related to ongoing tissue injury .
-
 Ectopic lymphoid tissue following kidney injury in mice
 If late B cell activity is independent of alloreactivity , we would expect to find similar immunological processes during the transition from acute kidney injury to CKI .
 To explore this hypothesis beyond the descriptive association provided by the clinical data , we turned to a mouse model where IRI led to a dysfunctional repair process that transitioned to chronic kidney disease over months , to specifically characterize the long - term immunological sequelae of maladaptive kidney repair [28] .
@@ -65,7 +60,6 @@ To assess the contribution of different cellular compartments of the kidney at t
 Both myeloid and stroma cells showed marked translation of cytokine - encoding mRNAs .
 However , the stroma cell compartment , which encompasses the bulk of cells directly contributing to renal fibrosis [37] , expressed a cluster of cytokines showing elevated expression 6 months after IRI , including cytokines associated with lymphocyte homing ( e.g. , Ccl 28 , Ccl 21a , and Cxcl 12 , Fig . 3j , k ) .
 Thus , T and B lymphocytes accumulate in the mouse kidney transitioning from acute to chronic injury in the absence of foreign antigens .
-
 B lymphocytes in the kidney transitioning to chronic injury
 The immune response detected in the kidney beyond the 6th month after IRI involved both T and B cells .
 The T cell compartment included a large fraction of non - conventional TCR α β CD4CD 8 ( double negative ) T cells ( Supplementary Fig [2] . ) .
@@ -78,7 +72,6 @@ B lymphocytes isolated from the kidney in the late phase after IRI were reminisc
 The marked increase in immunoglobulin gene transcripts for IgM , IgG2c , and IgA classes and Ig kappa light chains in whole organ RNA - profiles was consistent with the local production of antibodies in the kidney ( Fig . 4g , h ) .
 Despite the high level of IgM transcripts and the recognized role of natural antibodies in the tissue injury response [45] , B - 1 cells ( and marginal zone B cells ) were not detected in the kidney ( Supplementary Fig [4] . ) .
 Thus , antibody - secreting cells accumulated in the kidney in conjunction with the transition from acute to CKI .
-
 B cell clonal expansion and affinity maturation
 To better characterize the accumulation and the differentiation of B lymphocytes in the damaged mouse kidney we performed a B cell receptor ( BCR ) repertoire analysis in mice .
 First , we investigated the germline antibody gene segment repertoire by quantifying Ighv and Igkv transcripts in the kidney by whole organ RNA - seq .
@@ -93,7 +86,6 @@ This analysis confirmed the presence of a polyclonal B cell population in the ki
 The amino acid sequences of the complementarity - determining region 3 ( CDR 3 ) of the immunoglobulin heavy chain in control mice did not show any evidence for a phylogenetic organization of the rearrangements ( Fig . 5e ) .
 In contrast , IRI survivors presented clusters of hypermutated immunoglobulin gene rearrangements with few amino acid substitutions indicating a process of clonal expansion and affinity maturation ( Fig . 5f ) .
 Thus , both histological findings and BCR analysis , provide evidence for the proliferation , selection and maturation of B lymphocytes in germinal centers within the kidney , in conjunction with the transition from acute kidney injury to CKI .
-
 Autoantibodies after ischemia - reperfusion injury
 The clonal expansion of B lymphocytes in germinal centers is an antigen - triggered immunological process [32] .
 In the absence of foreign antigens in this aseptic kidney injury model , we tested the plasma collected 16 - 18 months after IRI on a screening panel for autoantibodies .
@@ -102,7 +94,6 @@ This indicated that in the absence of foreign antigens , the intrarenal B cell r
 Since a similar process after kidney transplantation might stimulate the production of donor - specific antibodies , we retrospectively analyzed the clinical record of our study population to correlate the detection of anti - HLA antibodies with the initial injury response : among kidney recipients not HLA - sensitized at time point of transplantation .
 Indeed , three patients developed clinical evidence for late B cell - mediated reactivity to the graft during further follow - up .
 All these patients were classified in the CKI group ( Supplementary Table [2] ) .
-
 Discussion
 B lymphocytes are involved in the acute response to ischemic injury but are not essential for acute rejection , which is mainly mediated by T lymphocytes [3,5,48] .
 In contrast , B cells are pivotal in the pathogenesis of late forms of immune - mediated graft injury .
@@ -139,7 +130,6 @@ Clearly , injury in the clinical setting is much more variable than in the exper
 Several factors may determine whether sustained immune activation follows a renal repair response including age [59] .
 Developing strategies to attenuate the early injury response and repetitive hits during follow - up may prevent irreversible organ damage and late alloreactivity [60] .
 The process characterized here may also have broader significance in the pathogenesis of chronic organ failure in other clinical conditions [50,51] .
-
 Methods
 Clinical study design
 We performed a genome - wide gene expression profile by RNA sequencing ( RNAseq ) in 42 kidney transplant recipients , randomly selected among patients with a full set of 3 available biopsies from a database at the University of Leuven .
@@ -152,7 +142,6 @@ All biopsies were centrally scored by pathologists dedicated to transplant patho
 The severity of chronic histological lesions was semi - quantitatively scored according to the Banff categories .
 The team involved in the computational analysis was not informed about any clinical information until the end of the study , when computational and clinical data were matched .
 The histological evaluation was independent of the computational analysis and the pathologist was not informed about the results of the transcriptional analysis .
-
 Human tissue storage and sequencing
 Of each renal allograft biopsy included in this study , at least half a core was immediately stored on Allprotect Tissue Reagent ( Qiagen Benelux BV , Venlo , The Netherlands ) , and after incubation at 4 ° C for at least 24 h and maximum 72 h , stored locally at − 20 ° C , until shipment to the Laboratory of Nephrology of the KU Leuven .
 We performed RNA extraction using the Allprep DNA / RNA / miRNA Universal Kit ( Qiagen Benelux BV , Venlo , The Netherlands ) on a QIAcube instrument ( Qiagen Benelux BV , Venlo , The Netherlands ) .
@@ -169,7 +158,6 @@ Gene counts were derived from the number of uniquely aligned unambiguous reads b
 Transcript counts were produced by Sailfish version 0.6.3 .
 Sequencing performance was assessed for total number of aligned reads , total number of uniquely aligned reads , genes and transcripts detected , ribosomal fraction known junction saturation , and read distribution over known gene models with RSeQC version 2.3 .
 All gene expression levels were normalized and quantified by RPKM ( number of reads per kilobase per million mapped read ) .
-
 Mice and surgical procedures
 Mouse handling and husbandry and all surgical procedures were performed according to all ethical regulations for animal testing and research .
 The study received ethical approval by the Institutional Animal Care and Use Committees ( IACUC ) at the University of Southern California .
@@ -179,7 +167,6 @@ The kidneys were exposed by a midline abdominal incision and both renal pedicles
 Restoration of blood flow was monitored by the return of normal color after removal of the clamps .
 All the mice received intraperitoneal ( i.p ) 1 ml of normal saline at the end of the procedure .
 Sham - operated mice underwent the same procedure except for clamping of the pedicles .
-
 Glomerular filtration rate in mice
 GFR was measured in mice by transcutaneous measurement of FITC - sinistrin disappearance with the NIC - Kidney device , purchased from Mannheim Pharma & Diagnostics GmbH ( Mannheim , Germany ) [61,63] .
 Mice were anesthetized with isoflurane .
@@ -190,7 +177,6 @@ After the injection , the mouse was returned to its cage and transcutaneous dete
 The data were analyzed with the NIC - Kidney device related software , which automatically provides the FITC - sinistrin half - life .
 GFR was calculated as follows :
 GFR [ μ l / min / 100 g body weight ] = 1416.8 [ μ l / 100 g body weight ] / t ( FITC - sinistrin ) [ min ]
-
 Histology and immunofluorescence
 For conventional staining kidneys were perfused with ice - cold PBS and embedded in paraffin after overnight fixation in 4 % paraformaldehyde ( PFA ) at 4 ° C .
 Sections were cut at 2 μ m and stained with hematoxylin and eosin , or PAS staining at the histology core of the USC Department of Pathology , Los Angeles , CA .
@@ -199,7 +185,6 @@ For immunofluorescence , PFA fixed tissues were equilibrated in 30 % sucrose / P
 Following antibodies were used in this study to recognize CD 3 ( rabbit , Abcam , ab 16669 ) , CD 19 ( rat , Invitrogen , 13 - 0194 - 82 ) , CD 21 ( rabbit , Abcam , ab 75985 ) , CD 31 ( rat , BD , 553370 ) , CD 45 ( goat , BD , 550280 ) , CD 45R ( rat , BD , 557390 ) , Cxcl 13 ( goat , R&D , AF 470 ) , F4 / 80 ( rat , eBioscience , 14 - 4801 ) , Havcr 1 ( goat , R&D , AF 1817 ) , Ltl lectin - FITC conjugate ( Vector Laboratories , FL - 1321 ) , Lyve 1 ( goat , R&D , AF 2125 ) , Ki 67 ( rabbit , Novocastra , Ki 67p - CE ) .
 All sections were stained with Hoechst 33342 ( Life Technologies ) prior to mounting with Immu - Mount ( Fisher ) .
 All images were acquired on Zeiss Axio Scan Z1 slide scanner and Zeiss LSM 780 .
-
 Lymphocyte isolation and flow cytometry
 To isolate kidney infiltrating lymphocytes the mouse was perfused with PBS until the kidney was visually blood - free .
 Then the kidney was removed , mechanically dissociated , and then incubated at 37 ° C in digestion buffer ( RPMI medium , 1 mg / ml type I collagenase , 10 μ g / ml DNAse , 10 % FCS , 25 mM HEPES , penicillin and streptomycin ) .
@@ -210,7 +195,6 @@ Representative MACS sorting results and the general gating strategy are presente
 Controls to exclude a bias related to CD 45 MACS sorting are presented in Supplementary Fig [3] . .
 Following antibodies were purchased from BD bioscience : BV 421 - 1B 1 ( CD1d ) , FITC - 17A 2 ( CD 3 ) , APC and PE - RM 4 - 5 ( CD 4 ) , BV 786 - 53 - 7.3 ( CD 5 ) , APC - 53 - 6.7 ( CD8a ) , PE - M1 / 70 ( CD 11b ) , BV 605 - HL 3 ( CD 11c ) , FITC - 1D 3 ( CD 19 ) , FITC and PE - 1D 3 ( CD 19 ) , BV 650 - 7G 6 ( CD 21 ) , APC - S7 ( CD 43 ) , BV 786 - IM 7 ( CD 44 ) , APC - Cy 7 - 30 - F11 ( CD 45 ) , APC - H7 - RA 3 - 6B 2 ( CD 45R / B220 ) , PE - DX 5 ( CD 49b ) , PE - MEL - 14 ( CD 62L ) , BV 421 - H1 .2F 3 ( CD 69 ) , PE - D7715A 7 ( CD 126 ) , APC and BV 786 - 281.2 ( CD 138 ) , BV 421 - 2B 11 / CXCR 4 ( CD 184 ) , BV 421 - Jo 2 ( Fas ) , APC and BV 605 - 11 - 26c .2a ( IgD ) , BV 605 - 11 / 41 ( IgM ) , BV 421 - R 2 - 40 ( IgG2a / b ) , BV 786 and BV 650 - PK 136 ( NK 1.1 ) , PE - J43 ( PD 1 ) , BV 421 - H5 - 597 ( TCR β ) , BV 786 - GL 3 ( TCR γ δ ) .
 Cell viability was assessed by fixable viability staining BV 510 .
-
 RNA sequencing of mouse renal tissue
 RNA was extracted from whole renal tissue or after TRAP [36] , with a RNeasy kit ( Qiagen ) and provided to the USC Epigenome Center ’ s Data Production Core Facility for library construction and sequencing .
 RNA integrity was verified by Bio - Rad Experion analysis .
@@ -225,7 +209,6 @@ The mapping index was generated using GENCODE release M4 ( GRCm 38.p 3 ) gene an
 In addition to read mapping , STAR was also used to remove duplicates , generate read - count tables and wiggle files .
 Differentially - expressed genes were called for each time point with DESeq 2 .
 Cluster analysis of cytokine transcripts was performed with Gene Cluster ( version 3.0 ) and visualized with Treeview ( version 1.1.6r 4 ) .
-
 Autoantibodies
 Autoantibody reactivity against a panel of autoantigens was determined in mouse plasma samples at the UT Southwestern Medical Center .
 The samples were incubated with autoantigen array and the autoantibodies binding to the antigens on the array was be detected with Cy 3 labeled anti - IgG and Cy 5 labeled anti - IgM to generate Tiff images .
@@ -234,7 +217,6 @@ SNR was used as a quantitative measure of the ability to resolve true signal fro
 A higher SNR indicates higher signal over background noise .
 SNR equal or bigger than 3 was considered true signal from background noise .
 Quality control and normalization using variance stabilizing normalization were performed according to the standard procedure at UT Southwestern Medical center .
-
 Statistical analyses
 RPKM and eGFR values were compared by t - test or by Mann - Whitney U tests , a two - tailed P value < 0.05 was considered significant .
 Categorical analyses were performed with Fisher ’ s exact or Chi - square tests .
@@ -242,36 +224,25 @@ Differential gene expression analyses were performed with EdgeR [64] , by applyi
 P values were adjusted according to the Benjamini - Hochberg procedures .
 SNR values from the autoantibodies analysis were compared by the two - stage step - up method of Benjamini , Krieger , and Yekutieli with a false discovery rate of 0.05 .
 Gene enrichment analyses were performed with ToppFun and P values were adjusted according to Benjamini - Hochberg ( https://toppgene.cchmc.org ) .
-
 CIBERSORT and Immunoseq
 CIBERSORT analyses were performed on RNAseq data by using the analytical tool developed by Newman et al . ( http://cibersort.stanford.edu ) [30] .
 LM 22 was used as a reference signature for analysis on human data .
 The mouse - specific reference profile developed by Chen et al . was applied for studies in mice [29] .
 For Immunoseq analysis , mouse renal tissue was analyzed by Adaptive Biotechnologies ( Seattle , USA ) [47] .
 The data were analyzed with the immunoSEQ Analyzer ( https://www.adaptivebiotech.com/immunoseq ) .
-
 Software
 Gene correlation analysis and feature correlation heatmaps were performed on the PIVOT platform , developed by the Kim Lab ( http://kim.bio.upenn.edu/software/pivot.shtml ) [65] .
 Dimension reduction analysis was performed with t - distributed stochastic neighbor embedding ( t - SNE ) by Rtsne package in R .
 Sample correlation analyses were performed on PIVOT [65] or on Cluster ( version 3.0 ) and visualized in TreeView ( http://jtreeview.sourceforge.net ) .
 Box plots , scatter plots , and histograms were generated with Prism 7 .
 FACS data were analyzed with FlowJo 2 , version 1.1.0 .
-
 Reporting summary
 Further information on experimental design is available in the Nature Research Reporting Summary linked to this article .
-
 Supplementary information
-
 Supplementary Information
-
 Peer Review File
-
 Description of Additional Supplementary Files
-
 Supplementary Data 1
-
 Supplementary Data 2
-
 Supplementary Data 3
-
 Reporting Summary

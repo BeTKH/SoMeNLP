@@ -1,6 +1,5 @@
 PRNPThe methionine / valine ( M / V ) SNP at codon 129 of the prion protein gene PRNP influences susceptibility to prion diseases .
 Diack et al . report that vCJD strain properties are not affected by transmission through an individual with the PRNP MV codon 129 genotype , suggesting no association between this genotype and altered virulence .
-
 Abstract
 In 2004 , a subclinical case of variant Creutzfeldt - Jakob disease in a PRNP 129 methionine / valine heterozygous individual infected via blood transfusion was reported , and we established that the spleen from this individual was infectious .
 Since host genetics is an important factor in strain modification , the identification of variant Creutzfeldt - Jakob disease infection in a PRNP 129 methionine / valine heterozygous individual has raised the possibility that the properties of the variant Creutzfeldt - Jakob disease agent could change after transmission to this different genetic background and concerns that this could lead to a more virulent strain of variant Creutzfeldt - Jakob disease .
@@ -9,7 +8,6 @@ Three passages in mice were undertaken to allow stabilization of the strain char
 In each passage , a combination of clinical signs , neuropathology ( transmissible spongiform encephalopathy vacuolation and prion protein deposition ) were analysed and biochemical analysis carried out .
 While some differences were observed at primary and first subpassage , following the second subpassage , strain characteristics in the methionine / valine individual were totally consistent with those of variant Creutzfeldt - Jakob disease transmitted to 129 methionine / methionine individuals thus demonstrated no alteration in strain properties were imposed by passage through the different host genotype .
 Thus we have demonstrated variant Creutzfeldt - Jakob disease strain properties are not affected by transmission through an individual with the PRNP methionine / valine codon 129 genotype and thus no alteration in virulence should be associated with the different host genotype .
-
 Introduction
 Variant Creutzfeldt - Jakob disease ( vCJD ) is an acquired prion disease linked to the consumption of food products contaminated with the bovine spongiform encephalopathy ( BSE ) agent ( Bruce et al . , 1997 ; Hill et al . , 1997 ) and was first reported in the UK in 1996 .
 A peak in deaths was recorded in 2000 and it has since declined with a total of 178 deaths between 1995 and 2018 in the UK ( Will et al . , 1996 ; National CJD Research and Surveillance Unit , 2019 ) .
@@ -37,7 +35,6 @@ With the possibility of strain modification and adaptation of the vCJD agent fol
 To address this we have carried out an extensive stain typing analysis on the strain of agent found within the spleen of an asymptomatic codon 129MV individual .
 We have established that the characteristics of this strain are consistent with that of vCJD from 129MM individuals .
 Thus we have demonstrated that strain properties of vCJD are not altered by the PRNP codon 129 genotype of an individual .
-
 Materials and methods
 Human tissue selection
 Post - mortem tissue ( brain and spleen ∼ 0.5 - 1.5 g ) was collected via the MRC Edinburgh Brain Bank , approved by a national ethics committee , in line with the Human Tissue ( Scotland ) Act .
@@ -45,7 +42,6 @@ Use of human tissue for post - mortem studies has been reviewed and approved by 
 Clinical and demographic details are given in Table 1 .
 Tissue samples were homogenized at 10 % ( w / v ) concentration in sterile physiological saline and stored at − 80 ° C until use .
 Demographic and clinical features of cases included in this study
-
 Mice and experimental design
 A panel of three inbred wild - type mouse lines were used for the transmission studies ; RIII ( also referred to as MR ) , C57B L6 and VM .
 RIII and C57B L6 lines are of the Prnp genotype and VM are of the Prnp genotype ( Bruce et al . , 1991 ) .
@@ -53,7 +49,6 @@ This combination of mouse lines has been used for the strain characterization of
 To characterize the isolates of interest fully , a primary pass ( human to mouse ) followed by two subpassages ( mouse to mouse ) were carried out .
 Subpassage was undertaken from a representative mouse from each mouse line that showed clinical signs and had positive transmissible spongiform encephalopathy ( TSE ) pathology ( TSE vacuolation or PrP deposition ) where possible .
 Brain material from this mouse was then inoculated into the panel of wild - type mice ; this process was repeated for the second subpassage .
-
 vCJD infection of mice
 All animal studies were carried out in derogated CL 3 facilities .
 The mice were housed in individually ventilated cages under a 12 - h light / dark cycle and given food and water ad libitum .
@@ -63,7 +58,6 @@ The MM recipient ( MM ) CNS was inoculated by the intracerebral route only becau
 For subpassage , inocula were prepared with mouse brain tissue at 1 % ( w / v ) in physiological saline and mice inoculated with 20 μ l via the intracerebral route only .
 Tissue samples were irradiated prior to second subpassage because of an animal house move .
 Animal studies were approved by The Roslin Institute ’ s Animal Welfare Ethical Review Board and were conducted according to the regulations of the 1986 United Kingdom Home Office Animals ( Scientific Procedures ) Act .
-
 Scoring of clinical TSE disease and pathology
 Mice were scored weekly for clinical signs from 100 ( primary pass ) or 50 ( subpassage ) days post inoculation ( dpi ) by operators blind to isolate / cohort combination according to a previously established TSE clinical scoring system ( Dickinson et al . , 1968 ) .
 Mice were scored as unaffected , possibly affected or definitely affected using standard criteria .
@@ -73,14 +67,12 @@ Mice with no signs of clinical disease were maintained until ∼ 700 dpi or unti
 Mice were sacrificed by cervical dislocation , the brains removed and cut sagitally with one half frozen in liquid nitrogen for biochemistry and the remaining half fixed in formal saline for 48 h and decontaminated with formic acid when required , prior to paraffin embedding .
 Coronal sections were cut ( 6 μ m ) and stained with haematoxylin and eosin and TSE - specific vacuolation was quantitatively scored blind to isolate and mouse line by a standard method in nine grey matter and three white matter areas ( Fraser and Dickinson , 1968 ) .
 Mean TSE vacuolation scores were plotted for groups of six mice or more unless otherwise stated .
-
 Prion protein detection by immunohistochemistry
 Coronal sections were stained using 6H 4 antibody ( 1 : 500 , Prionics ) ( Korth et al . , 1997 ) to detect PrP .
 Antigen retrieval by autoclaving at 121 ° C in citric acid buffer and a 5 - min formic acid ( 98 % ) treatment was used .
 Sections were then blocked with normal rabbit serum prior to incubation with the primary antibody .
 Antibody binding was detected with the Vector ABC kit ( Vector Laboratories ) and visualized with 3 , 3 ′ diaminobenzidine chromogen .
 All sections were counterstained with haematoxylin .
-
 Western blot analysis
 Frozen brain samples were homogenized in NP 40 buffer [ 20 mM Tris ( pH 7.4 ) , 0.5 % v / v NP 40 solution , 0.5 % w / v sodium deoxycholate ] to give a 10 % w / v suspension .
 The suspension was further passaged through a 25 G needle ( twice ) to break up any remaining aggregates .
@@ -90,17 +82,14 @@ The products were then loaded onto a 4 - 12 % Bis / Tris gel ( Thermo Fisher ) .
 After electrophoresis the gel was blotted onto a PVDF membrane .
 Detection of PrP was with primary antibody 6H 4 ( Prionics ) ( Korth et al . , 1997 ) at 1 : 5000 ( for a minimum of 24 h at 4 ° C with shaking ) and an anti - mouse infrared fluorescence , IRDye ™ secondary antibody ( LI - COR ) at 1 : 5000 .
 Images were captured with the LI - COR Odyssey imaging system .
-
 Data and statistical analysis
 Animals in which clinical signs were present without pathological ( TSE vacuolation and / or PrP deposition ) confirmation were removed from the analysis as these signs can also be due to other conditions such as ageing .
 Animals in which no TSE vacuolation score was available ( due to tissue autolysis or technical issues ) were also discounted .
 Early intercurrent deaths ( under 200 dpi and 50 dpi for the primary and subpassage , respectively ) were excluded from the study .
 Raw data and samples from previously published studies ( Bishop et al . , 2008 ; Bishop et al . , 2013 ) were reanalysed using the criteria above to ensure a valid comparison between all datasets .
 Statistical analyses for incubation periods were performed using A Kruskal - Wallis test followed by Dunn ’ s multiple comparisons test using GraphPad Prism 7.0 for windows ( GraphPad Software , La Jolla California , USA ) .
-
 Data availability
 The data that support the findings of this study are available from the corresponding author , upon reasonable request .
-
 Results
 In this study , we carried out a characterization study of the MV and MM ( CNS and spleen ) at primary passage in our strain typing panel of wild - type mice .
 This panel consists of RIII and C57B L6 mice , both of the Prnp genotype and VM mice , Prnp genotype .
@@ -117,7 +106,6 @@ Incubation periods were calculated for each line and isolate combination for mic
 Incubation periods were increased for both MV and MM ( spleen ) in the RIII , C57B L6 and VM mice when compared to those of the MM ( CNS ) .
 The incubation period ranking for the MM ( CNS ) was of the order formtok mice , similar to vCJD transmissions reported previously .
 A full incubation period ranking was unavailable for the MV due to the absence of TSE vacuolation in the VM mice , this was also true of the MM ( spleen ) where no clinical signs were apparent in the C57B L6 mice .
-
 TSE vacuolation profiles for each line of mice were generated where mouse numbers were sufficient and then compared .
 C57B L6 mice inoculated with MM ( CNS ) demonstrated similar targeting to that of a typical 129MM CNS transmission ( Fig . 1B ) with vacuolation targeted to the medulla ( G1 ) and hypothalamus ( G4 ) regions .
 MM ( CNS and spleen ) showed similar targeting in VM mice to typical 129MM transmissions with peaks in vacuolation intensity at the medulla ( G1 ) , thalamus ( G5 ) and septum ( G7 ) regions although an additional peak was observed in the MM ( CNS ) transmission in the superior colliculus ( G3 ) , hypothalamus ( G4 ) and thalamus ( G5 ) ( Fig . 1C ) .
@@ -132,12 +120,10 @@ In RIII mice , there was widespread PrP deposition of a granular nature in the h
 C57B L6 mice shared a similar deposition pattern to that of RIII mice with the distinctive CA 2 targeting of the hippocampus ( Fig . 2B , E , H and K ) .
 VM mice exhibited widespread fine punctate PrP deposition with pericellular deposits particularly in the thalamus , hypothalamus , midbrain and hippocampus ( Fig . 2C , F and I ) .
 Occasional PrP plaques were observed in the corpus callosum ( Fig . 2L ) and are a typical feature of vCJD in VM mice .
-
 When compared to previously - published 129MM vCJD transmissions associated with blood transfusion ( Bishop et al . , 2008 ) , there were a number of differences apparent in the MV and MM .
 These can be summarized as differences in attack rates ( clinical signs and TSE vacuolation ) , increases in incubation periods and changes in TSE vacuolation profiles .
 The differences in attack rates between spleen and CNS transmissions is thought to be as a result of differences in titre , with peripheral organs such as the spleen having lower titres .
 However , the differences between the MV and MM spleen transmissions particularly in the VM mice could also be due to the modification of strain characteristics due to different host PRNP codon 129 genotype between MM and MV
-
 Mouse subpassage of the MV and MM isolates defined strain characteristics
 Inconsistences are not unusual in primary passage to mice due to crossing the species barrier and further passage is required to establish if such differences truly represent strain differences .
 Because of the variation observed upon primary passage of the MV and MM isolates , mouse - to - mouse subpassages of the MV and MM ( CNS and spleen ) were undertaken in order to fully characterize the prion strain of the isolates .
@@ -146,17 +132,14 @@ Subpassage from Prnp mice
 A RIII or C57B L6 mouse which exhibited clinical signs and had positive TSE pathology was inoculated into the panel of wild - type mice and the strain characteristics analysed as above .
 Subpassage of the MV and MM ( CNS and spleen ) from both RIII and C57B L6 mice resulted in ∼ 100 % susceptibility in both clinical signs and TSE vacuolation .
 Incubation period rankings were of the order formtok ( identical those of the MM and MM ; however , there was a significant decrease in incubation time of the VM mice from the C57B L6 passage of the MM ( CNS ) compared to MV ( P < 0.001 ) and MM ( P < 0.01 ) ( Fig . 3 ) .
-
 TSE vacuolation profiles were consistent between experimental cohorts from the five isolates with vacuolation particularly noted in the hypothalamus ( G4 ) and septum ( G7 ) of RIII and C57B L6 mice ( Fig . 4A , B , G and H ) .
 There was minor variation apparent in the C57B L6 to C57B L6 passage from the MV where a peak in vacuolation intensity could be observed in the thalamus ( G5 ) ( Fig . 4H , indicated by an arrow ) .
 In VM mice , peaks in vacuolation intensity were in the medulla ( G1 ) , thalamus ( G5 ) and septum ( G7 ) ( Fig . 4C and I ) .
 However , the C57B L6 to VM passage from the MM ( CNS ) ( Fig . 4I ) had only two peaks in vacuolation intensity in the medulla ( G1 ) and thalamus ( G5 ) .
 There is minor variation in the MV when compared to the MM transmissions which could indicate that the strain has not yet stabilized , differences were also noted for the MM ( CNS ) .
-
 There was a widespread distribution of abnormal PrP deposition throughout the brain in all isolate / mouse line combinations predominantly of a diffuse nature ( Fig . 5A , E and I ) .
 This was observed to be more intense in the thalamus , medulla and hippocampus where the CA 2 region was targeted .
 PrP plaques were also present in all mouse lines / isolate combinations and were most commonly present in the cerebellum and corpus callosum but to a lesser degree in the MV subpassage .
-
 Subpassage from Prnp mice
 A VM mouse from each isolate exhibiting both clinical signs and TSE pathology was inoculated into the wild - type panel of mice and the strain characteristics analysed .
 Subpassage of MM ( CNS and spleen ) from VM mice gave between 87 and 100 % attack rates ( clinical signs and TSE vacuolation ) to each mouse line whereas the subpassage from the MV in VM mice exhibited lower attack rates .
@@ -177,7 +160,6 @@ When compared to the typical MM subpassages , MM and MM , the MM and MV both dem
 Unexpectedly , we observed differences in the MM ( CNS ) subpassage in incubation periods and rankings and TSE vacuolation profiles whereas the MM ( spleen ) was more consistent with the typical MM transmissions from CNS material .
 Of importance was that differences were observed in the MV subpassage in incubation periods and rankings and TSE vacuolation profiles .
 These changes in strain characteristics are unlikely to be due to source material ( spleen ) as we did not observe similar changes in the MM spleen and could be ascribed to genotype of this individual .
-
 Strain properties of the asymptomatic MV individual are identical to those of codon 129MM individuals
 As variation was still observed upon the first mouse - to - mouse subpassage , a second mouse - to - mouse subpassage was performed from the MV , MM ( CNS ) and the MM .
 These isolates were chosen as a number of variations had been observed in the MV and MM ( CNS ) subpassages , the MM was chosen as an example of a typical vCJD subpassage The stabilization of a prion strain can require multiple passages in the same host .
@@ -189,7 +171,6 @@ The incubation period of VM mice of the MM ( CNS ) in the C57B L6 subpassage inc
 TSE vacuolation profiles and PrP deposition patterns showed no differences between the three isolates ( Figs 4D - F , J - L and 5B , F and J ) .
 Biochemical analysis of PrP from the RIII to RIII subpassage showed the same glycoprofile between MV , MM ( CNS ) and MM with a dominant di - glycosylated fragment of ∼ 30 kDa and an unglycosylated band of 20 kDa similar to that of the type 2B glycoprofile observed from vCJD human brain tissue ( Fig . 6A , Supplementary 1 ) .
 These results indicate that the same strain of prion agent has been isolated from the MV , MM ( CNS ) and MM .
-
 Subpassage from Prnp mice
 The second subpassage through VM mice of the MV resulted in a change of the ranking observed in the first subpassage ( RIII < VM < C57B L6 ) ; with all three isolates now demonstrating the ranking formtok ( Fig . 3 ) .
 TSE vacuolation profiles of the three isolates in the VM to RIII and VM to C57B L6 subpassage followed the same vacuolation trend in each mouse line and these were near identical to the profiles resulting from the MM in the first subpassage ( Fig . 4P and Q ) .
@@ -202,7 +183,6 @@ Overall analysis of the strain properties of each isolate indicates that two sta
 These mouse - adapted strains are consistent with those identified previously in both 129MM vCJD and BSE ( 301C and 301V ) transmission studies ( Bruce et al . , 2002 ; Ritchie et al . , 2009 ) .
 The data presented here demonstrate that vCJD in an asymptomatic MV individual is of an identical strain to that identified in clinical vCJD individuals of the codon 129MM genotype .
 It also indicates human - to - human transmission through different host genotypes has not caused any strain adaptation and that the BSE / vCJD has remained constant .
-
 Discussion
 This study provides the first evidence that codon 129 genotype of the host does not influence the strain characteristics of vCJD .
 In light of the identification of a clinical MV case of vCJD and abnormal PrP deposition in appendixes of all codon 129 genotypes , this finding is important for public health .
@@ -234,6 +214,5 @@ We have demonstrated that vCJD strain properties have not been impacted by host 
 However , with the identification of a primary case of clinical vCJD in a 129 heterozygous individual and abnormal PrP in appendixes of all codon 129 genotypes it is clear that continued human surveillance is required to identify new cases of vCJD and recognize any differences in disease phenotype that could be indicative of changes to the prion strain .
 Strain characterization studies of the clinical case of primary vCJD in a codon 129 heterozygous individual are currently being undertaken .
 Any changes in prion strain could lead to changes in infectious properties , which is an immediate concern for public health and it is essential that we do not become complacent in our approach to these fatal diseases .
-
 Supplementary Material
 Click here for additional data file .

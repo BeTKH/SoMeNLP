@@ -92,20 +92,7 @@
 
 
 
-
-
-
-
-
-
-
-
 Version_of	3.1	43	1	SigmaStat	31	0;;Developer_of	Systat Software Inc.	63	3	SigmaStat	31	0;;
-
-
-
-
-
 
 
 
@@ -159,7 +146,6 @@ Extension_of	CS	97	2	Photoshop	85	1;;Version_of	8.0.1	105	3	Photoshop	85	1;;Deve
 
 
 
-
 Developer_of	Microsoft	107	0	Office Excel	117	1;;Release_of	2003	130	2	Office Excel	117	1;;Developer_of	Microsoft Corporation	137	3	Office Excel	117	1;;
 Version_of	9.0	97	1	SigmaPlot	87	0;;Developer_of	Systat Software, Inc.	115	3	SigmaPlot	87	0;;
 
@@ -170,25 +156,7 @@ Version_of	9.0	97	1	SigmaPlot	87	0;;Developer_of	Systat Software, Inc.	115	3	Sig
 
 
 
-
 Version_of	1.0	154	1	Satistix	141	0;;Version_of	95	172	3	Windows	162	2;;Developer_of	Analytical Software	177	4	Satistix	141	0;;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

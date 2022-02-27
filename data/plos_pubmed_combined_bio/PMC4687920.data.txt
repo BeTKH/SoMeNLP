@@ -4,7 +4,6 @@ Exclusion criteria were death within 2 months of diagnosis , and the parents ’
 The SCCR was granted ethical approval through the general cancer registry permission ( issued by the Swiss Federal Commission of Experts for Professional Secrecy in Medical Research ) and a non obstat statement was obtained from the ethics committee of the canton of Bern .
 For the survey on CAM use , ethical approval was not necessary at the time of the study conduction .
 Written informed consent was obtained by the participants .
-
 A German language questionnaire on CAM use was designed for the parents of children with cancer .
 It was based on published international studies and specifications of CAM use in Switzerland [1-3,15,16,18,19] .
 There were a total of 18 questions : six questions about socio - demographic background and conventional cancer treatment , followed by 12 questions about CAM use .
@@ -12,7 +11,6 @@ The questionnaire was tested for comprehensibility by 12 people ( six healthy ad
 On May 29th 2012 , the questionnaires were mailed to families with a cover letter , detailed study information and an informed consent form .
 Patients who did not return the informed consent and questionnaire within 6 weeks received a postal reminder .
 Along with the reminder , families who lived in the French speaking part of Switzerland received a second questionnaire in French .
-
 Definition and Assessment of CAM Use : There is no generally accepted definition of CAM [20] , but the one most commonly used was issued by the U .
 S .
 National Center for Complementary and Integrative Health ( NCCIH ) .
@@ -26,11 +24,9 @@ CAM users and non - CAM users were asked why they did or did not use CAM .
 CAM users were also asked if they had told the treating oncologist , their primary care physician , or pediatrician about the additional therapies they had used , and , if so , what the doctors reaction had been .
 Families were also asked if medical staff had informed them about CAM therapies when they discussed cancer treatment , and if they would have wanted to receive this information from their treating physician .
 The survey also asked if CAM users thought the therapies they tried were effective ( positive or negative effect , or both ) and asked them to specify the effects they attributed to CAM therapy .
-
 Assessment of Socio - demographic and Cancer - related Data : This study extracted baseline demographic data and prospectively collected medical information on diagnosis and treatment of patients from the SCCR , including age , gender , cancer diagnosis , age at diagnosis , cancer treatment , relapse , and time since diagnosis .
 The International Classification of Childhood Cancer , 3rd Edition ( ICCC - 3 ) was used to classify diagnoses [22] .
 Treatment was classified as surgical tumor resection ( yes / no ) , chemotherapy ( CTX ; yes / no ) , radiotherapy ( RTX ; none , body and limb irradiation , cranial and spinal irradiation ) , and bone marrow or peripheral blood stem cell transplantation .
-
 Results are presented as descriptive statistics , with percentages and 95 % confidence intervals ( 95 % CI ) .
 Characteristics of participants included into the analysis and of non - participants were compared with chi - square - tests ( gender , deceased at time of study , diagnoses ) and t - test ( age ) , accordingly .
 The Cochran - Armitage test for trend was used to assess if the proportion of patients told about CAM by medical staff had increased over the last decade .

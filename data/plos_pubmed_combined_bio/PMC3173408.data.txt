@@ -44,7 +44,6 @@ The questionnaire asked men to disclose having engaged in a range of criminal ac
 The nature of South African law meant that men could only be protected from possible legal repercussions through complete anonymity .
 To do this we had to keep no identifying information on interviewees , and this meant that we could not make return visits to offer HIV test results .
 HIV testing is free and widely available in South Africa and all men received a leaflet and were encouraged to go to their nearest clinic for HIV testing .
-
 Data were downloaded from the APDA memory cards and merged with the HIV test results .
 The resulting dataset provided a self - weighted sample .
 Analyses on participants who agreed to give blood ( n = 1229 ) were carried out using Stata 10.0 .

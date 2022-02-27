@@ -10,15 +10,12 @@ The survey included specific questions on strabismus and accommodation insuffici
 Patients with visual problems were discarded from the study .
 The children from the control group were recruited via two public schools showing no attention or conduct problems .
 All participants had normal or corrected - to - normal visual acuity .
-
 The children were given detailed instructions for the experiments .
 Before participating in the study written informed consent from the parents on behalf of the children enrolled in our study was obtained in accordance with the Helsinki Declaration .
 The study was approved by the Ethics Committee of the University of Barcelona and of Consorci Sanitari del Maresme .
-
 We used EventIDE ( Okazolab Ltd , London , UK ) for presenting the visual stimuli .
 The display resolution was 1024 x 768 pixels .
 The participants ’ position of gaze was monitored using a binocular remote eye - tracking system at a sample rate of 120 Hz ( T120 , Tobii Technology AB , Sweden ) .
-
 Participants sat in a dimly lit room of the hospital or schools , in front of the PC monitor at a distance of 40 - 60 cm .
 To have similar conditions lights were switched off and curtains closed .
 The eye tracker was positioned in such a way that ambient lighting did not affect the recordings .
@@ -28,7 +25,6 @@ As subject needed only to fixate centrally during the task , mapping gaze positi
 Before starting the task , all participants practiced with some cue and no - cue trials ( typically around 10 - 20 trials ) to become familiar with the task .
 In both groups ( ADHD and control ) a similar number of practice trials were offered .
 When they confirmed that they understood the task we ran the experiment .
-
 To assess orienting visual attention we used a paradigm in which participants were required to discriminate the emotion ( happy / sad ) of a cartoon face placed in the periphery .
 During the task children had to maintain fixation at a central cross .
 On half of the trials participants were informed of the location of the face stimulus by a central cue stimulus ( informative cue condition ) .
@@ -48,7 +44,6 @@ In the 2 face condition the emotion of the face disappeared at the end of the tr
 Participants had to respond by pressing a button to indicate whether the face was happy or sad .
 Feedback was not given to the observers .
 After the end of the trial a new one started automatically .
-
 We calculated the angle of vergence by transforming the eye recordings ( X and Y coordinates of both eyes ) into angular units through algorithms designed to calculate 3 - D components ( Sx , Sy , Sz ) of both eye gaze vectors .
 Sx , y , z are the three coordinates which represent the intersection point of the lines describing the line of sight of each eye .
 When these lines do not intersect this represents the midpoint of the smallest distance between them .

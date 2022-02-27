@@ -19,24 +19,19 @@ Studies with at least five sampling periods and 5,000 birds tested overall were 
 The baseline effort measure ( 5,000 birds ) was established to focus on studies with the largest comparable sample sizes .
 We restricted the sampling periods to maintain consistency of effort among studies in addition to sample size , and to limit the analysis to a manageable number of major studies .
 We also predicted cumulative unique subtype richness from GenBank by year from 1959 to 2012 .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0090826.t001 Overview of seven studies with at least 5,000 birds collected over at least five sampling events .
 1Unpublished data provided by Martin Gilbert 10 February 2013.2Richness estimated based on data thru 2007 , population prevalence based on data through 2009.3Sampling method was not reported but based on historical sampling patterns suggest it was cloacal .4Provided by Vincent Munster 21 December 2012 .
 These data excluded Ottenby Mallard data reported under Sweden .5Extended data provided by Meng - Chu Cheng 12 November 2012 .
 Bird families based on published data from Cheng et al . 2010.Positive samples used to calculate prevalence ( positive / total ) may not all have been fully subtyped .
-
 We used EstimateS v 8.2.0 [11] to generate a presence - absence accumulation function of subtypes and calculated the nonparametric estimate of subtype richness with 95 % confidence intervals using the Chao 2 estimate and 50 randomizations with replacement [6] .
 Bias - corrected Chao 2 was calculated unless the coefficient of variation for the incidence distribution was less than 0.5 , in which case Classic Chao 2 was calculated .
 We applied Chao ' s nonparametric estimator of sufficient sampling to calculate the minimum number of birds necessary to detect 75 % of the estimated asymptotic subtype richness [12] .
 A 75 % target was selected because reaching the asymptote is problematic [13] .
-Datasets are staged on the Knowledge Network for Biocomplexity repository ( http://doi.org/10.5063/F1HT2M7Q ) .
-
-ii .
+Datasets are staged on the Knowledge Network for Biocomplexity repository ( http://doi.org/10.5063/F1HT2M7Q ) . ii .
 We examined the attributes of the 50 studies and identified variables associated with richness that could be reliably extracted and analyzed as covariates .
 Our attempts to isolate measures of host diversity ( percentages of Anseriformes and Charadriiformes ) were hampered by data availability reducing the number of studies to 41 , but we were able to extract AIV prevalence and duration of study ( years ) .
 We used linear mixed models ( R library lme 4 , function lmer ) to examine the effects of interactions and to estimate the variance of subtype richness associated with region and selected the best model based on Bayesian Information Criterion ( Supplementary Table 3 ) .
-
 c .
 Sampling methods and ethic statements for data provided by co - authors : Samples from Sweden were collected from wild ducks at an important stopover site in the island of Oland ( 56 ° 12 ′ N 16 ° 24 ′ E ) located in the Northwest European flyway [14] .
 Breeding grounds of the duck populations using the site are Baltic countries and Northwestern Russia [15] .

@@ -34,7 +34,6 @@ Cells were ~ 93 % Cd 11b + and ~ 91 % Cd 45 + , confirming microglia enrichment 
 RNA extraction from microglia followed the Tripsin method using a total RNA Kit ( Omega Biotek , Norcross , GA ) and a DNase step to remove DNA contamination [11] .
 The Agilent 2100 Bioanalyzer with RNA Pico chip ( Agilent Technologies , Palo Alto , CA ) was used to assess RNA Integrity Numbers .
 RNA Integrity Numbers were > 9 in 90 % of the samples and > 7 in 100 % of the 48 samples .
-
 Identification of differential transcript isoform and gene expression : RNA libraries from individual mouse were sequenced using an Illumina HiSeq 2000 ( Illumina , San Diego , CA ) and 100nt long paired - end reads were obtained .
 Read quality control was implemented using FastQC [8,16] .
 Quality control analysis indicated that the Phred nucleotide quality score was > 30 across the length of the reads such that the read sequences were not trimmed .
@@ -45,10 +44,8 @@ Four comparisons were evaluated : two pairwise contrasts between BGG - challenge
 Results from genes with at least 10 mapped reads were considered .
 Multiple test adjustment used the Benjamini - Hoechberg false discovery rate ( FDR ) approach [20,21] .
 Genes exhibiting an FDR - adjusted P - value < 0.05 were considered differentially expressed .
-
 Identification of alternative splicing events : Alternative splicing events characterizing differences between groups ( i.e. , cell types or challenge level ) were identified using a quantitative approach [22] .
 Quantitative characterization considered genes detected in both groups , represented by at least two transcript isoforms , and with at least one transcript isoform differentially expressed between groups ( FDR - adjusted P - value < 0.05 ) between groups in one direction ( over - or under - expressed ) and the rest of the isoforms not differentially expressed or differentially expressed in the other direction .
-
 Identification of functional categories over - represented among gene profiles : Functional analyses of the transcript isoforms differentially expressed between BCG - challenge groups within cell types , between cell types within BCG - challenged groups , and of transcript isoforms expressed exclusively in one cell type were performed using hypergeometric testing and Gene Set Enrichment Analysis ( GSEA ) .
 These analyses allowed the identification of Gene Ontology ( http://www.geneontology.org/ ) biological processes , molecular functions , and Kyoto Encyclopedia of Genes and Genomes ( KEGG ) pathways ( http://www.genome.jp/org/ ) .
 The hypergeometric test was implemented in the Database for Annotation , Visualization and Integrated Discovery ( DAVID , http://david.abcc.ncifcrf.gov ) [23,24] .
@@ -58,7 +55,6 @@ The GO categories were clustered and the statistical significance of each cluste
 Functional annotation clusters were considered significant at Enrichment Score > 2 ( comparable to P - value < 0.001 ) using the Mus musculus genome as background .
 Gene Set Enrichment Analysis was implemented using the GSEA - P software package [29,30] .
 This approach offered functional insights complementary to DAVID based on the consideration of the expression profile of all the genes analyzed and annotations to the Molecular Signature Database ( MSigDB ) [31] .
-
 Interpretation of findings and discovery of differences in gene co - expression associated with BCG challenge or cell type were enhanced using network visualization .
 Networks were visualized using the BisoGenet plug - in [27,28,32] within the Cytoscape environment [24,33] .
 BisoGenet enabled the visualization of associations between genes detected in the present study using information from the SysBiomics repository .

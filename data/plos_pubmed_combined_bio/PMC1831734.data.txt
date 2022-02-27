@@ -2,7 +2,6 @@ The Avon Longitudinal Study of Parents and Children ( ALSPAC ) is a prospective 
 Briefly , 14,541 pregnant women living in one of three Bristol - based health districts in the former County of Avon with an expected delivery date between April 1991 and December 1992 were enrolled in the study .
 Detailed information has been collected using self - administered questionnaires , data extraction from medical notes , and linkage to routine information systems and at research clinics .
 Ethical approval for the study was obtained from the ALSPAC Law and Ethics Committee and Local Research Ethics Committees .
-
 All children who attended the 11 - year clinic were asked to wear an MTI Actigraph AM 7164 2.2 accelerometer ( Actigraph , http://www.theactigraph.com ) for seven days .
 The Actigraph is an electronic motion sensor comprising a single plane ( vertical ) accelerometer .
 The Actigraph is small and light and is worn around the waist .
@@ -12,7 +11,6 @@ Actigraphs were initialised for each child using an Actigraph Reader Interface U
 Children were asked to wear the Actigraph during waking hours and only to take it off for showering , bathing , or any water sports .
 Children were asked to record the times when they wore the Actigraph and time spent each day swimming or cycling , as the children did not wear the Actigraph when swimming , and the physical activity of cycling is not accurately recorded by the Actigraph .
 Actigraphs were returned by post and downloaded onto a PC using the Actigraph Reader Interface Unit and software .
-
 Body composition was measured at the 11 - year clinic .
 Height was measured with shoes and socks removed using a Harpenden stadiometer ( Holtain , http://www.fullbore.co.uk/holtain/medical/welcome.html ) .
 Weight was measured using a Tanita TBF 305 body fat analyser and weighing scales ( Tanita , http://www.tanita.co.uk ) .
@@ -20,7 +18,6 @@ BMI was calculated as weight ( in kilograms ) divided by height squared ( in met
 Fat mass and lean mass were measured using a Lunar Prodigy DXA scanner ( GE Medical Systems , http://www.gehealthcare.com ) .
 Trunk fat mass was estimated using the automatic region of interest that included chest , abdomen , and pelvis .
 The scans were visually inspected and realigned where necessary .
-
 Age was the age the child attended the 11 - year clinic .
 The 32 - week antenatal questionnaire asked the mother to record her highest education level , which was categorised into none / Certificate of Secondary Education ( CSE ) ( national school exams at age 16 ) , vocational , O level ( national school exams at age 16 , higher than CSE ) , A level ( national school exams at age 18 ) , or degree .
 She also recorded the occupation of both herself and her partner , which were used to allocate them to social - class groups ( classes I to V with III split into nonmanual and manual ) using the 1991 Office for Population Censuses and Surveys classification ; the lowest class of the mother and her partner was used in analysis .
@@ -33,7 +30,6 @@ Responses from the three trimesters were combined to create a variable for any s
 In the 30 - month questionnaire , the mother was asked how much time their child spent asleep at night ( grouped into < 10.5 or ≥ 10.5 hours ) , and in the 38 - month questionnaire she was asked how much time they spent watching TV per week ( grouped into ≤ 8 h or > 8 h ) .
 A puberty questionnaire was filled in by the child ' s carer ( usually the child ' s mother ) when the child was approximately 11 years old , which included questions on pubertal stage [21] .
 Pubertal stage for boys was based on pubic hair development , and for girls was based on the most advanced stage for pubic hair and breast development .
-
 Data from children who had worn the Actigraph for at least ten hours per day for at least three days were included .
 Two physical activity variables were used - total physical activity and time spent in moderate and vigorous physical activity ( MVPA ) .
 Total physical activity was the total volume of physical activity and included activities at different intensities .
@@ -47,7 +43,6 @@ This cut point was similar to that suggested recently in a study comparing diffe
 Associations with total physical activity were calculated per 100 cpm as this difference is of a similar order to the differences observed between boys and girls .
 The associations with MVPA were calculated per 15 minutes of MVPA , as current recommendations are that children spend 60 minutes a day in MVPA [22] .
 Quintiles of MVPA and total activity were also used to look for a dose response by fitting the quintiles in a continuous model .
-
 Means and standard deviations ( SDs ) were calculated for continuous variables , and proportions were calculated for categorical variables .
 We used t - tests and Chi 2 tests to compare differences between continuous and categorical values between children who provided physical activity data and those who did not .
 As MVPA , BMI , trunk fat , and fat mass had skewed distributions the median and interquartile range were calculated as summary measures , and logged BMI , trunk fat , and fat mass were used for calculation of the SD scores .
@@ -60,7 +55,6 @@ Previous studies have suggested that the association between physical activity a
 We therefore formally tested the association between total physical activity and fat mass for an interaction with gender .
 As there was evidence of interaction ( p = 0.005 ) , we have carried out all analyses in boys and girls separately , and quintiles were derived separately for boys and girls .
 All analyses were performed using Stata version 8 ( StataCorp , http://www.stata.com ) .
-
 We selected possible confounding factors that were available on the whole cohort that have been shown to be independently associated with obesity in previous analyses [26,27] .
 We used a series of models to explore the possible role of confounders .
 In model 1 ( minimally adjusted ) we adjusted for age , height , and height squared ( except for BMI ) to take account of differences in age and height .

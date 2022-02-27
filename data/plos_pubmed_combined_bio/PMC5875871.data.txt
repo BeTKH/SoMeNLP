@@ -8,7 +8,6 @@ These samples were immediately stored at - 80 ° C until RNA extraction .
 Micro - pestles ( Eppendorf ) were used to homogenize the egg samples , and total RNA was extracted from each sample using NucleoMag ™ 96 RNA Kit ( Macherey - Nagel ) on a Kingfisher Magnetic Extractor following the manufacturer ’ s guidelines .
 RNA concentration and purity were measured using a Nanodrop ND - 1000 spectrophotometer ( Thermo Scientific ) and total RNA concentration was adjusted to 20 ng / μ L with molecular grade water ( Fisher Scientific ) .
 The RNA was stored at - 80 ° C for further use .
-
 Experiment 2 : Survey of commercial population for virus transmission in eggs : A commercial population of 85 colonies headed by Italian - queens in five apiaries were surveyed for the DWV content of eggs at the beginning of beekeeping season with the kind permission of beekeeper .
 The apiaries belonged to a single migratory beekeeper near Mebane ( LEE ’ s BEES Inc , North Carolina , USA ) .
 These apiaries were in 10 km distance of the main honey bee station ( approximate location 36 ° 7 ' 6.4416 ' ' N 79 ° 15 ' 13.2768 ' ' W ) .
@@ -18,14 +17,12 @@ Fifty freshly laid eggs were carefully collected from worker size cells of newly
 The samples were transported on ice back to the laboratory where they were stored at - 80 ° C until RNA extraction .
 Eggs in each micro - centrifuge tube were homogenized using micro - pestles ( Fisher Scientific ) and total RNA was extracted with a standard Trizol ™ protocol [39] .
 The RNA concentration and purity were measured , adjusted and stored as above until further processing .
-
 Experiment 3 : Characterizing the mechanism of vertical transfer of DWV : Based on the results of the second experiment , five queens that laid DWV - infected eggs were transferred from the commercial beekeeping operation in Mebane , NC , to the UNCG apiary in Greensboro , NC ( 36 ° 5 ' 55.7448 ' ' N 79 ° 53 ' 21.4116 ' ' W ) , for further study .
 Queens were introduced to mini - hives ( Styrofoam ™ mating nucs , Mann Lake USA ) with empty newly - produced worker and drone cells to induce each queen to lay simultaneously fertilized and unfertilized eggs .
 Three samples of 50 eggs were collected from each queen in micro - centrifuge tubes : 50 eggs from worker size cells and two batches of 50 eggs from drone size cells .
 One batch of drone eggs remained unmanipulated , while the other one was surface - sterilized by immersion in 5 % bleach solution for five minutes followed by three rinses in sterile water [ 2 , 33 ] .
 All samples were stored at - 80 ° C until RNA extraction .
 The total RNA for each sample was extracted , its concentration and purity were measured , adjusted and stored as above until further processing .
-
 cDNA synthesis , qPCR assays and data analysis : Using the stored RNA from all three experiments , a two - step quantitative qPCR assay was carried out to quantify the DWV viral load in the samples .
 For each sample , cDNA was synthesized using the High Capacity cDNA Reverse - Transcription Kit ( Applied Biosystems ) .
 RNA template ( 10 μ L ) with a final concentration of 20 ng / μ L was added to 10 μ L of the provided cDNA master mix , followed by an incubation period as recommended by the manufacturer : 10 min at 25 ° C , 120 min at 37 ° C and 5 min at 85 ° C .
@@ -41,7 +38,6 @@ This procedure was followed by a final melt - curve dissociation analysis to con
 The primers used in this study ( Table 1 ) have previously been validated to detect the intended targets and are commonly used in honey bees [ 21 , 42 - 46 ] .
 Samples were deemed positive for a target if their melting temperature was similar to the melting temperature of the positive controls and a Ct value of 35 or lower was recorded .
 Our virus survey in the second experiment also screened for Sacbrood virus ( SBV ) and the Acute Bee Paralysis Virus complex ( AKI : Acute Bee Paralysis Virus , Kashmir Bee Virus , and Israeli Acute Bee Paralysis Virus ) to assess the co - occurrence of these viruses with DWV .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0195283.t001 Primers used to establish standard curves and analyze samples .
 Virus loads in each sample were quantified using absolute quantification methods based on standard curves obtained through serial dilutions of known amounts of amplicons as described before [21] .

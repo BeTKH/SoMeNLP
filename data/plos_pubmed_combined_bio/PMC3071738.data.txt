@@ -3,7 +3,6 @@ Here we investigate one such sheet , the Drosophila embryonic epidermis , and th
 We report that epidermal morphogenesis requires the proper distribution of the apical polarity determinant aPKC .
 Specifically , we find roles for the kinases GSK 3 and aPKC in cellular alignment , asymmetric protein distribution , and adhesion during the development of this polarized tissue .
 Finally , we propose a model explaining how regulation of aPKC protein levels can reorganize both adhesion and the cytoskeleton .
-
 Introduction
 Epithelial structures are generated when groups of cells respond to signals defining their fate and organization .
 One example occurs during the late stages of Drosophila epidermal development .
@@ -19,7 +18,6 @@ We investigated the function of aPKC in planar organization of the Drosophila em
 aPKC was enriched at the dorsal / ventral margins of epidermal cells .
 This distribution was regulated by the Wnt pathway component Glycogen Synthase Kinase 3 ( GSK 3 or Zw 3 ) .
 Through a genetic approach , we propose a role for GSK 3 in linking signaling , to polarity and adhesion .
-
 Results and Discussion
 The apical polarity protein aPKC is asymmetrically distributed in epidermal cells
 During the final stages of embryonic development , epidermal cells undergo a morphogenetic change that transforms a disorganized epithelium into a structured , aligned , and organized epidermis .
@@ -32,7 +30,6 @@ We investigated its role in morphogenesis by looking at aPKC mutant embryos , ho
 In aPKC mutants there was only a mild effect on denticles ( null or amorphic aPKC mutant , Fig . 1F ) , and similarly overexpression of aPKC showed little effect ( Fig . 1G compare to Fig . 1E ) [19] , [20] .
 This is likely due to an incomplete loss of aPKC protein in mutant embryos due to maternal RNA loading ( Fig . 1H shows aPKC protein present in aPKC null zygotic mutants even at late stages ) ; however , we were unable to analyze maternal mutants at late stages as they disintegrate during early gastrulation processes [18] .
 In order to overcome the weakness of the phenotype , we turned to GSK 3 mutants as loss of this kinase can enhance aPKC levels and activity [8] .
-
 GSK 3 regulates the asymmetric distribution of aPKC
 aPKC regulates adhesion , and its protein levels are regulated by GSK 3 phosphorylation and ubiquitin - mediated proteasomal degradation [8] .
 Based on this , we investigated whether GSK 3 ' s regulation of aPKC affects epidermal morphogenesis .
@@ -46,7 +43,6 @@ Cells were rectangular and asymmetry of markers was moderately maintained .
 Into these mutants we introduced GSK 3 mutations , and in neither case arm , GSK 3 ( Fig . 2 C - C ' ' ' ) , nor arm , GSK 3 ( Fig . 2 E - E ' ' ' ) did the additional mutation have an effect on epithelial patterning .
 To clarify whether markers were asymmetrically distributed , we quantified the fluorescent signals of Arm , aPKC and Dlg in mutant embryos and compared it to wild - type embryos ( Fig . 3 ) .
 These results suggested that although patterning is similar , cell shapes and asymmetry of markers appeared more disrupted in the arm , GSK 3 double mutants when compared to arm alone .
-
 Distinct roles of aPKC in apical - basal polarity and morphogenesis
 Although the arm mutant phenotypes were not considerably altered by loss of GSK 3 , the mild phenotype of the arm , GSK 3 double mutant provided a sensitized background in which we could further assess the role of aPKC in morphogenesis .
 We introduced aPKC null , zygotic mutations into both arm , GSK 3 ( hypomorphic arm and null GSK 3 both maternal and zygotic mutants ) and arm mutants . arm ; aPKC double mutants maintained some patterning , and while cell shapes were somewhat disrupted , cells appeared to align into rows ( Fig . 4A - B ) .
@@ -64,7 +60,6 @@ Again , similar to the mutants discussed above , we found that cells secreting d
 This effect was specific to GSK 3 mutants as neither expression of aPKC in otherwise wild - type embryos , nor in arm mutant embryos showed an effect on denticle organization ( Fig . 1G and not shown ) .
 Therefore , by differentially altering the levels of aPKC we find that aPKC performs multiple functions in cell polarity .
 One caveat is that since in aPKC the Par - 6 binding region is deleted , it is not restricted to the apical compartment through Par - 6 binding , therefore the effect we observe may occur in another cellular compartment .
-
 aPKC refractive to GSK 3 phosphorylation has morphogenesis defects
 To further investigate the interaction between aPKC and GSK 3 , we searched aPKC for GSK 3 consensus phosphorylation sites and found two putative target residues .
 We constructed a transgene of aPKC ( aPKC ) carrying point mutations at two predicted GSK 3 consensus sites ( S330A and T422A ) .
@@ -84,7 +79,6 @@ Drosophila embryos with a loss - of - function allele of aPKC develop normally t
 As shown in Fig . 6E , denticle organization defects due to loss of aPKC are mild , and are rescued by expression of both wild - type aPKC ( Fig . 6F ) and aPKC ( Fig . 6G ) .
 However , expression of aPKC leads to some denticle orientation defects ( Fig . 6H ) , although the severity is lower than that observed for GSK 3 mutants ( Fig . 5B ) .
 This is likely due to the mismatched nature of our genetic backgrounds with maternal and zygotic mutants used , but taken together the results suggest a role for aPKC phosphorylation in epithelial morphogenesis .
-
 A genetic model
 Previous studies have suggested roles for apical - basal polarity components in several planar polarity processes and stem cell divisions [26] , [27] , [28] , [29] , [30] .
 Our findings define roles for polarity determinants in planar polarity and epidermal cell morphogenesis .
@@ -101,7 +95,6 @@ For example , one recent study identified 42 direct phosphorylation targets [21]
 In order to study GSK 3 ' s interaction with aPKC , we blocked GSK 3 ' s best - studied function in canonical Wnt signaling , but this leaves many others .
 Despite this caveat , our findings are most simply explained through a role for GSK3in regulating epithelial morphogenesis through its interaction with aPKC .
 We cannot , however , exclude other explanations as we have not examined the roles of other GSK 3 targets .
-
 Materials and Methods
 Crosses and expression of UAS constructs
 Maternally mutant eggs were generated by the dominant female sterile technique [35] .
@@ -114,44 +107,26 @@ New aPKC constructs : we mutated two consensus GSK 3 ( Ser 330 and Thr 422 accor
 The UAS - aPKC consisting of amino acids 180 - 606 [25] was used for genetic crosses .
 All X - chromosome mutants use FRT 101 .
 The following crosses were conducted :
-
 zw 3 FRT 101 / ovoD 1 FRT 101
-
 arm FRT 101 / ovoD 1 FRT 101
-
 arm zw 3 FRT 101 / ovoD 1 FRT 101
-
 arm FRT 101 / ovoD 1 FRT 101
-
 arm zw 3 FRT 101 / ovoD 1 FRT 101
-
 arm zw 3 FRT 101 / ovoD 1 FRT 101
-
 arm FRT 101 / ovoD 1 FRT 101 ; aPKC / + X
-aPKC / + males
-
-arm zw 3 FRT 101 / ovoD 1 FRT 101 ; aPKC / + X
-aPKC / + males
-
-arm zw 3 FRT 101 / ovoD 1 FRT 101 ; hs - FLP ; arm - Gal 4 females X UAS - aPKC males
-
-arm FRT 101 / ovoD 1 FRT 101 ; hs - FLP ; arm - Gal 4 females X UAS - aPKC males
-
+aPKC / + males arm zw 3 FRT 101 / ovoD 1 FRT 101 ; aPKC / + X
+aPKC / + males arm zw 3 FRT 101 / ovoD 1 FRT 101 ; hs - FLP ; arm - Gal 4 females X UAS - aPKC males arm FRT 101 / ovoD 1 FRT 101 ; hs - FLP ; arm - Gal 4 females X UAS - aPKC males
 aPKC G13 FRT / OvoD 1 FRT G13 X
 aPKC G13 FRT / CyO males
-
 aPKC / CyO , twi - GFP ; daGAL 4 X
 aPKC / Cyo , twi - GFP ; UAS - aPKC ( WT , Δ N , AA ) males for zygotic mutant study in Figure 5 .
-
 X - chromosomes were marked with the yellow mutation to simplify analysis .
 Live GFP selection was used for second chromosome homozygous mutant selection .
 For all crosses more than 100 embryos were analyzed in multiple , separate experiments ( n > 100 ) .
-
 Antibodies and Immunofluorescence
 Embryos were fixed with Heat - Methanol treatment [36] or with heptane / 4 % formaldehyde in phosphate buffer ( 0.1 M NaPO 4 pH 7.4 ) [23] , [37] , [38] .
 The antibodies used were : anti - Dlg ( mAb 4F 3 , Developmental Studies Hybridoma Bank ( DSHB ) developed under the auspices of the NICHD and maintained by The University of Iowa , Department of Biological Sciences , Iowa City , IA 52242 ) , α - Catenin ( ratAb Dcat 1 DSHB ) , anti - Armadillo ( mAb N2 7A 1 , DSHB ) , rabbit anti - Armadillo [39] , rabbit and goat anti - aPKC ζ , and anti - phospho - tyrosine pY 99 ( Santa Cruz Biotechnology ) .
 Immunofluorescence , detection and image processing as described in [10] .
-
 Western Blotting
 Embryos were lysed in extract buffer ( 50 mM Tris pH 7.5 , 150 mM NaCl , 1 % NP - 40 , 1 mM EDTA , 10 % Glycerol , Complete Mini Protease , Sigma ) .
 The extracts were separated by 7.5 % SDS - PAGE , and blotted as described in Peifer et al . ( 1994 ) .
@@ -163,7 +138,6 @@ aPKC phosphorylation was assayed as described in [27] .
 HeLa cell transfections were performed by standard methods .
 aPKC full length and aPKC were recombined into pDEST 40 a vector with 6XHis and V 5 tags as C - terminal fusions ( Invitrogen ) .
 Proteins were immunoprecipitated with the V 5 antibody ( Invitrogen ) , and subjected to kinase assays as above .
-
 Fluorescence Quantification
 The intensity of fluorescent staining was measured similar to the procedure used in Harris and Peifer , 2007 [20] .
 Mean intensity was calculated using Image J software ( NIH ) for lines that were 1.5 - 3.0 microns in length at the dorsal - ventral and anterior - posterior edges of cells in denticle - producing rows 2 - 5 .

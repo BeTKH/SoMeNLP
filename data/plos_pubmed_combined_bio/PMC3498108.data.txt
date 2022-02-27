@@ -11,7 +11,6 @@ The Kiddie Schedule for Affective Disorders and Schizophrenia for School Aged Ch
 Exclusion criteria in ADHD and controls were the presence of psychiatric co - morbidity , history of prematurity , current and past medical and neurological disorders and contraindications to MRI .
 All children were living in a family home and were attending normal primary schools , without educational problem , and had a scale IQ above 85 as measured by the age - appropriate Weschler Abbreviated Scale of Intelligence , WASI [48] .
 Finally , all children were naive for any medication and had never been treated with any psychotropic drug during lifetime .
-
 WM performance and underlying cerebral activity were measured using a verbal N - back task under two different conditions [5] , [9] .
 In both cases , stimuli were black numbers ( Arial font , size 74 ) displayed on a white background on the centre of the screen , successively presented in pseudo - random order .
 In the vigilant / control 0 - back ( N0 ) condition , subjects had merely to press a button with the right hand whenever the number “ 2 ” was displayed .
@@ -24,7 +23,6 @@ All participants performed the whole task outside of the fMRI environment once b
 During the fMRI session , stimuli were projected on a translucent screen that was seen via a mirror fixed to the head coil and located in front of the subject , and responses were made with the right hand on a commercially available MRI compatible keypad system ( fORP ; Current Design , Vancouver ) connected with a PC .
 The timing of MR image acquisitions and stimuli presentations was synchronised using the clock signal of the MRI scanner .
 Head stabilization was achieved using a head - restraining foam and MR scanner noise was attenuated using foam earplugs and headphones .
-
 fMRI Data Acquisition and Image Analysis : Data were acquired on a Philips Achieva 3 - T ( Philips Medical Systems , Best , the Netherlands ) scanner using a T2 * sensitive gradient echo ( EPI ) sequence ( TR = 2130 ms , TE = , 40 ms , FA 90 ° , SENSE acceleration factor 2.5 , matrix size 64 × 64 × 32 ; voxel size : 3.06 × 3.06 × 3 mm 3 ) .
 Thirty - two contiguous transverse slices were acquired , covering the whole brain .
 Anatomical images were obtained using a T1 - weigthed sagittal 3D TFE sequence ( TR 1960 ms , TE 4.60 ms , TI 1040 ms , flip angle 8 ° , FOV 250 × 250 mm 2 , matrix size 320 × 320 × 160 , interpolated voxel size : 0.78 × 0.78 × 1.0 mm ) .

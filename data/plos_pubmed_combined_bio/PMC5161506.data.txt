@@ -1,16 +1,13 @@
 This study was approved by the Human Research Ethics Committee of the National Center for Global Health and Medicine ( NCGM ) , Tokyo , Japan ( G - 002009 - 00 ) .
 The study protocol did not require written informed consent since the study only used data of anonymized patients obtained from a routine practice and from stored serum samples , which were obtained with written informed consent [7] .
 The study was conducted according to the principles expressed in the Declaration of Helsinki .
-
 The AIDS Clinical Center , NCGM , Tokyo , was established in 1997 and had accumulatively registered approximately 4000 patients [6] .
 Considering that the total reported number of patients with HIV - 1 infection in Japan is 27,413 by the end of 2015 , this clinic treats approximately 15 % of the HIV - 1 infected patients in Japan [3] .
-
 The study population was HIV - 1 - infected MSM who visited our clinic for the first time between January 2008 and December 2013 .
 The following exclusion criteria were applied ; 1 ) patients who visited the clinic for a second opinion or those who were referred to other facilities on their first / second visit , because some baseline data were likely missing and the follow - up period was short in these patients , 2 ) patients younger than 20 years of age , because the Ethical Guidelines for Medical and Human Research Involving Human Subjects published by the Japanese Ministry of Health , Labour and Welfare require a written consent by parents / guardians for patients under age of 20 and it is impractical to obtain such consent for this study .
 Based on the results of baseline data analysis , we also excluded the following patients ; 3 ) patients who had a confirmed active syphilis at baseline based on serum Rapid Plasma Reagin ( RPR ) titer ≥ 1 : 8 and positive Treponema pallidum Latex Hemagglutination Assay ( TPHA ) [8] , and 4 ) patients who lacked follow - up syphilis test .
 At our clinic , the follow - up syphilis tests were generally performed at least every year and at the discretion of the treating physician .
 The study patients were followed up until December 31 , 2015 .
-
 Serum Rapid Plasma Reagin test ( RPR ) [ “ Sankoh ” ( EIDIA Co , Tokyo ) ] , Treponema pallidum latex hemagglutination assay ( TPHA ) , CD 4 cell count ( categorized into 3 groups : CD 4 count < 200 / μ L , 200 - 349 / μ L , and ≥ 350 / μ L ) , HIV - 1 viral load , hepatitis C antibody ( HCVAb ) , hepatitis B surface antigen ( HBsAg ) , core antibody ( anti - HBc ) , surface antibody ( anti - HBs ) , and anti - Entamoeba histolytica antibody ( anti - Eh ) are performed routinely for each patient on the first visit to our clinic .
 History of syphilis was defined as baseline positive TPHA and RPR titer < 1 : 8 .
 Exposure to hepatitis B virus ( HBV ) was defined as those either with positive HBsAg , anti - HBs , or anti - HBc [6] , because in Japan , universal HBV vaccination is not conducted , except for health care professionals [9] .
@@ -28,7 +25,6 @@ Incident syphilis was classified into early syphilis ( including primary , secon
 We used the standard definitions for stages of syphilis ; early latent being asymptomatic syphilis that was confirmed to be infected within a year from diagnosis , late latent being asymptomatic syphilis confirmed to be infected more than a year before diagnosis , and syphilis with unknown duration being asymptomatic syphilis that could not be classified into either early latent or late latent [11,12] .
 The date of development of incident syphilis was defined as the day of clinical diagnosis for patients with early syphilis .
 For patients who developed late or neurosyphilis or those diagnosed with syphilis based on stored serum samples , stored samples were backwardly tested for syphilis using samples collected every three months to determine the day of the first positive syphilis result , and thence the date of development of incident syphilis .
-
 The study patients were categorized into two groups ; patients with incidence syphilis and those without syphilis .
 The incidence of syphilis was calculated by dividing the number of incident syphilis by person - time at risk .
 Person - time represented the time from the first visit to the date of incident syphilis as described above in patients who developed incident syphilis , and to the last negative syphilis test in patients without incident syphilis .

@@ -17,6 +17,4 @@
 
 
 
-
-
 Version_of	12.1	52	1	Stata	46	0;;Developer_of	StataCorp LP	59	2	Stata	46	0;;

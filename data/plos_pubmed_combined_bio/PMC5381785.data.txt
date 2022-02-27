@@ -14,7 +14,6 @@ Given state s , action a , reward r and next state s ′ , it is possible to app
 However , the combinatorial explosion of the number of possible states in even a modest - size environment makes this table based implementation of Q - learning unfeasible .
 This problem can be partially overcome by function approximation methods .
 Instead of storing each Q - value , their aim is to learn a function that maps state - action pairs to their respective Q - values .
-
 Deep Q - network ( DQN ) builds on standard Q - learning by approximating the Q - function using a non - linear neural network .
 The neural network , parametrized by θ , is trained to minimize the loss function : L ( θ ) = E [ ( r + γ maxa ′ Q ( s ′ , a ′ ; θ ′ ) target - Q ( s , a ; θ ) prediction ) 2 ] ( 3 ) Notice that the formula closely reassembles the iterative update rule of the Bellmann equation mentioned above ( Eq 2 ) .
 Essentially , the goal is to minimize the difference between the current estimation of the Q - value ( prediction ) , and an updated estimate ( target ) that combines the obtained reward and an estimation of the quality of the next state .
@@ -31,41 +30,33 @@ However , this is an open research area and theoretical guarantees for multiagen
 In practice the simplest method consists of using an autonomous Q - learning algorithm for each agent in the environment , thereby using the environment as the sole source of interaction between agents .
 In this work we use this method due to its simplicity , decentralized nature , computational speed , and ability to produce consistent results for the range of tasks we report .
 Therefore , in our tests each agent is controlled by an independent DQN with architecture and parameters as reported in [7] .
-
 Adaptation of the code for the multiplayer paradigm : We needed to introduce several adaptations to the original code published with [7] to allow training multiple agents simultaneously .
 These changes are summarized in supplementary information ( SI ) section .
-
 We chose to use the Pong game environment in our study for reasons summarized in the SI .
 In short , there are three advantages for illustrating our results with Pong : i ) the Pong game has a real - time two player mode , ii ) DQNs are good in Pong and iii ) the game is well - known and can be easily understood by the reader .
 In Pong each agent corresponds to one of the paddles situated on the left and right side of the screen ( see screenshots in Results section ) .
 There are 4 actions that each of the two agents can take : move up , move down , stand still , and fire ( to relaunch the ball or to start the game ) .
 Which action is taken is decided by the corresponding DQN for both agents separately .
-
 A central aim of this work is to study the emergence of different types of collective behavior depending on how the agents are rewarded .
 We adjust the rewarding scheme by simply changing the reward ρ a player receives when putting the ball past the opponent ( when scoring ) .
 This essentially means , that we change the values on the main diagonal of the payoff matrix , given in Table 1 .
 The reward for conceding is kept fixed at - 1 .
 This way we are able create several different games within the same Pong environment .
 Examples of the used rewarding schemes are given in the following subsection * s .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0172395.t001 Rewarding schemes to explore the transition from competitive to the cooperative strategy .
 For the cases we study ρ ∈ [ − 1 , 1 ] .
 Example : with ρ = − 0.5 , when the left player scores , it receives − 0.5 points and the right player receives - 1 points .
-
 Score more than the opponent ( fully competitive ) : In the traditional rewarding scheme of Pong , also used in [7] , the player who scores a point gets a positive reward of size 1 ( ρ = 1 ) .
 The player conceding a point is penalized with a reward of - 1 .
 This makes it essentially a zero - sum game , where a positive reward for the left player implies a negative reward of the same size for the right player and vice versa .
 Notice that ρ = 1 is the only case where the rewards of the two players sum up to zero , for all ρ < 1 the sum of rewards is negative .
-
 Loosing the ball penalizes both players ( fully cooperative ) : In this setting we want the agents to learn to keep the ball in the game for as long as possible .
 To achieve this , we penalize both of the players whenever the ball goes out of play - both scoring and conceding lead to a punitive reward of − 1 ( ρ = − 1 ) .
 Which of the players lets the ball pass does not matter and no positive rewards are given .
-
 Transition between cooperation and competition : The above two rewarding schemes define fully competitive and fully collaborative tasks .
 To study the behavioral patterns lying between these two extremes we gradually reduce the reward difference between scoring and conceding .
 The reward for conceding is kept fixed at - 1 , while a set of intermediate values are given to the ρ parameter .
-
 In all of the experiments we let the agents learn for 50 epochs , 250000 time steps each .
 We limit the learning to 50 epochs because the Q - values predicted by the network have stabilized ( see S1 Fig ) .
 Due to using a frame skipping technique the agents see and select actions only on every 4th frame [7] .
@@ -78,7 +69,6 @@ To guarantee a fair comparison between different rewarding schemes , we need the
 Rewards are the signal that agents use to evaluate their performance and that they learn from .
 For each scheme , we multiply the rewards with a normalization coefficient so that the sum of their absolute values would be equal .
 The rewarding schemes and the normalization coefficients are listed in S1 Table .
-
 To obtain quantitative measures of the agents ’ behavior in the Pong environment , we identified and counted specific events in the game , e.g. bouncing of the ball against the paddle or the wall .
 We used Stella [16] integrated debugger to detect the memory locations containing information about these events .
 Based on these counts we defined a set of behavioral metrics listed below .

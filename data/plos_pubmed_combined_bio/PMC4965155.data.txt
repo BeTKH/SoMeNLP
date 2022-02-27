@@ -25,7 +25,6 @@ Sites ( administrations , corporations , associations ) : Terra Femina ( Fr ) , 
 Boundaries between the chosen categories are complex and porous .
 The choice of these categories nevertheless proved to be useful for analysing the circulation of the PLOS ONE article in the Internet media sphere .
 Each type of site has , by its nature , a specific editorial line , a different editorial status engaged ( the expert - researcher , the journalist or the amateur ) , distinct reader agreements [24] and various ways to appropriate and process information .
-
 To complete this analytical table , we designed a thematic classification to analyse the editorial treatment of the PLOS ONE article citations .
 Depending on the site , we observed two distinct editorial choices : in the first case , the change in the catfish feeding behaviour was highlighted while , in the second case , the oddness of the information or even problematic fishing policies were underlined .
 Seven themes were identified , some of which were broken down into the following sub - themes : General information ( News ) : 20min ( FR ) , Canal plus ( FR ) , Fark.com ( US ) , Grist ( US ) , The connexion ( GB ) , French News Online ( GB ) , etc .
@@ -38,7 +37,6 @@ For example , some media were not present in the whole corpus .
 This was the case for academic sites such as the CNRS or University Paul Sabatier , for which there are no equivalents in the United States or Great Britain .
 Likewise for the “ Science and Technology ” theme , which was not represented in Great Britain .
 This element led us to develop thematic categories not from the way the contributors themselves defined the themes of their websites , but rather through a content analysis of our corpus websites .
-
 The corpus disparity among the three countries analysed and the geographical anchorage of the contents of the scientific article led us to treat US , British and French documents differently .
 On the basis of the variety of information we found , as explained above , we developed a comparative analysis of the circulation of the original information in all three countries , exploring the date of publication , the previously defined categories and , finally , the number of sites citing the original article .
 Then , we conducted a qualitative analysis of the French corpus , involving content analysis tools with a specific focal point .

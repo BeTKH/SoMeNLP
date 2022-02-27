@@ -5,7 +5,6 @@ The study protocol and the olfactory test procedures were illustrated to DS indi
 Control subjects were recruited through public advertisement .
 All investigations were carried out in accordance with the Helsinki Declaration and the protocol was approved by the relevant IRB at the University of Verona ( Prot . N . 102 , 3rd April 2012 , TIT .11 / 9 ) .
 Prior to olfactory testing all participants were asked to rate their olfactory function and the answer ( better than normal , normal , less than normal ) was registered .
-
 Olfactory testing was carried out in a well - ventilated room using the “ Sniffin ’ Sticks ” Extended test ( Burghart , Wedel , Germany ) .
 This is a test of nasal chemosensory performance based on pen - like odor dispensing devices with a felt - tip ( length 14 cm , diameter 1.3 cm ) .
 Instead of liquid dye , the pen ' s tampon is filled with 4 ml of a given liquid odorant or odorant dissolved in propylene glycol .
@@ -43,7 +42,6 @@ This scale consists of six verbal and five performance subtests .
 The verbal tests are : Information , Comprehension , Arithmetic , Digit Span , Similarities , and Vocabulary .
 The Performance subtests are : Picture Arrangement , Picture Completion , Block Design , Object Assembly , and Digit Symbol .
 Thus , a Verbal Intelligence Quotient ( VIQ ) , Performance Intelligence Quotient ( PIQ ) , and full scale IQ were available ( TIQ ) .
-
 Normal distribution of the data was assessed using the Shapiro - Wilk test .
 The following variables were approximately normally distributed : discrimination , identification , and TDI .
 Threshold , VIQ , PIQ , and TIQ variables had a non - normal distribution ; accordingly , nonparametric statistical methods were adopted in the analysis of these variables .

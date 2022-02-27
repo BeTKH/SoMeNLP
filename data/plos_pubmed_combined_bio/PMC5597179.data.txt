@@ -8,7 +8,6 @@ Despite our call , 170 participants were under 18 years old and were consequentl
 This left 2705 participants ’ data for analysis .
 Out of these , 1026 ( 36 % ) intentionally pulled their hair , 2289 ( 85 % ) bit their nails and 1198 ( 44 % ) intentionally picked their skin at least once during their life .
 Only those participants who reported to have done the given behaviour at least once were offered to fill out the appropriate grooming questionnaire .
-
 TTM was assessed by the Massachusetts General Hospital Hairpulling Scale ( MGH - HPS ) .
 The most widely used TTM instrument , the MGH - HPS is based on the Yale - Brown Obsessive - Compulsive Scale ( Y - BOCS ) [44] .
 The MGH - HPS has previously demonstrated strong test - retest reliability ( r = 0.97 ) [45] .
@@ -21,7 +20,6 @@ The SPS contains eight factors covering impairment and symptom severity .
 The instrument demonstrated acceptable internal consistency in the current sample ( α = 0.88 ) .
 Considering the lack of clinically adapted nail - biting questionnaires in the literature and in order to comply with the previous questionnaires used in the current study ( the MGH - HPS and SPS ) , we adapted the SPS to measure the severity of NB .
 The NB scale ( NBS ) performed acceptable internal consistency ( α = 0.77 ) and can be found in the S1 File .
-
 Impulsivity was measured by the modified Barratt Impulsiveness Scale ( BIS [46] , ) .
 The 21 - item questionnaire has three first - order factors : self - control , impulsive behaviour and impatience .
 Items are rated 1 to 4 .
@@ -40,7 +38,6 @@ The 26 items assessing CSE are measured on a scale from 1 to 4 , with higher sco
 CSE contains two subscales , competence - based and relation - based self - esteem .
 The scale was translated to Hungarian in the same way as the MGH - HPS .
 Cronbach ’ s alpha was 0.93 .
-
 Confirmatory factor analysis with Mplus version 7.3 [51] was used to estimate the degree of fit for each grooming measure ( TTM , SP and NB ) .
 Four models were tested .
 Model 1 consisted of correlating first - order factors ( TTM , SP and NB defined as latent factors ) .
@@ -58,6 +55,5 @@ Missing data was excluded listwise .
 The multiple indicators and multiple causes ( MIMIC ) modelling technique , a specification of structural equation modelling , was chosen for the present study [56] .
 We opted for this technique because MIMIC models can estimate the effect of indicators on latent variables when the direct effects of continuous variables on the latent variables are also included .
 In addition , MIMIC modelling is suitable to validate a construct via reflective modelling [57] .
-
 The study protocol was approved by the Institutional Review Board of Eotvos Lorand University and conforms to the Declarations of Helsinki .
 All participants were informed about the purpose of the study and provided written consent before filling out the questionnaire .

@@ -10,7 +10,6 @@ Individuals were culled at 200 days of age , with their combs surgically removed
 The F8 - L13 cross used in this study was generated in 5 batches and reared at the research station of Linkoping University , Sweden .
 Pens for these animals were 2 m × 2 m and comprised of three separate levels , perches and food were once again supplied ad libitum .
 Animals were culled at 212 days of age , with the comb surgically removed post - mortem and weighed , and both femoral bones extracted .
-
 A total of 640 F2 individuals were used for the comb mass analysis , consisting of 308 males and 332 females .
 Of these , 543 of the individuals were also measured for a variety of bone morphology traits ( 245 males and 298 females ) .
 The WL - OS strain was originally isolated as a model of Hashimoto ' s thyroiditis , as they suffer from hypothyroidism and therefore require thyroxin to be provided in a food supplement ( 500 μ g / kg food ) ( Levaxin Tablets , Nycomed AB , Sweden , were administered to all but one batch until 180 days of age ) .
@@ -20,7 +19,6 @@ No significant correlations were found , and additionally the majority of the QT
 If any comb loci were caused by thyroiditis this would be expected to be the reverse , so we have good cause to consider these QTL are due to generic WL - strain based differences .
 Animals were culled at 200 days of age .
 The animal experiments were approved by the ethical committee for animal experiments in Goteborg , Sweden , no . 55 - 2005 and 233 - 2006 , and by the ethical committee for animal experiments in Uppsala no . 2008 - 12 - 19 , C321 / 8 .
-
 A total of 447 F8 individuals were assayed for comb measurements ( 216 males and 231 females ) .
 These individuals were generated from a total of 107 families using 122 F7 individuals ( 63 females and 59 males ) .
 Average family size 4.7 + / − 3.1 ( mean , standard deviation ) .
@@ -29,15 +27,12 @@ Of the F8 individuals , a total of 41 males were used as the basis of a qPCR exp
 These individuals came from two of the five batches used to produce the F8 .
 Additionally , 20 females were used as the basis for a qPCR experiment using diaphyseal medullary bone ( 10 of each homozygote class , though one had no metaphyseal CT bone measurements , reducing the correlation with bone density to 19 individuals ) .
 The study was approved by the local Ethical Committee of the Swedish National Board for Laboratory Animals .
-
 A total of 352 males and 122 females were used in this analysis , with these QTL already detailed in [8] , .
-
 The right femoral bone of each F2OS and F8L 13 individual was measured using a Peripheral Quantitative Computerised Tomography ( pQCT ) machine ( Stratec XCT - Research SA machine , Stratec Medizintechnik , Germany ) , with two sections taken at 6 % ( metaphyseal ) and two at 50 % ( diaphyseal ) of the total femoral length .
 Cortical bone was measured using the CORTMODE 1 setting , with a density threshold of > 1000 mg / cm 3 .
 Cortical measures were cortical area , cortical bone content , cortical thickness and cortical density .
 Medullary measures were recorded using the PEELMODE 2 function , using an inner threshold of 1000 mg / cm 3 to separate cortical from medullary bone and gives total density , total bone content and total area of the endosteal cavity measures .
 An additional inner threshold of 150 mg / cm 3 in a combination of two PEELMODE 2 gives the medullary area , medullary density and medullary bone content .
-
 Two separate fecundity trials were performed .
 Initially birds were housed individually and eggs were collected daily over a two - week period .
 The second trial was performed immediately after the first and was identical except birds were given two dummy eggs to incubate and were allowed to keep all eggs laid over a two - week period .
@@ -45,11 +40,9 @@ At the end of each trial , number of eggs produced , total weight of eggs produc
 Chickens which are actively brooding ( incubating ) their eggs will stop producing eggs when a clutch size of around 6 - 8 eggs has been produced , whilst domestic layers will continually produce eggs and never go into such brooding behaviour .
 Therefore one method for ascertaining if an individual is brooding will be to deduct the total number of eggs produced in the first trial from the number of eggs produced in the second trial .
 Negative values therefore indicate that an individual is decreasing egg production when allowed to build up a clutch .
-
 To analyse phenotypic correlations between comb mass and bone characteristics in the F2OS and F8L 13 crosses , a GLM was fitted for each individual bone trait measured and included batch and sex fixed effects and weight at slaughter as a covariate .
 All significantly correlated bone measures were then combined into a global model .
 The significance values of each measure was then ascertained in this global model .
-
 The clustering test was performed using a permutation test based on the total length of the chicken genome ( 1.09 Gb ) , which then had a number of regions equal to the number of QTL detected in the F2OS and F8L 13 cross randomly distributed along it .
 The size of these regions was equal to the average C.I . of QTL from the F2 - OS cross ( 15 Mb ) and the F8L 13 cross ( 5 Mb ) , and tested against the observed number of overlaps between the F2OS and F8L 13 ( 6 ) .
 The F2L 13 cross was not used in this analysis , as 4 of the 5 QTL detected in this cross were strongly replicated in the F8L 13 and their inclusion could artificially inflate the degree of replication observed between the two different cross populations .
@@ -57,7 +50,6 @@ This was repeated 1000 times , with the number of overlaps recorded each time us
 A similar procedure was used to predict the probability of selective sweeps occurring within the overlap regions .
 In this instance the total number of sweeps detected ( 133 ) and the six overlap regions were used , based against the observation that 13 sweeps were observed within the six 6 Mb overlap intervals .
 When calculating the overlap regions , an extra 1 Mb was added to the region size upstream and downstream , in case using only the overlap between the OS and L13 crosses gave an artificially small region .
-
 DNA preparation for both crosses was performed by Agowa GmbH ( Berlin , Germany ) , using standard salt extraction .
 A total number of 347 SNPs and 20 microsatellite markers were used for the OS cross , with the marker map generated using Crimap [54] , covering ∼ 2535 cM , with an average marker spacing of ∼ 7.5 cM .
 For the F8L 13 cross , 652 SNP markers were used to generate a map of length ∼ 8760 cM , with an average marker spacing of ∼ 15 cM .
@@ -65,7 +57,6 @@ QTL analysis was performed using QTL Express ( http://qtlcap.ed.ac.uk ) , qxpak 
 Interval mapping was performed using additive and additive + dominance models .
 Batch and sex were always included in the model as a fixed effect , whilst bodyweight at slaughter was included as a covariate .
 To account for a particular QTL varying between the sexes , a sex - interaction analysis was also performed .
-
 Significance thresholds for both crosses were calculated using permutation tests [57] , [58] , however these values differed greatly between the two study populations due to the massively increased number of recombinations in the F8L 13 population ( as reflected in the inflated map size ) and also to account for possible family effects in this population .
 A suggestive significance level of a genome - wide 20 % threshold was used ( mainly due to being more conservative than the standard suggestive threshold suggested by Lander and Kruglyak [59] ) .
 For the F2OS cross , additive + dominance effects had a suggestive threshold of around ∼ 3.0 and a significant threshold of ∼ 3.9 , depending on the trait , whilst additive + dominance sex interaction models had a suggestive threshold of ∼ 3.8 LOD and a significant threshold of ∼ 4.6 LOD .
@@ -82,7 +73,6 @@ In this instance , only one family out of 107 was significant ( p = 10 − 6 ) ,
 Furthermore to generate the significance thresholds we also used a family factor included in the permutation model , which resulted in greater thresholds .
 The threshold without family as a factor was LOD 3.4 for a suggestive threshold and LOD 4.15 for a significant threshold .
 With family included as a cofactor , a suggestive threshold was 4.55 and a significant threshold was 5.4 was obtained .
-
 Comb base RNA was isolated with Ambion TRI reagent ( Applied Biosystems , Carlsbad , CA , USA ) , following the manufacturer ' s protocol .
 After removal of the comb , a part of the forehead was frozen in liquid nitrogen .
 Frozen comb base tissue was removed with a razor and disrupted with a hammer and bag .
@@ -94,7 +84,6 @@ After cycling , products were melted by ramping the temperature from 72 ° C to 
 qPCR data was analysed with the comparative Δ Δ Ct method [62] .
 Target gene threshold cycle values were normalized by subtracting the geometric mean value of three reference genes , β 2 microglobulin , TATA box binding protein , and RNA polymerase II subunit C1 .
 A batch effect ( due to individuals coming from two of the five batches comprising the cross ) was included in the General Linear Model analysis , as well as weight at slaughter for all individuals , when comb mass was included in the model .
-
 To ascertain the effects of differential gene expression from the two candidate genes in the QTL interval on the phenotypic trait , the gene expression levels ( described above ) were used in a linear model .
 The initial model to test gene expression was y ( comb mass ) = mean + batch + weight at slaughter + expression level ( called either HAO 1 or BMP 2 in the model column in Tables 1 and 2 ) .
 To test the effect of this on genotype an additional QTL genotype factor was added ( model HAO 1 + QTL and BMP 2 + QTL in Tables 1 and 2 ) .

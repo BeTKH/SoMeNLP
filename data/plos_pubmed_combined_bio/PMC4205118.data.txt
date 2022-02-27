@@ -1,6 +1,5 @@
 We used hospital discharge data in a retrospective multilevel analysis of individual risk of cesarean section across hospitals .
 Data for this analysis were de - identified , and as such , the study was granted exemption from review by the University of Minnesota Institutional Review Board ( study number 1011E 92980 ) .
-
 We used data from the 2009 and 2010 Nationwide Inpatient Sample ( NIS ) from the Healthcare Cost and Utilization Project ( HCUP ) by the Agency for Healthcare Research and Quality ( AHRQ ) .
 The NIS is an all - payer inpatient claims database designed to approximate a 20 % stratified sample of US hospitals [25] .
 While it contains only administrative data , not clinical information , it is one of the most comprehensive national sources of information on hospital - based care in the US and has been regularly used in health services research [26] - [28] .
@@ -12,7 +11,6 @@ Detailed information on the NIS dataset , methodology , and variables is publicl
 Our analyses focused on hospitals that reported discharges with neonatal and / or maternal diagnoses and procedures .
 From these hospitals , we used a validated methodology to identify hospital discharge records for obstetric deliveries [29] .
 Our final dataset included 1,475,457 births in 1,373 hospitals in 46 states , including 1,241,255 births to mothers with no prior cesarean sections .
-
 We calculated prevalence of cesarean delivery among two groups of women : ( 1 ) all women and ( 2 ) all women with no prior cesarean deliveries .
 We identified cesarean delivery using International Classification of Diseases , 9th revision ( ICD - 9 ) procedure codes ( 740X , 741X , 742X , 744X , 7499 ) as well as Diagnosis Related Group payment codes ( 370 , 371 ) , consistent with validated methods and prior research using the HCUP NIS data [29] , [30] .
 We identified prior cesarean section by ICD - 9 codes ( 65420 , 65421 , 65423 ) .
@@ -29,7 +27,6 @@ Individual - level covariates are based on administrative records , ICD - 9 diag
 Covariates include maternal age , race / ethnicity , and insurance status ( primary payer : private insurance , Medicare , Medicaid , self - pay / uninsured , or other ) , and maternal and infant medical conditions , including diagnoses of the following complications of pregnancy , labor , and delivery : diabetes in pregnancy ( both diabetes mellitus and gestational diabetes ; ICD - 9 codes 6488XX , 250XX ) , hypertension in pregnancy ( including pre - eclampsia and eclampsia ; ICD - 9 codes 6420X , 6421X , 6422X , 6423X , 6424X , 6425X , 6426X , 6424 , 6425 , 6426 , 6426XX ) , hemorrhage during pregnancy or placental complications ( including placenta previa and placenta accreta ; CCS code 182 ) , fetal disproportion or obstruction of labor ( CCS code 188 ) , and fetal distress ( CCS code 190 ) .
 Race / ethnicity is self - reported ; specific response categories vary by state but are harmonized by HCUP into the following mutually exclusive categories : black , white , Hispanic , Asian , Native American , and other [25] , [26] .
 In this study , race / ethnicity is included as a factor connected to cultural preferences and practices regarding childbirth .
-
 Hospital cesarean section rates for each of the four groups described above ( all women , all women with no prior cesarean , lower risk women , and higher risk women ) were graphed using funnel plots , by the number of annual deliveries in each risk group .
 Funnel plots show outcomes in the context of precision , demonstrating how the institution performs compared to control limits ( in this case , the 99 % prediction interval around the calculated mean ) [33] .
 The data structure for the analysis was hierarchical , with births ( n = 1,475,457 ) at level 1 , and hospitals ( n = 1,373 ) at level 2 [34] .

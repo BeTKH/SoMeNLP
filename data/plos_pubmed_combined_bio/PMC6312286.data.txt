@@ -9,7 +9,6 @@ We included all individuals who were admitted to “ trauma - receiving ” hosp
 Isolated closed limb fractures and neck of femur fractures in patients over 65 are excluded from TARN .
 Data collection period : 1st January 2015 and 31st December 2015 and limited to patient ’ s resident in England .
 Data include patient age and sex , postcode sector , mode of injury , injury severity score ( ISS ) , comorbidity and mortality at 30 , 90 and 180 days .
-
 The primary outcome was 30 - day mortality .
 Thirty - day mortality is determined by referencing hospital records for in - patients and via linkage to Office for National Statistics data for those who have been discharged .
 We selected 30 - day mortality as the primary outcome variable as primary mortality diagnoses at 90 and 180 days are increasingly less likely to be caused by the index trauma episode .
@@ -30,7 +29,6 @@ Comorbidity is calculated by TARN using the pre - existing medical conditions ( 
 Each comorbid condition is assigned a weight , based on the impact of the condition on outcome , with higher values assigned to more severe conditions .
 Weights are then summed for each case [23,24] .
 The scores were categorised as 0 , 1 to 5 , 6 to 10 and greater than 10 as per TARN criteria .
-
 Data were analysed using Stata V 13 ( StataCorp , Stata Statistical Software : Release 13 , College Station , Texas , USA ) .
 All analyses were run separately for both minor and major trauma .
 Absolute 30 - day mortality , and proportion , were determined for each age group , sex , ISS categorisation , comorbidity group and IMD quintile .

@@ -1,25 +1,18 @@
 Objective
 The aim of this study was to examine the association of sedentary behaviour patterns with frailty in older people .
-
 Setting
 Clinical setting .
-
 Design
 Cross - sectional , observational study .
-
 Participants and measurements
 A triaxial accelerometer was used in a subsample from the Toledo Study for Healthy Aging ( 519 participants , 67 - 97 years ) to assess several sedentary behaviour patterns including sedentary time per day , the number and duration ( min ) of breaks in sedentary time per day , and the proportion of the day spent in sedentary bouts of 10 minutes or more .
 Frailty was assessed using the Frailty Trait Scale ( FTS ) .
 Regression analysis was used to ascertain the associations between sedentary behaviour patterns and frailty .
-
 Results
 Sedentary time per day and the proportion of the day spent in sedentary bouts of 10 minutes or more , were positively associated with frailty in the study sample .
 Conversely , the time spent in breaks in sedentary time was negatively associated with frailty .
-
 Conclusion
-In summary , breaking up sedentary time and time spent in sedentary behaviour are associated with frailty in older people .
-
-http://www.reticef.es/Data Availability
+In summary , breaking up sedentary time and time spent in sedentary behaviour are associated with frailty in older people . http://www.reticef.es/Data Availability
 We are unable to provide the minimal dataset because of legal restrictions , i.e. the Spanish Data Protection Policy .
 However , there is an established infrastructure , including a website ( http://www.reticef.es/ ) and a review committee , through which data requests are handled .
 The hospital reviews and determines the purposes for the data requests and what data can be released .
@@ -45,7 +38,6 @@ Breaking up sedentary time has also been positively associated with a lower risk
 Hence , reducing or breaking up long sedentary periods seems to be a feasible and promising approach expected to attenuate the consequences of frailty among older adults .
 Nonetheless , there is a lack of data regarding the relationship between sedentary behaviour patterns and frailty in this population group [1] .
 Therefore , the aim of this study was to examine the associations of various sedentary behaviour patterns with frailty in older people .
-
 Methods
 Research design and participants
 Data were taken from the Toledo Study for Healthy Aging ( TSHA ) , whose complete methodology has been reported elsewhere [ 4 , 20 ] .
@@ -54,7 +46,6 @@ A subsample of 626 volunteers was assessed on sedentary behaviour patterns .
 From these , 107 were excluded due to incomplete or invalid accelerometer data .
 A total of 519 participants were finally included .
 All the subjects gave their informed consent in written and the study was performed in accordance with the Helsinki Declaration of 1975 , as last modified in 2000 , regarding the conduct of clinical research , and was approved by the Ethical Committee of the Toledo Hospital ( CEIC ) .
-
 Outcome measures
 Frailty
 The Frailty Trait Scale ( FTS ) was used to assess frailty [21] .
@@ -63,7 +54,6 @@ Each item represents a biological trait .
 All items but one ( “ chair test ” , which scored 0 [ worst status ] to - 5 [ best status ] ) are scored 0 ( best status ) to 4 ( worst status ) .
 The total score was calculated by adding all the scores in each item divided by total score possible for each individual , multiplied by 100 .
 The total score ranged from 0 ( best score ) to 100 ( worst score ) .
-
 Sedentary behaviour patterns
 Sedentary behaviour patterns were assessed by accelerometry ( ActiGraph , ActiTrainer 3X , Fort Walton Beach , FL ) .
 Accelerometer output is an activity count , which is the weighted sum of the number of accelerations measured over a time period or epoch ( a 1 minute epoch was used in this study ) .
@@ -81,10 +71,8 @@ The number , duration ( min ) and proportion over total 10 - min bouts per day o
 All outcomes were weighted by daily averaged wear time on valid days ( i.e. outcome summed over all wear time divided by the number of successfully monitored days for each participant ) .
 The different sedentary pattern variables were standardized ( Z - score = [ observed - sample mean ] / sample SD ) .
 In an effort to account for the combined effect of both duration and number of the different patterns , two composite Z - scores representing patterns of ST [ ST - COMP = Z - score ST - 10 ( number / day ) + Z - score ST - 10 ( minutes / day ) ] and patterns of BST [ BST - COMP = Z - score BST ( number / day ) + Z - score BST ( minutes / day ) ] were then computed .
-
 Adherence to WHO physical activity guidelines
 In order to analyse the adherence of physical activity ( PA ) in the study with recommendations for public health proposed by the World Health Organization , the accumulation of at least 150 min / week of moderate physical activity or 75 min / week of vigorous physical activity or as an equivalent combination of moderate and vigorous physical activity was assessed with an accelerometer [25] .
-
 Anthropometrics and confounding variables
 Height was measured to the nearest millimetre using a portable stadiometer ( Medizintechnik seit 1890 , KaWe , Germany ) , and weight was measured with a SECA precision scale ( SECA 884 floor scale , Germany ) .
 Individuals removed their shoes , socks and heavy clothes prior to weighing .
@@ -95,7 +83,6 @@ Comorbidity history was assessed using the Charlson Comorbidity index [27] .
 Physical performance was assessed by means of the Short Physical Performance Battery [28] .
 MVPA was assessed by accelerometry ( i.e. each minute of 1952 or more counts was considered MVPA ) [23] .
 Current medication ( i.e. number of drugs ) , age , and gender were also recorded .
-
 Statistical analysis
 Data were analysed using PASW Statistic , version 23.0.0 , with statistical significance set at p < 0.05 ( two - tailed ) .
 Descriptive statistics ( mean ± SD ) were calculated for all outcome measurements of the study .
@@ -103,7 +90,6 @@ Multiple linear regressions were used to examine the associations between frailt
 A model adjusted by age , gender , comorbidity status , mental health , and polypharmacy status was fitted for each of the sedentary behaviour pattern outcomes .
 Participants were clustered into 2 different groups according to the adherence to WHO PA guidelines status ( i.e. meeting or not the guidelines ) and were compared using t - test for independent measurements .
 Participants within each of the former groups were re - allocated to either less BST group ( i.e. group falling below the 50th percentile of BST ) or more BST group ( i.e. group falling over the 50th percentile of BST ) and then compared using t - test for independent measurements .
-
 Results
 Characteristics of the participants are shown in Table 1 .
 A total of 519 older adults aged 67 - 97 including 234 males and 285 females , were included in the study .
@@ -114,7 +100,6 @@ However , ST - 10 ( number / day and minutes / day ) , BST ( number / day ) , an
 Linear regression analysis for the association of various sedentary behaviour patterns with frailty in the TSHA study .
 Participants who met the WHO PA guidelines scored statistically significant less in the Frailty Trait Scale than those who did not meet the PA guidelines ( Fig 1 ) .
 In both groups , those who fell into the bottom half of interruptions of sedentary time had a statistically significant higher frailty level than those depicting more BST ( p < 0.05 ) ( Fig 1 ) .
-
 Discussion
 To our knowledge , this is the first study that comprehensively analyses the impact of objectively assessed sedentary patterns beyond total time spent in sedentary behaviour on frailty in older adults .
 The main findings were that in adjusted models ( i.e. in models adjusted by relevant demographic and medical confounders ) frailty was associated with sedentary time per day , the proportion of the day spent in sedentary bouts of 10 minutes or more , and time spent in breaks of sedentary time .

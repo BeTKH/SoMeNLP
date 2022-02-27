@@ -4,7 +4,6 @@ Participants then consumed either 300 ml or 500 ml .
 An orthogonal combination of seeing either 300 or 500 ml and then eating either 300 ml or 500 ml rendered four separate conditions .
 ‘ Incongruous eating ’ was achieved by covertly manipulating soup entering or leaving the bowl during the meal .
 Appetite was assessed for three hours after the meal and the expected satiation of the soup was assessed approximately 24 - hours later .
-
 One hundred volunteers ( 69 female and 31 male ) completed the study and produced responses to an awareness questionnaire indicating that they were unaware that the soup bowl had been modified .
 Six other participants reported a degree of awareness and were rejected and replaced on this basis .
 All were staff or students at the University of Bristol .
@@ -14,13 +13,11 @@ Vegetarians and vegans were excluded , together with anyone who declared a food 
 All received ten pounds Sterling for their assistance .
 The study was approved by University of Bristol Faculty of Science Human Research Ethics Committee .
 All provided written informed consent before assisting with the study .
-
 Soup was added or removed from a transparent soup bowl using a peristaltic pump ( see Figure 1 ) .
 The soup bowl was presented in front of the volunteers and it was fixed to a table .
 A tall screen was positioned at the back of the table .
 This separated the participant from both the experimenter and a second table , supporting the pump and a soup reservoir .
 Throughout the experiment , the volunteers were unable to see beyond the screen .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0050707.g001 Depiction of the self - refilling soup bowl apparatus .
 The bottom of the soup bowl was connected to a length of temperature - insulated food - grade tubing .
@@ -28,7 +25,6 @@ This connection was hidden from the participants using a tablecloth .
 The tubing fed through a hole in the table ( immediately under the bowl ) and connected to the pump and then to a reservoir of soup via a hole in the screen .
 The experimenter was able to manipulate the direction and rate of flow using an adjustable motor controller that was attached to the pump .
 The pre - heated soup was ‘ creamed tomato soup ’ ( supplied by Sainsbury ’ s Supermarkets Ltd . , London ; 38 kcal / 100 g ) .
-
 Our measure of expected satiation was based on a ‘ method of adjustment , ’ and is described in detail elsewhere [27] , [28] .
 Briefly , a 400 - ml portion of soup was placed in front of the participant and a photograph of a ‘ comparison food ’ was displayed on a computer screen .
 The participants were instructed to match the food picture so it would ‘ fill them up as much as the bowl of soup in front of them . ’
@@ -40,7 +36,6 @@ Participants completed four trials , with each of four comparison foods : chicke
 Comparison foods were presented in a counterbalanced order across participants .
 Portion sizes of the comparison food images ranged from 50 kcal to 1250 kcal and were spaced in equal logarithmic steps .
 Fifty images were taken of each food on the same white plate ( 255 mm diameter ) , with photographic conditions maintained as constant as possible .
-
 Testing took place individually between 11 ∶ 00 and 14 ∶ 30 hours .
 Volunteers attended two sessions approximately 24 hours apart .
 They were asked to abstain from eating for three hours before the initial session , and to confirm that they had complied with this request on arrival .
@@ -66,7 +61,6 @@ In the second section the participants were asked to indicate ‘ yes ’ or ‘
 Participants who selected ‘ yes ’ were then asked to explain their response .
 Finally , a measure of their height and weight was taken .
 Debriefing took place by email , after all of the data had been collected .
-
 One - way ANOVA was used to explore evidence for differences in baseline characteristics across conditions .
 Specifically , we assessed BMI , age , initial hunger , and scores on the three subsections of the DEBQ .
 To explore hunger ratings in the inter - meal interval , we used a mixed - model ANOVA with time ( 0 , 60 , 120 , and 180 minutes ) as a within - subjects factor and amount seen ( 300 ml or 500 ml ) and amount eaten ( 300 ml or 500 ml ) as between - subjects factors .

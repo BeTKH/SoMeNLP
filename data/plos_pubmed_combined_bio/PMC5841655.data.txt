@@ -10,17 +10,14 @@ The steps used in detection of cryoglobulins follows the practical protocol prop
 Cryoglobulinaemia was classified according to the criteria described by Brouet et al [20] .
 All consenting patients followed up for chronic HCV infection ( treatment naive , receiving or completed treatment ) at the gastroenterology outpatient unit were included .
 Patients aged less than 18 years , or those with hepatocellular carcinoma were excluded .
-
 Study procedure and data collection : All eligible participants underwent an interview , a general physical examination ( including weight and height measurement ) and a complete neurological examination .
 Participant ’ s files were reviewed for Hepatitis C history , treatment status , complications and results of investigations .
 A semi - structured questionnaire was used to record the following ; socio - demographic data ( age , gender , residence , occupation , insurance status and level of education ) , co - morbidities , hepatitis C history and assessment ( date and circumstance of diagnosis , potential risk factors , complications , HCV genotype , viral load , METAVIR fibrosis and activity scores ) , neurologic symptom review , physical examination findings , neurological examination findings and results of investigations .
-
 Neurological assessment was done by a detailed neurological examination under different domains ; higher mental function ( cognitive assessment mainly ) , cranial nerve assessment , motor function assessment ( muscle bulk , tone and power ) , reflexes ( deep tendon and superficial reflexes ) , sensory testing ( pain , light touch proprioception and vibratory perception ) , coordination and gait .
 The mini mental state examination ( MMSE ) tool was used for the diagnosis of cognitive impairment , while the Neuropathic Pain Diagnostic Questionnaire ( NPDQ ) and Brief Peripheral Neuropathy screen ( BPNS ) were used for diagnosis of neuropathic pain and peripheral neuropathy respectively .
 The NPDQ ( also known as the Douleur Neuropathique 4 questionnaire ) is a validated tool for diagnosis of neuropathic pain , consisting of ten items ( 7 interview based and 3 based on clinical examination ) .
 It has a sensitivity of 83 % and a specificity of 90 % [21] .
 The BPNS tool is a valid screening tool used in the context of HIV infection , and is simple enough to be applicable in resource limited settings [22] .
-
 Chronic Hepatitis C : The presence of detectable HCV RNA , currently or in the past ( i.e. receiving treatment or completed treatment ) .
 Duration of illness : This was defined as the period from diagnosis of HCV infection to the date of interview for patients naive to treatment and those receiving treatment .
 For those who had completed treatment , it was the period between diagnosis and date of sustained virological response confirmation .
@@ -37,13 +34,11 @@ Cognitive domain impairment : A score of less than half of the total score in th
 Neuropathic Pain : A NPDQ score of greater than 4 will be used for diagnosis of neuropathic pain .
 Peripheral Neuropathy : One bilateral objective finding ( loss of vibration perception and abnormal ankle deep tendon reflexes ) , using the BPNS tool .
 Symptomatic peripheral neuropathy : The presence of at least one bilateral objective finding and a subjective sensory neuropathy grade greater than 0 using the BPNS tool .
-
 Data analysis was done using Statistical Package for Social Sciences ( SPSS ) version 20 software .
 Frequencies and percentages were computed for categorical variables and mean ( or median ) and standard deviation ( or interquartile range ) for continuous variables .
 Associations between exposure variables and presence or not of neurological manifestations were assessed using chi ’ s square or Fisher ’ s exact tests and binary logistic regression where appropriate .
 Exposure variables with p - values < 0.10 were further tested through multivariate logistic regression to account for possible confounding .
 A p value < 0.05 was considered statistically significant .
-
 Ethical approval to conduct the study was obtained from the institutional review board of the Faculty of health sciences , University of Buea , Cameroon .
 Participants had study carefully explained to them and participation was voluntary .
 All participants provided written consent .

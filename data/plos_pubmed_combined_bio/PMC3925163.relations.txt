@@ -18,15 +18,11 @@
 
 
 
-
-
-
 Version_of	8	38	1	SPM	34	0;;URL_of	http://www.fil.ion.ucl.ac.uk/spm	42	2	SPM	34	0;;
 
 
 
 Citation_of	[26]	144	1	Diffeomorphic Anatomical Registration Through Exponentiated Lie Algebra	64	0;;
-
 
 
 

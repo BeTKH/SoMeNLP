@@ -4,13 +4,11 @@ The study area is inhabited by two main ethnic groups : predominantly urban Jews
 The following patient level data were obtained using the centralized electronic medical records database : diabetes ( ICD - 9 code 250 ) , history of MI ( ICD - 9 code 410 - 414 ) , hypertension ( ICD - 9 code ) , chronic obstructive lung disease ( COPD ) ( ICD - 9 code 490 , 491 , 492 , 496 ) and socio - demographic data such as gender , age and ethnicity ( Jews vs . Bedouin Arabs ) .
 The study was approved by the institutional review board of Soroka University Medical Center .
 Patient information was anonymized and de - identified prior to analysis , therefore written informed consent was not obtained .
-
 Data for the study period included PM 10 concentrations ( μ g / m3 ) , NO 2 ( μ g / m3 ) , meteorological parameters ( temperature ( CO ) and relative humidity ( % ) ) obtained from monitor station in Be ' er - Sheva operated by the Ministry of Environmental Protection .
 This is the only monitoring station in the area recording all pollutants simultaneously in 20 minute intervals .
 The monitoring station is located in a typical neighborhood in the center of Be ’ er - Sheba ( the city area is about 20 km 2 ) .
 Thus , we have limited our population to reside within 20km radius .
 Seasons were defined according to Alpert et al . : [16] winter ( December 7 - March 30 ) , summer ( May 31 - September 22 ) each last about 4 months ( 3 months and 23 days ) , autumn ( September 23 - December 6 ) and spring ( March 31 - May 30 ) each lasts only 2 months ( 75 days and 61 days , respectively ) .
-
 The primary source of PM 10 pollution in the region is non - anthropogenic .
 Most of the dust storms in the Negev region originate from the North Africa .
 Strong dust storms can last from several hours to few days .

@@ -27,7 +27,6 @@ IPV victimization was defined as having ever been the target of the aforemention
 These partner violence items were adapted from the CTS and have been successfully used in Russia to measure intimate partner violence [31] , [34] .
 Those who answered “ yes ” to any one of the three items were further asked , “ The last time this happened , were you or your partner high on alcohol or drugs ? ”
 An answer of “ yes ” was classified as IPV under the influence of a substance .
-
 Chi - square tests and ANOVA ( analysis of variance ) F - tests were used to examine group differences by last IPV status ( e.g. , last perpetration under and not under the influence of a substance and no perpetration ) for categorical and continuous variables , respectively .
 Multinomial logistic regression was used to determine significant correlates of IPV under and not under the influence of a substance .
 None of the demographic characteristics were significantly associated with either IPV perpetration or victimization in the multinomial logistic regression ; therefore they were not included in the final models .

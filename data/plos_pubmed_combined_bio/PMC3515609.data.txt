@@ -3,26 +3,21 @@ Inclusion criteria were : ( 1 ) mild to moderate neurological disability , but w
 Seventy - two patients , aged between 18 and 48 years old , were analyzed .
 Thirty - nine patients were treated with disease - modifying therapies ( interferon β - 1a or 1b in most cases ) for a mean period of 3.3 years ( ranging from two months to nine years ) , ten were taking antidepressants for minor mood symptoms which were not severe enough to fulfill the diagnostic criteria for depression as assessed in a psychiatric interview , and five had had symptomatic treatment for fatigue ( amantadine or modafinil ) .
 The control group consisted of 38 healthy volunteers matched for age , gender and education , with no history of alcohol or drug abuse , major psychiatric disorders ( major depression , psychosis , untreated bipolar disorders ) , head trauma , other neurological disorders , or systemic illness .
-
 Standard Protocol Approvals , Registrations and Patient Consents : The study was approved by the local university ’ s Ethics Committee , and all subjects gave written informed consent for their participation in accordance with the Declaration of Helsinki .
 The Name of the Ethic Committee is the following : “ Commission d ’ Ethique de la recherche clinique , Faculte de medecine et de biologie , Universite de Lausanne , Switzerland ” .
 The name of the accepted project ( 2007 ) was : “ Dissecting the decisional process in patients with Multiple Sclerosis ” .
 In order to maintain motivation , participants were informed that they would receive money as a function of their final gains in the DM tasks .
 For ethical reasons , in actual fact they all received 20 Swiss Francs at the end of the study .
-
 All participants underwent a neuropsychological examination , to test whether DM deficits were associated with specific pattern of cognitive deficits .
 The Brief Repeatable Battery of Neuropsychological Tests ( BRB - N ) [36] , [37] was used to assess verbal memory ( Selective Reminding Test [ SRT ] ) , spatial memory ( 10 / 36 Spatial Recall Test ) , sustained attention / information processing speed ( 3 - second version of the Paced Auditory Serial Addition Test [ PASAT ] , Symbol Digit Modalities Test [ SDMT ] ) , and verbal fluency in semantic cues ( Word List Generation [ WLG ] ) .
 In addition to the BRB - N , we administered a task which assessed more complex executive skills ( Stockings of Cambridge [ SOC ] from the Cambridge Neuropsychological Test Automated Battery [ CANTAB ] ) [38] .
-
 At the end of the second testing session , subjects filled out questionnaires assessing mood ( Hospital Anxiety and Depression scale , HAD ) [39] and behavioral changes ( Dysexecutive Questionnaire , DEX ) [40] .
 The DEX was used for quantifying behavioral disturbances commonly associated with executive impairment and has already been used in MS studies [41] .
 This last questionnaire was aimed at investigating whether specific behavioural changes / symptoms in MS are associated with eventual DM changes .
 The 20 items of the DEX encompass broad areas of likely changes ( impulsivity , apathy , desinhibition , intentionality , etc . ) .
 Each item is scored on a 5 - point scale ranging from “ never ” to “ very often ” ( 0 to 4 ) .
-
 The Wheels of Fortune ( WOF ) task [23] was used to measure the emotional strategies associated with DM under risk .
 This task had previously shown that advantageous decisions in healthy controls could be induced through prior experiencing disappointment and regret ( Fig . 1A ) [23] .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0050718.g001 Description of the two gambling tasks.A ) Wheel of Fortune ( WOF ) : the subject ( with SCR recorded ) has to choose between two possible lotteries with different risk and earning possibilities .
 The subject was asked to choose one of the two wheels by pressing a left or a right button ( choice period ) .
@@ -36,7 +31,6 @@ Participants are told that a yellow token was hidden in one of the boxes .
 They then have to guess whether it is in a red or blue box ( color ) .
 Then they decide how many of their points they wanted to gamble on their choice ( point choice ) by pressing when they choose : available bets ( 5 , 25 , 75 , 95 and total ) are presented on the right of the screen in a ascending or descending sequence .
 Then feedback is given about gain or loss and total ongoing fortune ( left ) .
-
 Two wheels were presented on a computer screen ( Gamble 1 and Gamble 2 ) .
 Each wheel was divided into two sectors ( black and light blue ) associated with different amounts of money .
 The size of each sector represented the probability of obtaining the proposed outcome .
@@ -49,7 +43,6 @@ In the “ partial feedback ” condition ( PF ; 30 trials ) , the spinning arro
 In this condition , the unfavorable comparison of the obtained outcome with a more favorable counterfactual ( i.e. , unobtained ) outcome may have induced disappointment related to the financial consequence of a decision [23] .
 By contrast , in the “ complete feedback ” condition ( CF ; 30 trials ) , spinning arrows appeared , rotated and stopped in both the selected and the non - selected wheels , revealing both outcomes to the participants .
 CF trials induced not only disappointment but also regret , by showing the outcome that would have been obtained if participants had selected the other gamble ( counterfactual outcome ) .
-
 Skin conductance responses ( SCRs ) were recorded during the WOF task using the PowerLab / GSR amplifier system ( AD Instruments GmbH , Spechbach , Germany ) .
 This was done in order to obtain the physiological correlate of regret , which consisted of an increase of SCRs in the CF condition due to counterfactual processing , as compared to the PF condition of the WOF .
 The SCRs represent an indicator of sympathetic nervous system activation , which is believed to contribute to the process of making advantageous choices for the organism .
@@ -60,7 +53,6 @@ Artefactual signals ( e.g. , the subject ’ s movements ) were cleared manually
 Mean amplitudes ( microSiemens , μ S ) recorded during each five - second time window were analyzed ( i.e. , the mean of the data points obtained in the five - second selection ) .
 Baseline SCR activity was assessed using three measurements per subject recorded : ( 1 ) at rest ; ( 2 ) in response to a loud noise ; and ( 3 ) after a deep breath .
 This method had been applied in a previous study [11] and had been shown to be reliable .
-
 The Cambridge Gamble Task ( CGT ) [21] was used to measure DM ( Fig . 1B ) .
 Participants sat in front of a computer touch screen .
 Trials were run in blocks ( two sets of four blocks per subject ) , each containing nine trials .
@@ -75,7 +67,6 @@ We used the standard version provided by CANTAB ( http://www.cantab.com/cantab-t
 Therefore , it was hypothesized that the CGT allowed participants to apply cognitive strategies , such as probabilistic judgment , in order to decide advantageously .
 The ascending and descending sequence in which potential wins were proposed enabled us to differentiate patients with impulsive response tendencies from patients with real risk preference ( i.e. , risk - preferent patients had to wait if they wanted to place high bets in the ascending conditions ) .
 Measures of behavior choices were quality of DM ( the proportion of trials where participants chose the more likely outcome ) and deliberation time .
-
 Statistical analyses were conducted using a STATA software package ( Version 10.0 ) .
 Non - parametric tests were applied to all the demographic and behavioral data because ( 1 ) the CGT and WOF data could not be transformed successfully to reach normality , and ( 2 ) the distribution of the WOF emotional ratings is by definition non - normal as the scale is restricted ( values available from − 50 to + 50 ) and thus cannot be considered as a continuous variable .
 Differences were examined using Chi 2 tests for the comparison of categorical variables and Wilcoxon signed rank tests for the comparison of continuous variables .

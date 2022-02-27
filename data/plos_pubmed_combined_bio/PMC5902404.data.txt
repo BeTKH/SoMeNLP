@@ -25,7 +25,6 @@ Plans have been recently announced to develop a genetic counseling program throu
 Learning from the experience of existing training programs in the region , we are supporting the medical geneticist in Vietnam with curriculum development ( Laurino & Padilla , 2013 ) .
 Many of us have been gifted with excellent educations and opportunities to teach on varying academic levels in the United States and Canada .
 Providing access to similar education is frequently the first step to collaboration with health care providers in emerging countries who are in need of information , support and tools for the development of new technologies .
-
 CLINICAL CARE
 Training in medical genetics , and particularly dysmorphology , is more of an apprenticeship than fulfillment of a specific course requirement .
 The essential publications and tools to train in and practice dysmorphology , such as Smith ' s Recognizable Patterns of Human Malformations by Ken Lyon Jones ( 2013 ) , have traditionally described syndromes based on findings of a western European population .
@@ -60,7 +59,6 @@ However , prenatal testing is only available in the private sector , with limite
 There are multiple clinicians from across the globe with varied expertise that visit medical institutions in Vietnam and other emerging countries and provide clinical care as individuals or a larger group as part of medical tourism .
 Even with regular annual visits to Vietnam , it is difficult to provide the consistency to move forward complex projects such as coordinating WES on patients with suspected genetic conditions .
 The challenges to support consistency are ongoing and require collaboration , creativity , persistence and commitment .
-
 LIMITATIONS
 One of the most important lessons learned from my work in Vietnam is to understand the different perception of time and the impact of limited resources .
 For example , at one point , a major communications cable was cut in Vietnam and I did not receive any communications from my Hanoi collaborators for several months .
@@ -76,7 +74,6 @@ Clinical evaluations such as a cranial imaging , echocardiograms , ophthalmologi
 These limitations can result in impediments for obtaining full clinical and molecular evaluation , and delay the diagnostic process .
 Patience and persistence are necessary to coordinate sample collection and complete studies when working with physicians , their patients , and families who are thousands of miles away .
 While barriers can be frustrating , there is always another way to move the work forward , and moving forward is what is most essential to this work .
-
 FUNDING
 While the role of educator , clinician , and organizer are easy to assume , there are other roles that are necessary for the work in Vietnam which have been more difficult and lie beyond medical school training .
 Chief among these has been fundraiser .
@@ -89,14 +86,12 @@ The greatest success in securing funding came from companies that perform geneti
 But even with securing funds , it is important to manage funds in a tax - structure as intended for nonprofit work .
 Group Health Foundation initially provided this financial structure , but ultimately , forming a NGO becomes unavoidable to manage funds efficiently and pursue a consistent program to support medical genetics in Vietnam .
 We are in the process of developing such an NGO , identifying board members and defining bylaws to meet the intended goals and expectations of this work .
-
 FUTURE DIRECTIONS
 For all , of my trips to Vietnam , I still have only a handful of Vietnamese words that I can speak , and not many more that I understand .
 Tonal languages such as Vietnamese plus the issue of multiple dialects in this region make it particularly difficult to acquire useful language and communicate .
 I know that I miss many of the nuances in conversations between patients and the Vietnamese physicians .
 As an outsider , it would be difficult to perform any type of independent health care in Vietnam and one hopes to support the develop of resources and transfer of technology that has been done successfully before in other regions of the world , particularly the Mediterranean ( Ozcelik et al . , 2010 ) .
 Ongoing collaborations that include the next Vietnamese - North American Conference in November , 2018 , ongoing collaborations with Mary - Claire King ' s laboratory , supporting the development of a genetic counseling program and spending time in clinic in Hanoi , Hue , and potential other genetics clinic in Vietnam will all facilitate the growth of genetic services and genetic and genomic expertise within Vietnam .
-
 WHY VIETNAM ?
 One of the first questions I am frequently asked when describing my work is “ Why Vietnam ? ”
 Part of the answer is easy : GHC had a long - time collaboration with Hue College of Medicine and Pharmacy for a medical exchange to train primary care practitioners .
@@ -115,10 +110,8 @@ While there is no financial compensation for this type of volunteer work , the r
 The physicians in Vietnam whom I have encountered are among the kindest and hardest working people I have ever met .
 Working with them in clinic and helping support the work to provide patients with a diagnosis and care has been among the most valuable experiences of my professional life .
 I am looking forward to being able to spend a longer stretches of time in Vietnam during a planned sabbatical and when I retire from clinical practice and hope to remain involved in the growth of medical genetics in Vietnam with my co - collaborators for years to come .
-
 THANKS
 The work in Vietnam would not have been possible without the support of many people including my North American colleagues Mercy Laurino , Jennifer Thompson , and Darci Sternen , all genetic counselors who have been essential to this work , Mary - Claire King and Suleyman Gulsunar whose molecular expertise and generosity are extraordinary , and my colleagues in Vietnam , particularly Nguyen Viet Nhan and Du Chi Dung whose dedication to helping those with genetic disorders is an inspiration to us all .
 And finally to my family , thank you for supporting me and joining me in what has become one of the defining experience of my professional life .
-
 CONFLICTS OF INTEREST
 None declared .

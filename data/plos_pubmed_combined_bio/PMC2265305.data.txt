@@ -9,12 +9,10 @@ For multiple publications based on the same study , the latest publication was i
 For inclusion we required , as a minimum , data on systolic or diastolic blood pressure by genotype or prevalence of hypertension by genotype .
 Where insufficient data for inclusion were available in the paper we contacted authors directly , and if sufficient information could still not be obtained the study was excluded .
 A flow diagram showing the number of studies found in our search strategy , and reasons for exclusion is given in Figure 1 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pmed.0050052.g001 Flow Diagram Showing Reasons for Exclusion and Number of Papers Excluded We followed a standard protocol for data extraction .
 For each study , the following data were recorded ( where available ) : first author ' s name , year of publication , country and city in which the study was performed , name of the study , study design , number and source of participants , sex , method of assessment of drinking status , categories of alcohol drinking , mean alcohol drinking and standard deviation by ALDH 2 genotype , distribution of potential confounding factors by genotype with p - values , distribution of genotypes among hypertensive and nonhypertensive participants , mean blood pressure and standard deviation by ALDH 2 genotype , and reported effect estimates ( i.e. , relative risks , odds ratios , or mean difference of blood pressure level ) and 95 % confidence intervals ( CIs ) for ALDH 2 genotype and hypertension risk .
 Data extraction was carried out by two researchers ( LC , SJL ) independently of each other .
-
 Data on alcohol intake were converted to a uniform measure of grams per day for comparison across all studies with 1 unit = 10 ml = 7.9 g [10] .
 We calculated the unadjusted mean difference in blood pressure or the odds ratio of hypertension by comparing * 1 * 2 and * 1 * 1 to * 2 * 2 genotypes .
 In the analyses of hypertension , fixed - effects meta - analysis was used to calculate summary odds ratio estimates , and in the analyses of diastolic and systolic blood pressure , mean differences between genotype groups were obtained .

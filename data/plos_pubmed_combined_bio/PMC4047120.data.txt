@@ -6,13 +6,11 @@ The diffusion - weighted images from all the patients included in this study wer
 The images were acquired with diffusion weighting in 30 non - collinear directions , all with a b value ( diffusion weighting factor ) of 1000 s / mm 2 .
 In addition , an image with no diffusion weighting ( b value of 0 s / mm 2 ) was acquired as a reference .
 The DTI images were analysed using DTV.II SR toolbox software ( Image Computing and Analysis Laboratory [ UTRAD / ICAL ] Department of Radiology , The University of Tokyo Hospital , extension of Volume 1 , package [ http://www.volume-one.org/ ] ) with the following parameters to determine the degree of sensitivity for generating DTI tracts : Fractional Anisotropy ( FA ) = 0.05 , steps = 160 ; Apparent Diffusion Coefficient ( ADC ) ( x1K ) : any ; So < 80 ; Angle : any .
-
 The Ki 67 immunohistochemistry was performed on a benchmark ULTRA using clone 30 - 9 ( Ventana Medical Systems , Tucson , AZ ) , and interpreted with an iScan Coreo and Virtuoso algorithm ( Ventana Medical Systems ) .
 A histopathological analysis of the tissue samples was performed to validate their use in the rest of the study .
 The architectural disorganisation of the cortex and neuronal heterotopia were studied using NeuN immunostaining .
 Microglia activation was examined by Iba - 1 marking .
 The experiments were performed using the protocols described later .
-
 Cell Isolation Protocol and Culture : All samples were processed within 12 hours of extraction following a previously described protocol [24] .
 Briefly , brain white matter was macroscopically separated from temporal grey matter ( Figure S1 ) , minced , and washed in HBSS ( Hanks balanced salt solution ) w / o Ca 2 + / Mg 2 + .
 Enzymatic digestion was sequentially performed with Solution I ( Papain [ 14 U / mL , Sigma ] and DNase I [ 10 U / mL , Sigma ] in PIPES solution ) for 90 minutes at 37 ° C and Solution II ( Papain [ 7 U / mL ] and DNase I [ 15 U / mL ] in PIPES : proliferative media [ 1 ∶ 1 ] ) for 30 minutes at 37 ° C .
@@ -32,7 +30,6 @@ Additionally , adherent culture colonies derived from neurosphere cultures were 
 Three adherent culture cell lines produced by the spheres were seeded on ultra - low attachment at a density of 3000 cells / cm 2 , with or without 100 - μ M β - mercaptoethanol ( Sigma ) to test if they were able to regenerate floating cultures [26] .
 Viability was studied using Calcein / I Propidium iodide .
 After two weeks , the cells were seeded on Matrigel - coated coverslips , cultured for 24 hours , and fixed for SOX 2 immunostaining ( Figure 1A displays a schematic representation of the different cell cultures ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0099253.g001 Proliferative cells can be isolated from adult human white matter.A .
 Diagram depicting the different procedures followed in the present work for the isolation of proliferative cells from human white matter .
@@ -44,7 +41,6 @@ These cells generated an adherent culture that could be expanded independently f
 When the initial spheres were passaged and reseeded at a cell density of 3000 cells / cm 2 or higher , new spheres were obtained ( C ) , which , in turn , generated a new monolayer culture .
 These spheres could be passaged up to tertiary spheres , similarly to other proliferative cells isolated from adult human white matter .
 The scale bars represent 50 μ m .
-
 Spontaneous differentiation was assayed on small spheres formed two days after disaggregation , corresponding to four samples in triplicate .
 The spheres were seeded on matrigel - coated coverslips and maintained in growth media for 14 days prior to fixation .
 A protocol directed to induce final oligodendroglial differentiation was tested in four samples in triplicate as previously described .
@@ -54,17 +50,14 @@ The medium also included progesterone ( 300 ng / mL ) and sodium selenite ( 30 n
 The medium was supplemented with bFGF ( 20 ng / mL , Sigma ) , platelet - derived growth factor alpha ( PDGFa , 20 ng / mL , Sigma ) , and Neurotrophin - 3 ( 2 ng / mL , Sigma ) .
 The medium was replaced every two days .
 When the cells reached confluence , the medium was supplemented with foetal bovine serum ( 2 % , Gibco ) and triiodothyronine ( 30 ng / mL , Sigma ) , and the cells were maintained one more week prior to fixation .
-
 Twenty - four hours after cell isolation with the protocol , including the centrifugation in the sucrose solution , three cell samples were lightly disaggregated with polished Pasteur pipettes and washed once with 0.1 M PBS .
 The cell suspension was then incubated in A2B 5 hybridoma supernatant ( ATCC ) for 30 minutes at 4 ° C , washed with 0.1 M PBS , 0.5 % bovine serum albumin three times , and finally incubated in a secondary antibody ( Alexa Fluor 488 goat anti - mouse , 1 ∶ 500 in 0.1 M PBS [ Invitrogen ] ) and propidium iodide .
 After a final wash , the samples were analysed using a Cytomics FC 500 ( Beckman Coulter ) flow cytometer .
-
 The total RNA was extracted from three cell lines of each culture type in passage 2 ( spheres ) or passage 3 ( adherent cultures ) using RNeasy , followed by DNase I treatment , both according to the manufacturer ’ s specifications ( Qiagen ) .
 The cDNA was synthesised using a High Capacity cDNA Reverse Transcription Kit ( Applied Biosystems ) .
 The molecular analyses were performed by PCR amplification , using primers designed with Primer 3 software ( Table S1 ) , followed by electrophoresis in 1.8 % agarose gel .
 SYBR Green - based QRT - PCR ( Applied Biosystems ) was run in a LightCycler 480 Instrument ( Roche ) .
 The amount of SOX 2 cDNA was normalised to the quantity of three housekeeping gene ( β - actin , β - 2 - microglobulin , and GAPDH ) transcripts .
-
 The cells were plated for 24 hours on Matrigel - treated coverslips , fixed with 4 % paraformaldehyde in 0.1 M PB ( Panreac ) for 20 minutes , and washed with Dulbecco ’ s phosphate - buffered saline ( DPBS , Invitrogen ) w / o Ca 2 + / Mg 2 + .
 The cells were blocked with 10 % donkey serum ( Jackson ImmunoResearch ) and 0.1 % Triton X - 100 ( Sigma ) in 0.1 M DPBS for 45 minutes .
 Goat anti - human SOX 2 antibody ( 1 ∶ 50 , Chemicon ) , mouse anti - GFAP ( 1 ∶ 500 , Dako ) , mouse anti - MAP 2 ( 1 ∶ 200 , Sigma ) , rat anti - MBP ( 1 ∶ 200 , Sigma ) , and / or mouse anti - human Ki 67 antibodies ( Dako , 1 ∶ 250 ) were applied for 1 hour at 25 ° C in a blocking solution .
@@ -82,7 +75,6 @@ The best focus was based on the highest pixel intensity .
 Imaging conditions were identical for all the images .
 The images were identically processed using MetaMorph Software ( Molecular Devices ) .
 For the cell recount , at least 10 different images ( including at least five spheres , depending on their size ) from three separate experiments were counted .
-
 Sections from four temporal lobe samples were fixed with 4 % PFA for 36 hours .
 After washing , the sections were cryoprotected in a 30 % sucrose solution overnight and cryosectioned at 14 μ m .
 The sections were washed with 0.1 M PBS , and antigen retrieval was performed by immersing the sample in 10 mM sodium citrate , 0.05 % Tween 20 , pH 6.0 at 95 ° C - 100 ° C for 1 hour .
@@ -97,6 +89,5 @@ Eight - bit , 1024 × 1024 - pixel images were collected for each preparation .
 The best focus was based on the highest pixel intensity .
 Imaging conditions were identical for all the images .
 The images were equally processed using FluorView FV 1000 ( Olympus ) .
-
 The data presented in this article represent mean ± standard deviation and were calculated using Statistical Package for the Social Sciences ( SPSS , IBM ) .
 The FA and ADC means from the epileptic and contralateral side were compared using Student ’ s t - test for paired samples ( α = 0.01 ) .

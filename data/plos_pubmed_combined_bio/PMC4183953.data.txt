@@ -7,7 +7,6 @@ Dogs with greater aggressivity showed a higher differential response to the rewa
 This suggests that specific facets of canine temperament bear more strongly on the perceived reward value of relevant communication signals than does reinforcement history , as each of the dogs were reinforced similarly for each signal , regardless of the source ( familiar human , unfamiliar human , or computer ) .
 A group - level psychophysiological interaction ( PPI ) connectivity analysis showed increased functional coupling between the caudate and a region of cortex associated with visual discrimination and learning on reward versus no - reward trials .
 Our findings emphasize the sensitivity of the domestic dog to human social interaction , and may have other implications and applications pertinent to the training and assessment of working and pet dogs .
-
 Introduction
 The domestic dog is a rising star in behavioral neuroscience due both to his high trainability and likely co - evolution with humans over the last 10,000 - 30,000 years .
 Recently , dogs have even proved amenable to participation in awake , unrestrained neuroimaging , allowing researchers to further probe the workings of the canine mind in a non - invasive and ethical method ( Berns , Brooks & Spivak , 2012 ) .
@@ -30,7 +29,6 @@ PPI is a connectivity measure that allows one to examine what brain areas increa
 While typical BOLD contrasts used in fMRI tend to highlight regions maximally specific to the task or condition of interest , PPI can highlight more distributed network activity involving areas less specialized to the primary task ( Friston et al . , 1997 ; Rogers et al . , 2007 ) .
 PPI generally requires large numbers of events , so we collapsed across all source conditions ( familiar human , unfamiliar human , and computer ) and looked for areas with increased functional connectivity to the ventral caudate in the reward vs . no - reward conditions .
 This opens the possibility of uncovering task - specific reward networks across the canine brain .
-
 Materials and Methods
 Participants
 Participants were dogs ( n = 13 ) from the Atlanta community ( Table 1 ) .
@@ -41,7 +39,6 @@ However , one dog exhibited excessive motion during this experiment and was subs
 Participants .
 This study was performed in strict accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health .
 The study was approved by the Emory University IACUC ( Protocol # DAR - 2001274 - 120814BA ) , and all dogs ’ owners gave written consent for participation in the study .
-
 Training
 For participation in previous experiments ( details in : Berns , Brooks & Spivak , 2013 ; Berns , Brooks & Spivak , in press ) , dogs took part in a training program using behavior shaping , desensitization , habituation , and behavior chaining to prepare them to be comfortable with the physical confines of the MRI bore and the loud noise produced by scanning .
 The end goal of initial training was that each dog remain comfortable and motionless for up to 30 s at a time during live scanning .
@@ -84,7 +81,6 @@ Dogs were cleared for testing when they had completed at least one month of regu
 This session involved stationing with the monitor in place , recorded scanner noise playing , and the primary handler out of view .
 Dogs also had to be wearing their ear protection , and treats were delivered via the treat kabob .
 Total time in training , from first introduction to the computer stimuli to finishing “ dress rehearsal ” ranged from 8 weeks to 16 weeks , with the duration affected by both the aptitude of the dog and the diligence of the owner in implementing homework sessions .
-
 MRI scanning
 All scanning for the current experiment was conducted with a Siemens 3 T Trio whole - body scanner .
 Dogs were stationed in their custom chin - rests , which had been placed in a standard neck coil as previously described in Berns , Brooks & Spivak ( 2013 ) ( Fig . 2B ) .
@@ -99,7 +95,6 @@ For the first dog ( Zen ) , three runs of up to 600 functional volumes were acqu
 This was subsequently split into 6 runs in a counterbalanced fashion for the remainder of the dogs .
 As part of a separate experiment , an additional functional run was acquired during the session in which the dog was presented with different types of visual stimuli on the screen ; however , these data are not analyzed or reported here .
 During functional scanning , reward was delivered via the aforementioned treat - kabob , operated by a project staff member sitting below and to the side of the scanner bore ( out of sight of the dog ) .
-
 Experimental design
 Stimuli for this experiment were as described above : the two natural hand signals representing reward and no - reward delivered by a familiar and an unfamiliar human , and the two illustrated computer signals representing reward and no - reward , projected on a screen at the head of the bore .
 Each subject dog received 15 reward and 15 no - reward signals with the familiar human , the unfamiliar human , and with the computer images , for 90 trials overall across the three source conditions .
@@ -121,7 +116,6 @@ For live scanning , some dogs did show some anxiety when first placed in the bor
 Basic training mechanisms were employed to work around this , reprising the initial acclimation approach taken in the mock scanner at our training facility discussed previously .
 In brief , prior to the beginning of these scanner runs , the dogs were stationed with the screen present and their owner ’ s face in view .
 They were rewarded a number of times as the owner was approximated back and to the side , and then live scanning began .
-
 Event recording
 Trial events ( onset and offset of reward and no - reward signals ) were recorded by an observer via a four - button MRI - compatible button - box .
 The observer stood next to the experimental trainer and unfamiliar person respectively on runs 1 , 2 , 5 , and 6 , such that they could see the dog ’ s head in the bore of the magnet .
@@ -129,7 +123,6 @@ On these runs , the observer signaled the experimental trainer and unfamiliar pe
 On runs 3 and 4 , the computer runs , the observer moved to the side so that the dog was unable to see them , but the they could just see the very tip of the dog ’ s nose ( to ascertain that the dog was still appropriately stationed / not moving ) .
 On the computer runs , the observer used the button - box to present and advance the reward and no - reward stimuli ( while simultaneously recording onset / offset ) .
 A laptop computer running Matlab ( MathWorks ) and Cogent ( FIL , University College London ) was connected to the button - box via serial port , and recorded both the button - box responses by the observer and scanner sequence pulses .
-
 C - BARQ
 Because we hypothesized that variability in participant disposition toward handlers and strangers could have a strong impact on the relative reward value of the two signal types across different source conditions the dogs ’ handlers completed the Canine Behavioral Assessment & Research Questionnaires ( C - BARQ ) .
 These have been used on over 20,000 dogs and represent a standardized and validated ( Duffy & Serpell , 2012 ) tool for obtaining behavioral measures from owner report .
@@ -139,7 +132,6 @@ Because of the small number of dogs relative to the number of C - BARQ factors ,
 This collinearity , combined with the number of factors , would be problematic in any modeling of the neural data .
 Therefore , we performed principal component analysis ( PCA ) on the 14 C - BARQ scores from our subjects , with a limit of four factors .
 By limiting to four factors , we were able to include these factors in the neural model without overfitting , while still being able to identify the major groupings of C - BARQ dimensions that were responsible for differences in neural activation .
-
 Functional data preprocessing and analysis
 Preprocessing was conducted using AFNI ( NIH ) and its associated functions , and most steps were identical to those listed in Berns , Brooks & Spivak ( in press ) .
 In brief , 2 - pass , 6 - parameter affine motion correction was used with a hand - selected reference volume for each dog .
@@ -167,7 +159,6 @@ Finally , to control for possibly confounding physiological factors ( e.g. , if 
 Using AFNI ’ s 3dmaskave , average timecourses for these ROIs were then extracted after transforming to each dog ’ s structural space .
 This timecourse was entered into the general model as a nuisance variable for each subject .
 Because BOLD signal changes in CSF and white matter reflect physiological effects , not neural processing , this controlled for undue influence of physiological effects on the primary contrasts ( Weissenbacher et al . , 2009 ; Murphy , Birn & Bandettini , 2013 ) .
-
 ROIs and mixed - effects modeling
 To measure the interaction of reward and no - reward signals with signal source , we used a mixed - effects ANOVA to compare mean caudate activation in the six conditions ( 2 signals × 3 sources ) across all dogs .
 The four primary temperament factors ( as computed from the CBARQ behavioral questionnaire and subsequent PCA discussed above ) were also included in the statistical model .
@@ -180,7 +171,6 @@ A 2 × 3 ANOVA was formulated with fixed effects for hand signal ( reward , no r
 Because no significant left / right differences were observed , side was not included as a fixed effect .
 We also conducted a second analysis that included the C - BARQ temperament factors as well their interactions with the other fixed effects .
 This allowed us to determine the relative caudate activation in each of the six conditions and examine how this might be modulated by temperament .
-
 PPI
 In addition , we used our data to compute a psychophysiological interaction ( PPI ) analysis at the individual and group levels .
 PPI highlights areas that increase functional coupling ( defined as synchronous firing patterns ) with a seed area in a certain condition , or in a certain condition in contrast to some other ( Friston et al . , 1997 ) , and has been shown to produce reliable and robust measures of task - specific functional connectivity ( Kim & Hortwitz , 2008 ) .
@@ -196,7 +186,6 @@ The convolved interaction term and the initial extracted caudate seed time serie
 Increased BOLD activation corresponding to the interaction term in the GLM should then be seen in areas that increased functional coupling ( i.e. , synchronous firing ) with the caudate during reward versus no - reward conditions .
 Such areas may be understood to be differentially connected to the caudate during processing of the reward signal in this task .
 Note that , as a connectivity analysis , PPI is driven by patterns of increase and decrease in BOLD signal , and is not necessarily indicative of a main effect difference in BOLD strength in any particular region .
-
 Whole - brain group analyses
 To apply the transformations to a statistical contrast , the appropriate individual - level contrast ( obtained from the GLM as described above ) was extracted from the AFNI BRIK file and normalized to template space .
 Group normalization was conducted using the Advanced Normalization Tools ( ANTs ) software , as described in Berns , Brooks & Spivak ( in press ) .
@@ -210,7 +199,6 @@ The group contrast we conducted was reward - no reward ( across all source condi
 The same approach was taken to compute the group PPI results .
 Instead of a contrast , the beta values for the interaction term ( computed between stimulus presentation schedule and caudate time series ) from each individual dog were entered into a second - level model using 3dttest + + .
 For both the primary GLM and the PPI analysis , we then calculated the average smoothness of the residuals using 3dFWHMx and then used 3dClustsim to estimate the significance of different cluster sizes across the whole brain after correcting for familywise error ( FWE ) .
-
 Results
 Mean scan - to - scan movement across all sources ( familiar and unfamiliar human and computer ) and signals ( reward and no - reward ) was 0.94 mm .
 In a repeated measures ANOVA , source was a significant predictor of motion ( F ( 2 ) = 44.6 , p < 0.001 ) , with motion lower in the familiar handler source than the other two .
@@ -230,7 +218,6 @@ C - BARQ factor 2 did not show a significant interaction with signal , and C - B
 The values for our dogs showed very limited range in this metric , and did not match with independent assessments of actual trainability by the authors ( two of whom have extensive animal training experience ) ( Fig . 5 ) .
 Functional connectivity group analysis revealed bilateral clusters of increased activation , in the left posterior suprasylvian region corresponding to the right caudate seed , and in the right posterior suprasylvian region corresponding to the left caudate seed ( Fig . 6 ) .
 Both clusters were significant at voxelwise p < 0.05 ( 321 voxels for the left posterior suprasylvian region , 565 voxels for the right posterior suprasylvian region ) , but do not survive thresholding with whole - brain corrected FWE at p < 0.10 .
-
 Discussion
 Here we showed that , across 12 dogs , the caudate was differentially active for reward vs . no - reward signals when analyzed at the group level .
 Findings controlled for confounding effects from motion , censoring , and physiological changes .

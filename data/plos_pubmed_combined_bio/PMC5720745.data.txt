@@ -15,7 +15,6 @@ Among these children , 8.3 % were at Grade 3 , 17.7 % were at Grade 4 , 18.1 % w
 Moreover , 52.7 % children were females and 47.3 % were males .
 Among the children that participated in the current study , there were 2416 ( 53.5 % ) non - left - behind children and 1997 ( 46.5 % ) left - behind children .
 Furthermore , among the left - behind children , 1003 children were living only with mother ( father absence group ) , 132 were living only with father ( mother absence group ) , 962 were living without the care of either parent ( both - parents absence group ) .
-
 All participants responded to a questionnaire comprised of a ) a range of questions concerning demographic information , including age , gender , school , grade , social economic status ( SES ) , and the status of parental presence , b ) the Center for Epidemiological Studies Depression Scale for Children ( CES - DC ) [17] , c ) the Multidimensional Anxiety Scale for Children ( MASC ) [18] , d ) a question regarding respondents ’ suicide ideation .
 The SES of children was assessed by asking the children that which financial level of their family was at in comparison with fellow students - lower than average , average , or higher than average [19] .
 To detect the suicide ideation , children were asked by one question that whether or not they had the thoughts of killing themselves in the past two weeks [20-21] .
@@ -34,7 +33,6 @@ The MASC has been widely adopted to test the anxiety status of children in empir
 In the current study , the four - dimension structure of the MASC was further validated by exploratory factor analysis .
 It was found that items corresponding to the six types of anxieties were successfully identified from the MASC and the four factors accounted for 47.95 % variance in the data .
 Furthermore , the reliabilities of the inventory were .83 , .65 , .71 , and .87 , respectively , for the subscales of social anxiety , harm avoidance , isolation anxiety , and physical anxiety .
-
 With respect to data analyses , first , psychometric properties the CES - DC and the MASC were evaluated by exploratory factor analysis and Cronbach ’ s alpha test .
 Second , descriptive statistics were carried out to investigate the statistical distributions of the continuous variables ( e.g. , depression , social anxiety , harm avoidance ) and to test the prevalence of suicide ideation among children with different status of parental absence .
 Third , logistic regression was conducted to test the relationship between parental - absence status and suicide ideations with demographic factors being controlled .

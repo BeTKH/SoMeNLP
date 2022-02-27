@@ -10,15 +10,7 @@
 
 
 
-
-
-
 Version_of	18.0	60	1	CFD	47	0;;Developer_of	Ansys	70	2	CFD	47	0;;Developer_of	SolidWorks	238	4	CAD	220	3;;
-
-
-
-
-
 
 
 
@@ -106,27 +98,7 @@ Developer_of	Adobe	42	0	Photoshop	48	1;;Extension_of	CC	58	2	Photoshop	48	1;;Ver
 
 
 
-
 Version_of	8.2.1	50	1	Prism	44	0;;Developer_of	GraphPad	58	2	Prism	44	0;;Developer_of	Adobe	95	3	Illustrator	101	4;;Extension_of	CC	113	5	Illustrator	101	4;;Version_of	22.1	118	6	Illustrator	101	4;;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
