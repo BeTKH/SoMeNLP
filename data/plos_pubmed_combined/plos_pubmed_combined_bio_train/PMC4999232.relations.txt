@@ -4,8 +4,6 @@
 
 
 
-
-
 Release_of	R2007b	87	4	Matlab	80	3;;Developer_of	Mathworks Inc.	97	5	Matlab	80	3;;Version_of	3.0.9	55	1	Psychophysics Toolbox	33	0;;Citation_of	[12]	61	2	Psychophysics Toolbox	33	0;;PlugIn_of	Psychophysics Toolbox	33	0	Matlab	80	3;;
 
 
@@ -39,13 +37,7 @@ Release_of	R2007b	87	4	Matlab	80	3;;Developer_of	Mathworks Inc.	97	5	Matlab	80	3
 
 
 
-
-
-
 Version_of	22.0	72	1	SPSS	67	0;;Developer_of	IBM Corp.	91	3	SPSS	67	0;;Release_of	2013	102	4	SPSS	67	0;;
-
-
-
 
 
 

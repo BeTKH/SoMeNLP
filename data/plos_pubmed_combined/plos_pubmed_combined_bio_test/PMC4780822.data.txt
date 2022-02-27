@@ -16,7 +16,6 @@ For INMP , data were obtained through the logistics office of the hospital .
 Each of the offices was visited , staff responsible for purchasing supplies were interviewed and information from invoices and reports was collected .
 Data on training costs associated with RST were collected through bills , invoices of supplies and reagents purchased by the CISNE Project provided by the project manager .
 Data on associated costs of training were obtained by allocating salaries of project staff involved in the activities .
-
 Project Outputs and Unit Costs : Project outputs included : number of pregnant women tested in each of the facilities , number of women with reactive tests for syphilis and number of women treated .
 The data for RST was obtained from records of the CISNE Project implementation , which took place from January to November 2010 ( data was projected for the whole year ) .
 Data for RPR were obtained from 2009 statistical reports from each health facility .
@@ -28,7 +27,6 @@ These figures were obtained by comparing field performances against laboratory -
 Disability - adjusted life years ( DALY ) averted were only calculated for adverse outcomes in infants , and estimated by the number of women seen in ANC , prevalences , diagnostic performance and treatment rates .
 Using standard DALY inputs ( 3 % discount rate and stillbirth considered a full life lost ) , each true case treated is assumed to avert 5.73 DALYs in Peru .
 The estimation of DALYs for this study followed the methods presented by Terris - Prestholt et al [20] .
-
 A univariate sensitivity analysis was performed to determine the impact of uncertainty of costs and output .
 Factors included were : discount rate ( variation from 3 % to 9 % ) ; working hours of the health workers ( variation from 6 to 8 hours per day ) ; screening rates for syphilis ( variation from 57 % to 100 % ) ; exchange rate ( US dollars ( USD ) to Peruvian new soles ( PNS ) with a variation of 2.638 to 2.910 PNS : USD ) ; syphilis prevalence ( variation from 0.6 % to 2.2 % ) ; building costs ( increments of 22.1 % ) ; and health personnel salaries ( both for screening and for treatment , variation between 0 % to 50 % ) .
 The Ethics Committee at Universidad Peruana Cayetano Heredia reviewed and approved the main study ( Approval number 55202 ) .

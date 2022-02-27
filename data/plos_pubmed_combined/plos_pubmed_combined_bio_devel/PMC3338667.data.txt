@@ -14,11 +14,9 @@ The pellets were washed with 70 % ethanol and dried for 5 min in an unheated vac
 The pellets were resuspended in 100 μ l TE pH 8 ( 10 mM Tris pH 8 and 1 mM EDTA ) and incubated for 30 min at 37 ° C with 2 μ l RNAse A ( Qiagen ) .
 These extracts were then further purified with a Qiagen QIAquick column and eluted in 30 uL Buffer EB ( Qiagen ) .
 The final extracts were quantified using a Qubit dsDNA broad range assay ( Invitrogen ) and the resulting DNA samples were sent to the Joint Genome Institute ( JGI ) .
-
 At JGI , the V 6 - V 8 regions of the 16S rRNA gene of the samples were amplified in triplicate using universal 16S rRNA primers adapted with 454 FLX Titanium sequences .
 The forward primer was 926F 454 Tit F 5 ′ - CCTATCCCCTGTGTGCCTTGGCAGTCTCAG - aaactYaaaKgaattgacgg - 3 ′ ( Lib B adapter is in caps ) and the reverse barcoded primer was 1392R 454 Tit R 5 ′ - CCATCTCATCCCTGCGTGTCTCCGACTCAG - NNNNN - acgggcggtgtgtRc ( Lib A is in caps and the variable barcode region is denoted by N ' s ) .
 Amplicons were sequenced using Roche 454 Titanium sequencing ( for details see http://www.jgi.doe.gov/sequencing/protocols/index.html ) .
-
 The retrieved sequences were processed by excluding sequences not matching the primers , with low quality for 10 % or more of the sequence , or with fewer than 200 base pairs .
 These reads were deposited in the GenBank Sequence Read Archive ( accession SRA 046735 ) .
 For analyses , all reads were trimmed to the same aligned 180 bp region .
@@ -52,13 +50,11 @@ Multi - Response Permutation Procedures MRPP [20] were used to test for differen
 Nonmetric multidimensional scaling ( NMS ) [21] , [22] was used to compare bee gut microbiota assemblages among bee individuals .
 One extreme outlier ( bee individual AZ _ 109 _ 3 ) was removed , since extreme outliers distort ordination solutions .
 All criteria , distance measures , and parameters chosen are similar to those in Hansen et al . [23] .
-
 Briefly , a two - dimensional solution was chosen based on a combination of low stress , final instability , and P - values .
 500 iterations were conducted .
 Non - parametric indicator species analysis ( ISA ) [24] was used to identify the OTUs that best described differences between sites , based on two independent measurements of species distribution , specificity and fidelity ( i.e. , an OTU was specific to a particular group ( specificity ) and widespread in all samples of that group ( fidelity ) ) .
 Potential indicator values ( IndVal ) that can result from ISA range from 0 - 100 where values > 25 signify a good indicator [24] .
 Parameters and criteria are similar to those in Hansen et al . [23] .
-
 Strain variation within Snodgrassella and Gilliamella : Because pyrotag sequences were too short for fine - scale discrimination of strains within each phylotype , we obtained Sanger sequence data to assess the extent of strain variation within the Snodgrassella and Gilliamella phylotypes .
 Reverse primers were designed to complement sequences within the region used to align pyrosequence reads ( positions between 1100 to 1300 ) .
 The Snodgrassella primer ( betacd 1 5 ′ - TTCGCTACCCTCTGTACCGACCATT - 3 ′ ) or Gilliamella primer ( gma1cd 2 5 ′ - TCGCCTCCCTTTGTATACGCCATT - 3 ′ ) were paired with 16S rRNA universal primer 27Fshort ( 5 ′ - GAGTTTGATCCTGGCTCA - 3 ′ ) in 25 μ L reactions of 0.8 U Taq DNA Polymerase ( New England BioLabs ) , 0.25 mM of each dNTP , 1x PCR buffer , and 0.5 μ M concentrations of each primer .
@@ -88,7 +84,6 @@ Therefore , no phylogenetic tree was constructed .
 In the case of Snodgrassella , a Neighbor - Joining tree was built using a Tamura - Nei distance model , within MEGA [28] .
 Representative database sequences from the Snodgrassella phylotype were included in the analysis .
 Sequences derived from Bombus formed a more divergent cluster , and these were used as an outgroup to the A . mellifera - derived sequences .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0036393.t001 Summary of Pyrotag Reads from Honey Bee Samples , Including the Representation of Known Bee Phylotypes .
 Final sequences for these phylotypes were deposited in GenBank with the accession numbers JQ 581680 - JQ 582008 Characterization of 16S rRNA sequences for Gamma 3 and Gamma 4 phylotypes : To further characterize the novel clusters ( Gamma 3 and Gamma 4 ) , ∼ 50 ng of DNA from individual bee preps ( AZ 107.4 , AZ 109.1 , and AZ 109.3 ) was used to perform PCR amplification of near full - length 16S rRNA sequences , using the following universal primers : 27F ′ - HT ( 5 ′ - AGRGTTTGATYMTGGCTCAG - 3 ′ ) and 1492R ′ - HT ( 5 ′ - GGYTACCTTGTTACGACTT - 3 ′ ) [30] .

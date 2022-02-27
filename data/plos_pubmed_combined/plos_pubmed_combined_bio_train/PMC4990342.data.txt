@@ -7,7 +7,6 @@ We calculated a 1 - day point prevalence for drug use on the arbitrarily chosen 
 The method for the calculations has been described in detail elsewhere [24] .
 Briefly , since prescription drugs are dispensed for at most 3 months in Sweden , we used information about when the prescription was filled , the amount of drugs dispensed and prescribed dosage , from the preceding 3 months to calculate the 1 - day point prevalence .
 If the same drug was dispensed more than once during the 3 month period , it was calculated as one drug .
-
 The Anatomical Therapeutic Chemical ( ATC ) classification system was used for classification of drugs , as recommended by the Word Health Organization [25] .
 APD usage , defined as use of any dopaminergic anti - Parkinson drug in ATC - class N04B ( i.e. Dopa and dopa derivatives ( ATC - code N04B A ) , adamantane derivatives ( N04B B ) , dopamine agonists ( N04B C ) , monoamine oxidase B inhibitors ( N04B D ) and other dopaminergic agents ( N04B X ) ) was used as a proxy for PD [26] .
 The following drug classes that may increase the risk of falls in old people ( i.e. FRIDs ) were analyzed : opioids ( ATC - code N02A ) , antipsychotics ( N05A ( N05A N excluded ) ) , anxiolytics ( N05B ) , hypnotics and sedatives ( N05C ) , antidepressants ( N06A ) , vasodilators used in cardiac diseases ( C01D ) , antihypertensives ( C02 ) , diuretics ( C03 ) , beta - blocking agents ( C07 ) , calcium channel blockers ( C08 ) , agents acting on the renin - angiotensin system ( C09 ) , alpha - adrenoreceptor antagonists ( G04C A ) , dopaminergic anti - parkinson drugs ( N04B ) [27] and anticholinergic drugs [19] .
@@ -18,12 +17,10 @@ The use of specific FRIDs refer to the use of at least one drug in the respectiv
 The use of any anticholinergics refers to use of any of the anticholinergics listed above ( ATC class N04A excluded ) .
 We also investigated the use of osteoporosis drugs ( use of drugs in ATC classes A12A X , G03X C01 , M05B A or M05B B ) , and polypharmacy , defined as use of ≥ 5 drugs simultaneously .
 The type of housing variable was defined as home - dwelling ( living in own home ) or institutionalized ( e.g. nursing - home , sheltered accommodation ) [24] .
-
 We performed both crude and multivariate logistic regression analysis in order to study whether use of APD was associated with use of FRIDS .
 In model 1 , adjustment was made for age ( continuous variable ) and sex .
 In model 2 , additional adjustment was made for type of housing .
 The results are presented as odds ratios with 95 % confidence intervals .
 SPSS 22.0 for Windows ( SPSS Inc . , Chicago , IL ) was used for the analyses .
-
 The study was approved by the regional ethical review board in Stockholm ( Dnr 2009 / 477 - 31 / 3 ) .
 Only de - identified register - based data were used .

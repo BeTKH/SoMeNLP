@@ -1,16 +1,13 @@
 All participants gave written informed consent and were compensated for their participation .
 The study was approved by the Institutional Review Board of the National Institutes of Health , Bethesda , Maryland , USA .
-
 30 Caucasian participants ( 11 male ) , living in the Washington D.C . area .
 One participant ’ s data was excluded from analyses of test phase eye - movements due to partial data corruption .
-
 We used an EyeLink II headmounted eye - tracker ( SR Research , Mississauga , ON , Canada ) , and sampled pupil centroid at 500 Hz .
 The default nine point calibration and validation sequences were repeated throughout the experiment .
 Both eyes were calibrated and validated , but only the eye with the lowest maximum error was recorded for the trials following a particular calibration .
 Calibration was repeated when maximum error at validation was more than 1 ° of visual angle .
 Before each trial , a drift correction was performed .
 Default criteria for fixations , blinks , and saccades as implemented in the Eyelink system were used .
-
 We collected 32 Caucasian - American , 32 African - American , and 32 Chinese face images ( 16 male and 16 female for each race ) , for a total of 96 grayscale neutral expression frontal - view face images ( see Fig 1A for examples ) .
 All Caucasian faces were taken from the neutral expression 18 to 29 age group of the Productive Aging Lab Face Database established by the University of Texas at Dallas ( http://vitallongevity.utdallas.edu/stimuli/facedb/categories/neutral-faces.html ) [35] .
 African - American faces were taken from the neutral expression 18 to 29 age group of the Productive Aging Lab Face Database , from the MacBrain ( “ NimStim ” ) Face Stimulus Set made by the MacArthur Foundation Research Network on Early Experience and Brain Development ( http://www.macbrain.org/resources.htm ) , and from the Color FERET Database ( http://www.nist.gov/itl/iad/ig/colorferet.cfm ) [36,37] established by the United States Department of Defense ( DOD ) Counterdrug Technology Program .
@@ -21,7 +18,6 @@ Each face was scaled to have a forehead width subtending 10 degrees of visual an
 Images were cropped to remove most of the background , but not the hair or other external features , and all images were equated for overall luminance .
 At presentation , images were centered on a black background .
 To eliminate any possible stimulus bias as the source of any laterality effects , half of the faces were randomly left - right flipped across the vertical midline of the image for each participant .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0148253.g001 Study design . ( a ) Four example face stimuli . ( b ) AOIs for one face showing the calculation of start positions , which were determined separately for each face and defined relative to that face .
 Green dots schematically illustrate the potential start positions relative to the upcoming face .
@@ -31,7 +27,6 @@ Dotted blue lines schematically illustrate that the start positions were equidis
 A face was only presented if the participant successfully maintained fixation for a total of 1.5 seconds .
 After face onset in the study phase , participants were free to study the face for up to 10 seconds and pressed a button to begin the next trial .
 In the test phase , faces were presented for one second only and participants responded with button presses to indicate whether the face was ‘ old ’ or ‘ new ’ .
-
 The website of the Productive Aging Lab Face Database states : “ This [ database ] contains a range of face of all ages which are suitable for use as stimuli in face processing studies . Releases have been signed by the participants we photographed and the faces may be included in publications or in media events . ”
 Development of the MacBrain Face Stimulus Set was overseen by Nim Tottenham and supported by the John D . and Catherine T .
 MacArthur Foundation Research Network on Early Experience and Brain Development .
@@ -54,7 +49,6 @@ In the y - dimension , the lower edge was at a similar position relative to bott
 The upper edge of the mouth AOI was identical to the lower edge of the nose AOI .
 When nose and mouth AOIs were split into two halves ( for the purpose of placing the pre - stimulus start positions ) , simple bisection in the x - dimension was performed .
 We subsequently conducted analyses of AOI areas , widths , and heights to provide rough indices of race of face physiognomic differences and variability ( Figures F - H in S1 File ) .
-
 We varied race of face stimulus ( Caucasian , African , Chinese ) and pre - stimulus fixation location ( “ start position ” ) across the trials of the experiment comprised of two phases : study and test .
 We systematically varied start position because fixation patterns are affected by visuo - motor factors ( e.g. start position ) in addition to stimulus factors ( face ) [33,34] .
 During the study phase , participants observed 48 faces ( 16 of each race , 8 male for each race ) in a self - paced manner ( up to 10 seconds , self - terminating trials with a button press ) .
@@ -79,18 +73,15 @@ When a given face was presented in both the study and test phases , the face ima
 This practice had the advantage of making analysis more straightforward and easily interpreted since changes in viewpoint , emotional expression , lighting , etc . would not serve as confounds for eye - movement differences ; however , this practice also has the limitation of potentially allowing simple image matching mechanisms , in addition to the more abstract facial identification mechanisms of interest .
 The particular subset of faces used in the study phase was randomized across participants .
 Of the faces presented in both study and test phase , half of the faces were presented with the same start position at study and test and for the other half , the start position on the other side of the face was used ( e.g. left to right start position between study and test ; upper to lower between study and test ) .
-
 Fixation and AOI data were obtained through EyeLink Data Viewer software by SR Research .
 Subsequent analyses on these data and behavioral data from the test phase were performed with custom Matlab ( The MathWorks , Inc . , Natick , MA , USA ) code .
 ANOVAs were performed in SPSS ( IBM , Somers , NY ) .
-
 We assessed participants ’ discrimination performance , response bias , and reaction time on the old / new recognition task in the test phase .
 d ' ( d ’ = z ( hit rate ) - z ( false alarm rate ) ) and criterion c ( c = - [ z ( hit rate ) + z ( false alarm rate ) ] / 2 ) were computed for discrimination performance for each participant , broken down by race of face and start position .
 Reaction times were analyzed for correct trials only .
 Reaction time values more extreme than 2.5 standard deviations from the median within each condition and participant were excluded from analysis .
 Reaction time analyses were broken down by Race of Face and Start Position conditions with analysis being performed on the medians calculated for each subject .
 Greenhouse - Geisser correction was applied if any of the factors or interactions of a given ANOVA violated sphericity .
-
 We assessed the relative frequencies of fixations across the AOIs as a function of our experimental manipulations .
 The AOIs used were left eye , bridge , right eye , nose ( left and right sides combined to be comparable with prior studies ) , mouth ( left and right sides combined ) , and other ( outside the defined AOI regions ) .
 Given the variable numbers of fixations across trials and across participants , only the first five fixations of each trial were included in the analyses of the study phase .
@@ -111,7 +102,6 @@ A small proportion of analyzed fixations ( < 2 % during study , < 1 % during tes
 These fixations were not excluded from the analyses , but are simply not visible in plots .
 The resulting maps show the spatial fixation densities , using a color scale from zero to the maximum density value observed , with values approaching zero being deep blue .
 All maps within a single figure contain the same total number of fixations and so are scaled the same to allow for direct comparison .
-
 Spatial Density Contrasts : Difference Maps : In order to view differences in the spatial fixation density between two conditions , a pixel - wise subtraction between two spatial density maps was performed for each participant and then averaged across participants .
 Spatial Density Contrasts : Statistical Maps : In order to produce maps of statistically significant differences in the spatial density map contrasts , a Monte Carlo permutation test was performed on fixation locations between the contrasted conditions .
 A Monte Carlo permutation test ( also called an approximate permutation test or a random permutation test ) is a standard , accurate and robust method of performing a significance test on data that is not known to have a parametric ( e.g. normal ) distribution of values , such as our data .
@@ -130,27 +120,22 @@ Specifically , a pixel - wise t - test on fixation maps is inappropriate because
 Even pixel - wise non - parametric tests could create a large multiple comparisons problem , which grows as the pixel resolution of heatmaps grow .
 In our analysis , fixation locations are exchanged rather than pixels ; therefore , increasing the resolution at which heatmaps are displayed does not exacerbate the multiple comparisons problem .
 Our analysis is an alternative to a another approach , which has been implemented by Caldara and colleagues in a free Matlab toolbox called iMap [42] .
-
 Spatial Density Contrasts : Correction for Multiple Comparisons on Statistical Maps : In order to reduce the chance of false positives in our statistical maps due to multiple comparisons , we utilized False Discovery Rate ( FDR ) control , which enables setting the statistical thresholds to those at which a given estimated rate of false positives can be attained .
 The AFNI ( http://afni.nimh.nih.gov ) function 3dFDR was applied to each of the statistical maps .
 Because approximately half of the pixels in the statistical maps did not correspond to face stimulus pixels and because our aim was to detect fixation differences over internal facial features , the same non - face region mask was applied to all statistical maps before FDR correction so that those pixels would be ignored in the 3dFDR algorithm .
 Our FDR threshold was set to q < 0.05 , at which it would be estimated that 5 % of surviving pixels are false positives .
 Cluster size correction is an alternative method to FDR control for multiple comparisons correction , though in the context of this study , where fine - grained mapping of highly significant regions is preferred to detection of larger area regions , we chose to employ FDR control .
-
 Because AOI analyses can be criticized for requiring a highly subjective a priori segmentation of visual features [42] , but spatial statistical maps can be criticized for lacking sensitivity , we conducted additional exploratory analyses that were meant to increase sensitivity without subjective segmentation .
 In particular , we calculated profile densities ( i.e. densities summed along a single dimension of a heatmap ) for the different conditions during the study phase .
 The y - profile plots were the result of summing along the horizontal dimension ( x - axis ) of a spatial density heatmap .
 The y - profile plots visualize fixation density over specific facial features without respect to laterality or fine differences in horizontal position .
 Since the primary effects of interest here focused on which facial features were fixated ( eyes , nose , mouth ) , we report only y - profile plots .
-
 Profile Density Contrasts : Difference Plots : In order to visualize potential differences in profile density between two conditions , spatial density difference maps were summed along the vertical dimension to produce x - profile density difference plots and summed along the horizontal dimension to produce y - profile density difference plots .
 X - profile density difference plots visualize potential differences in left - right face laterality between contrasted conditions , and y - profile density difference plots visualize potential differences in density over specific facial features .
-
 Profile Density Contrasts : Profile Statistical Maps : To find regions of statistically significant difference in the profile density difference plots , we re - used the 104,000 resampled iterations from the spatial density contrast statistical map analyses to perform a Monte Carlo permutation test on the contrasted profile plots .
 All resampled iterations from the relevant spatial density Monte Carlo permutation test were summed along the vertical dimension to produce the resampled iterations of the x - profile Monte Carlo permutation test , and were summed along the horizontal dimension to produce the resampled iterations of the y - profile Monte Carlo permutation test .
 P - values were computed pixel - wise ( i.e. at each pixel along the relevant dimension ) based on the number of corresponding pixels in the resampling iterations that were greater than a given positively valued pixel ( i.e. where condition 1 had a greater profile density ) in the true profile density difference plot and that were less than a given negatively valued pixel ( i.e. condition 2 greater ) in the true profile density difference plot .
 Maps visualizing the results were thresholded at a pixel significance of p < 0.025 ( equivalent to two - tailed p < 0.05 ) .
 The threshold p - value for the uncorrected profile density maps was numerically higher than that for the uncorrected spatial density maps , in part to accommodate for the fewer multiple comparisons , but also for demonstrative purposes to qualitatively compare effects with those of the AOI analyses .
 In these maps , pixels along the entire orthogonal dimension were highlighted where the dimension of interest had a significantly different profile density between contrasted conditions .
-
 Profile Density Contrasts : Correction for Multiple Comparisons on Profile Statistical Maps : FDR control with threshold of q < 0.05 was again employed , but this time utilizing all pixels for each profile statistical map .

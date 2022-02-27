@@ -1,6 +1,5 @@
 Ethical approval for this study was obtained from the Conjoint Health Research Ethics Board at the University of Calgary ( E - 24432 ) , the Clinical Research Ethics Board at the University of British Columbia ( HII - 00947 ) , and Institutional Review Committees at the Mbarara University of Science and Technology ( March 11 , 2011 ) .
 The study was registered at clinicaltrials.gov ( NCT 02046018 ) .
-
 This study was conducted in Kyabugimbi sub - county ( population 37,200 ) , where the iCCM intervention occurred .
 Located in Bushenyi District in southwestern Uganda , Kyabugimbi sub - county is a rural area with steep , mountainous terrain and few roads , mostly unpaved .
 Most families in the area rely on subsistence farming for survival and few have access to electricity , running water or modern sanitation systems .
@@ -19,7 +18,6 @@ CHWs with study - supplied phones used a mobile application to report the age of
 Data entered into study - supplied phones was transmitted immediately to a database located at a local health facility ; health centre staff reviewed the database daily .
 All CHWs were supervised and supported by local health centre staff who reviewed CHW reports , either paper or cell phone generated , met monthly with CHW ' s to discuss the program and address problems , and communicated with CHWs regarding referrals or follow - up of patients discharged from hospital .
 Health centre staff were also available to consult with CHW ' s regarding complicated cases as needed .
-
 This qualitative study was part of a larger research effort , which included a quantitative component with household surveys in intervention and control communities , as well as a review of operational data .
 Further details on the larger study are published elsewhere [20] Focus group discussions ( FGDs ) and key informant interviews ( KIIs ) were designed using a phenomenology framework [22] and were conducted post - intervention with key stakeholders who were involved with the HCU iCCM project in intervention communities .
 FGDs and KIIs tools were semi - structured , developed in English , translated into the local language ( Runyankore ) and then back - translated into English to ensure accuracy of translation .
@@ -27,11 +25,9 @@ Interview tools included open - ended questions that addressed stakeholders impr
 A different interview tool was created for each stakeholder group .
 Sample FGD / KII questions are presented in Table 1 .
 FGDs commenced directly after completion of household surveys , which permitted preliminary results from the household survey to inform the development of questions for the FGDs and KIIs .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0098610.t001 Sample of Questions from Focus Group Discussions and Key Informant Interviews .
 Note : In Uganda CHWs are called Village Health Teams ( VHTs ) and are referred to as VHTs in these questions .
-
 FGDs and KIIs were conducted in December 2012 , following eight months of iCCM intervention .
 Participants were caregivers of children under five years , CHWs , health centre staff , local leaders and district government officials .
 A caregiver was defined as any adult who looks after the day - to - day needs of the child ( provides food , shelter , safety ) .
@@ -42,11 +38,9 @@ Eligible caregivers were identified by CHWs .
 Due to small numbers and close proximity , all local leaders ( 12 ) and health centre staff ( 13 ) involved in the study were invited to FGDs .
 Government officials ( 5 ) were selected for a KII due to their involvement in or knowledge about the program .
 The sampling method for FGDs is detailed further in Table 2 .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0098610.t002 Sampling Strategy for Focus Group Discussions .
 Focus Group Discussions were held in nine intervention parishes in Kyabugimbi Sub - county in November and December 2012 .
-
 Experienced facilitators ( 2 males , 1 female ) from Mbrara University of Science and Technology facilitated the FGD ' s and KIIs .
 None of these facilitators were previously involved in the project implementation or had a vested interest in the outcomes of the study .
 FGDs with caregivers , CHWs and local leaders were conducted in communities , within walking distance of the homes of participants , at local churches or community gathering places .

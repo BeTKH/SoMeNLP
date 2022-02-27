@@ -14,7 +14,6 @@ Our firing rate function iswith and . ( In the limit of one would recover a dete
 For our choice of the firing rate function one obtains ( 8 ) where is the first eligibility trace of the synapse ( Eq . 1 ) and the postsynaptic signal of the neuron given right below Eq . ( 2 ) .
 Note that ( 8 ) is similar to our second eligibility trace , see Eq . ( 2 ) , except that we have replaced the integration over the decision period by low pass filtering with a time constant matched to the stimulus duration .
 The reason for this is that it seems un - biological to assume that the synapses of the population neurons know when decision periods start and end .
-
 We use the superscript , running from to , to index the population neurons .
 For instance , is the postsynaptic spike train produced by neuron in response to its input spike pattern .
 As suggested by the notation , the population neurons have different inputs , but their inputs are highly correlated because the neurons are randomly connected to a common input layer which present the stimulus to the network .
@@ -23,7 +22,6 @@ The population response is read out by the decision making circuitry based on a 
 For notational convenience we introduce the coding function , with , if the there is no spike in the postsynaptic response , otherwise , if neuron produce at least one spike in response to the stimulus , .
 In term of this coding function the population activity being read out by the decision making circuitry can be written as : Using this activity reading , the behavioral decision is made probabilistically , the likelihood of producing the decision is given by the logistic function ( 9 ) Note that due to the normalization in the definition of , the magnitude of can be as large as .
 This is why , decisions based on the activity of a large population can be close to deterministic , despite of the noisy decision making circuitry .
-
 Feedback signals and the postsynaptic trace : We start with the reward feedback , modulating synaptic plasticity in Eq . ( 4 ) .
 This feedback is encoded by means of a concentration variable , representing ambient levels of a neurotransmitter , e.g. dopamine .
 In the absence of reward information , the value of approaches a homeostatic level with a time constant .
@@ -48,7 +46,6 @@ For the reasoning behind this choice , consider a stimulus ending at time of dur
 The value of at time will accurately reflect whether or not the decision stimulus elicited a postsynaptic spike , if we choose .
 But since decision feedback is not instantaneous , the value of is mainly read - out at times later than .
 This is why the smaller value seemed a somewhat better choice .
-
 For TD - learning we used the SARSA control algorithm [1] which estimates the values of state - action pairs .
 At each point in time , the value estimates are updated according toHere and have values between and .
 The parameter is similar to a learning rate and controls the temporal discounting .
@@ -74,7 +71,6 @@ If action selection is based on softmax the incorrect valuation will nevertheles
 However , this need not always be the case for - greedy , due to the thresholding inherent in this decision procedure .
 In particular , there is a positive critical value for ( which depends mainly on the discount factor ) above which the valuation error will no longer affect the decision making .
 In this parameter regime , SARSA will reliably learn the optimal policy ( upto the exploration determined by ) .
-
 In all the simulations initial values for the synaptic strength were picked from a Gaussian distribution with mean zero and standard deviation equal to 4 , independently for each afferent and each neuron .
 A learning rate of was used in all simulations , except for the 2 - armed bandit task where was used .
 In the sequential decision making task with working memory , the population is presented stimuli encoding not just the current but also the immediately preceeding position .

@@ -7,7 +7,6 @@ Even further lowering EphA 4 levels ubiquitously or in neurons , did not improve
 These findings suggest that lowering EphA 4 as target in ALS may suffer from a complex therapeutic time window .
 In addition , the complexity of the Eph - ephrin signalling system may also possibly limit the therapeutic potential of such an approach in ALS .
 We suggest here that a specific EphA 4 knockdown in adulthood may have a limited therapeutic potential for ALS .
-
 Introduction
 Amyotrophic lateral sclerosis ( ALS ) is a neurodegenerative disease that selectively affects motor neurons in the cortex , brainstem and spinal cord , leading to progressive paralysis and eventually to death within 3 - 5 years after onset [1] .
 Unfortunately , up to date there are no effective therapies for it .
@@ -33,7 +32,6 @@ In contrast , the systemic administration of an EphA 4 - specific agonist improv
 Therefore , there is a need for additional approaches to better understand the modifying role of EphA 4 in ALS .
 The aim of this study was to gain more insights in the translation potential of reducing EphA 4 in ALS , by genetically lowering EphA 4 levels from an adult age onwards .
 In combination with different amount of EphA 4 reduction and assessing the cell - specific contribution to disease , our findings suggest that lowering EphA 4 expression as target in ALS may suffer from a complex therapeutic time window .
-
 Results
 EphA 4 is efficiently downregulated in mice after Tamoxifen administration
 EphA 4 deletion under the CAG promoter allowed us to reach a ubiquitous reduction of EphA 4 mRNA and protein to 50 % within the lumbar spinal cord in EphA 4 CAG - CreER ( CAG - EphA 4 ) mice , and a loss of more than 85 % in EphA 4 CAG - CreER ( CAG - EphA 4 ) mice 10 days after Tamoxifen administration as compared with controls ( Fig . 1A - D and Supplementary Data , Fig . S1A , B ) .
@@ -41,7 +39,6 @@ Neuronal deletion of EphA 4 was accomplished in EphA 4 Thy 1 - CreER ( Thy 1 - E
 This is consistent with the fact that EphA 4 is not only expressed in neurons but also in glial cells [18,23] .
 To investigate the cell - type specific EphA 4 downregulation , we determined the differential Epha 4 gene expression within neurons and glia at a single - cell level with RNAscope in situ hybridization .
 In CAG - EphA 4 mice , Epha 4 expression was reduced in both neurons ( Syp positive ) and glial cells ( Syp negative ; Fig . 2A - C ) , whereas in Thy 1 - EphA 4 mice , Epha 4 expression was only reduced in the neuronal fraction ( Fig . 2D - F ) .
-
 Heterozygous deletion of EphA 4 levels from 60 days onwards does not slow down disease progression in the SOD 1 mouse
 Reducing EphA 4 expression with 50 % before birth was sufficient to improve survival in a mouse model of ALS [10] .
 Therefore , we heterozygously decreased EphA 4 gene expression at a pre - symptomatic stage of the disease by treating SOD 1 - CAG - EphA 4 and SOD 1 - EphA 4 mice with Tamoxifen at 60 days of age ( T60 ) .
@@ -50,7 +47,6 @@ Disease onset , survival and disease duration were also similar in both experime
 SOD 1 - CAG - EphA 4 mice did not differ from SOD 1 - EphA 4 mice in body weight ( Supplementary Data , Fig . S2A ) .
 Since we did not observe improvements in disease parameters , the experiment was stopped after including 12 - 15 mice per group .
 Reduced EphA 4 levels to 50 % persisted in SOD 1 - CAG - EphA 4 mice until disease end - stage ( Fig . 3E ) .
-
 Ubiquitous reduction of EphA 4 at day 60 to more than an 85 % does not alter disease parameters in the SOD 1 mouse
 Since 50 % deletion of EphA 4 did not improve disease parameters , we determined whether a more robust genetic deletion of EphA 4 in adult SOD 1 mice could beneficially modify the disease parameters .
 We administered Tamoxifen in SOD 1 - CAG - EphA 4 mice and littermate controls , SOD 1 - EphA 4 mice , at the age of 60 days .
@@ -59,7 +55,6 @@ Both groups reached disease end - stage at the same age , and had a similar dise
 The experiment was stopped with 12 - 17 mice per group since we did not observe improvements in disease parameters .
 We confirmed a reduction of 88 % of EphA 4 levels by western blot of lumbar spinal cord tissue from end - stage T60 SOD 1 - CAG - EphA 4 mice compared to T60 SOD 1 - EphA 4 control mice ( Fig . 4E ) .
 Body weight was not altered in T60 SOD 1 - CAG - EphA 4 mice compared to T60 SOD 1 - EphA 4 mice ( Supplementary Data , Fig . S2B ) .
-
 Neuronal specific EphA 4 deletion does not improve disease in the SOD 1 mouse
 EphA 4 gene expression is higher in the most vulnerable spinal cord motor neurons in ALS , and reducing EphA 4 levels from developmental stages onwards not only prevents these motor neurons to degenerate in SOD 1 mice , but also improves axonal regeneration after sciatic nerve axotomy [10] .
 To determine the neuron - specific contribution of EphA 4 in SOD 1 mice and to assess whether only knocking down the neuronal EphA 4 would be of benefit for the disease , SOD 1 - Thy 1 - EphA 4 mice were treated with Tamoxifen at 60 days of age .
@@ -68,7 +63,6 @@ Disease onset , survival and disease duration did not differ between genotypes (
 The lack of improvement in disease parameters was the reason to stop the experiment with 16 - 19 mice per group .
 Western blots of lumbar spinal cord tissue from end - stage mice showed that T60 SOD 1 - Thy 1 - EphA 4 mice still had a 30 % reduction of EphA 4 levels compared to T60 SOD 1 - EphA 4 control mice ( Fig . 5E ) .
 We found no differences in body weight in T60 SOD 1 - Thy 1 - EphA 4 mice compared to controls ( Supplementary Data , Fig . S2C ) .
-
 Discussion
 Our results show that 50 % or more than 85 % ubiquitous or neuronal EphA 4 knockdown at a pre - symptomatic phase of the disease , does not delay disease onset or increase survival .
 Since we previously identified a beneficial effect of reducing EphA 4 from developmental stages , this suggests that a crucial time window may exist for a potential EphA 4 - based intervention in ALS .
@@ -106,7 +100,6 @@ A limitation of our study is that we only determined the effect of lowering EphA
 Future studies need to address the effect of lowering EphA 4 levels in other ALS models and determine whether such strategy would modify disease mechanisms induced by other ALS - causing mutations .
 Overall , our findings suggest that a specific EphA 4 knockdown in adulthood may have a limited therapeutic potential for ALS .
 Further work needs to be performed to determine whether a broader strategy that takes into account other Eph receptors or ephrins might be of interest and whether such an approach could have a risk of inducing unwanted toxic effects .
-
 Materials and Methods
 Animals
 Different mouse strains were obtained at the Jackson Laboratory ( Ben Harbor , ME ) : the human mutant SOD 1 overexpressing mouse ( B6 .SOD 1 ; B6 .Cg - Tg ( SOD 1 * G93A ) 1Gur / J ; stock number 004435 ) , an EphA 4 floxed mutant mouse that has loxP sites flanking the exon 3 of the Epha 4 gene ( EphA 4 ; Epha4tm 1.1Bzh / J ; stock number 012916 ) , the CAG - CreER mouse ( B6 .Cg - Tg ( CAG - cre / Esr 1 * ) 5Amc / J ; stock number 004682 ) , and the Thy 1 - CreER mouse ( SLICK - H ; Tg ( Thy 1 - cre / ERT 2 , - EYFP ) HGfng / PyngJ ; stock number 012708 ) .
@@ -117,7 +110,6 @@ Both males and females were used in every experiment .
 In order to knock down EphA 4 , Tamoxifen ( Sigma , 200 mg / kg / day ) was administered by oral gavage during four consecutive days .
 All animal experiments were carried out in accordance with the U.K .
 Animals ( Scientific Procedures ) Act , 1986 and associated guidelines , EU Directive 2010 / 63 / EU for animal experiments , and all animal experiments were approved by the local ethical committee of the KU Leuven ( P229 / 2013 and P229 / 2017 ) and conducted in a blinded manner as previously described [28] .
-
 Disease phenotype monitoring
 Disease phenotype monitoring was performed according to guidelines [30] , and as previously described [28] .
 Briefly , motor coordination was assessed with the hanging wire test , which records the ability of mice to hang upside down from an elevated grid .
@@ -126,14 +118,12 @@ Experimental ALS mice were trained at the age of 50 days during three consecutiv
 ALS mice were considered to have reached this end stage point of the disease when , due to paralysis and muscle wasting , their righting reflex took longer than 10 s .
 At this time - point mice were euthanized according to human end - points , and the mouse age was annotated for survival plots .
 Disease onset was determined as the age at which mice could no longer perform the maximum score of 60 s in the hanging wire test , and disease duration was calculated as the time between disease onset and mouse survival .
-
 RNA extraction and qPCR
 Lumbar spinal cords were dissected from mice euthanized with cervical dislocation .
 Total RNA was extracted with TRIzol ( ThermoFischer Scientific ) and precipitated with isopropanol , as indicated by the manufacturer .
 cDNA and qPCRs were performed as previously described [28] .
 Briefly , up to 1 μ g of RNA was used to prepare cDNA with the SuperScript III First - Strand Synthesis System ( ThermoFischer Scientific ) and quantitative PCRs were performed with the StepOnePlus ( Life Technologies ) , the TaqMan Fast Universal PCR Master Mix 2X ( Life Technologies ) and the following Taqman assays ( IDT ) : Epha 4 ( Mm.PT .58.13545379 ) , Polr 2a ( Mm.PT .58.13811327 ) and Gapdh ( Mm.PT .39a .1 ) .
 Relative gene expression was analysed with the Qbase + software ( Biogazelle ) .
-
 Protein lysis and western blot
 Lumbar spinal cords were dissected from mice euthanized with cervical dislocation .
 Tissue homogenization was performed as previously described [28] .
@@ -146,7 +136,6 @@ The membranes were then blocked with 5 % milk in TBST ( 10 mM Tris - HCl ( pH 7.
 Membranes were incubated with the following primary antibodies diluted in TBST containing 1 % bovine serum albumin ( BSA ; ThermoFischer Scientific ) : EphA 4 ( 1 : 1000 ; overnight at 4 ° C ; Invitrogen , 37 - 1600 ) , β - actin ( 1 : 5 000 ; 15 min at RT ; Sigma , A5441 ) , α - tubulin ( 1 : 10 000 ; 10 min at RT ; Sigma , T6199 ) and GAPDH ( 1 : 10 000 ; 1 h at RT ; Ambion , AM 4300 ) .
 Membranes were washed with TBST and incubated at RT during 1 h with goat anti - mouse HRP - conjugated immunoglobulins ( DAKO ; P044701 - 2 ) diluted 1 : 5 000 in TBST containing 5 % milk .
 Finally , membranes were developed with enhanced chemiluminescence ( ECL ) western blotting substrate ( ThermoFischer Scientific ) , scanned using a LAS 4000 Biomolecular imager ( GE Healthcare ) and analysed with ImageQuant TL version 7.0 software ( GE Healthcare ) .
-
 RNAscope in situ hybridization
 Samples preparation and RNAscope in situ hybridization was performed as previously described [28] .
 Briefly , 20 μ m - cryosections were obtained from fixed - frozen lumbar spinal cord samples with a CryoStar NX 70 Cryostat ( ThermoFischer Scientific ) .
@@ -161,7 +150,6 @@ Epha 4 dot density was quantified within the neuronal fraction and also within t
 Syp expression was used to designate neurons .
 All detected nuclei that did not colocalize with Syp - positive cells were considered as glial nuclei , and a small perimeter ( NIS - Elements thickening command , three iterations ) around each nucleus was also selected to detect part of the cytoplasm of these cells .
 Glial nuclei with the small perimeter around them were considered as glial cells .
-
 Statistics
 Graphpad prism 7.01 software ( Graphad Software ) was used for statistical analysis .
 Different tests were performed to determine statistical significance as it is indicated in the figure legends .
@@ -170,7 +158,5 @@ Significance level was considered for p values lower than 0.05 .
 Graphs represent data with SEM values .
 Based on previous experiments in SOD 1 mice , we estimated that a sample size of 32 mice in each group would provide 80 % power at an α = 0.05 to detect an extended survival of 11 days , as previously described and as previously found for EphA 4 SOD 1 mice [10,28] .
 We discontinued the experiments before reaching the required sample size for ethical reasons , since the lack of any difference after including more than half of the required animals .
-
 Supplementary information
-
 Supplementary Figures

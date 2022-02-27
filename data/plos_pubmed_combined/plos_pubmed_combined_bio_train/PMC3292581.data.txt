@@ -1,13 +1,11 @@
 Male C57B L / 6JRccHsd mice ( Harlan Laboratories , Netherlands ) , formtok [24] , formtok [19] or BDNF2L / 2LCk - cre [20] and their wild - type littermates were used for the studies .
 The animals were kept under standard laboratory conditions ( 21 ° C , 12 h light - dark cycle , lights on at 6 A.M . ) .
 All the experiments were carried out according to the guidelines of the Society for Neuroscience and were specifically approved by the County Administrative Board of Southern Finland ( Permit : ESLH - 2007 - 09085 / Ym - 23 ) .
-
 Dams with their litters were housed individually .
 For postnatal acute antidepressant treatments , age - matched litters ( P5 - 21 ) were randomly assigned to receive i.p . injection of saline ( SAL ) ( NaCl 0.9 % , 5 ml / kg ) , imipramine ( IMI ) ( HCl salt , dissolved in SAL , 30 mg / kg , 5 ml / kg ; Sigma - Aldrich Finland Oy , Helsinki ) , or clomipramine ( HCl salt , dissolved in SAL , 20 mg / kg , 5 ml / kg ; Sigma - Aldrich ) and following indicated lag - time ( 30 - 60 min ) hippocampus and medial prefrontal cortex were collected as described in [9] .
 Briefly , mice were stunned with CO 2 , the brains quickly removed and bilateral hippocampus and prefrontal cortex were dissected out on a dish cooled on dry - ice .
 Samples were homogenized in a NP + + buffer ( 300 μ l / sample ; composition : 137 mM NaCl , 20 mM Tris , 1 % NP - 40 , 10 % glycerol , 48 mM NaF , H2O , 2 × Complete inhibitor mix ( Roche ) and 2 mM Na3VO 4 ) .
 After incubation on ice for 15 min , samples were centrifuged ( 16100 g , 15 min , + 4 ° C ) and the supernatant collected for further analysis .
-
 Dams with their litters were housed individually .
 The litters were randomly assigned to 4 groups : saline injected ( SAL ) ( NaCl 0.9 % , 5 ml / kg ) , and clomipramine injected ( CLO ) ( dissolved in SAL , 20 mg / kg , 5 ml / kg ) [16] , starting at postnatal day 4 ( P4 ) until P9 ( Early - Postnatal Stage , E - PS ) , and from P16 to P21 ( Late - Postnatal Stage , L - PS ) .
 Each pup was weighted and injected once daily ( between 9 A.M . - 11 A.M . ) .
@@ -17,12 +15,10 @@ After the injection the pups were immediately placed back in their home cage .
 CLO treatments did not have any significant effect on the weight gain of the pups and later in adulthood ( Figure S4 ) .
 Mice were weaned on P22 and males were housed together ( 4 - 6 mice / cage ) until the behavioural experiments .
 For biochemical analyses the animals were killed after 2 weeks of the last behavioural test and their tissues were collected and processed as described before .
-
 For the acute AD treatments , adult ( ∼ P90 ) mice received a single i.p . injection of imipramine ( dissolved in SAL , 30 mg / kg , 5 ml / kg ) or SAL and were killed 30 minutes after .
 For chronic AD treatment , adult ( ∼ P90 ) mice had free access to either tap water or to 0.08 mg / ml solution of fluoxetine ( FLX ; HCl salt ; Orion Pharma , Turku , Finland ) for 21 days [9] , [28] .
 On the final day of treatment the animals were killed .
 Hippocampus and prefrontal cortex samples were rapidly dissected out and processed as described before .
-
 The ex vivo BDNF stimulation assay was performed according to Knusel et al [13] with slight modifications .
 Mouse hippocampi and medial prefrontal cortex at different ages were dissected .
 After dissection the samples were placed on a filter paper wet with cold Neurobasal Medium ( NBM ) ( Neurobasal medium ( Gibco ) , 2 % B27 supplement ( Gibco ) , 0.5 mM Glutamine ( Gibco ) and penicillin / streptomycin ( Sigma ) , and then the tissues were sliced into equally sized pieces .
@@ -32,13 +28,11 @@ The medium was removed and 600 μ l of NBM + 10 % FCS with or without BDNF ( Pep
 The tubes were closed and incubated at + 37 ° C for 5 or 15 minutes gently shaking .
 Finally the tubes were put on ice , spun down , the medium removed , the pellet was rinsed once with PBS and then the samples were homogenized in NP + + buffer .
 A set of samples were pre - incubated with cAMP analog sp - cAMP ( 10 μ M ; Sigma - Aldrich ) for 15 minutes at + 37 ° C before BDNF stimulation .
-
 Assays were performed according to the procedures described by Angeles et al [42] with some modifications .
 Each assay was performed in a final volume of 20 μ L of 50 mM Hepes pH 7.4 , 140 mM NaCl , 10 mM MnCl 2 , 0.05 % BSA , 2 % DMSO with or without 100 μ M ATP and / or 50 ng / mL BDNF .
 The reaction was initiated adding 40 μ g of NP + + lyzed protein extract to the mix and the incubation was allowed to proceed for 10 min at 37 ° C .
 For a subset of samples , the reaction was quenched by adding an equal volume of 4 × Laemmli sample buffer and proteins were separated by SDS - PAGE and TrkB phosphorylation status analyzed with western blotting as described below .
 Rest of the samples we immediately transferred to Trk antibody containing ELISA ( enzyme - linked immunosorbent assay ) plates , 3 % BSA / PBS - T ( + 2 mM Na3VO 4 ) added ad 200 μ l , and phospho - TrkB ELISA proceeded as previously described [18] .
-
 Sample protein concentrations were measured using the Lowry Method ( Bio - Rad DC protein assay ) .
 Lectin precipitation was carried out essentially as described [9] using Wheat Germ Agglutinin ( EY Laboratories , San Matteo , CA , USA ) .
 TrkB immunoprecipitation was carried out using a TrkB specific antibody ( 5 μ l / sample ; # AF 1494 , R&D Systems Europe , Abingdon , UK ) in conditions described in [9] .
@@ -46,7 +40,6 @@ Proteins were separated in a SDS - PAGE under reducing conditions and blotted to
 Membranes were incubated with the following primary antibodies : anti - p - TrkBY 816 ( 1 ∶ 5000 ; kind gift from Dr . M . Chao , Skirball Institute , NY , USA ) , anti - p - TrkA / BY 490 / Y515 ( # 9141 ; 1 ∶ 2000 ; Cell Signalling Technology ( CST ) , MA , USA ) , anti - p - TrkA / BY 674 - 5 / Y705 - 6 ( 1 ∶ 1000 ; CST ) , anti - TrkBout ( # 610102 ; 1 ∶ 2000 ; RD Transduction Laboratories , Franklin Lakes , NJ USA ) , anti - p - CREBS 133 ( # 9198 ; 1 ∶ 1000 ; CST ) , anti - CREB ( sc - 186 ; 1 ∶ 100 , Santa Cruz Biotechnology ( SCB ) , CA , USA ) , anti - p - AktThr 308 ( # 9275 ; 1 ∶ 2000 , CST ) , anti - AKT ( # 4691 ; 1 ∶ 1000 , CST ) , anti - p - PLC γ 1Y 783 ( # 2821 , 1 ∶ 1000 , CST ) or anti - Trk ( # sc - 11 ( rabbit ) , 1 ∶ 1000 , SCB ) .
 Further the membranes were washed with TBS / 0.01 % Tween ™ ( TBST ) and incubated with horseradish peroxidase conjugated secondary antibodies ( 1 ∶ 10000 in non fat dry milk , 1 h , RT , Bio - Rad Laboratories , Hercules , CA ) .
 After subsequent TBST washes , secondary antibodies were visualized using electrochemiluminescence kits ( Amersham Biosciences ) followed by an exposure to Fuji LAS - 3000 Camera ( Tamro Medlabs , Vantaa , Finland ) for ECL detection .
-
 Battery of behavioural tests [43] were performed on adult male E - PS , L - PS and control mice , starting from P90 .
 The tests were done between 9 A.M . - 3 P.M . with at least 3 days of interval between each test .
 Exploratory locomotion , depression - and anxiety - like behaviours were assessed by the following tests : light - dark test , elevated plus maze , open - field test , forced swim test and novelty - suppressed feeding test .
@@ -57,7 +50,6 @@ The two compartments were separated by a partition containing an opening ( 7 × 
 The animal was placed in the centre of the light compartment facing away from the opening , and the latency to enter dark area , time spent in the compartments , total distance travelled , immobility time and the number of entries to dark were measured over 10 min .
 In addition , rearing time was also calculated .
 Testing apparatus was thoroughly cleaned before each animal using 70 % ethanol .
-
 Novelty - Suppressed Feeding : The Novelty - Suppressed Feeding ( NSF ) was performed as previously described [30] .
 Briefly , the test was performed in brightly lit ( 800 - 900 lux ) open arena ( 51 × 35 cm ) .
 A small piece of filter paper with a pre - weighted food pellet was placed in the middle of the arena .
@@ -66,7 +58,6 @@ On testing day each animal was removed from its home cage and placed in a holdin
 The latency to beginning of a feeding episode was measured ( maximum over a period of 5 min ) .
 Immediately , after starting of feeding the mouse was removed from the arena and placed with the food pellet in its home cage and allowed to feed ad libitum over a period of 5 min .
 The amount of food consumed was quantified by weighting the pellet .
-
 Immunoblot bands were quantified using NIH ImageJ .
 All the data are expressed as mean ± SEM ( Standard Error of Mean ) and as percentage of control .
 Statistical analyses were performed using GraphPad Prism 4.0 for Windows ( GraphPad Software , San Diego California USA ) .

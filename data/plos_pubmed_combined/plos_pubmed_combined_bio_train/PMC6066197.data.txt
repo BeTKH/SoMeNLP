@@ -18,11 +18,9 @@ The control group of cancer patients was also chosen because Swedish cancer deat
 The following quality indicators based on items collected by the ELQ in the SRPC database were analysed : documented decision by the responsible physician to shift treatment / care to end - of - life care ; pressure ulcers at death ; assessment of oral health during the last week of life ; someone present at the moment of death ; information to next of kin about transition to end - of - life care ; offer of a follow - up talk to next of kin after death of the patient ; fluids via enteral tube or intravenously during the last 24 hours of life ; assessment of pain and other symptoms during the last week of life ; prescriptions of PRN drugs against pain , anxiety and nausea ; and consultation of a specialised palliative care team during the last week of life .
 A robust validity for items about symptom prevalence and symptom alleviation has not been established in the SRPC [27] , and these items were therefore not deemed suitable as quality indicators in this study .
 We did not include the item about place of death in line with the patient ’ s last stated wishes because of the uncertain nature of data collection for the dementia group for this item .
-
 We estimated that we would be able to identify at least 800 patients per subgroup and year .
 To be able to detect a 5 percentage point difference in the outcomes between subgroups , with significance level below 0.05 and power of 0.8 , the study would require 1600 patients per subgroup .
 The study period was set from March 2012 to February 2015 , a period when no changes were made to the ELQ .
-
 Chi - square test ( gender and place of death ) and t - test ( age ) were used to compare groups and subgroups .
 The outcomes were dichotomised after exclusion of the “ Don ’ t know ” answers .
 When analysing whether a specialised palliative care team was consulted , only patients cared for outside specialised palliative care were included .
@@ -30,5 +28,4 @@ Patients with no next of kin were excluded from the analyses regarding next of k
 The outcomes were then analysed with logistic regression , with cause of death ( dementia vs cancer ) as independent variable .
 A model adjusted for age and gender was developed .
 A limit of 5 percentage point for clinically significant differences in outcomes between subgroups was chosen .
-
 The working procedure and study design were approved by the Regional Ethical Review Board in Umea , Sweden ( registration number 2017 / 11 - 31 ) .

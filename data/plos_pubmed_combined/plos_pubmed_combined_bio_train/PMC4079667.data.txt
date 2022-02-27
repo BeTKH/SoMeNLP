@@ -4,7 +4,6 @@ In our analysis , we consider a subset of this data where 3 disconnected neurons
 Furthermore , while the connections are distinguished in terms of their type ( chemical synapses , gap junctions and neuromuscular junctions ) , we treat all connections as binary , that is , we assign value 1 if some type of connection exist and 0 otherwise .
 This yields a binary and symmetric adjacency matrix with 2287 edges that defines the C . elegans network .
 For an external evaluation of the community estimates , we use categorical and quantitative characteristics of the neurons ( node - wise features ) and quantitative characteristics of the edges ( edge - wise features ) , as summarised in Table 1 .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0097584.t001 Prior biological features of the C . elegans connectome .
 There is a large body of knowledge on the individual neurons , producing node - wise features .
@@ -16,7 +15,6 @@ The remaining 10 neurons are interneurons ( AVA , AVD and AVE ; AVB and PVC ) pr
 Although the connection data used in our analysis do not include neuromuscular connections , the circuit presented by Haspel et al . [30] provides some invaluable insights that are beneficial to the evaluation and comparison of the results obtained in our analysis .
 The remaining set of the node - wise features includes “ Anatomical Location ” ( longitudinal and sectional positions ) of the cell body ( soma ) and the “ Birth Time ” of each neuron ( http://www.biological-networks.org/?page_id=25 , accessed 15th June 2013 ) [34] .
 Edge - wise features include the “ Anatomical Distance ” ( Euclidean distance between each neuron pair ) , the “ Birth Time Difference ” ( for each neuron pair , we take an absolute difference in their birth times ) and the “ Lineage Distance ” ( for each neuron pair , this is the sum of total divisions to the most recent common ancestor cell ) [35] .
-
 Our analysis consists of two stages .
 In the first stage , we derive community structures of the C . elegans neural network using 3 different methods , as described next .
 In the second stage , we estimate how well each network decomposition explains the system ' s known prior biological properties .
@@ -48,18 +46,15 @@ Intuitively , the ICL criterion considers the evidence for the clustered data ( 
 Hence , it is generally harder to select a model with a larger number of groups .
 Using a Poisson approximation for a binomial distribution , the ERMM models the degree distribution as a mixture of Poisson distributions , ( 9 ) where is the Poisson rate for the q - th group , .
 Finally , Daudin , Picard and Robin in [24] proposed that the fitted ERMM can be used to estimate the Newman clustering coefficients ( see Eq . ( 1 ) ) as ( 10 ) For further mathematical details on the ERMM , see Supplementary Text in File S1 .
-
 The Spectral and Fast Louvain Algorithms : In contrast to the ERMM , the Spectral and Fast Louvain algorithms are deterministic methods that assess the goodness of a graph partition with an objective function known as modularity [45] .
 Central to the definition of modularity is the difference between the observed edge ( Aij ) and the expected number of edges ( ) in an equivalent graph with m edges and with randomly connected vertices [46] - [48] .
 Modularity is defined as ( 11 ) where ci and cj represent the groups of vertices Vi and Vj , and if Vi and Vj are located in the same module and 0 otherwise .
-
 The Spectral algorithm [15] , [49] optimises modularity ( Eq . ( 11 ) ) by utilising the eigenvalues and eigenvectors associated with the modularity matrix with elements defined as ( 12 ) The graph is split into two modules by setting an indicator vector such that if the vertex Vi is located in the module and otherwise .
 Hence , the modularity can be expressed as ( 13 ) where is the eigenvalue of corresponding to the eigenvector .
 Observe that , for a given and a consisting only of 1 ' s or − 1 ' s , the inner product vector is maximised by .
 This creates two groups , of not necessarily equal size , and each group is in turn split with the additional contribution to modularity being defined as ( 14 ) where is ( for a group g of size ng ) whose elements are : .
 When no more positive eigenvalues are found , the algorithm stops .
 More details on the Spectral Algorithm can be found in Supplementary Text in File S1 .
-
 The Fast Louvain algorithm [14] optimises modularity ( Eq . ( 11 ) ) in two stages that are repeated iteratively .
 The algorithm is initialised by assigning each vertex to its own module and , hence , the initial number of groups is equal to the number of vertices .
 In the first stage , for each vertex Vi , the algorithm considers each of its neighbours and computes the gain of modularity that would have been obtained if the vertex Vi was placed in the same module as its neighbour Vj .
@@ -68,11 +63,9 @@ This process is applied sequentially , cycling through every vertex until no ind
 In the second stage , the algorithm builds a new network whose vertices are identified as the modules found in the first stage .
 This gives a simplified community structure that is used as the initialisation for the next pass of the first stage .
 These two stages are repeated until the maximal modularity is attained .
-
 Community estimation methods are notoriously sensitive to the initial starting conditions ( see e.g. , [50] ) .
 Each method begins with some sort of random initialisation that typically will lead to a local optimum of the objective function ( i.e. , ICL or modularity ) .
 Thus , for all three methods considered , we use multiple random restarts of the algorithm and take the solution that provides the greatest value of the objective function .
-
 To measure the similarity between a partition ( i.e. , complete segmentation of a graph into a set of groups ) and some known biological classifications , we use the Adjusted Rand Index ( ARI ) [51] , [52] .
 This measure is a modification of the Rand Index ( RI ) [53] , that is expressed as the fraction of vertex pairs that are consistent : a vertex pair is consistent between two partitions if either ( a ) the vertex pair is within the same group in both partitions , or ( b ) the vertex pair is split between two groups in both partitions .
 The interpretation of the RI depends on the number of groups [54] , whereas the ARI is adjusted for chance agreement and number of groups [52] .
@@ -96,7 +89,6 @@ While the AIC is not an absolute measure , the differences in the AIC scores pro
 In particular , the relative likelihood of the model compared to the model that minimises the AIC is given as ( 19 ) and represents the relative strength of evidence for this model .
 Equivalently , this tells us how probable it is that the model minimises the distance from the true model .
 As a general rule of guidance , it has been suggested [57] that , if the likelihood value ( or , equivalently ) , there is a substantial evidence that this model is equally useful ; if the value is contained in the interval ( ) , then , there is considerably less evidence ; and , finally , for values that are strictly smaller than ( ) , there is essentially no evidence that this model is useful .
-
 We fitted the ERMM with the R package “ Mixer ” [24] , [39] - [41] .
 The “ mixer ” function specifies default values for the maximum number of iterations , and we found improved performance by increasing these ( nbiter = 80 up from 10 , fpnbiter = 40 up from 5 ) .
 We found random restarts was sufficient to visit the optimal solution multiple times , but , to be exhaustive , we also considered up to random restarts .

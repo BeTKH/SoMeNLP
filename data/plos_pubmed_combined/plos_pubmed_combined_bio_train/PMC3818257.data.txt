@@ -33,11 +33,9 @@ Conversely , “ 9 ” indicated very high pride / guilt and very happy , respec
 In the second part of the questionnaire they were presented with the following forced - choice question : “ Which is more important for you , the success of your team or your own performance ? ”
 The third part contains eight questions from the subscale “ dutifulness ” of big five questionnaire .
 Since no significant result was found with regard to the score of “ dutifulness ” , the data of third part will no longer be discussed in the rest of this paper .
-
 Blood oxygen level dependent ( BOLD ) signals were measured using a 3.0 T Siemens MAGNETOM Trio scanner ( Allegra ; Erlangen , Germany ) with a 12 - channel head coil .
 Functional MRI data were acquired in four separate runs using a T 2 - sensitive gradient echo planar imaging sequence covering the whole - brain ( 32 slices , slice - thickness 3.0 mm , Repetition Time ( TR ) = 2000 ms ; Echo Time ( TE ) = 29 ms , feld of view ( FoV ) : 220 mm 2 , matrix size : 64 × 64 .
 An anatomical 3D dataset consisting of 176 slices was acquired between the second run and the third run ( MDEFT sequence ( Deichmann et al . , 2004 ) ; TR = 1900 ms ; TE = 2.52 ms ; Flip Angle = 9 ° , voxel dimensions = 1 × 1 × 1 mm 3 ; FoV = 250 mm 2 ) .
-
 Unlike the standard 1 s time - estimation task [31] , in the fMRI component of the present study all of the feedback stimuli were presented pseudo - randomly .
 Therefore , participant accuracy was not meaningful in this experiment .
 Nevertheless , participants could modify their behavior on a given trial based on feedback received on previous trials .

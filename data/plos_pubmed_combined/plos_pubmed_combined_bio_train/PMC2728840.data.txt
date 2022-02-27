@@ -2,12 +2,10 @@ The subjects were 77 male Wistar rats aged 8 weeks , acquired from Kyudo Co . , 
 They were given free access to food and water , and housed two per cage for one week before the start of the experiments .
 Housing conditions were thermostatically controlled at 22 - 24 ° C with a light / dark cycle ( lights on : 08 : 00 - 20 : 00 ) .
 The experiments were performed under the control of the Ethics Committee of Animal Care and Experimentation in accordance with the Guiding Principles for Animal Care Experimentation , Kyushu Institute of Technology , Japan , and with the Japanese Law for Animal Welfare and Care .
-
 The experiments took place in a test chamber consisting of two compartments , a light compartment ( D25 cm × W25 cm × H27 cm ) and a dark compartment ( D30 cm × W30 cm × H30 cm ) ( Figure 1A ) .
 The two compartments were divided by a sliding door .
 Electric shocks are delivered by a shock generator ( SGS - 002 , Muromachi Kikai Co . , Ltd . , Tokyo , Japan ) .
 In Experiment 2 , a removable partition was used to prevent subject animals from moving from one compartment to the next earlier than the partners .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0006794.g001 The experimental design .
 ( A ) Experimental apparatus .
@@ -20,7 +18,6 @@ The left row indicates the treatment for the subjects ( ES : experienced subject
 The upper row indicates interactive conditions , and the lower row indicates non - interactive conditions .
 ( E ) The schematic diagram of Experiment 2 .
 The upper row shows non - interactive conditions , and the lower row shows interactive conditions .
-
 All treatments or behavioral tests were done during the light cycle ( 12 : 00 - 20 : 00 ) in the following sequence ( the whole schedule is shown in Figure 1B ) : 1 .
 On the first day of this session ( day 1 ) , all animals were placed in the light compartment for 1 min individually and habituated to the experimental apparatus .
 After this interval , the sliding door was raised and the latency to enter the dark compartment was recorded .
@@ -29,7 +26,6 @@ The other 37 animals who received no electrical shocks were used as inexperience
 The experimental apparatus was cleaned with alcohol to remove odors before treating the next subject .
 On the third day ( day 3 ) , the latency of each animal to enter the dark compartment was measured .
 The schematic diagram of the training is shown in Figure 1C .
-
 2 .
 The subjects were divided into three groups : i ) together with an experienced partner ( EP ) , ii ) with an inexperienced partner ( IP ) , iii ) without any partner ( No ) .
 On the day following the training session ( day 4 ) , each subject was placed in the light compartment .
@@ -37,7 +33,6 @@ If partnered , they were paired with the partner rats for 1 min .
 After the interval , the sliding door was raised and then the latencies to enter the dark compartment were measured , with a cut - off time of 15 min .
 This experiment was performed without any electric shocks .
 The schematic diagram of Experiment 1 is shown in Figure 1D .
-
 3 .
 The day after Experiment 1 was performed ( day 5 ) , experienced and inexperienced subjects were put in the experimental apparatus individually and habituated to the dark compartment for 20 min .
 On the second day of this experiment ( day 6 ) , 30 min before the test trial , each animal was placed in the light compartment and then the latencies to enter the dark compartment were measured , with a cut - off time of 5 min .
@@ -53,7 +48,6 @@ The partner rat stayed in the light compartment and could interact with the subj
 We then compared the latency between the two conditions , with no partner and with a shocked partner .
 The schematic diagram of Experiment 2 is shown in Figure 1E .
 All partners were the rats already used in Experiment 1 , which had been given a single foot shock to stabilize partners ' pain reaction ( habituation to the shock ) .
-
 Data were analyzed with the use of SPSS software ( version 16.0 ) .
 Before analysis , the Kolmogorov - Smirnow test was performed for normality .
 In Experiment 1 , we used the Turkey - Kramer multiple comparison test to assess the statistical significance of the difference among the rat groups .

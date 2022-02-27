@@ -36,16 +36,7 @@
 
 
 
-
-
-
-
-
-
-
 Developer_of	BD Biosciences	45	1	CellQuest	24	0;;
-
-
 
 
 

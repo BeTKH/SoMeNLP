@@ -1,14 +1,12 @@
 Scott G . Hubosky , MDDepartment of UrologySidney Kimmel Medical CollegeThomas Jefferson University Hospital 1025 Walnut Street , Suite 1112Philadelphia , PA 19107E - mail : et al.Abstract
 Two cases of incidentally found follicular lymphoma during surveillance for ureteroscopically treated upper tract urothelial carcinoma with cross - sectional imaging are described .
 Multiple independent primary malignancies should be considered in this population .
-
 Introduction
 C for upper tract urothelial carcinoma ( UTUC ) is attractive in carefully selected patients , particularly those with low - grade and relatively low - volume disease .
 Cross - sectional imaging at regular intervals is recommended because of the potential for local advancement and / or metastatic disease .
 Given the age demographic for patients with sporadic UTUC , unrelated primary malignancies must be considered especially when imaging shows lymphadenopathy ( LAD ) .
 We present two cases of primary low - grade UTUC managed endoscopically and both were found to have new onset LAD on CT scan , which ultimately were both diagnosed as unrelated primary follicular lymphomas ( FLs ) .
 Correct diagnosis is essential to differentiate metastatic disease from multiple independent primary malignancies to allow appropriate treatment .
-
 Case Report 1
 A 72 - year - old Caucasian woman presented with a 5 - month history of intermittent gross hematuria and right flank pain .
 She had no history of cancer and reported a 29 - pack - year smoking history .
@@ -41,7 +39,6 @@ Because of the grade change , a right laparoscopic nephroureterectomy ( NU ) was
 Within 3 months , PET / CT scan showed progression of osseous lesions but no significant LAD .
 The patient underwent five cycles of rituximab , cyclophosphamide , doxorubicin , vincristine , and prednisone .
 Partial remission was noted on follow - up PET / CT scan .
-
 Case Report 2
 A 68 - year - old Caucasian man presented with a 2 - month history of painless gross hematuria .
 Multiple comorbidities included hypertension , atrial fibrillation on anticoagulation , nephrolithiasis , and a former 30 - pack - year smoking history .
@@ -63,7 +60,6 @@ Subsequently , PET / CT revealed a hypermetabolic 2.6 cm left para - aortic lymp
 The patient underwent robot - assisted left para - aortic lymph node excision .
 Pathology analysis showed FL .
 The patient is on active surveillance and serial imaging demonstrated overall stable disease ∼ 1 year later .
-
 Comment
 Non - Hodgkin lymphoma ( NHL ) is the seventh most common cancer diagnosed in the United States with 19.7 new cases per 100,000 persons at risk per year with median age of 66 years at diagnosis [1] .
 FL is the second most common B - cell lymphoma behind diffuse large B - cell lymphoma and is the most common indolent form of NHL .

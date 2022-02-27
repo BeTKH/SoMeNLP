@@ -19,16 +19,13 @@ The two groups did not differ on a between group t - test with respect to age an
 Given the smaller proportion of females in the schizophrenia group than in the control group , gender was used as a covariate for the behavioural and image analyses .
 Details of subjects included in the analysis are presented in Table 1 .
 Table S1 describes patient ' s antipsychotic medication at the time of the study .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0042608.t001 Patient and control details .
 Values are mean ± DS ; NART , National Adult Reading Test ; BDI , Beck depression inventory ; SP , Spielberg anxiety scale ; RSES , Rosenberg Self - Esteem Scale ; PANSS , Positive and Negative Syndrome Scale ; ( * ) significant difference between groups .
-
 For blood oxygen level dependent ( BOLD ) response imaging , T2 * weighted gradient echo planar images were obtained using a GE Medical Systems Signa 1.5 T MRI scanner .
 A total of 30 axially orientated 5 mm thick contiguous sequential slices were obtained for each volume , 244 volumes being obtained with a TR of 2.5 s , TE 30 ms , flip 90 ° , FOV 240 mm and matrix 64 × 64 .
 The first four volumes were discarded to allow for transient effects .
 A T1 weighted image was obtained to exclude gross structural brain abnormality .
-
 Subjects performed a version of the ‘ Cyberball ’ social exclusion task whilst being scanned [19] .
 In this task , subjects play a ball passing game with two cartoon animated figures on a screen , with the subject being represented by an animated hand ( Fig . S1 ) .
 Subjects were instructed to press either of two buttons to pass the ball to one of the cartoon figures .
@@ -47,7 +44,6 @@ To enhance the sense that the two cartoons represented real people taking decisi
 The task lasted for ∼ 10 minutes and was completed on a single run .
 All blocks lasted for the same length of time ( ∼ 35 sec ) but varied slightly depending on the reaction time of the participant and the ‘ decision making ’ variation .
 There were no rest blocks .
-
 Clinical , behavioural and social ratings : Immediately before scanning , all subjects completed the Beck Depression Inventory ( BDI ) [21] Spielberger State Anxiety scale [22] and the Rosenberg Self - Esteem Scale [23] .
 Patients were additionally assessed using the Schizophrenia Positive and Negative Syndrome Scale ( PANSS ) [24] .
 Recruitment , clinical and rating scale assessment of all subjects , was by JDS , a Consultant Psychiatrist with considerable experience in the NHS .
@@ -59,7 +55,6 @@ Belonging was assessed by the question “ How much do you feel you belonged to 
 The questions were scored so that higher scores indicate a greater challenge to the social need .
 Additionally , participants completed a manipulation check similar to Williams and colleagues [10] that assessed mood , perceived intensity of ostracism and perception of group cohesiveness during the game .
 Social distress and emotional impact measures were analysed using multiple linear regression with group as a fixed factor and gender as a covariate .
-
 SPM 8 ( http://www.fil.ion.ucl.ac.uk/spm ) was used for analysis .
 For pre - processing , global effects were removed from the fMRI time series using a voxel - level linear model of the global signal [25] ( http://code.google.com/p/lmgs4spm ) .
 Images were slice - time corrected and realigned to the first image in each time series .

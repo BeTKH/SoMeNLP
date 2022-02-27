@@ -12,7 +12,6 @@ To infer the MP - tree we used the close - neighbour - interchange method .
 Inferred branch lengths were used to estimate a relative divergence time of the intermediate clade between the divergence of the rodent pathogen Y.pestis microtus ( Figure 1 , branch A ) and the ancient Black Death cluster ( Figure 1 , branches B , C , and D ) .
 The ratio of branch length A to the total branch length A + B + C + D gives a divergence for the intermediate cluster of F = A / A + B + C + D = 0.5571 times the total distance .
 The approximate minimum and maximum divergence times of the intermediate Y.pestis cluster were calculated by multiplying our value for F by the distance between the two minimum and the two maximum ages of Y.pestis microtus ( 41 AD - 480 AD ) and the Black Death ( 1283 AD - 1342 AD ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0049803.g001 Maximum parsimony ( MP ) tree showing the relative phylogenetic placement of 311 Y . pestis strains .
 Branch 1 and Branch 2 designations as well as Y . pestis group names follow those defined in [9] .

@@ -26,13 +26,7 @@
 
 
 
-
-
-
-
 Abbreviation_of	CPRS	201	1	VA Computerized Patient Record System	161	0;;
-
-
 
 
 

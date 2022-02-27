@@ -20,12 +20,10 @@ All patients were recruited retrospectively in the Department of Neurology , Ott
 Thus , no written informant consent could be obtained , but all parameters were taken from routine clinical diagnostics .
 The data were anonymized , precluding identification of individual patients .
 The study was approved by the Local Ethics Committee of the Faculty of Medicine at the University Hospital Magdeburg and Otto - von - Guericke University Magdeburg ( No . 07 / 17 ) .
-
 Immediately after LP , CSF cell concentration was determined , and total protein , albumin quotient ( Qalb ) , and OCB were measured .
 The remaining CSF material was centrifuged at 4 ° C , aliquoted , and stored at - 80 ° C until CSF - MIF analysis took place .
 The absolute CSF - MIF concentrations were measured using commercially available human MIF Quantikine ELISA ( bio - techne , Mineapolis , MN ) , following the instructions provided by the manufacturer .
 All samples were run in duplicate , and the mean was used for statistical analysis .
-
 Statistical analysis was conducted using SPSS 21 ( IBM ) .
 A one - way - ANOVA was conducted with group ( HC vs . CIS / MS w / o vs . ON cases ) as the independent variable , followed by pairwise post - hoc testing ( Bonferroni - corrected ) .
 The groups were also compared with respect to categorical variables ( using a chi - squared test ) and continuous variables ( using a t - test or Mann - Whitney U test ) , to determine group differences between GC - ON and rGC - ON cases , taking into account age , median visual acuity before and after GC administration , P100 latency , CSF cell count , Qalb , and CSF - MIF .

@@ -53,13 +53,7 @@
 
 
 
-
-
-
-
-
 Version_of	4.0.	45	1	GeneMapper	32	0;;Version_of	3.6	162	4	FAP	130	2;;Citation_of	[59]	166	5	FAP	130	2;;AlternativeName_of	Family Assignment Program	134	3	FAP	130	2;;
-
 
 
 

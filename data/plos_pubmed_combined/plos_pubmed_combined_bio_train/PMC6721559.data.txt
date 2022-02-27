@@ -7,7 +7,6 @@ The aim of this review is to focus on the possible role of SUMOylation in organi
 We summarize mitotic and microtubule / spindle - associated proteins that have been identified as SUMO conjugates and present examples regarding their regulation by SUMO .
 Moreover , we discuss the possible contribution of SUMOylation in organization of larger protein assemblies on the spindle , as well as the role of SUMO - targeted ubiquitylation in control of kinetochore assembly and function .
 Finally , we propose future directions regarding the study of SUMOylation in regulation of spindle organization and examine the potential of SUMO and SUMO - mediated degradation as target for antimitotic - based therapies .
-
 1 .
 The Biological Context
 During mitosis , the microtubule ( MT ) cytoskeleton reorganizes to assemble the mitotic spindle that will capture chromosomes via their kinetochores and segregate them equally into two daughter cells .
@@ -34,7 +33,6 @@ This complex is recruited to the outermost part of the kinetochore where it co -
 The founding member of the third class of SUMO E3s is ZNF 451 that is highly specific for SUMO 2 / 3 [22] .
 Family members possess an internal PxRP motif surrounded by 2 SIMs .
 No spindle function has yet been uncovered for this less characterized family of E3 ligases .
-
 2 .
 SUMO Targets
 2.1 .
@@ -63,7 +61,6 @@ Strikingly , an average of 18 % of all lysines were SUMOylated in SUMO target pr
 A more recent study identified additional sites [38] .
 Numerous SUMOylation events were found proximal to CDK - dependent phosphorylation , which points to a role for SUMO during mitosis , when CDK activity is at its highest [39] .
 However , a similar number of SUMOylation sites become upregulated or downregulated after CDK inhibition suggesting a dynamic regulation of SUMO at the G2 / M and metaphase / anaphase transition .
-
 2.2 .
 Centromere / Kinetochore and Chromosome Associated Proteins
 A striking majority of the proteins whose SUMOylation has been studied during mitosis ( Table 1 , Figure 2 ) localizes at the centromere / kinetochore .
@@ -71,9 +68,7 @@ Among these are centromeric proteins Cse 4 , Cep 3 , Ndc 10 in yeast , and CENPI
 At the level of the outer kinetochore , one finds SUMOylated Ndc 80 and NUF 2 [35,36] , as well as the kinesins CENPE / KIF 10 [36] and KIF 18A [47] , the RNA binding protein NKAP [48] , the Ran GTPase activating protein RanGAP 1 [49] , the ANAPC 4 subunit of the APC / C [50,51] , along with the protein kinases BUB1B / BubR 1 [52] and MPS 1 / TTK [53] .
 When known , most of these proteins are SUMOylated by SUMO 2 / 3 , and often require PIAS 4 ( also known as PIAS γ ) as a E3 SUMO ligase ( see Table 1 ) .
 Beyond the centromere / kinetochore , the whole chromosome also contains SUMOylated substrates such as the Poly - ADP Ribose Polymerase PARP 1 [42,54] and the Topoisomerase II TOP 2 [55,56,57,58,59] .
-Their SUMOylation also depends upon SUMO 2 / 3 and the E3 SUMO - protein ligase PIAS 4 .
-
-2.3 .
+Their SUMOylation also depends upon SUMO 2 / 3 and the E3 SUMO - protein ligase PIAS 4 . 2.3 .
 Spindle - Associated Proteins
 At the spindle pole , studied SUMOylated substrates are PLK 1 [73,79] and the MAP NuMA [71] .
 In contrast to chromosome - associated SUMO substrates , it is rather SUMO 1 that modifies PLK 1 and NuMA ( Figure 2 ) .
@@ -83,7 +78,6 @@ The number of SUMOylated spindle proteins will very likely increase , since seve
 Less is known regarding SUMOylated targets after the metaphase / anaphase transition ( Figure 2 ) .
 PLK 1 was shown to colocalize with SUMO 1 and SUMO 2 / 3 at the spindle midzone in telophase in mice meiosis [73] .
 Later on , septins localize to the midbody , where septin bundling activity requires their SUMOylation , which is critical to cytokinesis in human cells [75,76,81,82] .
-
 3 .
 SUMO Functions in Spindle Organization
 3.1 .
@@ -100,7 +94,6 @@ Class I and II SIMs do not compete , since they interact with SUMO on opposite b
 In between these two domains , one finds another independent class III interaction surface that has been initially described to interact with the ubiquitin E3 ligase HERC 2 via SUMO 1 ZZ zinc finger domain [87] .
 SIM motifs can be predicted to some extent ( http://sumosp.biocuckoo.org/online.php , http://www.jassa.fr/ , http://predictor.nchu.edu.tw/SUMOgo/ ) .
 It is generally thought that SUMO - SIM interactions undergo rapid turnover , but quantitative in vivo measurements are lacking .
-
 3.2 .
 SUMO Functions : Direct and Indirect Regulation of Protein Localization within the Mitotic Spindle
 Similar to the ubiquitin - interacting domains , SIM domains have dramatically increased the repertoire of possible SUMO functions regarding organization of protein complexes .
@@ -113,7 +106,6 @@ For instance , although CENPE is itself SUMOylated , it is surprisingly its inte
 Indeed , CENPE SIMs are required for its kinetochore localization [36] .
 While NKAP SUMOylation is essential for CENPE recruitment to the kinetochore , it is BUB 3 that promotes NKAP recruitment [48] .
 Altogether , this data suggests that SUMO can control protein localization to kinetochores via SUMO - SIM interactions , and this may affect also proteins that are not SUMOylated per - se .
-
 3.3 .
 SUMO Functions : Group SUMOylation and Phase Transition
 Polyvalent interactions between SUMO and SIM can also give rise to larger protein - assemblies , a process well documented for SUMO in the context of DNA repair ( group SUMOylation ) [88] .
@@ -141,7 +133,6 @@ The finding that K37 SUMO 1 acetylation ( K33 in SUMO 2 ) neutralizes the basic 
 SUMO acetylation is translated to decreased SUMO - SIM affinity for numerous proteins .
 Whether there is increased SUMO acetylation in the vicinity of the chromosomes or elsewhere around the spindle remains to be determined .
 Finally , in the context of phase separation , the composition of kinetochore SUMO - SIM groups could lead to condensates with properties that are distinct from other distant SUMO - SIM containing phases ( for a review about biomolecular condensates , see [95] ) .
-
 3.4 .
 SUMO as a Signal for Degradation of Spindle Proteins : SUMO - targeted Ubiquitin Ligases
 SUMO can be attached to one lysine ( mono - SUMOylation ) , multiple lysines ( multi - SUMOylation ) or form a SUMO chain onto a target lysine ( poly - SUMOylation ) [96] .
@@ -172,7 +163,6 @@ Similarly , STUbLs may function to remove unwanted or misfolded proteins form ki
 Evidence for this came from the surprising finding that the Kar 9 protein , a yeast factor that localizes to microtubule plus - ends of cytoplasmic microtubules only , is ubiquitylated by Slx 5 / Slx 8 at kinetochores and subsequently degraded by the proteasome [66] .
 One could speculate that STUbLs eliminate a protein that is at the wrong ( the kinetochore ) microtubule plus - ends .
 Whether STUbLs generally regulate mislocalized MAPs or misfolded kinetochore factors is however an open question .
-
 4 .
 Many More Mitotic Proteins are SUMOylated - How to Study Them ?
 Surprisingly , the mitotic proteins whose SUMOylation has been studied ( Table 1 ) are not necessarily also the most abundantly SUMOylated ( see Table 2 ) .
@@ -193,7 +183,6 @@ It is possible however , that the proteins within group SUMOylated assemblies ma
 This may explain the discrepancy between the low levels of SUMOylated proteins detected by western blot , even after several - fold enrichment by immunoprecipitation , in contrast to the large number of SUMOylation events revealed by mass spectrometry .
 The use of N - or C - terminal fusion of SUMO to a protein to mimic its constitutively SUMOylated state has been successful ( [113,114] and many other examples ) , provided that it will not perturb the function of the protein and not be attacked for degradation by the STUbL / proteasome system .
 Alternatively , state - of - the - art imaging techniques such as optogenetics [115] or SUMO photo - activation could help us to gain insights into SUMO dynamics within SUMO groups on the spindle ( and elsewhere ) in cellulo .
-
 5 .
 Spindle SUMOylation as Anticancer Target
 Imbalance of SUMOylation and de - SUMOylation relates to development and progression of cancer and other diseases ( for reviews , see [116,117] ) .
@@ -210,7 +199,6 @@ However , a recently developed derivative of the SUMO E1 inhibitor ML - 792 [129
 The clearest example for the potential of SUMO / STUbLs as drug targets is the mechanism of action of arsenic trioxide during treatment of Acute Promyelocytic Leucemia ( APL ) cells [130] .
 Here , arsenic oxide leads to activation of SUMO - targeted ubiquitylation of the PML - RAR α oncoprotein by RNF 4 , resulting in its degradation of the PML - RAR α fusion protein by the proteasome .
 In combination with a retinoic acid , that both activates RNF 4 and differentiates the immature myeloma cells , AML can be cured with a rate of 90 % .
-
 6 .
 Concluding Remarks
 Recent advances in proteomics have generated a wealth of information concerning targets of SUMOylation , modification sites , and their relationship to other PTMs .
@@ -218,7 +206,6 @@ These data reveal that SUMOylation is an important regulator of important factor
 Enforcement of protein assembly through interactions between SUMO and SIMs and the principles of group SUMOylation and phase separation could operate also during the organization of the mitotic spindle .
 In addition , SUMO - dependent ubiquitylation participates in disassembly of spindle complexes and quality control .
 Study of these processes in detail promises to produce rewarding results both in basic and applied research .
-
 List of the SUMOylated spindle proteins for which the function of SUMOylation has been studied in the listed publications and model systems .
 Examples of interesting SUMOylated spindle proteins from the Supplementary Table 2 in [34] .
 These include proteins from Table 1 , supplemented with a non - exhaustive list of mitotic proteins .

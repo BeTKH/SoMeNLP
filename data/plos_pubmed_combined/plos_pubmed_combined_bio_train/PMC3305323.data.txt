@@ -2,21 +2,18 @@ Six separate participants volunteered for Experiment 1 ( 3 females ) and Experim
 All participants had normal vision .
 Written informed consent was obtained before the experiment .
 The experiments have been approved and permitted by the Ethics Commission , Institute for Psychology and Education , Ludwig - Maximilians - Universitat Munchen , Germany .
-
 Experiments took place in a dark room .
 The participant sat in front of the monitor with viewing distance of 52 cm .
 The dominant eye was aligned with the center of the screen and monitored by a head supported eye Tracker ( EyeLink 1000 ) .
 After the calibration of the eye tracking system , the participant rested for about 20 minutes for dark adaptation .
 In Experiment 1 , a neutral density plastic filter ( LEE filter , reducing light 4 stops ) was attached on the surface of the screen to reduce the luminance .
 The experiment consists of two sessions : the motion detection and the moving object localization ( Figure 1 ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0033651.g001 Schematic illustration of the stimuli used in the experiments . ( a ) Motion detection task .
 A dot appears on the left or the right side of the fixation point ( FP ) at a given eccentricity and revolves around the fixation for 100 ms . ( b ) Movement localization task .
 A dot moves from the left or the right towards the fixation point ( motion - terminated condition ) or moves away from fixation to the left or the right side ( motion - initiated condition ) . ( c ) .
 Spectral charts for the blue filter ( blue curve ) and the green filter ( green curve ) .
 The scotopic luminance for the blue and the green was approximately 3.93 cd / m2 ( used for the fixation and reference bars ) calculated with the scotopic luminosity function ( CIE 1951 ) .
-
 In the motion detection session , a trial started with a small dim fixation point ( diameter : 0.17 ° ; luminance : 0.28 cd / m2 ) and a warning tone ( 100 ms , 1000 Hz , 63 dB ) .
 The positions of the eye were monitored online .
 After random interval ( 300 - 500 ms ) , provided the position of eye had not deviated from the fixation point by more than 0.5 deg , a small dim dot ( diameter : 0.17 ° ; luminance : 0.028 cd / m2 ) appeared on the left or the right at a given eccentricity ( 7 levels , from 0.5 ° to 2.3 ° with steps of 0.3 ° ) and revolved around the fixation at 5.0 radians / sec for 100 msec .
@@ -42,6 +39,5 @@ The spectral characteristics of the two filters for a cyan color on the screen a
 The intensities of the stimuli were adjusted for the two filters separately such that both scotopic luminances were approximately equal .
 The fixation point and reference lines were set to 3.92 cd / m2 ( radiance shown in Figure 1c ) and the moving / revolving dots were set to 0.95 cd / m2 ( Measured by JETI spectrometer and calculated with the scotopic luminosity function , CIE , 1951 ) .
 The motion detection task was run only in the blue filter condition since the detection of the green revolving dot was far above the threshold with the given luminance .
-
 Participants ' responses were first converted to proportions of visibility for the detection task , the motion - initiated and motion - terminated localization tasks .
 Psychometric curves were then fitted using a logistic function to each condition and points of subjective equality ( PSEs ) were estimated from the 50 % point of corresponding psychometric function .

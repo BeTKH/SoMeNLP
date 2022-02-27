@@ -14,7 +14,6 @@ Prior to the start of the study , all subjects signed written informed consent f
 They were compensated for their participation in the study , and they were free to discontinue the study at any time .
 The crewmembers revealed their identities before , during and after the simulation .
 To ensure confidentiality in this manuscript , results were de - identified ( i.e. , crewmembers were randomly assigned English alphabetic letters a - f ) and no data were reported relative to crewmembers ' nationalities , ages , professions , or roles in the mission .
-
 2.2 Experimental procedures and measurements : All instructions and subjective rating scales were translated and displayed in Russian for the three Russian participants , and in English for the non - Russian participants .
 2.2.1.1 Social Desirability Scale 17 ( SDS - 17 ) : Once during the two weeks prior to hatch closing , each crewmember filled out the Social Desirability Scale 17 ( SDS - 17 ) , which measured social desirability bias [8] .
 The latter is defined as “ distorting one ' s self - presentation to make a favorable impression upon others . ”
@@ -39,7 +38,6 @@ If they indicated a conflict had occurred , they were to indicate whether or not
 They did not have to indicate the identity of the person ( s ) with whom they indicated they had a conflict .
 Data acquisition for psychological measures resulted in 100 % completed tests ( i.e. , N = 6 for SDS - 17 ; N = 444 for BDI - II ; POMS - SF ; CQ ; VAS for workload and sleep quality ratings ; and N = 888 for VAS scales for unhappiness , physical exhaustion , mental fatigue , stress , tiredness ) .
 2.2.1.6 Post - mission debrief interviews : During individual crewmember ' s debrief interviews the second day post - mission confinement , crewmembers were asked to name the two crewmembers with whom they communicated most frequently .
-
 2.2.2.1 Actigraphy : Actigraphy is a reliable , non - invasive method to validly assess rest - activity cycles [13] .
 Throughout the 520 - day simulated mission to Mars , each crewmember continuously wore a wristwatch size actigraph ( Actiwatch Spectrum , Philips / Respironics ) on the wrist of the non - dominant arm .
 The device measured both average white light intensity ( illuminance in Lux ) and a calibrated activity level from movement - induced accelerations of the wrist .
@@ -57,7 +55,6 @@ Each crewmember performed the PVT - B on a different day of the week , once in t
 The test required visually monitoring a red rectangular box on the computer screen , and pressing a response button as soon as a yellow stimulus counter appeared , which stopped the counter and displayed the RT in milliseconds for a 1 s period .
 ISIs varied randomly from 2 - 5 s .
 Data acquisition for PVT - B resulted in N = 888 completed tests , which was 100 % of the data sought .
-
 To analyze time in mission effects , mixed model ANOVAs ( Proc Mixed , SAS Version 9.3 , SAS Institute Inc . , Cary , NC ) with a random intercept for crewmembers and unstructured covariance were performed with mission quarter ( MQ ) as the only explanatory variable ( MQ 1 , days 1 - 130 ; MQ 2 , days 131 - 260 ; MQ 3 , days 261 - 390 ; MQ 4 , days 391 - 520 ) and with the scores from the mood scales ( BDI - II and POMS - SF ) and visual analog scales as outcome variables .
 Although we could have justified many different hypotheses relative to time in mission ( e.g. , steadily increasing or decreasing effects , third quarter effect ) , we chose to keep our hypothesis as generic as possible ( null hypothesis : no difference between mission quarters ) .
 This was partially driven by findings on the activity data that showed a steep decline in activity initially , a slow but steady decline during the second and third mission quarters , and a sharp rise at the end of the mission , which conformed to neither of the two above - stated hypotheses [19] .
@@ -70,7 +67,6 @@ Again , models with visual analog scale variables sampled twice daily were also 
 If a Type 3 test indicated a significant crewmember effect ( P < 0.05 ) , post - hoc tests comparing data from each crewmember with data from each of the other crewmembers were performed .
 Post - hoc tests were Bonferroni corrected for Type I error inflation ( α = 0.05 / 15 = 0.0033 ) .
 For ease of interpretation , all scales were transformed to a 0 to 100 range in Tables 1 and 2 .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0093298.t001 Effects of time - in - mission on psychological measures .
 Table 1 : Superscript number 1 - 4 indicate a significant difference to the respective mission quarter at α = 0.05 after Bonferroni correction of post - hoc tests .
@@ -79,7 +75,6 @@ A score of 100 represents the maximal expression ( e.g. , maximal depression , m
 Standard errors are reported in parenthesis .
 P - value for the main effect of mission quarter is reported in the last column .
 POMS : Profile of Mood States Short Form .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0093298.t002 Inter - individual differences in psychological measures .
 Table 2 : Superscript letters a - f indicate a significant difference to the respective crewmember at α = 0.05 after Bonferroni correction for post - hoc tests .
@@ -88,7 +83,6 @@ A score of 100 represents the maximal expression ( e.g. , maximal depression , m
 Standard errors are reported in parenthesis .
 P - value for the main effect of crewmember is reported in the last column .
 POMS : Profile of Mood States Short Form ; ICC : Intra - class Correlation ; * indicates that the respective crewmember answered 0 on all items throughout the whole mission .
-
 To investigate changes of individual differences with time in mission , graphs plotting cumulative scores of mood and visual analog scale outcomes relative to time in mission were generated for those variables with a significant ( P < 0.05 ) main effect for mission quarter .
 To further investigate individual differences , we calculated intra - class correlations ( ICC ) for each outcome measure as the ratio of between - subjects variance to the sum of the between - and within - subjects variances .
 The ICC is based on variance components analysis , involving the explicit separation of within - subjects variance and between - subjects variance in data derived from repeated measurements in individuals .

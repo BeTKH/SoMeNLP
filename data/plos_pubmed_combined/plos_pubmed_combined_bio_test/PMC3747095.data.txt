@@ -1,16 +1,13 @@
 Background
 Loss of ovarian function is highly associated with an elevated risk of metabolic disease .
 Monocyte chemoattractant protein - 1 ( MCP - 1 , C - C chemokine ligand 2 ) plays critical roles in the development of inflammation , but its role in ovariectomy ( OVX ) - induced metabolic disturbance has not been known .
-
 Methodology and Principal Findings
 We investigated the role of MCP - 1 in OVX - induced metabolic perturbation using MCP - 1 - knockout mice .
 OVX increased fat mass , serum levels of MCP - 1 , macrophage - colony stimulating factor ( M - CSF ) , and reactive oxygen species ( ROS ) , whereas MCP - 1 deficiency attenuated these .
 OVX - induced increases of visceral fat resulted in elevated levels of highly inflammatory CD 11c - expressing cells as well as other immune cells in adipose tissue , whereas a lack of MCP - 1 significantly reduced all of these levels .
 MCP - 1 deficiency attenuated activation of phospholipase C γ 2 , transforming oncogene from Ak strain , and extracellular signal - regulated kinase as well as generation of ROS , which is required for up - regulating CD 11c expression upon M - CSF stimulation in bone marrow - derived macrophages .
-
 Conclusions / Significance
 Our data suggested that MCP - 1 plays a key role in developing metabolic perturbation caused by a loss of ovarian functions through elevating CD 11c expression via ROS generation .
-
 Introduction
 The prevalence of metabolic syndrome increases with menopause .
 A loss of ovarian function is associated with increased fat , along with metabolic pathologies including insulin resistance ( IR ) and type 2 diabetes ( T2D ) [1] .
@@ -33,15 +30,12 @@ In addition , high glucose levels induce monocytes to produce MCP - 1 [18] .
 These results suggest a critical role of MCP - 1 in inflammation associated with metabolic dysfunction .
 On the contrary , Park et al shows no correlation between circulating level of MCP - 1 and obesity or IR [19] .
 In this study , we investigated the role of MCP - 1 in OVX - induced metabolic perturbation , which is associated with CD 11c - expressing ATM via up - regulation of ROS .
-
 Results
 MCP - 1 Deficiency Decreases Visceral Adiposity and Metabolic Perturbation Induced by OVX
 In previous studies , we demonstrated that OVX increases serum MCP - 1 level [20] .
 To investigate whether MCP - 1 contributes to OVX - induced metabolic dysfunction , we analyzed MCP - 1 - knockout ( KO ) mice , compared with wild type ( WT ) mice .
 The body weight increase of MCP - 1 - KO mice after sham surgery was slightly lower than WT mice at 18 weeks old ( 5.9 ± 0.47 g vs . 3.9 ± 0.44 g , respectively ) , but not significantly (
-Figure 1A
-
-, Table 1 ) .
+Figure 1A , Table 1 ) .
 In addition , no significant difference was found in subcutaneous fat or visceral fat between the two sham surgery groups , thus showing that MCP - 1 did not affect fat mass in the sham surgery mice ( Table 1 ) .
 Next , we investigated whether the absence of MCP - 1 affected OVX - induced metabolic disorder .
 Not only body weight , but also fat masses of visceral ( 2.10 - folds ) and subcutaneous AT were significantly reduced in MCP - 1 - KO mice compared to WT mice 12 weeks after OVX ( Table 1 ) .
@@ -57,7 +51,6 @@ The absence of MCP - 1 significantly decreased the area under curve ( AUC ) for 
 Similarly , glucose was cleared more effectively in OVX MCP - 1 - KO mice than in OVX WT mice after an intraperitoneally - injected insulin as a measure of insulin sensitivity ( Figure 1E ) .
 Taken together , these data showed that lack of MCP - 1 improved insulin sensitivity in OVX mice .
 Physiological measurements of sham and OVX of WT and MCP - 1 - KO mice 12 weeks after operation .
-
 MCP - 1 Deficiency Attenuates OVX - induced CD 11c - expressing M1 Macrophages in AT
 The findings that ATM that accumulates during obesity results in IR [21] and that MCP - 1mediates the recruitment of macrophages in tissues [9] prompted us to further investigate the association of the increased insulin sensitivity observed upon OVX in the absence of MCP - 1 with decreased ATM .
 To determine whether MCP - 1 - deficient mice were protected from AT inflammation induced by OVX , we evaluated visceral fat pad stromal vascular cells ( SVC ) using flow cytometry .
@@ -77,7 +70,6 @@ M - CSF stimulation induced a significantly reduced level of CD 11c with increas
 To assess whether the elevated expression of CD 11c is due to MCP - 1 , we examined the effect of neutralization of MCP - 1 .
 Blockage of MCP - 1 reduced the percentage of WT cells expressing CD 11C upon M - CSF stimulation , whereas no further decrease was found in the absence of MCP - 1 ( Figure 3D ) .
 Next , complete restoration of CD 11c was found in MCP - 1 - KO BMM upon stimulation of combination of M - CSF and MCP - 1 , whereas the combination did not significantly increase CD 11c , compared with M - CSF alone in WT BMM ( Figure 3B ) .
-
 MCP - 1 Up - regulates CD 11c Expression via Generation of Reactive Oxygen Species ( ROS ) and Fortification of the Activation of PLC γ 2 , Akt , and ERK upon M - CSF Stimulation
 Since a lack of endogenous MCP - 1 blunted M - CSF - induced CD 11c in BMM , we attempted to investigate a mediator generated by MCP - 1 to increase CD 11c expression .
 Specific chemical inhibitors associated with M - CSF signaling pathways were evaluated for CD 11c expression in the absence of MCP - 1 , compared with WT cells .
@@ -98,7 +90,6 @@ As shown in
 Figure 4E
 , treatment of sip 47 reduced the transcript of p47 .
 Down - regulation of p47 decreased the fraction of M - CSF - induced CD 11c at both levels of transcript and surface protein ( Figure 4F ) and ROS levels ( Figure 4G ) in WT BMM , whereas no further decrease was observed in MCP - 1 - KO cells .
-
 Discussion
 The underlying pathologies of metabolic syndrome , found in many postmenopausal women , are related to chronic inflammation , which is simultaneously associated with obesity [8] .
 OVX increased fat mass with elevated blood glucose [2] , [3] , [5] and IR [3] , [5] , [6] , [7] , although it is controversial .
@@ -153,13 +144,11 @@ The ratios of fat mass and adipocyte volume of OVX mice from WT and MCP - 1 - KO
 Impaired adipocyte differentiation affects fat mass [38] .
 It is possible that MCP - 1 modulates fat mass via adipocyte differentiation , which has been increased by MCP - 1 - induced protein [39] .
 The important role of MCP - 1 in IR and AT inflammation caused by OVX suggests that MCP - 1 may be a novel therapeutic target for loss of ovarian function - induced metabolic syndrome in postmenopausal women .
-
 Materials and Methods
 Ethics Statement
 All mice were handled in accordance with the guidelines of the Institutional Animal Care and Use Committee ( IACUC ) of the Immunomodulation Research Center ( IRC ) , University of Ulsan .
 All animal procedures were approved by IACUC of IRC .
 The approval ID for this study is # 2008 - 028 .
-
 Animals and Study Design
 MCP - 1 ( MCP - 1 - KO ) mice of a C57B L / 6J genetic background were purchased from the Jackson Laboratory and were provided by the University of Ulsan , IRC .
 The offspring genotypes were determined by Southern blot analysis of DNA from tail biopsies .
@@ -174,7 +163,6 @@ For glucose tolerance , animals were injected intraperitoneally with glucose ( 1
 Blood samples were drawn at 0 , 15 , 30 , 60 , and 120 min after glucose injection or 0 , 15 , 30 , 60 , and 90 min after insulin injection .
 Serum levels of MCP - 1 and M - CSF were measured by a sandwich ELISA using coating anti - MCP - 1 Ab or anti - M - CSF Ab and biotinylated anti - MCP - 1 Ab or anti - M - CSF Ab , as recommended by the supplier ( R & D Systems , Minneapolis , MN ) .
 Serum HO was determined using an Amplex Red hydrogen peroxide / peroxidase assay kit ( Invitrogen , Carlsbad , CA ) .
-
 SVC Isolation
 Visceral fat pads were weighed , rinsed three times in phosphate - buffered saline ( PBS ) , and minced with FACS buffer ( PBS with 1 % BSA ) .
 Tissue suspensions were centrifuged at 500 × g for 5 min , and then treated with type 2 collagenase ( 1 mg / ml , Sigma Chemical . St Louis , MO ) for 90 min at 37 ° C with shaking .
@@ -182,7 +170,6 @@ Cell suspensions were filtered through a 100 μ m filter and centrifuged at 500 
 SVC pellets were incubated with RBC lysis buffer ( eBioscience , San Diego , CA ) for 5 min , centrifuged at 300 × g for 5 min , and resuspended in FACS buffer .
 SVC was incubated with Fc blocker for 20 min at 4 ° C before staining fluorescently - labeled Abs against CD 11b , CD 11c , F4 / 80 , CD 4 , and CD 8 ( eBioscience ) .
 Cells were gently washed twice , resuspended in FACS buffer , and analyzed using a FACSCanto II flow cytometer ( BD Sciences , San Jose , CA ) .
-
 Cell Preparation
 Femora and tibiae were removed aseptically and dissected free of adherent soft tissue .
 The bone ends were cut , and the marrow cavity was flushed with α - MEM from one end of the bone , using a sterile 21 - gauge needle .
@@ -194,22 +181,18 @@ The absence of contaminating stromal cells was confirmed by lack of cell growth 
 Additional medium with M - CSF was added and later refreshed on day 3 .
 After incubation for the indicated times , the cells were analyzed using a FACSCantor .
 BMMs were transfected with small interfering RNA ( siRNA ) against p47 ( sip 47 ) or scrambled siRNA ( scRNA ) ( Santa Cruz Biotech . , Santa Cruz , CA ) , using Lipofectamine ™ RNAiMAX ( Invitrogen ) , and further analyzed .
-
 Quantitative PCR
 Total RNA from BMMs incubated with M - CSF for the indicated time period was extracted using Trisol solution ( GIBCO , Life Technol . ) and reverse - transcribed with oligo - dT and Superscript I enzyme ( Invitrogen ) .
 Quantitative PCR was carried out using SYBR Green 1 Taq polymerase ( Qiagen , Hilden , Germany ) and appropriate primers on a DNA Engine Opticon Continuous Fluorescence Detection System ( MJ Research Inc . ) .
 The specificity of each primer pair was confirmed by melting curve analysis and agarose - gel electrophoresis .
 Relative copy numbers compared to RPS 3 were calculated using 2 .
 The primer sequences ( forward and reverse , respectively ) used were as follows : 5 ′ - ctggatagcctttcttctgctg - 3 ′ and 5 ′ - gcacactgtgtccgaactc - 3 ′ ( CD 11c ) ; 5 ′ - gggtcattcagaggcacactg - 3 ′ and 5 ′ - ctggctgtcctgtcaaggct - 3 ′ ( CD 163 ) ; 5 ′ - ctccaagccaaagtccttaga - 3 ′ and 5 ′ - aggagctgtcattagggacatc - 3 ′ ( arginase - 1 ) ; 5 ′ - atcagagagttgaccgcagttg - 3 ′ and 5 ′ - aatgaaccgaagcacaccatag - 3 ′ ( RPS 3 ) .
-
 Intracellular ROS Detection
 The intracellular formation of ROS was detected using the fluorescence probe , 2 ′ , 7 ′ - dichlorofluorescein diacetate ( H2DCFDA ) ( Molecular Probe ) .
 After the BMM were cultured under the different experimental conditions for 2 d , the cells were washed , trypsinized , suspended in PBS , loaded with H2DCFDA , and incubated at 37 ° C for 30 min .
 The measurement of intracellular ROS was performed using a flow cytometer with a FACSCantor .
-
 Western Blotting
 Western blots were probed with Abs against the phosphorylated and total forms of PLC γ 2 ( Cell Signaling , Danvers , MA ) and then incubated with the appropriate peroxidase - conjugated secondary Ab ( Santa Cruz Biotech ) .
-
 Statistical Analysis
 Values are expressed as mean ± SEM .
 Student ’ s t - test was used to evaluate differences between samples of interest and corresponding controls .

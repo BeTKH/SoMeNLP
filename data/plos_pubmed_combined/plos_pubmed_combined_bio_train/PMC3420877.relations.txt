@@ -9,8 +9,6 @@
 
 
 
-
-
 Developer_of	GraphPad	219	1	Prism	213	0;;
 
 
@@ -53,13 +51,7 @@ Developer_of	GraphPad	219	1	Prism	213	0;;
 
 
 
-
-
-
-
-
 Developer_of	NIH	383	0	Image J	387	1;;
-
 
 
 

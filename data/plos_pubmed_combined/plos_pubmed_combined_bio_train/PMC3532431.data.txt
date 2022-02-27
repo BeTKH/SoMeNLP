@@ -1,11 +1,9 @@
 All patients who had undergone LC performed between May , 2007 and June , 2009 by any surgeons practicing at two tertiary academic hospitals in southern Taiwan were surveyed by the SF - 36 and the Gastrointestinal Quality of Life ( GIQLI ) instruments .
 Ethical approval was provided by Institutional Review Board of the Kaohsiung Medical University Hospital ( KMUH - IRB - 960169 ) .
-
 Patients provided written informed consent .
 Patients with cognitive impairment ( n = 1 ) , severe organ disease ( n = 4 ) or psychiatric disease ( n = 1 ) were excluded .
 Of the 518 eligible subjects who gave written consent and were enrolled in the study at baseline , twelve were excluded due to conversion of LC to open cholecystectomy ( OC ) , and 106 were excluded because they did not undergo postoperative assessments .
 All 400 of the remaining LC subjects completed the preoperative and 2 - year postoperative assessments .
-
 The SF - 36 ( Chinese version ) was administered to measure QOL outcomes , and the score was used as a dependent variable .
 As described in the literature , the physical component summary scale ( PCS ) and mental component summary scale ( MCS ) were calculated using norm - based scoring methods to compare QOL in the study population with that of the general Taiwan population [19] .
 A PCS or MCS value of 50 was considered average for the general Taiwan population .
@@ -14,7 +12,6 @@ The GIQLI is recognized as a valid and reliable instrument for measuring functio
 Each of its thirty - six items is scored from 0 to 4 with a higher score indicating better health status , and the total GIQLI score ranges from 0 to 144 .
 A Chinese version of the GIQLI has demonstrated validity [2] , [13] .
 The following patient data obtained by records review and questionnaire interview were tested as independent variables in this study : age , gender , body mass index ( BMI ) , education , Charlson co - morbidity index ( CCI ) score , marital status , previous abdominal surgery , surgical factors , patient referral source , current alcohol or tobacco use , preoperative functional status , operating time , American Society of Anesthesiologist ( ASA ) score , current complications , operation time , length of stay ( LOS ) and re - hospitalization within 30 days .
-
 The factors used in the MLR model to predict long - term QOL of LC patients included both demographic and clinical characteristics .
 The MLR model can be formulated as the following linear equation : where is the actual output value , is the intercept , is the model coefficient parameter , is the independent or input variable , is the random error , and m is the number of variables .
 The SVM model employs non - linear mapping to transform the original training data into higher - dimensional data and searches for the linear optima that define a hyperplane within the new dimension [4] .
@@ -32,7 +29,6 @@ The multilayer perceptron ( MLP ) network is an emerging tool for designing spec
 Its input layer consists of source nodes , and its output layer consists of neurons ; these layers connect the network to the outside world .
 In addition to these two layers , the MLP usually has one or more layers of neurons referred to as hidden neurons because they are not directly accessible .
 The hidden neurons extract important features contained in the input data .
-
 The dataset was divided randomly into two sets , one set of 320 cases ( 80 % of the overall dataset ) for training the model and another set of eighty cases for testing the model .
 The model was built using the training set .
 Demographic and clinical characteristics were the independent variables , and the outcome ( QOL ) was the dependent variable .

@@ -5,12 +5,10 @@ The BTH urban agglomeration is the largest urban agglomeration and the most deve
 Beijing is the political capital , cultural and information centre of China and is one of the largest megacities worldwide , with more than 21 million people and 5.7 million vehicles in 2016 [55] .
 Given the importance of the Greater Beijing region , severe air pollution has been the leading environmental challenge , with frequent occurrences of fog and haze .
 Related statistical consensus indicate that the total annual mean values of Beijing ’ s PM 10 and PM 2.5 concentrations from 2012 to 2015were 138.5 ± 92.9 μ g / m3 and 2.3 ± 54.4 μ g / m3 , respectively [37] .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0201364.g001 Geographic information of the BTH urban agglomeration .
 In terms of urban distribution and prefectural boundary , prefectural boundary layers at a scale of 1 : 4,000,000 are obtained from the National Geomatics Centre of China .
 PM 2.5 concentration data in the BTH urban agglomeration from December 2013 to May 2017 cover 12 cities , namely , Beijing , Tianjin , Tangshan , Zhangjiakou , Baoding , Handan , Chengde , Qinhuangdao , Xingtai , Cangzhou , Langfang and Shijiazhuang ( For details , see Fig 2 and S2 Table ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0201364.g002 Geographic allocation of the 12 cities in the BTH urban agglomeration .
 This monitoring dataset is obtained from the atmospheric physics sites of the 12 cities by the Ministry of Environmental Protection of China .
@@ -26,7 +24,6 @@ Table 1 describes the geographic information on several atmospheric physics obse
 The geographic information of all observation points is shown in S1 Table .
 In terms of data standardisation , the collected PM 2.5 values at 2 : 00 , 8 : 00 , 14 : 00 and 20 : 00 from different observation points are averaged to derive the daily and monthly PM 2.5 concentrations of a city .
 The PM 2.5 concentration of 12 sites is the average of 80 sites .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0201364.g003 Geographic allocation of 80 atmospheric physics observation points .
 Table data removed from full text .
@@ -38,12 +35,10 @@ Yang and Chen ( 2017 ) [57] used independent variables , namely , coal consumpti
 Lu et al . ( 2017 ) [58] incorporated the following variables in their estimation , namely , population density , annual volume of bus passengers , road freight , proportion of secondary industry to overall GDP , volume of SO 2 emissions and volume of industrial soot emission .
 Ma and Xiao ( 2017 ) [59] considered urbanisation , energy consumption structure [60] and construction areas in their investigation .
 On the basis of an extensive literature review , 12 potential contributing factors for PM 2.5 concentrations are identified ( Table 2 ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0201364.t002 Potential critical impact factors for PM 2.5 concentration .
 The possible critical impact factors of PM 2.5 concentration are selected ( Tables 2 and 3 ) , discussed and included in the estimation model .
 Since independent variable data in 2016 and 2017 has yet been published by the statistic consensus , this study used the latest data of 2015 in the PLS model to analyse the critical factors for PM 2.5 concentration ( For details , see S3 Table ) .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0201364.t003 Statistic description ( 2015 ) .
 Data Resource : National Bureau of Statistics of the People ’ s Republic of China ( 2016 a , b ) A comparison of PM 2.5 concentrations with population reveals interesting findings that should be considered .
@@ -54,10 +49,8 @@ Chengde , with a similar pollution level as Shijiazhuang , also manifests a low 
 A common pattern exists in which population density forms a certain positive relationship with PM 2.5 concentration .
 However , this pattern is affected by various critical impact factors that lead to certain variations .
 Therefore , a detailed investigation on critical PM 2.5 factors should be conducted for a thorough analysis of such particles .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0201364.g004 PM 2.5 concentration and population density per km 2 in 2015 . ( Unit : μ g / m3 refers to the left axis , and Persons / km 2 refers to the right axis ) .
-
 The estimation results reveal that PM 2.5 concentration in the BTH urban agglomeration exhibits a distinctive spatial distribution characteristic .
 Related literature shows that coal combustion accounts for 20 % - 30 % of PM 2.5 pollution in Chinese cities [ 20 , 22 , 27 , 28 ] .
 In winter , PM 2.5 concentration is usually high because coal is used as the main energy for winter heating .
@@ -67,16 +60,13 @@ Therefore , the present study uses industrial dust and industrial SO 2 emissions
 Tangshan shows the highest volumes of industrial SO 2 emission , which amounted to 214,723 t in 2016 , followed by Shijiazhuang and Handan with 113,652 and 110,193 t , respectively .
 Xingtai and Handan represent the top two contributors of industrial dust emissions , accounting for 191,713 and 100,738 t , respectively .
 Fig 5 shows the volume of industrial soot ( dust ) and sulphur dioxide emissions of 12 cities in BTH .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0201364.g005 Volume of industrial soot ( dust ) and sulphur dioxide emissions in 2015 ( Unit : Ton ) .
 Several studies argue that transportation exerts a significant adverse influence on air pollution [29] .
 On the basis of available data from statistical consensus , ‘ passenger and freight volume of highway traffic ’ are used as a parameter for measuring PM 2.5 pollution from transportation .
 Data suggest that polluted cities are generally associated with high road freight volume .
 For example , Shijiazhuang , Tangshan and Handan , which are the most polluted cities , are associated with relatively high freight volumes with 3,695,410 , 000 , 363,580,000 and 387,040,000 t , respectively .
-
 The research framework and main research steps are illustrated in Fig 6 .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0201364.g006 Research framework .
 PM 2.5 concentration is a scalar description of atmospheric state significantly affected by local human activities .

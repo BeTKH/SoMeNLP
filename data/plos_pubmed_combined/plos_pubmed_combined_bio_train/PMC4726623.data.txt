@@ -7,7 +7,6 @@ Reward engages Hebbian learning ( via STDP ) within the neural network .
 Each simulation was run for a total of 2 hours of simulation time , or 7200 trials each taking 1 s of simulated time .
 A number of simulations were run in order to choose appropriate model parameters and to assess the range of natural variation in performance across simulations .
 Each of these components is discussed in more detail below .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0145096.g001 Overview of the model.A : Schematic depiction of the groups of neurons in the spiking neural network and how they are connected .
 There is a reservoir of 1000 recurrently connected neurons , with 200 of those being inhibitory ( red ) and the rest excitatory ( blue and black ) .
@@ -32,7 +31,6 @@ The plot shows , for the same 1 s as in B - D , the synthesized vocalization wav
 Apart from a peak in salience at the sound ’ s onset , the most salient portion of the sound is around the place where the sound ’ s one consonant can be heard .
 The overall salience of this particular sound is 10.77 .
 If the salience of the sound is above the model ’ s current threshold , a reward is given , which causes an increase in dopamine concentration in the neural network .
-
 The simulation code is provided at https://github.com/AnneSWarlaumont/BabbleNN .
 The neural network contained two main subgroups of neurons .
 The first subgroup was a reservoir of 1000 Izhikevich spiking neurons [62] .
@@ -55,7 +53,6 @@ The input current due to presynaptic neuron firing was proportional to a variabl
 Some of these synaptic strengths ( a.k .a . connection weights ) , the ones connecting the reservoir to the motor neurons , changed over the course of the simulation as a result of learning .
 Note that there are no external inputs to the model other than the random inputs at each time step , which ensure spontaneous activity of the neurons in each group .
 This is by design , as the goal of the present work was to focus on how infants ’ spontaneous vocalizations become more speech - like over the course of the first year of life ( see [49] and [65] for further discussion ) .
-
 After every second of simulated time , a smoothed muscle activity time series was calculated .
 A 100 ms moving average of the previous 1000 ms time series of agonist motor neuron spikes was computed .
 The result was a 900 ms smoothed time series of agonist motor neuron activity .
@@ -84,7 +81,6 @@ This muscle has the effect of adducting the vocal folds , causing a pressure dif
 Finally , the Hyoglossus muscle , which lowers the tongue , was set to a value of 0.4 throughout the 900 ms vocalization .
 This made the vocal tract such that when the jaw and lips were open , the vocalization would sound like the vowel [ A ] . ( See [49] for an example of a model that learns the settings of the laryngeal muscles for static , vowel - only vocalizations . ) This combination of 900 ms of muscle activations and other settings was sent to the vocal tract model , which simulates the air pressure throughout the vocal tract at a series of time points and uses the time series of pressures at the mouth of the vocal tract to synthesize the vocalization .
 The vocalization was saved as a WAV file and subsequently analyzed to estimate its auditory salience .
-
 The estimated auditory salience of each sound was used as the basis for determining when to reward the model .
 This was based on the idea that human infants will tend to prefer more salient stimuli as well as on the idea that human caregivers are more likely to notice and respond to more salient infant sounds .
 Salience was estimated using a program developed by Coath , Denham , and colleagues [ 36 , 37 ] .
@@ -104,7 +100,6 @@ The first 150 ms were excluded because they typically included a spike in salien
 The model received a reward if the salience for the sound it had just produced , S ( v ) , was greater than a threshold value , θ ( v ) .
 The threshold was initialized to a value of 4.5 and increased as the model increased the salience of its productions .
 If on the last 10 trials at least 30 % of the model ’ s vocalizations were rewarded , the threshold value was increased by 0.1 . ( See Algorithm 1 . ) The starting threshold , threshold increment , and 30 % criteria were decided based on informal explorations during development of pilot versions of the model .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0145096.t001 Adapting the reward threshold .
 At the beginning of the simulation all neural connection weights within the reservoir were assigned random values .
@@ -122,7 +117,6 @@ It is believed that this provides a means by which animals learn to recreate mov
 Izhikevich ’ s DA - modulated STDP algorithm [63] was used , with the modification that in our model only the long term potentiation aspect of STDP is implemented .
 Rather than implement spike - timing dependent long term depression , the reservoir to motor neuron connection weights are periodically normalized .
 The algorithm is presented in Algorithm 2 and its essential features are described in the following paragraph .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0145096.t002 Reward - modulated spike - timing - dependent plasticity .
 Each time an output neuron within the reservoir spikes , a small amount , 0.1 , is assigned to a trace memory of the firing of that neuron .
@@ -139,7 +133,6 @@ This prevents the overall network connectivity from increasing over time , which
 Based on pilot explorations , this method of normalization seemed to be less sensitive to small parameter variations than relying solely on long term depression to keep synapse strengths within a desirable range ; further exploration of this issue is warranted but outside the scope of the present study .
 Note that the reward function and the DA - modulated STDP were both deterministic .
 All random variation in the model stemmed from the random synaptic weight initialization and the random input currents given to the neurons .
-
 Pilot explorations indicated that the types of sounds that are generated by the model are particularly sensitive to two parameters , the number of motor neurons and the muscle activity scaling parameter , m .
 With larger numbers of motor neurons in both the agonist and antagonist groups , the net motor neuron activity level tends to exhibit higher amplitude variation within a second , i.e. within a vocalization .
 This leads to a greater likelihood of syllabic vocalizations , since the jaw and lip muscle activities tend to vary within a greater range .
@@ -155,14 +148,12 @@ We tested every pairwise combination of these number of motor neurons and values
 Based on the results of these 9 simulation sets , we then decided to test four additional parameter combinations , to cover 50 neurons with m = 7 and 8 and 200 motor neurons with m = 2 and 3 .
 This made for a total of 13 parameter combinations tested .
 We then took the combination that appeared to provide the best combination of learning capability and realism in the initial behavioral starting point ( 200 neurons and m = 2 ) , and focused further analyses on the simulations with that parameter combination .
-
 Even with the synaptic weight normalization in place , changes in the neural network ’ s connection weights due to STDP can potentially lead to changes in network dynamics that could affect the oscillatory dynamics of the motor neuron population and in turn the types of vocalizations the model produces .
 In addition , even with no synaptic weight changes , over time there can be subtle changes in the neural dynamics .
 To ensure that salience - based rewards are driving any increases in vocalization salience and canonical syllable production over time , we ran yoked control simulations .
 These were simulations with their own unique random synaptic weight initializations and random inputs at each timestep , but with reward times taken from a previous simulation in which rewards were salience - driven .
 This matched the timings of synaptic modification to those of the real simulations , while making yoked control model rewards uncorrelated with the salience of vocalization .
 This control method is standard procedure in work on animal behavior , including experimental work on human vocal learning during the first year of life ( e.g. , see [73] ) .
-
 In previous work [ 59 , 60 ] , the syllabicity of the sounds produced by a similar model had been evaluated using two metrics .
 The first was the salience of the sounds .
 Based on previous work showing human ratings of the syllabic quality of a sound to be correlated with our auditory salience metric , as well as theoretical considerations of the concept of auditory salience and the specific auditory salience estimation algorithm used here , we expected this to be a fairly useful metric .

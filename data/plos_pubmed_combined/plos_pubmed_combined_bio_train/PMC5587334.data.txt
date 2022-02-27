@@ -19,7 +19,6 @@ Following lidocaine ( 1 % ) application , a small cranial burr hole ( 2 - 3 mm )
 A small incision was then made in the dura using micro - surgical instruments .
 The process was repeated as needed for subsequent recording sessions to expose additional areas of auditory cortex .
 Between recording sessions , implants were cleaned aseptically and the chamber was filled with antibiotic ointment and sealed with a metal cap .
-
 Recordings were conducted inside a sound attenuation chamber ( Industrial Acoustics Company , Bronx , NY ) .
 Extracellular data were collected using 16 - channel linear electrode arrays ( 177 μ m2 contact size , 150 μ m spacing ; NeuroNexus Technologies , Ann Arbor , MI ) .
 Probes were advanced into cortex with a hydraulic microdrive ( David Kopf Instruments , Tujunga , CA ) to depths at which neural activity was evident on most or all channels .
@@ -32,7 +31,6 @@ Template matching was used in combination with manual sorting in 2D and 3D wavef
 Autocorrelation , cross - correlation , and refractory period analyses were used to support SU classifications .
 Only SUs that remained active for the duration of the recording were included in subsequent analyses .
 Filtered spikes that could not be assigned to a SU were considered MU signals .
-
 Sounds were delivered through a free - field speaker directly in front of the subject , 40 cm from the interaural line .
 Sound levels were calibrated using a Bruel & Kj æ r Model 2209 meter using an A - weighted decibel filter and a Model 4192 microphone .
 Levels were constrained across the experiment between 64 and 66 dB , and sound levels within the same recording session fell within 1 dB of each other .
@@ -45,7 +43,6 @@ The spectral modulation rate varied from 0 - 4 cycles per octave , and the tempo
 Both modulation parameters varied randomly and independently over time , and were statistically independent and unbiased within their respective ranges .
 Maximum modulation depth was 40 dB with a logarithmic amplitude distribution [39] .
 A unique 30 - s DMR segment ( 50 repetitions ) , generated with the same parameters as the estimation stimulus , was used as a validation stimulus to assess the prediction accuracy of the STRF estimates ( Fig 1B ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0183914.g001 Spectrotemporal receptive field ( STRF ) estimation and validation procedures .
 ( A ) Units were first probed with a 30 - min dynamic moving ripple ( DMR ) , a synthetic broadband stimulus sharing many features with natural sounds including local spectrotemporal correlations .
@@ -55,7 +52,6 @@ Response predictions were obtained by convolution of the STRF and validation spe
 A normal distribution fit to these values was used to determine gain value cutoffs corresponding to a logarithmically - spaced range of significance levels from p < 100 to p < 10 − 9 .
 ( F ) Similarly , null STAs subjected to a gain threshold were used to generate a sample of cluster mass values expected by chance , and a gamma distribution fit to these values was used to identify cluster mass cutoffs corresponding to the same range of significance levels .
 ( G ) The corrected STA was defined by pixels ( clusters ) exceeding a specified significance level .
-
 All analyses were performed in MATLAB ( MathWorks , Natick , MA ) .
 Raw STAs were obtained for each unit by computing the average stimulus preceding each spike ( Fig 1C ) .
 STRFs were estimated at a resolution of 193 frequency bins ( ~ 0.05 oct , y - axis ) and 200 time bins ( 1 ms , x - axis ) to adequately reflect the spectral and temporal encoding fidelity of the auditory system in awake primates [41-48] .
@@ -67,7 +63,6 @@ These were compared to predicted responses ( Fig 1D ) obtained by convolution of
 Half - wave rectification was used as a simple approximation of the output nonlinearity characteristic of extracellular recordings [40,62] .
 The correlation coefficient between the response and prediction was used to quantify prediction accuracy .
 As described in further detail below , this stimulus was randomly divided into two 15 - s halves , one for validation and the other for testing .
-
 Raw STAs were corrected with a broad continuum of liberal - to - conservative statistical thresholds corresponding to 30 logarithmically spaced significance values ranging from p = 100 to p = 10 − 9 ( note that p = 100 reflects the uncorrected STA ) .
 For each STA , gain threshold cutoff values corresponding to each p value ( expressed pgain ) were obtained by fitting a normal distribution to a sample of null STA gain values ( Fig 1E ) .
 Expressed in this way , each gain threshold corresponds to the proportion of the null distribution with values exceeding the specified p value .
@@ -114,7 +109,6 @@ The RI and TS calculations were repeated using circularly - shifted spike times 
 Unit populations were not screened further , e.g. , by prediction significance criteria .
 To facilitate comparison with previous studies , the results focus on responses and predictions analyzed at 10 - ms resolution .
 Additional summaries are provided for bin sizes of 1 , 2 , 5 , 10 , 20 , 50 , and 100 ms .
-
 Temporal and spectral modulation preferences : Modulation properties of each unit were obtained by computing the two - dimensional Fourier transform of each version of the corrected STRF , as described in detail elsewhere [17,31,66] .
 Briefly , the Fourier transform is a function of temporal ( - 150 to 150 cycles / s ) and spectral modulation frequency ( 0 to 4 cycles / octave ) .
 The ripple transfer function ( RTF ) is obtained by folding along the temporal midline ( temporal modulation frequency = 0 ) .

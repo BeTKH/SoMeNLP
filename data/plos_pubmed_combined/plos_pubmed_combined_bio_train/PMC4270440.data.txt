@@ -24,7 +24,6 @@ The subsequent loci encode the transition table of the HMG , determining the inp
 This encoding is robust in the sense that mutations that change the input - output structure of an HMG only add or remove the respective parts of the HMG ' s logic table , while the rest of the table is left intact .
 Encoding the connectivity and logic functions of the animats ' brain elements with HMGs allows for recurrent connections between hidden elements and also self - connections .
 Feedback from the hidden elements to the sensors , and also from the motors to the hidden units is however prohibited by zeroing out the sensors and motors at each time - step respectively before the new sensor input arrives and after the movement was performed .
-
 The animat is located at the bottom row of a 16 × 36 unit world with periodic boundary conditions ( Fig . 2B ) .
 We chose the height of 36 units to allow the animats enough time to assess the direction and size of the falling blocks from each initial condition .
 Each animat is tested in 128 trials : all 16 initial block positions , with blocks moving to the right and left , and four potentially different block sizes .
@@ -33,7 +32,6 @@ In each trial a block of a certain size falls from top to bottom in 36 time step
 If at time - step 36 at least one of the animat ' s units overlaps with the block , it is counted as “ caught ” , otherwise as “ avoided ” .
 In Task 1 , sensor state S1S 2 = 11 unambiguously distinguishes size 3 blocks from size 1 blocks .
 In all other cases , whether a block should be caught or avoided cannot be decided based on a momentary sensor input state .
-
 An animat ' s fitness F at each generation is simply calculated as the percentage of successfully caught and avoided blocks out of all possible 128 test trials .
 Starting from a set of 100 ancestral animats without HMGs and thus without connections between elements , the animats adapt according to a genetic algorithm across 60,000 generations .
 At each generation , fitness is assessed for all animats in a population of 100 candidates .
@@ -53,10 +51,8 @@ For each evolutionary run one LOD is obtained , which captures the run ' s parti
 Since reproduction is asexual , without crossover , a unique LOD can be identified for an animat from the final generation .
 Because , moreover , all animats are part of the same niche , it makes almost no difference which animat is chosen in the final generation , since going backwards across generations their different LODs quickly coalesce to a single line [6] .
 We performed the full IIT analysis across each line of descent every 512 generations starting from 0 .
-
 The most recent mathematical formulation of the integrated information theory ( “ IIT 3.0 ” ) is presented in detail in [15] .
 In the following we will summarize the main principles and measures relevant to this study , illustrated in simple examples of neuron - like logic gates mechanisms ( Fig . 9 ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pcbi.1003966.g009 The information , integration , and exclusion postulate applied at the level of mechanisms ( A - C ) and systems of mechanisms ( D - F ) . ( A - F ) Each node is a binary logic - gate mechanism that can be in either state ‘ 0 ’ ( white ) or ‘ 1 ’ ( yellow ) .
 The logic - gates and their connections are represented as neural circuits rather than electronic circuits : directed connections between the nodes indicate the inputs and outputs of the logic gates .
@@ -78,7 +74,6 @@ Its minimum information partition ( MIP ) leaves the concepts of A and B intact 
 Integrated conceptual information Φ ( ABC ) is evaluated as the difference between the whole conceptual structure C and the partitioned conceptual structure CMIP ( see Text S2 in [15] ) .
 ( F ) System exclusion : Of all sets of elements in this larger system , the set ABC has Φ Max and thus forms the main “ complex ” .
 ABCD , for example , also specifies integrated conceptual information Φ , but cannot form another complex since it overlaps with ABC and Φ ( ABC ) > Φ ( ABCD ) ( see Fig . 2 ) .
-
 From the intrinsic perspective of a system , a mechanism has a causal role within the system ( a “ difference that makes a difference ” ) if its present state constrains the potential past and future states of the system compared to the unconstrained distribution ( the distribution of past and future states if all input states to each element are equally likely ) .
 This is assessed by perturbing the system into all possible states and observing the effects on the system [25] , [46] , yielding a transition probability matrix ( TPM ) that contains the probability of transitioning from each system state to every other system state .
 As a simple example , Fig . 9A shows mechanism C in state ‘ 1 ’ .
@@ -109,7 +104,6 @@ For the example mechanism AB ( Fig . 9C ) , the cause repertoire of AB = 10 over
 On the effect side , the effect repertoire of AB = 10 over future element C is the maximally irreducible one with = 0.5 ( transporting p = 0.5 from state ‘ 1 ’ to state ‘ 0 ’ ; compare to Fig . 9B : the effect repertoire of AB = 10 over all elements ABC only has = 0.25 ) .
 The maximally irreducible cause and effect repertoire with φ Max ( AB = 10 ) = min ( , ) defines the mechanism ' s “ concept ” , the core causal role of the mechanism in its current state from the intrinsic perspective of the system itself .
 Following a principle of causal exclusion , all other inputs and outputs of the mechanism are treated as unconstrained .
-
 System of mechanisms and main complex : At the system level , the set of all concepts specified by a system of mechanisms in its current state constitutes a conceptual structure ( Fig . 9D ) .
 For example , the system ABC = 101 specifies a conceptual structure comprising 4 concepts : 3 elementary , or 1st order concepts of its elementary mechanisms A , B , and C , and the 2nd order concept AB .
 As for a mechanism and its causal role , a system of mechanisms forms a “ causal entity ” from its own intrinsic perspective only if the conceptual structure it specifies cannot be reduced to that specified by its parts .
@@ -135,7 +129,6 @@ Moreover , feed - forward structures cannot give rise to a complex and have Φ =
 For the same reason the whole system S1S 2 ABCD M1M 2 , as well as every subsystem that includes a sensor or motor element is not integrated and has Φ = 0 .
 Modular mechanisms ( feed - forward chains , self - loops , and mechanisms outside the main complex ) can of course also contribute to the evolutionary success ( fitness ) of an organism .
 The number of concepts in the whole system , here S1S 2 ABCD M1M 2 , provides a measure of all causal relations in the system , modular and integrated , and the sum of their φ Max values is a measure of their combined strength ( see Fig . 3B : 6 concepts : A , B , C , D , AB , AC , Σ φ Max = 1.08 ) .
-
 Table 1 shows the average ( nonparametric ) Spearman rank correlation coefficients across all 50 LODs for all evaluated IIT measures in Task 1 - 4 .
 In S1 Fig . complementary histograms are shown of the correlation coefficients of all individual LODs .
 Correlation coefficients were calculated based on ranked variables ( i.e. , using Spearman ' s instead of Pearson ' s correlation coefficients ) , since the amount by which fitness increases is not expected to depend linearly on any of the causal measures .

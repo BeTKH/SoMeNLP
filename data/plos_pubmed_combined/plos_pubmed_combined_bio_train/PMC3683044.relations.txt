@@ -17,7 +17,6 @@
 
 
 
-
 Developer_of	CDC	95	0	GPS Sample	99	1;;URL_of	https://sites.google.com/a/wolkon.com/gps-sample/	137	3	GPS Sample	99	1;;
 
 
@@ -36,11 +35,7 @@ Developer_of	CDC	95	0	GPS Sample	99	1;;URL_of	https://sites.google.com/a/wolkon.
 
 
 
-
-
-
 Version_of	11	107	1	STATA	101	0;;
-
 
 
 

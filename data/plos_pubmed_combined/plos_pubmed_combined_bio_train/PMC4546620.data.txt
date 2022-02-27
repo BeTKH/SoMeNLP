@@ -11,9 +11,7 @@ They requested questionnaires for n = 1702 patients , representing 80.5 % of all
 Of all contacted patients ( n = 1320 ) , n = 689 questionnaires were returned .
 Thus , 52.2 % of the contacted patients took part , representing 32.6 % of registered patients .
 We could not reach 19.4 % of the patients because the corresponding dermatologists were not reachable .
-
 The protocol was approved by the Ethics Committee of the Statutory Physician Board of the State of Rhineland Palatinate ( Reference number 837.161.11 , 7703 ) .
-
 Sociodemographic data were obtained using a standardised self - reporting questionnaire .
 Illness - related information ( UICC stage , tumour site , time since diagnosis ) was extracted from the Rhineland - Palatinate Cancer Registry .
 Psychosocial care needs were assessed by using the 9 Item Short Form of the Hornheide Questionnaire ( HQ - S ) [24] , including physical and mental wellbeing , tumour - related anxiety , tension , self - esteem , social support , physician support and the information needs of skin cancer patients .
@@ -48,12 +46,10 @@ Due to the fact that more than half of the scales have a Cronbach Alpha coeffici
 An exploratory factor analysis with the Brief Cope items led to three interpretable coping scales with acceptable reliability ( accounting for 38 % of total variance ) .
 The first dimension could be labelled as “ seeking external support ” ( α = .75 ) , the second “ denial / self - blaming ” ( α = .74 ) , and the third “ active coping ” ( α = .76 ) .
 The dimensions are in good accordance with other Brief - Cope - related analytic results [ 37 , 38 ] .
-
 Since there were no standardised scales for measuring service and information needs for melanoma patients , we developed nine dichotomised single questions ( “ yes / no ” ) addressing main domains [ 14 , 19 ] of support sources ( psychological counselling , social counselling , pastoral care , self - help group , cancer care counselling , telephone counselling , internet counselling , internet forum with concerned persons ) .
 For measuring information needs we did not find a suitable standardised questionnaire and developed an ad hoc scale with 15 illness , therapy or psychosocial care related items covering main aspects : diagnosis , chance of recovery , course of the disease , treatment , side effects , other therapy options , course of the therapy , follow - up care , genetic risk , prevention , rehabilitation , psychosocial support , self - help groups , participation in studies , and a second opinion .
 Patients rated on Likert scales with five steps ( 1 = “ not at all ” to 5 = “ very much ” ) about how adequately they felt informed about the issues .
 Ratings were dichotomised ( 0 = rather / much informed : no information deficit ; 1 = not at all / little / a bit informed : information deficit ) to determine the percentage of patients with an information deficit .
-
 For descriptive analysis , absolute and relative frequencies were computed for the categorical variables .
 Missing data were replaced according to the recommendations of the test authors .
 Associations between the standardised questionnaires were determined using Spearmans correlation coefficients in order to determine the validity of the HQ - S .

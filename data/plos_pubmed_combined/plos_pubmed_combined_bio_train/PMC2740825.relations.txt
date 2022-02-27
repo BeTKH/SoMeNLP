@@ -82,13 +82,6 @@
 
 
 
-
-
-
-
-
-
-
 Version_of	8.0	127	1	Statistica	116	0;;
 
 

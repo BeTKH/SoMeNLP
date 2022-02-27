@@ -6,7 +6,6 @@ The study location is approximately 200 km southwest of the capital city Dhaka a
 The population density of the study location was 722 per km 2 compared to the population density 873 per km 2 in rural districts in Bangladesh .
 The study location was selected as it was considered to be typical of a rural demographic in Bangladesh .
 Narail has a population literacy rate of 48.6 % , which is comparable to the national literacy rate of 51.8 % .
-
 The recruitment strategy involved identifying participants aged ≥ 30 years from each of the selected households within 18 clusters of villages .
 This age range was selected as previous studies have demonstrated that this is an acceptable threshold of age above which the prevalence of diabetes increases [18] .
 Recruitment started from the far east corner of a village and selected every second households using a systematic random sampling technique and continued until at least 50 % of the total eligible adults were interviewed from each of the villages .
@@ -21,7 +20,6 @@ Excluded were those younger than 30 years , and those who were acutely unwell to
 Less than 15 % of participants interviewed on day one failed to present for day two assessment , with a participation rate above 85 % .
 For this particular study , we have used data collected only from day one based on the household survey .
 Therefore , it is expected that there should not be any effect on our results from participation or non participation on day 2 .
-
 A detailed interviewer - administered questionnaire was developed to collect socio - demographic data and to assess participant awareness , attitudes and practice regarding diabetes and common eye diseases .
 For eye disease , awareness was operationalized by whether or not participants had heard about the disease ( nine items ) , attitudes by their evaluation of treatment if they had a disease ( one item ) , and practice was ascertained based on how frequently they were checking their eyes ( one item ) .
 The items assessing awareness , attitudes and practice of eye diseases were adapted from a validated instrument used in Cambodia to assess KAP of common eye diseases [19] .

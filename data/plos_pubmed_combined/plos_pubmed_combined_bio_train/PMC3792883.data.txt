@@ -11,7 +11,6 @@ Each participant was asked to attend a 3 hour test session conducted at the Univ
 At the conclusion of the testing session , each participant was asked to nominate a family member , where possible , to complete the questionnaires described below .
 Family members ( Mod / severe TBI = 54 ; Mild TBI = 51 ; Control = 36 ) were sent the questionnaires to complete and return ( Mod / severe = 26 / 54 , 48.1 % ; Mild TBI = 20 / 51 , 39.2 % ; Control = 14 / 43 , 32.6 % ) .
 Analyses presented here were conducted on this sub - sample of participants .
-
 Demographic characteristics including sex and age were collected using a structured interview .
 Information regarding injury severity was collected using a file review .
 Pre - morbid IQ ( PVIQ ) was estimated using the National Adult Reading Test ( NART ) [26-30] .
@@ -26,7 +25,6 @@ Clinically significant scores on the apathy subscale suggest problems with initi
 Clinically significant scores on the disinhibition subscale suggest difficulties with inhibitory control , impulsivity , hyperactivity , social inappropriateness or lack of conformity to social convention , excessive emotional expression , emotional lability , explosiveness , and / or irritability .
 Clinically significant scores on the executive dysfunction subscale denote self - reported problems with sustained attention , working memory , organization , planning , future orientation , sequencing , problem solving , insight , mental flexibility , self - monitoring of on - going behaviour , and / or ability to benefit from feedback or modify behaviour following errors [25] .
 The current study measured the behaviours at the present time only as participants were injured during childhood and adolescence .
-
 Data are presented as mean ± SD .
 Differences between groups in demographic characteristics and behavioural measures were assessed using analysis of variance ( ANOVA ) .
 To control for the younger age at injury of the mild TBI group , age at injury as used as a covariate in all relevant analyses .

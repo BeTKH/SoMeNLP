@@ -2,10 +2,8 @@ All procedures were approved by a Research Ethics Board at the Robert B . Zajonc
 Potential participants in the study were informed about its general aim , duration , outline of the procedure and remuneration .
 They were also told that participation is voluntary , that they can withdraw from the study at any point without telling the reason , and that all data is anonymous and will only be used for reasons related to this study .
 All participants signed an informed consent form prior to participation .
-
 The study was conducted among 90 University of Warsaw students ( 73 % female ) aged 19 - 25 ( M = 21.63 , SD = 1.50 ) .
 They received a small remuneration for participating in the study ( ca . 1 - 2 euros in local currency , exact amount depending on their decisions in the study ) .
-
 To measure trust we used the trust game [59] - an economic game , in which two players can increase their wealth through the expression and reciprocity of trust .
 At the outset of the game both players are endowed with some amount of money .
 The first player decides how much of their initial endowment they would like to send to the second player , knowing that the whole transfer will be tripled when the other person receives it .
@@ -21,13 +19,11 @@ Participants could monitor both players ’ account balances at all times .
 The trust game was administered online using dedicated software TGAME , which allows controlling the behavior of one the players by replacing it with a computer strategy .
 All participants played the role of first players , while the computer always followed the same predefined scenario of the second player ’ s behavior : in the first “ trust - building ” stage of the game ( rounds one through three ) it returned 50 % of the money it had ; in the second “ trust - violation ” stage ( round four ) it kept all the money and returned nothing to the trustor ; in the third “ trust - recovery ” stage ( rounds five through ten ) it again returned 50 % of possessed money .
 To decrease the probability of uncovering that the second player is in fact imitated by a computer , in all rounds except the fourth ( violation of trust ) there was a random variability in a 10 % range added to its decisions .
-
 To impose cognitive load we used two distinct manipulations , the effectiveness of both of which was confirmed in previous research .
 In case of the first cognitive load manipulation - memory load condition - participants were asked to memorize a password - like string of seven characters including letters , numbers and symbols [62-65] .
 The second manipulation involved exposing participants to a disturbing noise ( noise load condition ) .
 Noise has a moderate but deleterious effect on performance capacity and cognitive tasks , such as the trust game administered in this study , are known to be among the most vulnerable to noise effects [66] .
 The noise used in the present study was a mix of two musical tracks recorded simultaneously of which one was playing backwards .
-
 When participants arrived at the lab , they were randomly assigned to one of three experimental conditions : memory load , noise load , or no cognitive load condition .
 Before the primary task begun we administered the cognitive load manipulations .
 In the memory load condition participants were presented a string of characters and asked to memorize it until they would be asked to write it down .

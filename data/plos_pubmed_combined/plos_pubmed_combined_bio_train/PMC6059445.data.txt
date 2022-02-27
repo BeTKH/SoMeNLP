@@ -3,7 +3,6 @@ Participants were recruited over a one year period through convenience sampling 
 A diagnosis of dementia was confirmed by clinical assessment according to Diagnostic and Statistical Manual of Mental Disorders , 4th Edition , Text Revision ( DSM IV TR ) clinical diagnostic criteria [31] , including administration of the Mini - Mental State Examination ( MMSE ) [32] and MRI or CT neuroimaging .
 Informed consent was obtained from all caregivers for provision of their own information and informed consent by proxy was obtained for the investigation of patient characteristics .
 The study was approved by the Ethics Committee of the Faculty of Medical Sciences , The University of the West Indies , St . Augustine .
-
 Demographic characteristics of patients were recorded including age , gender , ethnicity , and marital status .
 Duration of dementia was determined from medical records , and MMSE score at assessment was considered as a covariate .
 Caregiver characteristics ascertained were age , gender , relationship to patient , cohabiting status , marital status , level of education , and occupation status .
@@ -14,7 +13,6 @@ Although ZBI categories are often imposed to categorize levels of burden [5] , m
 In addition , the 28 - item General Health Questionnaire ( GHQ - 28 ) was also completed by all caregivers [33] and was categorized into a binary variable according to whether scores were below ( < 47 ) or above ( 47 + ) the sample median .
 This approach was carried out for pragmatic reasons , in order to define a group at risk of a mental disorder and to compare associations with different elements of caregiver burden .
 This followed a previously recommended approach for populations in which GHQ screening properties are not known [34] .
-
 Stata and SPSS software were used .
 Having described the sample and caregiver characteristics , mean ( SD ) ZBI scores were compared between grouped characteristics .
 The median age was used a priori as a cut - off , as the sample size was too small for defining subgroups .

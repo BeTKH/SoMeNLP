@@ -3,7 +3,6 @@ Approximately 4,000 individuals aged 45 - 64 years old were enrolled at each ARI
 All participants signed an informed consent document .
 Baseline de - identified ARIC data from 14,812 participants with and without T2DM were obtained from BioLINCC ( https://biolincc.nhlbi.nih.gov/home/ ) [13] .
 The current secondary data analysis was approved by the Augusta University ( formerly Medical College of Georgia ) Institutional Review Board .
-
 T2DM was the outcome variable , defined according to the American Diabetes Association criteria [14] by one or more the following : fasting blood glucose ≥ 126mg / dL , non - fasting blood glucose ≥ 200 mg / dL , self - reported diabetes diagnosis , or taking diabetes medications .
 Diabetes status and anthropometric data were collected with each study visit .
 The following seven anthropometric measures were included in our analysis : a body shape index [ ABSI = waist circumference ( cm ) / ( BMI 0.66 x height ( m ) 0.5 ) ] , body adiposity index [ BAI = hip circumference ( cm ) / ( ( height ( m ) 1.5 ) - 18 ) ] , body mass index [ BMI = body weight ( kg ) / height ( m2 ) ] , waist circumference [ WC , cm ] , waist to hip ratio [ WHR = waist circumference ( cm ) / hip circumference ( cm ) ] , waist to height ratio [ WHtR = waist circumference ( cm ) / height ( cm ) ] , and waist to hip to height ratio [ WHHR = WC ( cm ) / ( hip circumference ( cm ) / height ( cm ) ) ] .
@@ -17,7 +16,6 @@ However , these variables did not appreciably decrease the Akaike Information Cr
 Physical activity using the sports domain of the Baecke questionnaire responses [16] collected at visits one and three only , and highest education level completed ( < high school , high school graduate to some college or vocational school graduate , and ≥ college graduate ) , collected at visit one only were used to describe the sample population at baseline , but were not included in the final analysis because they were not collected at all four study visits .
 Other participant characteristics used to describe the sample population at baseline , but not included in the final analysis were fasting blood glucose , total cholesterol , HDL cholesterol , LDL cholesterol , triglycerides , and use of blood pressure medications ( yes / no ) .
 Time to development of T2DM ( cases ) and survival time for non - cases were used in analyses .
-
 Participants were excluded from analysis if they had diabetes at baseline ( n = 1808 ) , if they were missing baseline data for anthropometric measures ( n = 14 ) , or did not return for any follow - up visits ( n = 869 ) .
 The remaining sample for analysis consisted of 12,121 participants .
 For each race - gender group , all anthropometric measures were converted to Z - scores using the following equation : Z - score = ( individual anthropometric value - group mean ) / group SD anthropometric value .

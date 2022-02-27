@@ -2,25 +2,21 @@ For this study , written informed consents as approved by the research ethics co
 At its full board meeting of May 26 , 2006 , the Research Ethics Board ( REB ) of the MNI / H has endorsed the review of the project entitled : “ Electrical , Metabolic and Structural Analysis of Human Epileptogenic Lesions ” ( Dr . J . Gotman being the principal investigator for this project ) .
 The REB of the MNI / H found this research to be acceptable for continuation at the McGill university healthcare centers ( MUHC ) and specifically approved this study .
 The REB of the MNI / H acts in conformity with standards set forth in the ( US ) Code of Federal Regulations governing human subjects research and functioning in a manner consistent with internationally accepted principles of good clinical practice .
-
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0050359.t003 Summary of the duration - weighted group differences in resting - state FC .
 Full results of seeds that showed significant functional connectivity change between the two groups ( Z - threshold 2.7 , p < 0.05 / 18 corrected ) for the contrast of patients minus controls .
 In cases where there were several peaks in each cluster , we only reported the highest one .
 Star sign indicates those seeds that not only their corresponding functional connectivity was significantly different between the two groups , but also the average functional connectivity , taken over significant clusters , was highly correlated with duration factor in patients ( | r | > 0.75 , p < 0.05 / 18 ) .
 R : Right , L : Left , Med : Medial , Inf : Inferior , Sup : Superior , G : Gyrus .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0050359.g001 Results of significant duration - weighted group differences in functional connectivity ( Δ FC ) .Left : seeds in purple and their names .
 Right : some selected slices illustrating group differences .
 The color - coded Z - score maps ( p < 0.05 / 18 corrected ) show the results of alterations in functional connectivity in IGE patients compared to controls ( for the contrast of patients minus controls ) .
 Positive functional connectivity is coded in red to yellow , while negative in blue to white .
 Note that Figure 1 only shows those clusters whose functional connectivity in IGE patients significantly correlates with the duration factor ( | r | > 0.75 , p < 0.05 / 18 ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0050359.g002 Results of average functional connectivity within each group of subjects for the seeds reported in Figure 1.Left : seeds names .
 Right : The same selected slices illustrating average functional connectivity within controls ( A - C ) , and average functional connectivity within patients ( A ′ - C ′ ) , Color - coded statistical Z - score maps ( p < 0.05 / 18 corrected ) showing a positive ( coded in yellow to red ) and a negative ( coded in blue to white ) functional connectivity .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0050359.g003 Results of correlation analysis for the seeds reported in Figure 1 . ( A - D ) : Bar diagrams illustrating average functional connectivity within each group over the clusters of significant differences reported in Figure 1 .
 Figure 3 ( A , B ) corresponding to the seed in medial superior frontal gyri , respectively illustrate the average functional connectivity within each group over clusters in the right and left premotor area .
@@ -28,7 +24,6 @@ Figure 3 C corresponding to the seed in right precentral gyrus , illustrates the
 Figure 3 D corresponding to the seed in the left medial prefrontal area , illustrates the average functional connectivity within each group over a cluster in the left precentral gyrus and the supplementary motor area . ( A ′ - D ′ ) : average functional connectivity within patients for the clusters discussed in ( A - D ) as a function of the duration factor .
 The black line shows the fitted line for correlation analysis .
 Correlation coefficient r and p - value are shown for each correlation analysis .
-
 Our EEG - fMRI dataset of patients scanned at 3 Tesla contained 14 patients with IGE ( aged 33 + / − 9 years , 7 males , and 7 females ) .
 All patients were taking medication at the time of study and they did not stop it for the purpose of scanning .
 The study was approved by the research ethics board of the Montreal Neurological Institute & Hospital ( “ MNI / H REB ” ) and subjects participated in the research after giving written informed consent .
@@ -36,12 +31,10 @@ Patients inclusion criteria were : a ) having at least two runs without GSW duri
 Table 1 gives the demographic and clinical characteristics of all patients .
 Fourteen age and sex - matched healthy controls ( aged 33 + / − 8 years ) were scanned using the same EEG - fMRI protocol , fulfilling inclusion criteria b ) and c ) .
 There was no significant difference between the age distributions of the two groups ( sign test , p > 0.05 ) .
-
 The EEG acquisition was performed using 25 MR compatible electrodes ( Ag / AgCl ) placed on the scalp using the 10 - 20 ( 21 usual electrodes without Fpz and Oz , reference at FCz ) and 10 - 10 ( F9 , T9 , P9 , F10 , T10 and P10 ) electrode placement systems .
 Two electrodes located on the back recorded the electrocardiogram ( ECG ) .
 To minimize movement artifacts and for the patient ’ s comfort , the head was immobilized using a pillow filled with foam microspheres ( Siemens , Germany ) .
 Data were transmitted from a BrainAmp amplifier ( Brain Products , Munich , Germany , 5 kHz sampling rate ) via an optic fiber cable to the EEG monitoring computer located outside the scanner room .
-
 Functional images were continuously acquired using a 3T MR scanner ( Siemens Trio , Germany ) .
 A T1 - weighted anatomical acquisition was first done ( 1 mm slice thickness , 256 × 256 matrix ; TE = 7.4 ms and TR = 23 ms ; flip angle 30 ° ) and used for superposition with the functional images and inter - subject group co - registration .
 IGE patients had 7 - 14 and the healthy controls had 4 runs of 6 min each .
@@ -49,14 +42,12 @@ However , only a subset of those runs was selected based on the mentioned inclus
 In addition , to have the same number of runs for all subjects , only 2 runs were included at the end for each subject .
 The functional data were acquired using a T2 * - weighted EPI sequence ( 5 × 5 × 5 mm voxels , 25 slices , 64 × 64 matrix ; TE = 30 ms and TR = 1750 ms ; flip angle 90 ° ) .
 No sedation was given and resting - state was defined as a state of relaxed wakefulness when subjects have their eyes closed and are instructed to refrain from any structured thoughts .
-
 The Brain Vision Analyzer software ( Brain Products , Munich , Germany ) was used for off - line correction of the gradient artifact and filtering of the EEG signal .
 This software uses the method described by Allen and colleagues [22] .
 A 50 Hz low - pass filter was also applied to remove remaining high - frequency artifact .
 The ballistocardiogram ( BCG ) artifact was removed by independent component analysis [23] , [24] .
 A neurologist reviewed the EEG recordings and made sure that the selected runs in IGE patients were GSW free and that the patients and controls were awake during these runs .
 Figure S1 provides a sample of such data in selected patients .
-
 Seed - based Functional Connectivity Group Analysis : Data processing was carried out using FMRIB Software Library ( FSL ) , www.fmrib.ox.ac.uk , Oxford U.K . , FSL version 4.1 [25] , [26] .
 The following preprocessing steps were applied : ( 1 ) removal of the first two volumes of each scan to allow for equilibrium magnetization , ( 2 ) slice timing correction using Fourier - space time - series phase - shifting , ( 3 ) non - brain tissue removal [27] , ( 4 ) motion correction using a 6 - parameter linear transformation using a maximization of the correlation ratio ( default settings of FSL ) [28] , ( 5 ) intensity normalization of all volumes of each run as implemented in FSL ( 6 ) spatial smoothing using a Gaussian kernel with 6 mm full width at half maximum ( FWHM ) , ( 7 ) high - pass temporal filtering with cut off frequency of 0.01 Hz .
 To achieve the transformation between the low - resolution functional data and the average standard space ( MNI 152 : average T1 brain image constructed from 152 normal subjects [29] ) , we performed two transformations .

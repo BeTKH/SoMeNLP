@@ -10,7 +10,6 @@ Finally , Bayesian techniques offer a principled way to incorporate prior domain
 A message passing or belief propagation algorithm provides a principled way to calculate approximate posterior marginal distributions [41] , [42] .
 The starting point for this algorithm is a so - called factor - or dependency - graph , a graphical representation of the probabilistic dependencies between the variables ( model parameters ) we wish to infer from the data , and the individual factors that constitute the likelihood ( 3 ) .
 Figure 5A shows this for the case of a bi - partite network , likelihood ( 3 ) and model ( 1 ) .
-
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0021282.g005 Factor graphs and an example of an elementary message passing update .
 Factors of the likelihood function are represented as squares , variables of the generative model as circles .
@@ -24,7 +23,6 @@ c ) For directed networks represented by non - symmetric adjacency matrices , th
 Additional to the interclass preference matrix , a symmetric matrix of reciprocities is included in the model .
 Every node carries a single class label , activity and attractiveness parameter .
 The variables associated with node enter in the calculation of factors in both row and column .
-
 The algorithm proceeds by exchanging messages , conditional probabilities , between factors and variables connected in the dependency graph until convergence .
 Using the definitions : ( 4 ) one can interpret ( R - Message ) as the likelihood of a single observed matrix entry given only the parameter and all the data matrix except for entry .
 Equally , ( Q - Message ) is interpreted as the posterior probability distribution of parameter given the entire data matrix except for entry .

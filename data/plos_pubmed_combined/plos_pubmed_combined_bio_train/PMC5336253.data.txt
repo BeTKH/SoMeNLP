@@ -4,7 +4,6 @@ The following search terms were used for breastfeeding : “ breastfe $ ” OR �
 For epigenetics , the search terms were : “ epigenetic $ ” OR “ epigenom $ ” OR “ methylat $ ” OR “ methQTL ” OR “ mQTL ” .
 Using the wildcard character “ $ ” retrieves any number ( including zero ) of characters after the stem word ( e.g. , “ breastfe $ ” retrieves “ breastfeeding ” , “ breastfed ” , etc ) .
 The two group of search terms were combined using the AND operator : “ Breastfeeding ” AND “ Epigenetics ” .
-
 Study selection and data collection : The aim of our review was to identify studies on DNA methylation differences associated with breastfeeding .
 Studies were excluded if they met at least one of the following criteria : i ) not reporting effects of breastfeeding on DNA methylation ( e.g. , studies of epigenetic determinants of breastfeeding , such as the association between methylation in promoters of genes involved in breast milk production ) ; ii ) being limited to specific breast milk components rather than breastfeeding or breast milk as a whole ; iii ) not reporting original data .
 Eligibility was assessed independently by two reviewers ( F.P .H . and C.L .M . ) , and disagreements were resolved by consensus .
@@ -15,5 +14,4 @@ Country where the study was conducted .
 Study aim and design.Species , number of individuals , % of females and age .
 Methylation region , DNA source , measurement method and outcome ( e.g. , proportion of methylated cells ) .
 Breastfeeding categorisation ( e.g. , never vs . ever , duration in months , etc ) and age at ascertainment.Covariates .Breastfeeding - methylation association results .
-
 Given the lack of consistency between the designs and methods among the studies ( as described below ) , we opted for a narrative review rather than attempting to perform a meta - analysis .

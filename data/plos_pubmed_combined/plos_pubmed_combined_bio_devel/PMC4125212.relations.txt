@@ -27,10 +27,7 @@
 
 
 
-
-
 Citation_of	[41]	179	1	Haploview	169	0;;
-
 
 
 
@@ -43,7 +40,6 @@ Version_of	3.1	146	1	MassARRAY Assay Design	101	0;;
 
 
 Version_of	4.0	92	1	MassARRAY Typer	76	0;;
-
 
 Version_of	4.0	121	1	GENEPOP	111	0;;
 Version_of	2.4	69	1	CLUMP	61	0;;

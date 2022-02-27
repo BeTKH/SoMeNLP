@@ -20,13 +20,11 @@ The polytomous Rasch model is a generalization of the dichotomous Rasch model [1
 Here , we will precisely consider the Partial Credit model which allows different difficulty parameters for different items [14] : Pr ( Xni = x ) = exp ∑ k = 0x ( β n - τ ki ) ∑ j = 0miexp ∑ k = 0j ( β n - τ ki ) .
 The Rasch model is based on four assumptions : 1 ) in the model there is only one latent variable of interest , which is the focus of the measurement and all items tap into this latent variable ; 2 ) the total scores over an item or a person contains sufficient information for calculation of the parameters of the model ; 3 ) for a person , the response to different items are independent ; 4 ) the relationship between the probability of a given score to an item i and the latent trait is described by a logistic curve .
 Based on these assumptions , the item difficulty parameters ( τ ki ) can be estimated by Conditional Maximum Likelihood ; then the person ’ s ability parameters ( β n ) can be estimated by Maximum Likelihood .
-
 Application of the Rasch model to multi - marker genetic association : The Rasch model is a measurement model that has potential application in any context where the objective is to measure a trait or ability through a process in which responses to items are scored with successive integers .
 When dealing with bi - allelic SNPs of possible alleles a and A , a set of SNPs can be considered as a set of items of possible categories 0 ( = aa ) , 1 ( = aA or Aa ) or 2 ( = AA ) assuming an additive effect which is a reasonable hypothesis for complex traits , and analyzed with the polytomous Rasch model in order to summarize the information into one score .
 It corresponds to the person ’ s ability parameter defined previously .
 In summary , our appraoch takes the genotypes of a set of SNPs as entry and apply the Rasch model to calculate one multi - marker Rasch genetic score per subject .
 Once this score is estimated for each subject , its association to a trait of interest can be assessed within classical statistical inference models according to the trait of interest ( linear for quantitative traits , logistic for binary traits ) with the possibility to adjust with covariates such as population stratification or gender .
-
 Several softwares and R packages are available for Rasch model analysis such as ConQuest ( https://shop.acer.edu.au/group/CON3 ) , RUMM ( www.rummlab.com.au ) , ltm ( cran.r-project.org/package=ltm ) and eRM ( cran.r-project.org/package=eRm ) .
 Considering its flexibility and ease of integration to a pipeline of analysis , we choose to use the eRM R package .
 The following short R script provides the functions used to obtain the multi - marker Rasch genetic score for each subject of a dataset of interest , where ‘ Geno ’ is a data matrix of genoptypes coded by 0 , 1 and 2 , with subjects in rows and markers in columns : formtok = PCM ( Geno ) > score = person.parameter ( rasch.model ) $ theta.table [ , 1 ] If ‘ Trait ’ is a binary trait disease coded by 1 for cases and 0 for controls , the association of the multi - marker Rasch genetic score to the disease can then simply be assessed with a logistic model : > glm ( Trait ∼ score , family = “ binomial ” ) If ‘ Trait ’ is a quantitative trait , the association of the multi - marker Rasch genetic score to the disease can then simply be assessed with a linear model : > lm ( Trait ∼ score ) The performances of our Rasch - based multi - marker genetic association test are first evaluated in term of false - positive rate and power based on simulations over three scenarios of dependence between SNPs and varying levels of association .
@@ -44,13 +42,11 @@ These frequencies are used as an empirical distribution of the range of possible
 First , 12 DSLs are simulated independently from the model described in Scenario 1 .
 Then the remaining SNPs are completed based on a real dataset ( here the chromosome 6 of the ADNI dataset described below ) in order to generate one LD blocks of moderate magnitude ( 0.4 - 0.7 ) around each DSL .
 Simulating this way leads to genetic patterns similar to those found in real data and therefore allows us to finely control the level of LD between SNPs .
-
 Scenario 3 : SNPs in strong Linkage Disequilibrium : The simulation is the same as for Scenario 2 with the difference that we consider SNPs in strong LD ( 0.8 - 1 ) .
 Monte - Carlo estimation of false - positive rate and power : For each scenario and each level of DSL relative risk , we ran B = 1000 simulations in order to provide accurate Monte - Carlo estimates of false - positive rate and power .
 For each simulation we obtain a p - value of association of the set of SNPs simulated by applying our Rasch - based multi - marker association test .
 The false - positive rate is estimated by PrH 0 ( p - value ⩽ α ) and the power is estimated by PrH 1 ( p - value ⩽ α ) , with α the significance level usually set to 5 % .
 Consequently in our simulations , by placing ourselves under the null hypothesis H0 of no association ( RR 2 = 1 ) , then under the alternative hypothesis H1 of association ( RR 2 > 1 ) , we can respectively estimate both false - positive rate and power of our method by considering the same quantity : ♯ ( p - valuei ⩽ α , i = 1 , . . . , B ) B , where ♯ ( ) represents the number of p - values inferior or equal to α .
-
 We compared the performances of our Rasch - based multi - marker association test to three existing methods : - minP [9] is the simplest and most naive method .
 It considers the most significant p - value of the set of SNPs considered as the p - value of the set .
 This method is obviously biased since it does not take the multiple - testing and the dependence of tests into account .
@@ -60,7 +56,6 @@ For m SNPs , the multi - marker test statistic is given by formtok which has a c
 An adjustment to dependent tests is also available and used here [25] . - SKAT [26] is SNP - set Kernel Association Test .
 It aggregates individual test score statistics of SNPs in a set and efficiently computes the set - level p - value .
 It performs multiple regression of a phenotype on all variants with Davies method while adjusting for covariants for counting account for population stratification and upweights rare variants .
-
 Application to the Alzheimer ADNI GWAS data : Alzheimer ’ s disease ( AD ) is the most common neurodegenerative disorder and affects more than 35 million people worldwide .
 It is characterized by brain atrophy reflecting neuronal and synaptic loss and the presence of amyloid plaques and neurofibrillary tangles , leading to a progressive deterioration of cognitive functions involving memory , reason , judgment and orientation [27] .
 AD pathogenic mechanisms are still unclear and the disease remains a condition without cure .

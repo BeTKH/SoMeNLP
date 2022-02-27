@@ -1,5 +1,4 @@
 This study is a retrospective cohort study using routine programmatic data .
-
 Nasarawa state is located in central Nigeria .
 Its headquarters are in the town of Lafia .
 It has an area of 27,117 km 2 ( 10,470 sq mi ) and a population of 2,040 112 ( Density - 75 / km 2 ) at the 2006 census .
@@ -8,7 +7,6 @@ Our Study sites are situated in Lafia , Akwanga , Karu and Keffi local governmen
 In collaboration with implementing partners ( funded either by PEPFAR or Global fund ) , the State Ministry of Health and the State Agency for the control of AIDS provide ART services to the general population through the various public health institutions in the state .
 Implementing partners in the state provide HIV prevention , care and treatment services in priority local government areas in the state .
 Despite increasing access to ART in the state , there is no national policy or health structure for KP that are living with HIV .
-
 In Nasarawa state , a comprehensive community - based HIV care model was adopted to reach KP living with HIV and to increase access and utilization of HIV care services among the KP community in the state .
 Community - based ART ( CBART ) was implemented through the Integrated Sexual Health Centre , that is situated at the state capital .
 From this centre , an outreach team of ART providers are deployed to surrounding communities to provide ART services .
@@ -29,14 +27,11 @@ Drug pick - up by proxy involves ART drug dispensing through lay - men ( i.e pee
 In addition , STI care is provided to all KP .
 Patients that are lost to follow - up are tracked by phone call and home visits .
 A list of clinic defaulters is generated using appointment registers at the end of each scheduled outreach / clinic for immediate tracking by the community facilitators .
-
 All adult KP ( 18 years or older ) , living with HIV that were enrolled and initiated on ART in the community - based ART program ( OSS ) between the 1st of August 2016 and the 28th of February 2017 , in Nasarawa state were enrolled into this study .
-
 Data were collected from visits that occurred between 1st of August 2016 and 30th of November 2017 .
 Outcomes were defined on the 31st of August 2017 .
 The follow - up time between 31 August 2017 and 30 November 2017 allowed ascertaining if patients late for their next appointment on 31 August were truly LTFU .
 Patients who started ART at the end of February 2017 , were 6 months on ART at the end of August 2017 .
-
 Data collection and definition of variables : Data for all included participants were collected with a standardized data extraction template that contained participant - level data of interest .
 Retrospective data were extracted from the Health Management Information Systems ( HMIS ) tools .
 All the data used in the study were routinely collected , and were retrieved from the patient file .
@@ -56,7 +51,6 @@ Good adherence to medication was defined as > 90 % ART pill intake .
 Poor adherence was defined as the opposite .
 Adherence was assessed using patient self - report and pill count during each clinic or outreach visit .
 Patients who missed more than 3 doses / month were categorized having a poor adherence to medication .
-
 The data analysis was done using Stata version 11 ( College Station , TX : StataCorp LP . ) .
 Numeric variables were analyzed using medians and interquartile ranges while calculation of proportions was used for categorical variables .
 Some numerical variables were categorized for statistical analysis .
@@ -71,7 +65,6 @@ Through backwards elimination the saturated multivariable model ( including all 
 The threshold for significance was set at p < 0.05 .
 For covariates , missing observations were handled using the missing indicator method .
 Patients without outcome were excluded .
-
 This research used data collected as part of routine care and treatment services for KP that were supported by the United States Agency for International Development ( USAID ) through a cooperative agreement with the Society for Family Health ( SFH ) in Nigeria .
 Consent was obtained from the local Research Measurement and Result department of SFH to use program data for analysis and as it was not practicable to obtain consent from patients who were retrospectively included in the study , we requested a waiver from the IRB , Institute of Tropical Medicine ( ITM ) Antwerp .
 The local IRB ( SFH ) approved the study while the latter IRB ( ITM ) also approved the study , including lack of consent .
