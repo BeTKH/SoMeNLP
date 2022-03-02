@@ -43,7 +43,13 @@
 
 
 
+
+
+
+
 Abbreviation_of	SCA	273	1	Sperm Class Analyzer	250	0;;Version_of	4.0.	302	2	Sperm Class Analyzer	250	0;;Developer_of	Microptic S.L.	319	3	Sperm Class Analyzer	250	0;;
+
+
 
 
 

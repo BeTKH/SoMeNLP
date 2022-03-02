@@ -28,6 +28,7 @@ As prices and rental prices are linked through capitalisation rates , there is a
 Assuming that capitalisation rate remains unchanged , property price can be written as a function of rental price .
 However , in this study rental prices of Dutch industrial properties are not included in the analysis as the time - series of rental price data is unavailable at the regional level .
 As a future focus , we recommend rental prices to be considered in the analysis based on the availability of the subject data .
+
 Based on construction demand forecasting literature , the process determining the variable of industrial land depends on the set of some related past variables in the same way as industrial land depend on the set of its past values .
 In our sample , data for all the related variables is specified at the regional level .
 In this , we can proceed to generate a dynamic panel data model considering the spatial variations in our pooled time - series data .
@@ -39,6 +40,7 @@ Consequently , the estimators are constructed by first differencing Eq ( 4 ) to 
 The first - differenced version of ( 4 ) can be written as : formtok formtok in which the panel - level effects are eliminated by the first differencing operation .
 The GMM approach utilises instruments for the estimation of Eq ( 5 ) .
 The details on instrumental variables are provided in the Appendix .
+
 The data used in the analysis consists of 40 regions at the NUTS 3 ( nomenclature of terrestrial units for statistics ) level in the Netherlands , covering each year between 2000 and 2008 .
 The NUTS 3 coincide with the so - called COROP regions in the Netherlands , which has been originally designed to reduce cross - border commuting and provides a rough approximation of functional labour market regions in the Country [74] .
 Therefore , the NUTS 3 level is selected as the spatial unit in the analysis considering that the NUTS 3 level is the closest to the spatial structure of the Dutch labour and industrial land markets [ 18 , 75 ] .
@@ -60,11 +62,13 @@ The accessibility measures computed for the Netherlands are originally provided 
 As the accessibility measures were computed for each of the decade between 1961 and 2011 [78] , the values for the years from 2000 to 2008 were developed through applying a linear interpolation between 1991 , 2001 and 2011 .
 This study utilises gross domestic product ( GDP ) , sectorial gross value added ( GVA aggregated for each of the industrial sectors considered in this study ) , sectorial employment ( EMP - in industry ) and industrial property price ( PRICE ) data for each NUTS 3 in the Netherlands from the online database provided by Eurostat [79] and the Netherlands Bureau of Statistics [80] .
 Some basic statistics on economic parameters is summarised in Table 1 for each NUTS 3 region .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0183285.t001 Descriptive statistics for the economic parameters .
 From the table , it can be seen that there are considerable differences across regions concerning annual average values of GDP , industrial property price , industrial GVA , and employment .
 The highest values are observed in the regions of Greater - Amsterdam , Rijnmond , Utrecht , Rest of Groningen , and South - East Brabant , which are housing majority of the economic activities in the Netherlands .
 An overview of the study area and its regional sub - divisions can be seen in Fig 1 .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0183285.g001 The study area .
 The Dutch industrial land market and land - use planning system : The lags between industrial demand and supply are sound in regions where there is scarcity of land for industrial development , strong regulations in real property markets , and strict institutional structures influencing the property transactions in the land markets .
@@ -102,9 +106,11 @@ The over - supply of industrial land can also be explained by the existence of t
 This can be observed from our data on the percentage changes of industrial land , GDP , GVA , property price and employment in the industrial sectors ( Fig 2 ) .
 From Fig 2 , it is clear that developments in the industrial land respond slowly to the fluctuations in the economic parameters .
 For instance , there are considerable changes in GDP , GVA , industrial property price and the number of industrial employment between 2000 and 2008 , which are associated with modest changes in the industrial land developments .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0183285.g002 Percentage changes of industrial land , GVA ( industry ) , GDP , industrial employment and industrial land price for Netherlands , 2000 - 2008.Note : Data on industrial land exists only for 2000 , 2003 , 2006 , and 2008 .
 The data for the remaining periods was interpolated using a linear relationship with the existing data .
+
 Considering the discussed characteristics of the industrial land market , long - term forecasts of industrial land use have become an important issue in the Netherlands .
 Therefore , various methods are used in Netherlands as well as other countries for the estimation of future industrial land use ( for detailed review , see Beckers and Schuur [18] ) .
 Knoben and Traa [92] ( cited in : Beckers and Schuur [18] ) stated that employment - based approach is the most commonly used methodology in Netherlands among others .

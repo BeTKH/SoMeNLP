@@ -10,6 +10,7 @@ By varying the composition of the cell culture medium , we showed that glutamino
 The comparison of the two types of ASC in glutamine - free culture conditions also revealed the role of glutaminolysis in the limitation of pyruvate routing towards the lactate synthesis , in S - ASC but not in V - ASC .
 Altogether , our results suggest a difference between depots in the capacity of ASC mitochondria to assimilate pyruvate , with probable consequences on their differentiation potential in pathways requiring an increased mitochondrial activity .
 These results highlight a pivotal role of metabolic mechanisms in the discrimination between ASC and provide new perspectives in the understanding of their functional differences .
+
 1 .
 Introduction
 White adipose tissue is an interesting source of multipotent stem cells sharing properties with mesenchymal stem cells and used for clinical applications .
@@ -34,6 +35,7 @@ The metabolic pathways involved in the maintenance of ASC were defined by using 
 By quantifying the metabolites in the extracellular culture medium , we measured the consumption and secretion rates of a variety of metabolites to characterize and to compare the metabolic profiles during cell cultures of ASC from distinct adipose depot .
 Our results indicate that V - and S - ASC present significant metabolic differences among which the role of glutaminolysis is noticeable .
 Our data also shed new light on the balance between glycolysis and mitochondrial activity of ASC under the influence of the depot of origin .
+
 2 .
 Materials and Methods
 2.1 .
@@ -51,6 +53,7 @@ This was the first passage .
 All the analyses were performed with cells collected after the 2 passage .
 For cumulative growth curves , all the passages were performed like the first one .
 Cells were cultured in a humidified 5 % CO atmosphere at 37 ° C , and medium was changed every two or three days except for metabolomic experiments .
+
 2.2 .
 Flow Cytometry
 The cultured ASC were retrieved at passage 2 by trypsin digestion .
@@ -60,6 +63,7 @@ Antibodies used were CD 45 APC - eFluor 780 , CD 31 PE - Cy 7 , CD 90.2 - FITC ,
 After 30 - minute incubation on ice , cells were washed in FACS buffer and fixed in 3.7 % formaldehyde .
 Acquisitions were performed using the facilities of the technical platform AniRA of the SFR Biosciences Gerland - Lyon Sud ( US 8 / UMS 3444 ) with an LSRII flow cytometer ( BD Biosciences ) equipped with 355 , 488 , and 633 nm lasers .
 Analyses were performed using the cloud - based platform Cytobank ( http://www.cytobank.org ) .
+
 2.3 .
 Adipogenic Differentiation
 For adipocyte differentiation , ASC were amplified until 80 % of confluency was reached and culture medium replaced by differentiation medium containing Dulbecco ' s modified Eagle medium / Nutrient Mixture F12 ( DMEM / F12 ; Dominique Dutscher , France ) , FBS 10 % ( Hyclone , France ) , 100 U / ml penicillin , 100 μ g / ml streptomycin , 2 mM glutamine , 1 μ g / ml insulin , 0.5 μ M dexamethasone , 2 nM Triiodo - L - Thyronine 3 ( T3 ) , 0.5 μ M 3 - isobuthyl - 1 - methylxanthine ( IBMX ) , 2 μ M rosiglitazone , and 10 μ g / ml transferrin , all from Sigma - Aldrich .
@@ -67,6 +71,7 @@ After 7 days , adipocyte differentiation was measured by Oil red O staining of t
 Cells were fixed in 10 % formaldehyde ( Carlo Erba , France ) for 1 hour then washed with 60 % isopropanol ( Carlo Erba ) twice , dried and colored by incubation for 10 minutes with 0.2 % Oil red O ( Sigma - Aldrich ) in isopropanol .
 Brightfield images were taken with an optic microscope with a × 20 magnification .
 The expression of adipogenic genes ( Ppar γ , Dgat 2 , and Hsl ) was measured by RT - qPCR .
+
 2.4 .
 Chondrogenic Differentiation
 ASC were induced to differentiate into chondrocytes using the completed StemXVivo Chondrogenic differentiation medium ( R&D Systems , France ) .
@@ -78,6 +83,7 @@ The fixation was stopped with glycine 1 M ( Sigma - Aldrich ) , and the pellet w
 The pellet was stained for 30 minutes with alcian blue 8GX 1 % ( BioGnost ) dye which colors glycosaminoglycans in cartilage .
 The nucleus was stained for 1 minute with a 0.1 % fast red solution ( Sigma - Aldrich ) , and the section was included in pertex .
 Images of 10 distinct fields by sample were obtained with an optic microscope ( 20x objective ) , and analysis was performed using the ImageJ software application Fiji to quantify the ratio of the alcian blue color surface to the total cell surface .
+
 2.5 .
 Osteogenic Differentiation
 ASC were induced into osteocytes using the StemXVivo Mouse / Rat osteogenic / adipogenic supplement ( R&D Systems ) .
@@ -89,6 +95,7 @@ After 21 days , the cells were fixed for 15 minutes using 10 % formaldehyde in P
 The osteogenic differentiation was revealed using 40 mM alizarin red dye ( which stains calcium deposition ) pH 4.3 ( Sigma - Aldrich ) for 20 minutes at room temperature .
 Brightfield images were taken with an optic microscope with a × 20 magnification .
 The expression of the osteocyte - specific genes Dmp 1 and Gdf 15 was measured by RT - qPCR .
+
 2.6 .
 Real - Time Quantitative PCR ( RT - qPCR )
 The RNeasy Mini Kit ( Qiagen , France ) was used to extract RNA , following the provider instructions , from ASC that had been differentiated or not .
@@ -96,7 +103,9 @@ The reverse transcription was performed using the Takara reverse transcriptase k
 RT - qPCR was performed using the TaqMan fast advanced master mix ( Biosystems , France ) .
 Samples were run in duplicate .
 Gene expression levels were calculated using the Rotor - Gene Q series software and normalized using the mouse 40S ribosomal protein S17 ( Rs 17 ) as the housekeeping gene .
-The primers used are listed in Table 1 . 2.7 .
+The primers used are listed in Table 1 .
+
+2.7 .
 Protein Analysis and Western Blot
 ASC were cultivated until confluency and rinsed with PBS after removal of the culture supernatant .
 Whole cell lysates were prepared by adding per well of 9.6 cm , 300 μ l of lysis buffer containing 1 % IGPAL , 0.5 % sodium deoxycholate , 0.1 % sodium dodecyl sulfate ( SDS ) , PBS without calcium without magnesium , 5 mM EDTA , 1 mM NaVO , 20 mM NAF , and 1 mM DL - dithiothreitol , and supplemented with a protease Inhibitor Cocktail ( all reagents were obtained from Sigma , France ) .
@@ -110,6 +119,7 @@ After washing three times with TBS - 0.3 % Tween , the membrane was incubated wi
 After washing , peroxidase activity was detected by chemiluminescence using the Luminata Classico western HRP substrate ( Millipore , France ) .
 Detection was made using the ChemiDoc XRS + imaging system ( Bio - Rad ) , and analysis was performed using the Quantity One software ( Bio - Rad ) .
 Data were normalized relatively to α - tubulin .
+
 2.8 .
 Statistical Analysis
 All results are expressed as means ± SEM .
@@ -117,6 +127,7 @@ Student ' s t - test was used to evaluate the probability of significant differe
 One - way ANOVA followed by Tukey ' s multiple comparison test was used when more than two conditions were compared .
 A p value < 0.05 was considered as significant .
 GraphPad Prism 5.0 software was used for all statistical analyses .
+
 2.9 .
 Metabolomic Analyses
 2.9.1 .
@@ -133,6 +144,7 @@ At the end of the culture , supernatants were collected and snap - frozen at - 2
 For the preparation of exometabolome samples , 200 μ l of centrifuged cell culture supernatant was supplemented with 400 μ l of phosphate buffer pH 7.4 ( 160 mM NaHPO , 30 mM NaHPO , 1 mM TSP , and 3 mM NaN in 100 % DO ) [22] .
 Samples were analyzed in 5 mm NMR tubes containing 550 μ l of the sample mix .
 Control culture mediums were analyzed in parallel during each NMR session .
+
 2.9.2 .
 NMR Acquisition
 All NMR experiments were acquired on a 600 MHz Bruker NMR spectrometer equipped with a 5 mm TCI cryoprobe at 30.0 ° C .
@@ -140,12 +152,14 @@ A cooled SampleJet autosampler enabled high throughput data acquisition .
 A standard H - 1D NMR pulse sequence nuclear Overhauser effect spectroscopy ( NOESY ) with z - gradient and water presaturation ( Bruker pulse program noesygppr 1d ) was recorded on each sample , with a total of 128 transient free induction decays ( FID ) and a spectral width of 20 ppm , and a relaxation delay was set to 4 seconds .
 The NOESY mixing time was set to 10 milliseconds , and the 90 ° pulse length was automatically determined for each sample ( around 13 μ s ) .
 The total acquisition time of each sample was 12 minutes and 15 seconds .
+
 2.9.3 .
 NMR Data Processing
 All free induction decays ( FIDs ) were multiplied by an exponential function corresponding to a 0.3 Hz line - broadening factor prior to Fourier transform H - NMR spectra which were manually phased and referenced to the glucose doublet at 5.23 ppm using TopSpin 2.2 ( Bruker GmbH , Rheinstetten , Germany ) .
 TSP was not used for data processing in this study .
 For multivariate analyses , residual water signal ( 4.85 - 4.67 ppm ) was excluded .
 Spectra were divided into 0.001 ppm - wide buckets over the chemical shift range ( - 0.2 ; 9.5 ppm ) using the AMIX software ( Bruker GmbH ) .
+
 2.9.4 .
 Spectra Analyses
 Identification of the metabolites was carried out from the 1D NMR data using the software Chenomx NMR Suite 8.0 ( Chenomx Inc . , Edmonton , Canada ) and confirmed from analysis of 2D H - H TOCSY , H - C HSQC , and H J - Resolved NMR spectra recorded with standard parameters .
@@ -155,6 +169,7 @@ The linewidth used in the reference database was adjusted to the width of one co
 A pure standard lactate solution ( 1 g / l , Fisher ) was used as an external concentration reference and exploited using the ERETIC 2 utility from TopSpin ( Bruker GmbH , Rheinstetten , Germany ) to add a digitally synthesized peak to a spectrum [24] .
 Concentrations in the cell culture media are presented as absolute , not normalized data .
 They are apparent concentrations , as endogenous and FCS proteins were not removed from the NMR samples .
+
 2.9.5 .
 Multivariate Data Analyses
 Multivariate analyses were performed on NMR spectra buckets in the absence of any normalization using SIMCA - P 13 ( Umetrics , Umea , Sweden ) with Pareto scaled variables .
@@ -168,6 +183,7 @@ The O - PLS - DA models were validated using permutations under the null hypothe
 were recalculated and compared to the original ones , and their decrease indicates the good quality of the model [25] .
 Metabolites involved in class discrimination were highlighted with the statistical recoupling of variables ( SRV ) analysis [26] .
 SRV corresponds to an automatic binning scheme based on the relationship of correlation and covariance between consecutive variables , which is followed by a univariate unpaired two - tailed t - test calculated for each variable under the Benjamini - Hochberg correction to cope with multiple testing issues [27] .
+
 3 .
 Results
 3.1 .
@@ -182,6 +198,7 @@ Figure 2 shows that S - and V - ASC are able to differentiate into chondrocytes 
 Interestingly , both ASC had comparable efficiency to differentiate into chondrocytes , but V - ASC were less efficient than S - ASC to generate adipocytes .
 This was in accordance with the differences described between adipose depots regarding the fatty acid storage function .
 Altogether , these data confirm that our culture conditions are suitable to sustain the production of ASC from both SAT and VAT and to preserve their intrinsic functional differences .
+
 3.2 .
 Multivariate Statistical Analyses Discriminate S - and V - ASC and Highlight Differentially Secreted Metabolites
 To define the best culture conditions to analyze the exometabolome ( the ensemble of metabolites in the extracellular medium ) , we initially performed a comparison of the extracellular metabolite concentration variations over 24 to 72 h of culture ( Figure S1 ) .
@@ -204,6 +221,7 @@ We obtained a strongly discriminating O - PLS - DA model ( Figure 4 ( b ) ) .
 The analysis of NMR regions presenting the most differentially expressed peaks pointed out 10 metabolites which concentration in the culture medium was the most influenced by the presence of the distinct ASC .
 Glucose , leucine , valine , glutamine , tyrosine , phenylalanine , lactate , and acetate appeared to vary more in V - ASC than in S - ASC culture supernatants , while citrate and alanine varied more in S - ASC than in V - ASC culture supernatants ( Figure 4 ( c ) ) .
 These results define distinct metabolic footprints of V - and S - ASC on their microenvironment and suggest metabolic differences between both cell types .
+
 3.3 .
 Depot - Specific Features of ASC Metabolic Signatures
 Careful analysis of the H - 1D and 2D H - H and H - C NMR spectra provided the identification of 29 metabolites that were present in the S - and V - ASC supernatants after 72 h culture and that belong to a variety of biochemical classes ( amino acids , sugars , and metabolic intermediates ) .
@@ -243,6 +261,7 @@ However , compared with S - ASC , V - ASC metabolism supports a stronger Warburg
 This imbalance may account for the lower ability of V - ASC to differentiate into adipocytes and their inability to give rise to osteoblasts compared with S - ASC ( Figure 2 ) .
 Indeed , both differentiation pathways require an increased mitochondrial activity [41] and , for osteogenesis and bone formation , the accumulation of citrate and the inhibition of glycolysis [21] [42] .
 On the contrary , chondrogenesis , which predominantly uses the glycolytic metabolism as a source of ATP [21] , was obtained from both S - and V - ASC ( Figure 2 ) .
+
 3.4 .
 Glutamine Is a Key Player in the Control of Pyruvate Routing in ASC
 To better characterize the S - and V - ASC metabolic differences , cells were cultivated in partially depleted culture media .
@@ -274,6 +293,7 @@ These results indicate that glutaminolysis is central for the use of pyruvate in
 In S - ASC only , glutamine privation also leads to a drastic switch of pyruvate consumption towards lactate production , exacerbating the Warburg - like effect .
 Our results reveal that sensitivity to glutamine availability is a key feature discriminating both ASC populations and evidence a complex situation where glutamine could be used as an alternative source of carbon and / or where glutaminolysis could control the fate of glycolysis products .
 Further analyses involving fluxomics experiments and isotope labeling will be required to finely dissect the underlying mechanisms involved .
+
 4 .
 Conclusion
 Altogether , our results show that ASC have a mixed metabolism based on both glycolysis and mitochondrial activity , similar to what was already reported for bone marrow mesenchymal stem cells [21] .
@@ -285,4 +305,5 @@ To our knowledge , this study is the first one to describe at the metabolic leve
 Our results raise the possibility that mechanisms controlling the flux of pyruvate towards the synthesis of either lactate in the cytoplasm or citrate in the mitochondria could be related to the reported differences between S - and V - ASC in their proliferation and differentiation potentials .
 In the light of our results , the correlation between the emergence of pathologies related to the metabolic syndrome and the opposite changes affecting the expansion of the subcutaneous and the visceral adipose tissues may reflect a disruption of the metabolic program supporting ASC at the expense of their original functions .
 Future challenge will be to characterize the mechanisms supporting the specific metabolism of ASC in each fat depot and the conditions leading to their breaking .
+
 Forward and reverse sequences of primers used in RT - qPCR .

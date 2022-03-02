@@ -24,6 +24,7 @@ A structured interview , the Swedish version of the Mini - International Neurops
 Although some subjects had high scores in the MADRS they did not fulfill the MINI criteria for depression , and were therefore not excluded .
 Out of the participants who matched the inclusion criteria , 8 subjects with occupational burnout and 9 controls failed to display a startle response to the probe .
 The results from the emotion regulation experiment and the correlation analyses with fMRI are therefore based on data from the remaining 32 subjects with occupational burnout ( 20 females ; mean age = 37.6 years , SD = 6.5 ) and 61 controls ( 33 females ; mean age = 30.9 years , SD = 6.7 ) , whereas the analysis of resting state amygdala connectivity is based on the entire study group .
+
 Salivary cortisol was sampled according to a previously established protocol [51] .
 Saliva sampling was chosen because the method is simple , non - invasive , and non - stressful ; the samples are shown to readily reflect the levels of the free fraction of cortisol in plasma [52] .
 Participants were instructed carefully on how to collect their own salivary samples .
@@ -36,6 +37,7 @@ The samples were frozen ( − 18 ° C ) until analyzed .
 The levels of salivary cortisol were measured with radioimmunoassay using the Spectria ( 125I ) coated tubes radioimmunoassay kit ( Orion Diagnostica , FIN - 02101 Espoo , Finland ) .
 The within - assay coefficients of variation ranged from 0.8 to 0.9 , and those between assays never exceeded 10 percent .
 All samples from each group were analyzed simultaneously in duplicate .
+
 Before the experiment , the participants were given written as well as verbal explanations of the task and instructions .
 Participants were informed that they would receive three different instructions during the experiment and that these instructions would be symbolically represented by three different arrows : ( 1 ) an upward arrow indicated that the participant should make an effort to reinforce the feelings that are elicited by the picture , so that he / she experiences the image as more emotionally charged ( “ up - regulate ” ) ; ( 2 ) a horizontal arrow indicated that the participant should focus on the feeling the picture elicits , without trying to manipulate the emotion ( “ maintain ” ) ; and ( 3 ) a downward arrow indicated that the participant should make an effort to down - regulate the feelings that the picture elicits , so that he / she experiences the image as less emotionally charged , or as neutral as possible ( “ down - regulate ” ) .
 Participants were thoroughly informed of the importance of following the instructions during the experiment and not distracting themselves from their feelings by thinking of something else or by looking away from the image or closing their eyes .
@@ -55,15 +57,18 @@ Between each trial , a fixation cross was presented for 4 - 6 s ( mean 5 s ) .
 Each trial lasted for 20 s .
 There were 60 trials , and the entire testing session lasted approximately twenty minutes , with a 15 - second pause after the first 30 trials .
 The presentation of pictures was synchronized with the monitor ' s refresh rate and presented with the software Presentation ( Neurobehavioural systems , www.neurobs.com ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0104550.g001 Overview of one experimental trial with the maintain instruction .
 Participants were presented with a picture , which was replaced by an instruction cue .
 For negative picture trials , this cue indicated whether the participants ' task was to maintain ( horizontal arrow ) , down - regulate ( downward arrow ) or enhance ( upward arrow ) their emotional response .
 Immediately following the instruction cue , participants implemented the regulation instruction while being exposed to the same picture again .
 Lastly , participants rated how well they managed to implement the regulation instruction on a scale of 1 - 7 .
+
 We selected three sets of 15 negative pictures and one set of 15 neutral pictures from the International Affective Picture Set ( IAPS ) [53] .
 Each of the three sets of negative pictures was assigned to one of the three task instructions ( maintain , down - regulate , up - regulate ) , and this assignment was counterbalanced between participants ( male and female controls , and patients ) .
 Pictures were selected to match valence and arousal scores of pictures used in a similar report [54] .
+
 Electromyographic recordings : response definition and data reduction : The eye - blink component of the startle response was measured through electromyographic ( EMG ) recordings of the left orbicularis oculi muscle using two miniature Ag / AgCl electrodes prepared with electrolyte gel .
 A third ground electrode was placed behind the left ear over the mastoid .
 Startle probes were 50 - ms bursts of approximately 95 - db [ A ] white noise with a near instantaneous rise time ( < 1 ms ) , delivered through sound - proof headphones ( Bose AE 21 , Bose Co . Framingham , Massachusetts ) .
@@ -73,16 +78,19 @@ To assess initial , unaltered startle responses , pre - instruction ( Startle 1 
 The z - score calculation is a within - individual normalization , resulting in a distribution with an overall mean of 0 and a standard deviation of 1 for each participant .
 To assess the regulation of the startle response according to instruction , for each participant , we calculated the change in startle response by subtracting the raw startle 1 response from the raw startle 2 response separately for each instruction ( maintain neutral , maintain negative , down - regulate negative , up - regulate negative ) of the task .
 This way , we defined emotion regulation ability as the magnitude during emotion regulation controlling for baseline levels before the regulation cues .
+
 Initial startle reactions were assessed in a 2 × 2 repeated measures analysis of variance ( ANOVA ) with Valence ( Negative , Neutral ) as a within - subjects variable and Group ( Burnout , Control ) as a between subjects variable .
 To test the hypothesis that burnout patients would differ from controls in their startle responses during down - regulation of negative emotion , we ran a 2 × 2 repeated measures ANOVA with Instruction ( Down - regulate , Maintain ) as the within - subject variable and Group ( Burnout , Control ) as the between - subject variable .
 As a control , we similarly assessed whether there were any group differences in startle responses during up - regulation of negative emotions in a 2 ( Up - regulate , Maintain ) × 2 ( Burnout , Control ) repeated - measures ANOVA .
 Possible group difference in salivary cortisol levels was tested with a repeated measure ANOVA ( p < .05 ) .
+
 MR experiments were carried out on a separate day to avoid contamination by possible effects of the emotional regulation tasks .
 Functional MRI time series data were collected from all of the participants at rest over 8 minutes in a 3 Tesla MR scanner Discovery 750 ( GE Healthcare ) , using a 32 - channel head coil .
 Resting fMRI blood oxygenation - level dependent ( BOLD ) data were acquired in a standard gradient echo - planar - imaging ( EPI ) acquisition , TR = 2.5 s , TE = 30 ms , flip angle = 90 ° , resolution = 3 × 3 × 3 mm , whole - head coverage .
 The participants were asked to lie with their eyes closed , to think of nothing in particular , and not to fall asleep .
 Structural brain images were acquired using a T1 - weighted 3D brain imaging volume imaging sequence with whole - head coverage , TR = 7.91 s , TE = 3.06 s , flip angle = 12 ° , and resolution 1 × 1 × 1 mm .
 These structural images were used to aid the registration of the functional data into a common standard brain coordinate system ( MNI 152 ) .
+
 Seed region analysis is based on calculating cross - correlation coefficients of the time series in a particular seed region - of - interest ( ROI ) with all other voxels in the brain , which reveals the strength of functional connectivity with respect to this seed region [57] .
 The seed regions consisted of the right and left amygdala , and were delineated with the guidance of the WFU - pick atlas , and after adaptation to the gray matter template of our own population .
 The MNI coordinates for the amygdala seeds where ( sphere of 5 mm radius , co - ordinate − 22 , − 7 − 19 , and 22 − 7 − 19 ) ; the seed regions covered the amygdala , with the exception of the most medial 2 mm of the basomedial amygdala , which was excluded to avoid the susceptibility artifact that was detected in some subjects .
@@ -102,4 +110,5 @@ For each subject , the average fMRI time course within the seed region was used 
 Individual time series in each seed region were extracted with MarsBar toolbox ( http://marsbar.sourceforge.net/ ) .
 Each subject ' s seed region time course was then regressed voxel - wise against the subject ' s fMRI time course using the entire brain as search space .
 The t - values of the corresponding regression coefficients at each voxel were used as each subject ' s connectivity map .
+
 Group comparisons between stressed subjects and healthy controls were carried out in SPM 8 using one - way ANOVA , with p < .001 voxel threshold , FWE corrected at cluster level , p < .05 , and controlling for age and gender , which were used as nuisance covariates .

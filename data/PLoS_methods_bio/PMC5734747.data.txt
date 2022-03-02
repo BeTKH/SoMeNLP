@@ -8,6 +8,7 @@ We take into account spatial relations to form geographical neighbourhoods and u
 Lastly , we extract a feature representation for each country by summarising information of its recordings .
 Hierarchical clustering is used to get an overview of similarity and dissimilarity between countries .
 The methodology is summarised in Fig 1 and explained in detail in the sections below .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0189399.g001 Overview of the methodology .
 In our analyses we use the country label of a recording as a proxy for music style .
@@ -55,6 +56,7 @@ Given the above criteria , the final collection consists of a total of 8200 reco
 The recordings originate from 137 countries with mean 59.9 and standard deviation 33.8 recordings per country ( Fig 2 ) .
 A total of 67 languages is represented by a minimum of 10 recordings , with a mean of 33.5 and standard deviation of 33.5 recordings per language ( Fig 3 ) .
 The recordings span the years between 1898 − 2014 with median year 1974 and standard deviation of 17.9 years ( Fig 4 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0189399.g002 The distribution of countries in our dataset of 8200 world music recordings .
 Figure data removed from full text .
@@ -80,6 +82,7 @@ As part of the MIREX 2015 evaluation , the algorithm was tested on a non - overl
 The algorithm is based on summary statistics of low - level features including Mel frequency cepstrum coefficients ( MFCCs ) , spectral entropy , tonality , and 4 Hertz modulation , and is trained on folk music recordings [84] .
 We apply this algorithm to detect speech / music segments for all recordings in our dataset and use solely the music segments of each recording for further analysis .
 In case of long audio excerpts we only select the initial music segments up to a total duration of maximum 30 seconds ( see also duration of recordings in Data section ) .
+
 We are interested in descriptors capturing aspects of world music style .
 We adopt the notion of music style by Sadie et al . [85] , ‘ style can be recognized by characteristic uses of form , texture , harmony , melody , and rhythm ’ .
 The use of form is ignored in this study as most of our music collection is restricted to short audio excerpts rather than complete recordings .
@@ -99,9 +102,11 @@ The window of the second frame decomposition is hereby termed as ‘ texture win
 The window size w of the texture window was set to 8 seconds after the parameter optimisation process described in the Parameter optimisation section .
 For all features we use a cutoff frequency at 8000 Hz since most of the older recordings do not contain higher frequencies than that .
 The audio content analysis process is summarised in Fig 5 .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0189399.g005 Overview of the audio content analysis process.Mel - spectrograms and chromagrams are processed in overlapping 8 - second frames to extract rhythmic , timbral , harmonic , and melodic features .
 Feature learning is applied to the 8 - second features and average pooling across time yields the representations for further analysis .
+
 Rhythm and Timbre .
 For rhythm and timbre features we compute a Mel spectrogram with 40 Mel bands up to 8000 Hz using Librosa [76] .
 To describe rhythmic content we extract onset strength envelopes for each Mel band and compute rhythmic periodicities using a second Fourier transform with window size of 8 seconds and hop size of 0.5 seconds .
@@ -128,6 +133,7 @@ Pitch bi - histograms are also computed over 8 - second windows with 0.5 - secon
 This results in a total of 120 feature values describing melodic aspects .
 Combining all features together results in a total of 840 descriptors for each recording in our dataset .
 A z - score standardisation of the 840 features is applied across all recordings before further processing .
+
 For the low - level descriptors presented in the Features section we aim to learn high - level representations that best characterise music style similarity .
 Feature learning is also appropriate for reducing dimensionality , an essential step for the amount of data we analyse .
 We learn feature representations from the 8 - second frame - based descriptors .
@@ -161,6 +167,7 @@ In each case , feature learning is applied on the selected feature set and frame
 We also tested for aggregation using the mean and standard deviation of frame - based descriptors but this did not improve results ; hence it was omitted .
 In the case of testing the combination of all features ( e ) , we first reduce dimensionality for each feature set separately and then concatenate the components from all feature sets before mean aggregation and classification .
 Results for the feature learning optimisation and classification experiments are presented in the Results section .
+
 The feature learning and classification methods described above ( Feature learning section ) identify the optimal projection for the data .
 In the next step of the analysis we use the projected space to investigate music dissimilarity and identify outliers in the dataset .
 A recording is considered an outlier if it is distinct compared to the whole set of recordings .
@@ -175,6 +182,7 @@ To compensate for a possible large amount of outliers we consider a higher thres
 To gain a better understanding of the type of outliers for each country we detect outliers using a ) rhythmic , b ) timbral , c ) harmonic , and d ) melodic features .
 For example , for JR the dimensionality of the rhythmic feature vector and XR ∈ RI × JR the set of observations , the set of outlier recordings with respect to rhythmic characteristics is denoted formtok for observation xR , i ∈ XR .
 We detect outliers with respect to rhythmic ( OR ) , timbral ( OT ) , melodic ( OM ) , and harmonic ( OH ) characteristics .
+
 In the previous section outliers were detected by comparing a recording to all other recordings in the dataset .
 Here we take into account spatial relations and compare recordings from a given country only to recordings of its neighbouring countries .
 In this way we are able to identify spatial outliers , i.e. recordings that are outliers compared to their spatial neighbours [57] .
@@ -188,6 +196,7 @@ The geographical boundaries of each country are derived from spatial data availa
 The set of recordings from a given country is appended with recordings from neighbouring countries as defined by the country ’ s spatial neighbourhood ( S1 Table ) .
 This set is used to detect outliers with the Mahalanobis distance as defined in Eq 2 .
 Spatial outliers are detected in this manner for all countries in our dataset .
+
 The unit of analysis in the previous sections was the individual recordings .
 In this section we move one level up and place the focus at the country .
 We detect outlier countries in a similar manner as before where country features now summarise the information of the underlying recordings .

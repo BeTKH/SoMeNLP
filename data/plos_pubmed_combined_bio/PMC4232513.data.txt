@@ -15,9 +15,11 @@ This study was approved by the ethics committee of the institutional review boar
 All patients provided written informed consent .
 The registration of our cohort at Clinical Trials.gov was delayed by administrative issues ( set up of Core Lab , employment of research assistance ) .
 The authors confirm that all ongoing and related trials for this drug / intervention were registered .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0112820.g001 Enrolment scheme and patient status .
 MPE : multidisciplinary predialysis education .
+
 The MPE program was implemented in May 2006 at the Keelung Center .
 The team comprised a nurse for case management , social workers , dietitians , hemodialysis , peritoneal dialysis patient volunteers and 10 nephrologists .
 The program consisted of an integrated course involving individual lectures on renal health , delivered by the case - management nurse , according to the guidelines given in a standardized instruction booklet .
@@ -31,11 +33,13 @@ Patients with stage V CKD were monitored for timely initiation of renal replacem
 All patients received dietary counseling biannually from a dietitian .
 In addition , the case - management nurse often contacted the participants by telephone to encourage them to inform their nephrologists of their symptoms and to reinforce the importance of medical visits .
 The MPE program was discontinued once renal replacement therapies were initiated for these patients .
+
 The same group of nephrologists instructed all participants about renal function , the evaluation of laboratory data , and clinical indicators of chronic renal failure , as well as about the strategies for its management and treatment .
 Furthermore , the nephrologists explained the general principles of hemodialysis and peritoneal dialysis when the patients exhibited an eGFR of < 30 formtok m − 2 ( stage IV CKD ) .
 All patients were provided with written instructions .
 The nephrologists evaluated the comorbidity factors influencing each patient ' s condition before referral to a nurse specializing in hemodialysis or peritoneal dialysis .
 The nursing staff provided instructions for daily living and explained the criteria used for hemodialysis and peritoneal dialysis selection , and the difference between the two modalities .
+
 Descriptive statistics were expressed as the mean ( standard deviation ) or median ( interquartile range ) .
 Discrete variables were presented in terms of frequencies and percentages .
 The normality of numerical variables was tested using the Kolmogorov - Smirnov method , and an appropriate transformation was considered before statistical testing .

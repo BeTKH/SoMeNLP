@@ -3,12 +3,14 @@ TEDS - D is an excellent example of a large administrative dataset that may be o
 This dataset allows us to illustrate the use of the methodologies introduced in this work within a realistic setting .
 Treatment completed was considered a successful treatment discharge status , all other treatment discharge reasons ( e.g. , left against professional advice , incarcerated , other ) were considered as indicators of non - successful treatment .
 Treatment completion is a standard process outcome measure because it predicts longer - term outcomes such as less future criminal involvement , fewer readmissions , employment and income one year after treatment [19-22] .
+
 Twenty eight predictors recorded by TEDS - D were included in the analysis .
 Predictors include 10 patient characteristics ( i.e. , age , gender , race - e.g. , White , Black - , ethnicity - indicating patient ’ s specific Hispanic origin , marital status , education , employment status , pregnant at time of admission , veteran status , and living arrangement ) , 3 treatment characteristics ( i.e. , intensity , medication - assisted opioid therapy , and length of stay ) , principal source of referral , summary of type of problematic substance ( with categories “ alcohol only ” , “ other drugs only ” , or “ alcohol and drugs ” ) , and mental health problem .
 TEDS - D records thorough information about substances of misuse .
 This includes the following 12 predictors : primary , secondary , and tertiary substance problem , usual route of administration , frequency of use , and age at first use .
 The substances include : alcohol , cocaine / crack , marijuana / hashish , prescription opiates / synthetics , and methamphetamine use .
 Several other drug use categories were collapsed for analysis because of low percentages .
+
 TEDS - D includes all admissions / discharges rather than individuals .
 Consequently , only records that indicate the individual had no prior SUD treatment were included in the analyses .
 Part of our previous work focuses on racial and ethnic minorities [ 11 , 12 , 23 , 24 ] .
@@ -17,12 +19,14 @@ Thus , we restricted our analysis only to cases indicating a Hispanic / Latino e
 We focused on outpatient service settings because criteria for treatment completion / success ( i.e. , the outcome of interest ) and duration for other types of services ( e.g. , 24 - hour inpatient , detoxification - only ) and outpatient services are often very different .
 This is a sample arbitrarily chosen to exemplify the different analytical approaches .
 The choice is based on our previous knowledge in this field and not on the results obtained after using the methods described in the following paragraphs .
+
 Records with missing data in any of the predictors , the outcome , or characteristics used for determining inclusion in the study were excluded from the analysis .
 Since not all states collect the same information for their patients , from a total of 9,829,536 records , 4,385,825 ( 45 % ) had all required data complete .
 These inclusion and exclusion criteria did not affect the performance of SL when compared to the rest of the analytical strategies used .
 A total of 99,013 records representing unique individuals were selected according to the inclusion and exclusion criteria and were used in the analysis .
 This sample was separated in a training set with 80 % of the sample ( n = 79,210 ) and a test set with the remaining 20 % ( n = 19,802 ) .
 Because these data represent public information and there is no subject identification , the University of Iowa Human Subjects Office Institutional Review Board exempted this study from review .
+
 The goal of the analysis was to compare results of classical analytical strategies that are commonly used to address prediction of treatment success ( e.g. , logistic regression ) alongside results of newer methods for prediction ( e.g. , ANN ) .
 We also compared SL results .
 SL is an ensemble machine learning methodology that encompasses all other methodologies in its library and has demonstrated ( both theoretical and empirical ) superiority for prediction [ 8 , 9 ] .
@@ -43,6 +47,7 @@ All analytic approaches explored were compared using the AUC in the test set .
 The best analytic strategy for predicting treatment success was identified as the model maximizing AUC .
 The AUC is a convenient measure of prediction success that can be interpreted as the probability that any of the algorithms ranks a randomly chosen successful patient higher than a randomly chosen unsuccessful patient [28] .
 AUC ranges from 0 to 1 , AUC = 1 means perfect prediction and AUC = 0.5 suggests chance levels of prediction .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0175383.g001 Analytic work flow .
 We used at least 2 different configurations for each analytic strategy compared .
@@ -61,6 +66,7 @@ Logistic parametric regression is the most commonly used algorithm for predictio
 Logistic regression is easily implemented and interpreted .
 However , logistic regression assumptions are strong and , since the true data generating model is unknown , these assumptions are usually violated .
 For example , including many predictors , their interactions , and / or other higher order terms in a logistic regression model does not guarantee that it is the best model , due , for example , to collinearity between the predictors included ( which increases variability ) or model misspecification ( which introduces bias ) .
+
 Penalized regression ( such as lasso , ridge regression , or elastic nets ) offers an alternative to parametric regression models .
 The 3 types of penalized regression applied in this work vary in their variance / bias tradeoffs depending on the characteristics of the predictor set .
 For example , lasso will select only one term from a set of correlated predictors .
@@ -74,10 +80,12 @@ The screening step for the most relevant 2 - way interactions of these 135 terms
 Thus , the regression models including all predictors and selected interactions had 393 terms including the intercept .
 While logistic regression estimated 393 parameters for this model , lasso estimated parameters only for terms uncorrelated with each other and zeroed - out the rest ; ridge regression kept all 393 but down weighted each term .
 In this way , penalized regression allows for tuning large models adapting them to the information provided by the data .
+
 RF is a recursive partitioning method popular in many fields with high - dimensional data ( e.g. , genomics ) .
 RF can evaluate a number of predictor variables even in the presence of complex interactions , including those that are not possible to model using regression .
 RF is an ensemble of classification and regression trees constructed on bootstrap samples .
 Unlike individual trees , RF is more protective against overfitting .
+
 An ANN uses interconnected nodes within various layers to explain an outcome given a set of predictors .
 The relationships between the nodes are defined by weights calculated using a given rule .
 The initial weights are preassigned by the analyst .
@@ -87,6 +95,7 @@ ANNs efficiently generate non - linear classification rules but can be prone to 
 More recently , some types of ANN are referred to as deep learning [31] .
 Deep learning allows modeling multiple levels of non - linearity in the data and is scalable to large datasets and big data in general .
 We used deep learning ANN with hidden layer sizes of 200 .
+
 SL is a generalization of the stacking algorithm [32] , an ensemble machine learning method that takes a weighted average of all other algorithms considered for prediction and produces a single prediction function ( PF ) with optimal tradeoff between variance and bias .
 SL is very flexible for learning from the data as it combines the strengths of all methodologies considered ( including different configurations of the same algorithm ) while minimizing modelling flaws .
 Another advantage of SL is that it eliminates the need to select a priori a single or a few methodologies for the analysis .

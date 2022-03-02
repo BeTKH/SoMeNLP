@@ -8,6 +8,7 @@ Disease severity was evaluated by the Myasthenia Gravis Foundation of America ( 
 All patients provided written informed consent .
 Sera were stored at - 80 ° C at the central laboratory of Boramae Medical Center , Seoul , before batch transport to the UK for testing .
 This study was approved by the local ethics committee of Seoul National University , Seoul Metropolitan Government Boramae Medical Center ( IRB 16 - 2014 - 29 ) .
+
 All serum samples were tested for the three autoantibodies to MuSK , LRP 4 , and clustered AChR at the Autoimmune Neurology Diagnostic Laboratory , Nuffield Department of Clinical Neurosciences , John Radcliffe Hospital , Oxford , UK .
 All antibody testing was performed blinded to the clinical information .
 Antibodies to MuSK were tested by both RIPA ( RSR Ltd , Cardiff , UK ) and CBA , and antibodies to clustered AChR and LRP 4 were tested by CBA .
@@ -15,6 +16,7 @@ Measurement of antibody binding in CBA was performed by indirect immunofluoresce
 Results were measured by two observers on a nonlinear visual scale from 0 to 4 with the mean result given .
 A score of less than 1 was considered to be negative and scores from 1 to 4 were considered to be positive with 1 considered to be weak positive and 4 strong positive .
 All positive tests were repeated .
+
 Differences between groups were assessed by Fisher ’ s exact test or Kruskal - Wallis test .
 Pearson ’ s correlation analysis was performed to determine the relationship between CBA scores and radioimmunoassay ( RIA ) values for anti - MuSK antibodies .
 A two - tailed P value < 0.05 was considered to be statistically significant .

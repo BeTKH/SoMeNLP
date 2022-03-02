@@ -8,6 +8,7 @@ Written consent was obtained from all study participants .
 The study design was vetted and approved by the Institutional Review Board of EVMS ( # 07 - 08 - EX - 0198 ) .
 Descriptive statistics , including frequencies and averages , are offered for the variables .
 Relationships with the outcome variable , utilization , are tested using logistic regression to establish odds - ratios .
+
 The initial Andersen behavioral health model proposed factors that are predictive of healthcare utilization within three dimensions : predisposing characteristics , enabling characteristics , and need characteristics [73] .
 According to the behavioral health model , there is a loose causal ordering to the three primary dimensions explaining utilization .
 The predisposing dimension , which is most distant from utilization , embodies many health behaviors that may be considered stressors , predisposing the individual towards medical attention at some point [77] .
@@ -26,20 +27,24 @@ Second , mental health needs have been associated with complexity in the treatme
 Third , Andersen and others encourage the study of the role of consumer satisfaction in promoting utilization [44,74,90,91] .
 For example , the perceptions of quality of care received have been associated with a willingness to return to the treatment venue to seek additional service [45] .
 In response to Andersen ’ s call , we have incorporated within this study a measure of the individual social and familial network , measure of mental health drugs and metal health days as indicators of the psychological disposition , and measure of patients ’ perceptions of service quality .
+
 The outcome variable is the self - reported number of emergency department encounters .
 Patients were asked to estimate the number of additional times they have gone to an emergency department to receive treatment for themselves within the past year .
 Noting that a patient ’ s timeframe recall may affect accuracy [92] , selected responses were checked with some difficulty against accessible medical records to confirm agreement .
 The responses were folded into the several possible outcomes of two or more visits , three or more visits , four or more visits , and five or more visits within the past 12 months .
 Identification of a particular number of emergency department visits that may constitute a threshold or cutoff at which point the presentment may be characterized as frequent utilization is not well established [81,93-96] .
 By way of comparing multiple levels of utilization ranging from two or more encounters through five or more encounters we are able to distinguish differences in likelihoods among different population characteristics organized within the Andersen - Aday framework [67,97] .
+
 Several demographic variables are examined including Age ( < 21 , 21 - 30 , 31 - 40 , 41 - 50 , 51 - 60 , > 60 ) , Gender ( male , female ) , and Race / Ethnicity ( white , African American , Hispanic / Latino , Asian / Pacific Islander ) .
 Participants self - identified these characteristics .
+
 Predisposing factors are those that indicate a predisposition the need to use health services .
 Participants were queried on being prescribed drugs for mental health issues as well as whether , within the past 30 days , poor mental health kept them from doing usual activities .
 In addition , prescription drug abuse includes recently taking prescription drugs such as pain killers or stimulants that were either not prescribed or not as prescribed .
 Further , participants were asked if they had done any drugs such as meth , crack , heroine , or marijuana within the past 24 hours .
 Gathered also are indicators of whether , within the past 30 days , alcohol use kept the participant from doing usual activities as well as frequency with which six or more drinks are consumed on one occasion .
 Lastly , participants were assigned ‘ at risk ’ due to being in either the obese or the overweight BMI CDC categories .
+
 Enabling factors are those that , when in place , facilitate the propensity to use health services .
 These include availability and access to health services as well as knowledge about the service .
 Both employment and insurance status are assessed .
@@ -48,10 +53,12 @@ In addition , participants were asked if they spoke with a family member or frie
 Patients were assessed whether or not there was a time lag of more than 10 hours between the time that they realized they needed the attention of a medical professional and arrival at the emergency department .
 Also , respondents were queried about their efforts to make an appointment to see a doctor or nurse prior to their arrival at the emergency department .
 Lastly , the primary reason for choosing to seek the services of the emergency department , rather than some other healthcare treatment venue , was assessed ; measured were participants ’ reasons related to the quality of reputation , facilities , personnel , and services .
+
 Need factors are those that relate to health and functional status of the patient as well as the patient ’ s perception that the condition warrants professional attention .
 Participants were prompted to report the seriousness of their presenting condition as not serious , somewhat serious , or very serious as well as to report the seriousness of their presenting condition on a scale from one to ten , with ten being serious and one being not serious at all .
 Further , participants were asked if their most recent visit to the emergency department was for the same presenting condition .
 Lastly , participants were queried on the number of times they were admitted to the hospital within the past 12 months .
+
 We analyze the associations of these factors with the outcome variable , emergency department utilization .
 We perform logistic regression to identify those factors that are statistically related with the four levels of dichotomous emergency department utilization ( two or more visits , three or more visits , four or more visits , and five or more visits ) , reporting the confidence intervals and adjusted odds ratio ( AOR ) at each level of utilization .
 The treatment of the utilization variable as dichotomous , rather than continuous , within these several analyses is justified within the context of the research question which seeks to identify the threshold at which point a particular utilization factor may become significant .

@@ -9,6 +9,7 @@ The value of R was greater than 0.99 .
 The value of RMSE was less than 2 mm .
 These results describe a method for obtaining three - dimensional structures of land surfaces using 3D cameras and the evaluation of wheat emergence capacity .
 It can be used as a reference for obtaining three - dimensional cultivated land structures or other similar objects .
+
 Introduction
 Various quality parameters relating to crop emergence have an important impact on the entire growth lifecycle of crops .
 Quick , even , and complete emergence will shorten the time from sowing to full coverage , improve the temporal and spatial competitiveness of crops , build a good basis for the optimal canopy structure , and maximize high yield potential [1] .
@@ -53,6 +54,7 @@ Kinect can be used in the monitoring of animals in agriculture [15] , measuremen
 Therefore , if Kinect can be used to measure three - dimensional structures of cultivated land surfaces and identify the effects of different types of three - dimensional structures on wheat emergency , it will inform the accurate cultivation of wheat and provide a reference for the evaluation of cultivated land .
 This study utilized Kinect ( for Windows ) to obtain the three - dimensional information of cultivated land surface structures via three - dimensional reconstruction technologies .
 The effects of three - dimensional structures on wheat emergence were investigated through the manual construction of different types of cultivated land surface structures , ultimately evaluating the effects of cultivated land surface structures based on the information from Kinect .
+
 Materials and Methods
 Field experiments and investigation
 Field experiments were conducted at a research farm at Yangzhou University , Jiangsu Province , China ( 32 ° 30 ′ N , 119 ° 25 ′ E , 21 m altitude ) during the wheat growing season .
@@ -62,7 +64,9 @@ The specific grades are shown in Table [1] ; hydrolysable N : 116.17 mg · kg , 
 All the grades of soil were from one field .
 The chemical properties of the soil are the average values of 5 sampling points of the field .
 Test soil grades and compositions .
+
 Images of the different grades of soil are presented in Fig [1] . .
+
 The experiment was laid out in a two - factor randomized block design with three replicates .
 The 10 grades of soil and 5 cultivars were selected as the treatments .
 Plot dimension was 2 m × 3 m and the plots were separated by a 0.3 m wide space .
@@ -80,29 +84,35 @@ The aboveground dry weight was then measured .
 Spike numbers , grains per spike , and weight per 1000 wheat were investigated from each plot at harvest .
 Yield was calculated from 1.2 m area .
 The weather conditions during the growth period included an accumulated temperature of 2253 ° C , 400 mm precipitation , and 1149 h sunshine duration .
+
 Image capture
 Figure [2] shows the image capture devices .
 To ensure the stability of the image capture , a tripod was used to support the Kinect equipment , and the image sensor was placed to vertically face the cultivated land .
 The images were captured in the soft daylight and the camera was placed at a height of about 80 cm .
 Depth images were captured at the same time as RGB images of the cultivated land .
+
 Image analysis and processing
 Microsoft Kinect for Windows includes C language applications , Visual Basic , C # , and an interface Developer Toolkits .
 The three - dimensional images were processed using these toolkits .
 Based on the Kinect device characteristics , a value range for the X axis and Y axis of the images were respectively set as : X ∈ [ 0 , 640 ] , Y ∈ [ 0 , 480 ] .
 For a point in the three - dimensional coordinate system , P ( X , Y , Z ) , the corresponding point in the two - dimensional coordinate system is p ′ ( x ′ , y ′ ) ; its depth is ( x ′ , y ′ ) ; the focal length of the depth camera is : fx and fy ; and the coordinates of the center point of the camera are : c and c .
 The relationship between the three - dimensional point ( P ( X , Y , Z ) ) and the two - dimensional point ( p ′ ( x ′ , y ′ ) ) is as follows : disp - formula
+
 The image analysis process followed these 3 steps : Firstly , a three - dimensional curved surface chart of the cultivated land was constructed .
 This study took advantage of the capability of Kinect to capture multi - source information , using RGB images as the measurement criterion for information matching , and converting the two - dimensional space into three - dimensional space using ICP ( Iterative Closest Point ) and equation ( 1 ) [20] , ultimately achieving a three - dimensional image of the cultivated land using the Delaunay triangulation algorithm [21,22] .
 The resulting three - dimensional image is defined as : G ( r ) , which consists of 2 parts : flat land ( G ( r ) ) , and bulgy soil blocks ( G ( r ) ) .
 Their relationship is as follows : disp - formula
+
 Secondly , soil blocks were extracted and their heights were measured from the depth image , which can be viewed as a topographic map .
 In this study , soil blocks were extracted from the three - dimensional image using the Gaussian low pass filter ( equations ( [3] ) , σ = 0.05 ) [23] .
 After the filtering , G ( r ) and G ( r ) were respectively defined as 0 and 1 according to the threshold value .
 The figurations of soil blocks were extracted .
 The sizes and heights of the soil blocks were calculated based on their depths .
 disp - formula
+
 Lastly , the three - dimensional characteristic parameters of the soil blocks were calculated .
 According to the definitions of height parameters specified in ISO - 25178 - 2 ( 2012 ) , 4 parameters , S , S , S , and S , were selected as indicators to evaluate the three - dimensional structure of the cultivated land [24] .
+
 disp - formula
 disp - formula
 disp - formula
@@ -111,18 +121,22 @@ The pin meter method was used to get these 4 indicators .
 These 4 indicators got by the pin meter method were selected as the manual measurement result .
 The surface characteristics of different plots are shown in Table [2] .
 Characteristics of different grades of cultivated land .
+
 Six sets of data were obtained from each treatment .
 The data were divided into two data sets , which were then used for building the method ( 150 observations ) and validating the method ( 150 observations ) , respectively .
 The performance of the method was evaluated by using coefficients of determination of models ( R ) , the root mean square error in prediction ( RMSE ) , and the relative error in prediction ( REP ) .
 R and RMSE were used to evaluate the stability of the model and the average deviation between the measured values and the true values .
 REP was used to measure the accuracy of the model with respect to prediction .
+
 Results and Analysis
 Three - dimensional construction of cultivated land
 Figure [3] shows the original image , depth image , and three - dimensional image of one of the cultivated land samples .
 As indicated in Fig [3] . , the three - dimensional information of soil blocks in the land was well constructed using Kinect equipment and Equation ( [1] ) mentioned in Section 1.3 .
+
 The sizes of the soil blocks were easily captured from the constructed three - dimensional image of the land in the three - dimensional coordinate system ( Fig [4] . ) .
 As indicated in Fig [4] . , the spatial coordinates were converted into the actual sizes .
 The lengths and widths of the soil blocks were calculated using the X and Y values , while the heights were calculated using the value of Z .
+
 Characteristics of the different grades of cultivated land
 The differences among the values of Sa and Sq were significant , and could be used to evaluate soil grades .
 No significant differences existed among the values of Ssk and Sku .
@@ -132,26 +146,33 @@ As shown in Fig [5] . , the values measured in these 2 approaches were closely m
 The correlation coefficient ( R ) of the 2 values of Sa were 0.97 ( Calibration ) and 0.97 ( Validation ) , and the RMSE were 3.09 ( Calibration ) and 3.46 ( Validation ) .
 The correlation coefficient ( R ) of the 2 values of Sq were 0.98 ( Calibration ) and 0.98 ( Validation ) , and the RMSE were 3.92 ( Calibration ) and 4.35 ( Validation ) .
 The above results indicate that the characterisitic values measured by Kinect are accurate , providing a basis for the later grade classification of cultivated land .
+
 Table [3] is the statistical results of different grades for the values of Sa and Sq measured manually and by using Kinect .
 For the calibration data set , R was 0.65 - 0.88 , RMSE was 1.92 - 5.45 , REP was 2.87 - 50.48 % .
 For the validation data set , R was 0.57 - 0.84 , RMSE was 2.11 - 5.96 , REP was 9.66 - 56.25 % .
 This method performed better on high grades of soil than the low grades for the reason of depth resolution of Kinect .
-Statistics for evaluating the performance of proposed method at different grades of soil in calibration and validation datasets are different grades of soil .
+Statistics for evaluating the performance of proposed method at different grades of soil in calibration and validation datasets
+
+are different grades of soil .
+
 Different grades of cultivated land had a significant impact on wheat emergence .
 Figure [6] shows the emergence process of 5 wheat varieties in different grades of cultivated land .
 Lands of grades II , III , and IV possessed high emergence rates , as well as fast emergence speeds .
 Seeds began to emerge 7 days following sowing , with the emergence rate reaching a maximum at 15 days .
 The seeds were slow to emerge on the flat surface of I - grade land .
 However , the later emergence rate on this surface was over 70 % and reached a maximum 20 days following sowing .
+
 Figure [7] shows the emergence status across the different grades of land .
 Larger soil blocks reduced the growth space , thereby restricting seedling growth .
 Similarly , over - fine soil particles were not conductive to emergence .
+
 The surface characteristics of cultivated land not only affected the emergence rate , but also significantly impacted subsequent growth .
 As shown in Table [4] , the number of tillers per plant and the dry weight per plant in the wintering period were different across the different grades of cultivated land .
 These differences were extremely significant in some populations and impacted the final yields .
 Wheat seedling characteristics of different grades of cultivated land .
 TN is tiller number per plant at the beginning of wintering stage , and DR is dry weight per 10 plants .
 Within a column , means followed by the same letter are not significantly different at the 0.05 level of probability by students t test .
+
 Discussion
 Three - dimensional information capture of cultivated land
 The use of two - dimensional images in the intelligent measurement or evaluation of agriculture has become very popular , including the measurement of the number of fruits , the monitoring of pests and disease , and the evaluation of crop group growth [25,27] .
@@ -165,6 +186,7 @@ They are more often utilized for the measurement of precision devices in industr
 The accuracy does not have to be at the millimeter level for the evaluation of the three - dimensional structure of cultivated land ; the accurate description of fluctuations in the land surface is sufficient .
 A large number of experiments have demonstrated that Kinect is highly accurate for the measurement of soil blocks , with an error that can be controlled within 1 cm , which is sufficient for the “ rough ” measurement of cultivated land [6,23,30,31] .
 More importantly , Kinect is cost effective , which makes its extensive application possible .
+
 Evaluation of cultivated land surface structure
 The main purpose of cultivated land evaluation is to determine whether the land is suitable for crop growth .
 Previous studies have focused more on the influence of nutrients , organic matter , water , and air contained present in an area on crop emergence and subsequent growth .
@@ -173,6 +195,7 @@ This stems from the difficulties in measuring the three - dimensional surface st
 In this study , we were able to capture accurate sizes of land surface soil blocks ( length , width , height ) .
 This was derived from the 2 indicators , Sa and Sq , which proved ideal for the measurement of soil block roughness and size based on the soil surface structure evaluation standard specified in ISO - 25178 - 2 ( 2012 ) and the experimental results of this study ( Table [2] ) .
 It was also demonstrated that the 2 parameters acquired by Kinect are reliable and can be used for soil evaluation .
+
 Emergence evaluation
 According to the results of emergence rate and the later growth in 10 grades of cultivated land , land with more reasonable structures ( grades 3 , 2 , or 4 ) was conductive to the emergence and subsequent growth of seedlings .
 The grade 1 land containing overly fine particles exhibited slower emergence speeds and lower rates .
@@ -185,6 +208,7 @@ Spindly or weak seedlings occurred more frequently in the presence of large soil
 When planting wheat in grade 1 land , additional soil tillage , less watering , and an increase in soil permeability should help to improve the emergence rate .
 For land of grade 5 or 6 , simple soil crushing will be helpful .
 Land of grade 7 , 8 , 9 , or 10 would require several applications of crushing by means of a tractor to facilitate seedling emergence and subsequent growth .
+
 Problems and prospects
 This study designed a descriptive method for cultivated land surface structures based on Kinect three - dimensional cameras , with high description accuracy .
 The effects of different land structures on wheat emergence and subsequent growth were also identified .
@@ -192,6 +216,7 @@ Due to limited time , an in - depth investigation into several characteristics p
 This information could offer further explanations for the differences in wheat emergence rates .
 In addition , sunlight also exerts a certain impact on the Kinect image capturing equipment , in that strong light easily creates holes in the image construction .
 Therefore , in this study , images were captured during the morning or at dusk in the presence of soft light .
+
 Conclusions
 This paper introduces an evaluation method for cultivated land surface structures using inexpensive Kinect three - dimensional imaging equipment .
 The acquired data is accurate and the operation is simple .

@@ -8,6 +8,7 @@ This analysis focuses on the 181,764 beneficiaries who were consistently eligibl
 Comorbidity was assessed through the Charlson comorbidity index [19] .
 Different weights are assigned for specific conditions and the weights are added to find the index for a specific patient ( e.g. , a patient with depression , COPD and lymphoma would have a weight of 4 ) ( Table 1 ) .
 Data on use of warfarin was not available .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0112479.t001 Different weights assigned for specific conditions in the comorbidity index .
 The comorbidity index was assessed from claims data for services provided between January and December 2009 ; each claim had at least one primary ICD - 9 diagnosis code and up to three secondary codes .
@@ -19,10 +20,12 @@ Among children , 43 % of those who had no claims in 2009 also had none in 2010 .
 Costs were zero for those without claims .
 The prospective DCG model utilizes claims data and age , sex , diagnoses and their interactions to predict future costs ; the 2009 prospective DCG was used to predict 2010 cost [24] .
 Mental health disorders encompassed the ICD - 9 codes 290 - 316 other than depression ( 290.13 , 296.20 - 296.36 ; 296.82 ; 298.0 ; 201.11 ; 301.12 ; 309.0 - 309.1 or 311 ) and dementia ( 290 , 290.4 - 290.43 , 331 , 331.19 , 331.2 or 331.82 ) .
+
 Claims data was used to document the cost and utilization of services among these consistently eligible beneficiaries .
 The type and place of service were available .
 The prior year hospitalization was the actual number of hospitalizations .
 Total amount paid for all services including inpatient , outpatient , emergency room , laboratory tests , behavioral health and prescription drugs for January - December 2010 were evaluated .
+
 To compare the costs for those with a given chronic disease versus those with that disease and other comorbid diseases , an adjusted comorbidity index was calculated by subtracting the Charlson comorbidity weight for that disease from the total comorbidity score .
 For example , patients with congestive heart failure ( CHF ) who have an adjusted index score of zero have only CHF , while those with an index of one or more have other illnesses as well .
 Four predictors of subsequent yearly costs ( i.e. , prior year costs , prior year hospitalization , prior year comorbidity and prior year DCG ) were compared using four different analytic approaches : a two part regression modeling strategy often used in econometric analysis ; quantile regression to predict the upper 5 % and 10 % of the cost distribution ; logistic regression to predict whether a specific individual would be in the upper 5 % or 10 % cost strata using positive predictive value ; and receiver operating characteristic ( ROC ) analysis to evaluate sensitivity and specificity .

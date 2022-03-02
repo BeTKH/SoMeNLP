@@ -27,6 +27,7 @@ As mentioned , adults with ADHD scored higher on depression symptoms , but no di
 Second , alexithymia , which reflects difficulty in identifying and describing feelings and is characterized by externally oriented thinking , has been shown to be negatively correlated with IA [55] .
 Alexithymia was measured with the Toronto Alexithymia Scale ( TAS - 20 ) [56] .
 The ADHD group scored significantly higher on the TAS - 20 in comparison to the control group ( F ( 1 , 45 ) = 7.93 , p = .007 ) ( controls : M = 40.1 ( SD = 7.0 ) ; ADHD : M = 48.6 ( SD = 12.7 ) ) .
+
 The Mental Tracking Method [41] , a well - validated task with good psychometric values [57] and repeatedly used to measure IA [ 10 , 16 , 18 , 22 ] , was chosen as an objective measure of IA .
 The heartbeat perception task was programmed using E - Prime 2.0 software ( http://www.pstnet.com/products/e-prime/ ) and presented on a 19 - inch CRT monitor with 640x 480 screen resolution and a 60 Hz refresh rate .
 All sessions took place during daytime for all participants .
@@ -48,6 +49,7 @@ The heartbeat perception task was administered twice , at the beginning and end 
 A mean heartbeat perception score was calculated by summing both heartbeat perception scores ( acquired at the beginning and end of the testing session ) , and dividing that sum by two ( hence based on in total 6 heartbeat counting intervals ) .
 The electrocardiogram was recorded via two external electrodes from the Biosemi ActiveTwo system ( Biosemi , Amsterdam , The Netherlands ) ; one electrode was placed on the left lower rib cage and one electrode was placed on the left upper rib cage .
 R - waves were counted offline by means of a custom - made R - top algorithm in Brain Vision Analyzer 2 software .
+
 Participants completed the Dutch translation of the BPQ [42] , a subjective self - report measure of IA .
 We used an official back - translated version , approved by the authors of the original BPQ ( translated version by Godefroid , Dhar & Wiersema , available at stevenporges.com ) .
 This questionnaire consists of four different subscales with a total of 96 items .
@@ -56,6 +58,7 @@ Research has shown good reliability and validity measures for the awareness scal
 Although this subscale was of main interest for our study , the other subscales ( stress response ; reactivity of the autonomic nervous system ; stress style ) of the BPQ were included to check for specificity .
 Items are rated on a five - point Likert scale , ranging from 1 ( never ) to 5 ( always ) .
 The mean score of each subscale was obtained by summing all responses and dividing the sum by the number of items in the subscale .
+
 Participants were seated in a sound - attenuated and dimly lit room , sitting approximately 60 cm in front of the computer screen .
 Each participant signed an informed consent prior to participation in the experiment and received monetary compensation for their participation .
 Then participants were explained about the tasks that would follow .
@@ -63,6 +66,7 @@ This study was part of a larger experimental set - up .
 Two other behavioral tasks with a total duration of 50 min were administered in between both administrations of the heartbeat perception task ; the results of these tasks will be reported elsewhere .
 Verbal as well as written instructions were given prior to the start of each task .
 This study was approved by the local ethics committee .
+
 ANOVAs with group ( ADHD vs . control ) as between - subjects factor were performed to compare performance between groups on the heartbeat perception task , and the subjective measure of IA as indexed by the mean score of the awareness subscale of the BPQ .
 To check for specificity , we also performed ANOVAs on the mean scores of the other subscales of the BPQ .
 Finally , links between the IA indices and symptoms of anxiety , depression , and alexithymia were explored by additional correlational analyses .

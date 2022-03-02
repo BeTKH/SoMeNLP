@@ -1,8 +1,10 @@
 Practitioner in Private Practice , Danhauser , South AfricaDepartment of Medically Applied Psychology , Faculty of Medicine , University of Natal , Durban , South AfricaDepartment of Family Medicine , Faculty of Medicine , University of Natal , Durban , South AfricaCorrespondence to : Dr . Mohammed H . Cassimjee , Head of Department of Family Medicine , Faculty of Medicine , University of Natal , Durban , South AfricaObjective :
 The aim of the study was to assess the knowledge , attitude and practice of cigarette smoking behavior ( CSB ) in a sample of Indian matriculation students .
+
 Methodology :
 All ( N = 325 ) Indian matriculation students , at high schools , in Northern Kwa - Zulu Natal , South Africa , were included in the study .
 A questionnaire was administered to assess knowledge , attitudes and practice of CSB .
+
 Results and conclusion :
 The study showed a prevalence of 16.9 % .
 Most smokers ( 98.2 % ) had commenced the practice after the age of 10 years .
@@ -12,6 +14,7 @@ The association between smoking and lung cancer was well - known by smokers ( 90
 There was very little awareness of anti - smoking programmes or organizations .
 Alarmingly , there was little formal health education on the dangers of smoking in schools .
 The implications of these results are discussed and recommendations on decreasing CSB are made .
+
 INTRODUCTION
 Cigarette smoking ( CS ) is a major public health concern because of its impact on the health of both smokers and non - smokers [1,2] .
 Internationally , there is an increased public awareness about the health risks of CS which is reflected in the declining rates of CSB in the developed countries , while in developing countries , the rates are increasing .
@@ -37,12 +40,14 @@ Among the reasons for smoking , one - third smoked for fun and / or curiosity , 
 The study also found that 57 % of the youngsters bought their cigarettes from shops and that parents who smoked were more likely to have children who smoked as well .
 In this study , it was also found that 88 % of smokers had best friends that smoked .
 This study was undertaken to contribute to relieving the dearth of data on CSB among Indian school children in South Africa .
+
 MATERIAL AND METHODS
 All ( N = 325 ) Indian matriculation students , at high schools in Newcastle , Dannhauser , Glencoe and Dundee , in Northern Kwa - Zulu Natal , South Africa and for whom parental consent was obtained were included in the study .
 These schools previous to 1994 were reserved only for Indian children under apartheid rule .
 The reasons for choosing these schools were twofold : firstly , it was convenient for the researchers and secondly , it provided data on peri - urban or rural areas .
 A questionnaire designed by the authors in consultation with a statistician , was administered to the subjects .
 The questionnaire contained items that elicited sociodemographic data , information on the development of CSB , and it also assessed knowledge and attitudes towards cigarette smoking .
+
 RESULTS
 Of the 326 children who participated in the study , 144 ( 46.9 % ) were males and 163 ( 53.1 % ) females , 19 ( 5.83 % ) did not specify their gender .
 The mean age was 17.2 years with a range of 16 - 20 years .
@@ -75,6 +80,7 @@ Nineteen ( 34.5 % ) said they would definitely continue to smoke , whereas 33 ( 
 Seven smokers ( 12.7 % ) and 24 ( 9.3 % ) non - smokers were aware of organizations involved in anti - smoking programmes .
 However , only 4 ( 1.2 % ) smokers could actually name an organization that promoted anti - smoking programs , e.g. , South African National Council on Alcohol and Drug Dependence ( SANCA ) .
 With regard to formal talks or lectures given at school , 11 ( 20 % ) reported that they were addressed at school about the dangers of smoking .
+
 DISCUSSION
 There was a significant difference in the prevalence rate between males and females ( 52 36.1 % and 3 ; 1.8 % respectively ) .
 While there is no data available to compare prevalence rates among Indian school girls in South Africa , one study on adult Indian females , in South Africa , showed a prevalence rate of 3.2 % [8,10,11] .
@@ -159,6 +165,7 @@ Only when smoking becomes a socially unacceptable behavior in adults , will youn
 There was hardly any awareness of organizations or groups that conducted anti - smoking programmes , ( 12.7 % of smokers and 9.3 % of non - smokers ) .
 The only organization that was known was SANCA .
 Very few formal lectures or talks were given in schools on the dangers of smoking .
+
 RECOMMENDATIONS
 The study was conducted in Northern Kwa - Zulu Natal , South Africa , and results reflect findings in a group of Indian high school students .
 It is suggested that ( 1 ) education about health be made mandatory in schools , emphasizing hazardous activities such as smoking ; ( 2 ) that there be a prohibition of smoking in schools among academic and non - academic staff ; ( 3 ) anti - smoking campaigns be directed at pupils , teachers and other staff members should be held regularly by interest groups ; ( 4 ) local authorities should use their legislative powers to prohibit smoking in most public places , especially those frequented by children , such as discotheques and sports events and ban direct and indirect tobacco advertising at such places .

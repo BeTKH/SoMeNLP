@@ -14,6 +14,7 @@ The same questionnaire that was used for centenarian subjects was used to obtain
 Subjects with a family history of hearing loss , history of otologic diseases , and treatment with ototoxic drugs were excluded .
 Written informed consent was obtained from all participants or their guardians .
 The procedures described in the present study have been approved by the Institutional Review Board of the Shaoxing Second Hospital .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0065565.g001 Lifestyle factors and health condition of the centenarian participants.A : Percentage of centenarian subjects who had some of the risk factors for age - related hearing loss .
 Smoking was defined as consumption of at least half a pack of cigarettes a day for more than a year within the past 10 years .
@@ -22,6 +23,7 @@ COPD : Chronic obstructive airways disease ( diagnosed by a physician ) .
 B : Distribution of centenarian subjects ( presented as percentage ) with different blood pressure and glucose levels .
 Glucose level presented was based on blood collected 2 to 3 hours after meal .
 The numbers indicated inside the plots are the percentage .
+
 Pure - tone air - conduction thresholds were obtained in both ears of participants at the frequencies of 250 , 500 , 1,000 , 2,000 , 4,000 , and 8,000 Hz using a diagnostic audiometer ( MADSEN Midimate 622 ) .
 Bone - conduction thresholds were also obtained at the frequencies of 500 , 1,000 , 2,000 , and 4,000 Hz .
 No masking was used during test .
@@ -33,6 +35,7 @@ The level of f1 was set at 70 dB ( maximum output ) , while the level of f2 was 
 DPOAE response was regarded as detectable if the “ cubic ” distortion tone ( DP 1 ) and the “ quadratic ” distortion tone ( DP 2 ) were 6 dB above noise floor .
 For the assessment of middle ear function , tympanometry was used with a 226 Hz probe tone .
 An otoscopic examination was performed before all the tests to ensure that the ear canal was clear and that there were no obvious signs of middle ear infection or perforation in the tympanic membrane .
+
 Middle ear impedance , pure tone thresholds , and DPOAEs were obtained from both ears of each participant .
 When a participant was unable to hear a tone , 5 dB above the highest audiometer output level was recorded as the threshold .
 Data were presented as mean and standard deviation ( SD ) and evaluated with student ' s t - tests .

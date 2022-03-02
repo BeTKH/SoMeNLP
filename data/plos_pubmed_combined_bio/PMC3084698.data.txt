@@ -1,5 +1,6 @@
 1 .
 The demonstration programs for our super - threshold visual phenomena were created in Adobe Flash CS 3 and were programmed in Actionscript 2 , a scripting language that is built into the Flash programming environment .
+
 2 .
 We presented the displays in a classroom situation , to 26 American University students between the ages of 19 and 24 .
 The size of the stimulus in terms of visual angle was dependent on the row in which students sat ; students ' chairs ranged from approximately 3.0 meters to 6.7 meters from the screen .
@@ -8,23 +9,28 @@ The display was controlled from a Macbook Pro connected to a Sanyo PLC XT 25 the
 The demonstrations have been presented to both small and large public audiences ( for instance , at Vision Science Society ' s Demonstration Night and the Best Illusion of the Year contest in 2008 and 2009 ) .
 The phenomenal differences between peripheral and foveal viewing are robust over a wide range of viewing configurations , distances , and scales .
 For the purposes of most demonstration programs ( with the exception of the Kanisza illusion , whose procedure will be discussed below ) , we were interested in documenting the existence of the effect .
+
 The American University Institutional Review Board approved the experimental protocol for these experiments .
+
 Student observers at American University were given a response form with questions concerning the displays .
 Students were informed orally and in writing ( on the first page of the response form ) about the conditions of the study , that participation in the study was anonymous and voluntary , that their responses would be part of a data set that may be published in scientific proceedings , that turning in a completed response form indicated their informed consent to be part of the study , that they could turn in a blank response form or hold on to the response form if they did not wish to participate , and that there was no penalty for not participating .
 The presentation of the trials corresponded to potential responses on the response form .
 The demonstrations were presented on the classroom projector system .
 After each demonstration was presented , the participants wrote down their responses ; when all participants had finished recording their responses to a demonstration , the next demonstration was presented .
+
 3 .
 The motion energy analysis was detailed in [26] .
 In brief , the analyses were performed on a series of still images ( movie frames ) created with the aid of a Flash - Video converter ( MacVide ) .
 The method is illustrated with a dropping solid ball ( Fig . 1A ) .
 For each illusion , we first computed the Michelson contrast of each point ( x , y ) in each movie frame and then placed all the images at different time points in the three - dimensional ( x , y , t ) space .
 For a dropping solid ball , projections of the resulting three - dimensional volume in the x - t and y - t planes are shown in Figures 1B and C .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0018719.g001 Motion energy analysis for a solid dropping disk.A ) A series of frames depicting a solid dropping disk .
 B&C ) First - order motion plots in the x - t and y - t planes .
 D&E ) Projections of DC - removed and rectified second - order dropping disk movie in the x - t and y - t planes .
 F - I ) Fourier analysis of the first - order and second - order motion energy of the solid dropping disk in the fx - ft and fy - ft planes .
+
 To compute first - order motion energy in the horizontal and vertical directions , we first computed the Fourier power spectrum of the three - dimensional volume using Matlab 7.4 .
 We then projected the three - dimensional Fourier power spectrum onto the fx - ft and fy - ft planes .
 In Figures 1F and G , polar plots of the Fourier power are summed over every 15 degs in the fx - ft and fy - ft planes , respectively .

@@ -11,7 +11,9 @@
 
 
 
+
 Developer_of	Microsoft Corporation	302	1	Visual C++	287	0;;
+
 
 
 
@@ -70,7 +72,11 @@ Release_of	R2008	111	1	Matlab	94	0;;Developer_of	MathWorks, Inc.	120	2	Matlab	94
 
 
 
+
+
 Developer_of	SPSS Inc.	51	1	SPSS Statistics	33	0;;
+
+
 
 
 

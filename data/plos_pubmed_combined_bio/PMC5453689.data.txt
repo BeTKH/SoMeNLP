@@ -16,6 +16,7 @@ The CL was measured from the internal to the external os and the distance betwee
 At least three measurements were obtained for each dimension and the shortest was used in the analysis .
 One of two senior obstetricians ( AS , PB ) inserted all cerclages using either the McDonald or modified Shirodkar technique where the bladder is dissected from the anterior cervix and the suture ‘ buried ’ underneath .
 The latter technique was used where examination under anaesthetic suggested that bladder dissection would be needed to ensure satisfactory placement of the stitch .
+
 The cohort was initially categorically divided according to distance of cerclage in millimetres ( mm ) from the external os ( cerclage height ) at first USS after suture insertion .
 The relative risks ( RR ) of PTB at cerclage heights of < 10mm and < 15mm , relative to the remainder of the cohort , were calculated .
 Cerclage height was also analysed as a continuous variable and association with subsequent delivery at < 34 and < 37 weeks gestation was assessed using logistic regression .

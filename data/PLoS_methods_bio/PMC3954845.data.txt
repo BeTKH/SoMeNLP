@@ -1,9 +1,11 @@
 All participants gave their written informed consent to take part in the study , in line with the Declaration of Helsinki , and the study was approved by the Ethics Committee of the Medical School of the University of Liege .
+
 Twenty - six right - handed native French - speaking young adults ( 15 women ) , with no diagnosed psychological or neurological disorders , were recruited from the university community .
 The study was approved by the Ethics Committee of the Faculty of Medicine of the University of Liege , and was performed in accordance with the ethical standards described in the Declaration of Helsinki ( 1964 ) .
 All participants gave their written informed consent prior to their inclusion in the study .
 Age ranged from 18 to 28 years , with a mean of 20.9 years .
 Minimal number of years of education was 14 .
+
 In a first fMRI session , the order STM and alphabetical order judgment conditions were administered , including also the luminance judgment control condition .
 For each STM trials , the encoding phase consisted of the presentation of a list of six letters ( e.g. , ‘ D , C , I , F , J , A ’ ) ordered horizontally ( fixed duration : 2500 msec ) ( see also Figure 1 ) .
 For the maintenance phase , a fixation cross was displayed for a variable duration ( random Gaussian distribution centered on a mean duration of 4500 ± 1500 msec ) .
@@ -23,6 +25,7 @@ The participants had to decide within 3000 msec whether luminance levels were th
 We manipulated two different luminance levels ( close versus further apart ) in the luminance baseline condition in order to control for general executive processes associated with comparison judgments for highly similar versus dissimilar stimuli in the tasks - of - interest , and hence to isolate neural substrates associated with ordinal judgments and comparison processes as specifically as possible .
 The photometric luminance difference between the two letters was either small ( close distance = difference of 80 cd / m2 hue - saturation - brightness ) or large ( far distance = difference of 160 cd / m2 hue - saturation - brightness ) .
 In order to control for processes associated with basic letter processing in the STM task , the luminance judgment trials were furthermore preceded by the presentation of six identical letters ( ‘ A ’ ) organized horizontally and which the participants viewed passively ( see Figure 1 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0092049.g001 Experimental design and timing of the four tasks .
 For each condition , a negative probe trial is illustrated .
@@ -41,6 +44,7 @@ The duration of the intertrial interval was variable ( random Gaussian distribut
 If the participant did not respond within 3000 msec , “ no response ” was recorded and the next trial began .
 Both response accuracy and response times were collected .
 Finally , a practice session outside the magnetic resonance environment , prior to the start of the experiment , familiarized the participants with the specific task requirements and included the administration of 10 practice trials .
+
 Data were acquired on a 3 - Tesla scanner ( Siemens , Allegra , Erlangen , Germany ) using a T2 * - sensitive gradient - echo EPI sequence ( TR = 2040 msec , TE = 30 msec , field of view ( FOV ) = 192 × 192 mm 2 , 64 × 64 matrix , 3 mm in - plane resolution , 34 axial slices with 3 mm thickness , and 25 % interslice gap to cover most of the brain .
 The 3 initial volumes were discarded to avoid T1 saturation effects .
 Field maps were generated from a double - echo gradient recalled sequence ( TR = 517 msec , TE = 4.92 and 7.38 msec , FOV = 230 × 230 mm 2 , 64 × 64 matrix , 34 transverse slices with 3 mm thickness and 25 % gap , flip angle = 90 ° , bandwidth = 260 Hz / pixel ) and used to correct echo - planar images for geometric distortion due to field inhomogeneities .
@@ -49,6 +53,7 @@ For the first session ( STM , alphabetical and luminance judgment ) , between 11
 For the second session ( numerical order judgment ) , between 346 and 392 functional volumes were obtained .
 Head movement was minimized by restraining the subject ' s head using a vacuum cushion .
 Stimuli were displayed on a screen positioned at the rear of the scanner , which the subject could comfortably see through a mirror mounted on the standard head coil .
+
 Data were preprocessed and analyzed using SPM 8 software ( Wellcome Department of Imaging Neuroscience , www.fil.ion.ucl.ac.uk/spm ) implemented in MATLAB ( Mathworks , Natick , MA ) .
 EPI time series were corrected for motion and distortion using “ Realign and Unwarp ” [31] using the generated field map together with the Fieldmap toolbox [32] provided in SPM 8 .
 A mean realigned functional image was then calculated by averaging all the realigned and unwarped functional scans , and the structural T1 image was coregistered to this mean functional image ( rigid body transformation optimized to maximize the normalized mutual information between the 2 images ) .
@@ -77,5 +82,6 @@ Serial autocorrelations were estimated with a restricted maximum likelihood algo
 The resulting set of voxel values constituted a map of t statistics [ SPM ( t ) ] .
 All contrast images were then smoothed again ( 6 - mm FWHM Gaussian kernel ) in order to reduce remaining noise due to intersubject differences in anatomical variability in the individual contrast images .
 Statistical inferences were performed at the voxel level at p < .05 , with FWE - corrections for multiple comparisons across the entire brain volume , as well as using small volume corrections for a priori locations of interest [36] .
+
 A Priori Locations of Interest : Regions of interest concerned the anterior and posterior bilateral IPS , based on aforementioned studies associating the anterior part of the horizontal of the IPS to processing of ordinal information in STM and numerical processing tasks , and associating the posterior part of the IPS to attentional control processes .
 The small volume correction was computed on a 10 mm radius sphere around the averaged coordinates published for the corresponding location of interest namely bilateral anterior IPS ( − 42 , − 42 , 40 and 44 , − 40 , 44 ) [4] , [5] , [10] , [24] , [37] and bilateral posterior IPS ( − 26 , − 62 , 46 ; 28 , − 58 , 40 ) [27] , [28] .

@@ -15,6 +15,7 @@ The ambulances were stationed in the district at district hospital , community h
 Ambulance could be called to place of emergency by dialling a toll - free number ‘ 108 ’ in any district throughout the state .
 Nearest ambulance available is dispatched by call centre operator using a well - functioning geographic information system ( GIS ) .
 ERS is primarily limited for transportation to public sector institutions except if there is strong insistence by beneficiary / attendants for private facility .
+
 Data Collection : Source and Methods : Both primary and secondary data was collected .
 Secondary data for almost 0.4 million calls received during one year period from 1st April , 2012 to 31st March , 2013 for all the 20 districts of Punjab , as recorded in database of 108 service provider was obtained .
 This data was drawn from the ERS tracking software which is generated from the calls received at centralized call - centre for availing ERS .
@@ -38,12 +39,15 @@ Cost data for the 108 ERS was collected from the accounts department of the PHSC
 Non - recurrent or capital costs and recurrent or operational costs were elicited .
 The non - recurrent costs comprises of cost of 240 vehicles , set up cost of emergency response centre in district Amritsar , information - technology infrastructure ( including software ) and pre - operational costs i.e. trainings , recruitments , marketing , administration and communication costs .
 Operational costs were the annual costs paid to private provider for delivering the service , which was fixed per ambulance , subject to a minimum of 3 calls per day per ambulance .
+
 Data of 391369 calls , received from 1st April , 2012 to 31st March , 2013 was analyzed to assess the extent and pattern of utilization .
 Utilization pattern was assessed by the gender , medical condition of the patient and type of health facility .
 To ascertain the impact of 108 referral transport service on equitable utilization of public health facilities , we analysed the primary data on users and non - users of 108 using multiple logistic regression .
+
 To evaluate the quality of the referral service in Punjab , the primary data on users and non - users of 108 along with the data on physical inspection of 21 ambulances was analyzed .
 We used propensity score matched ( PSM ) non - users for each user ( Table 1 ) .
 Propensity score is the conditional probability of an individual to utilize 108 referral service from the group of users and non - users individuals taken together in the presence of covariates [15] - [17] .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0109911.t001 Overview of Study Methodology for Evaluation of Emergency Referral Services in Punjab State , India .
 The regression analysis showed that the users and non - users of ERS were significantly different on a set of independent factors .
@@ -57,6 +61,7 @@ Mean time taken to reach the health facility among users and matched non - users
 We analysed the effectiveness of ERS on reducing the 2nd delay of the 3 - delay model of Kwast , which means the time taken since the decision is made to seek medical care till the pregnant woman reaches health facility [20] - [23] .
 Additionally , client satisfaction among 108 users and proportion of calls attended for users by the time of the day ( derived from calls data ) were computed as quality measures of the referral transport system .
 Physical quality of ambulance was measured against BLS benchmarks ( Table 1 ) .
+
 Impact of Referral Service on Public Sector Institutional Delivery : Trends in public institution deliveries before and after the introduction of 108 referral service were assessed ( Table 1 ) .
 It was assumed that intervention would start displaying its effect after the first phase itself when 90 ambulances ( out of 240 planned ) were already active for service delivery .
 Interrupted time series analysis was undertaken using Segmented Linear Regression ( SLR ) [24] .
@@ -81,6 +86,7 @@ We annualised the costs of all the capital items based on the average life span 
 Equivalent uniform annual costs for each capital item were computed .
 We used cost paid to private provider per ambulance during 2012 as operational cost .
 Unit cost was estimated as cost per call , cost per individual transported and cost per kilometre travelled .
+
 The study was approved by the Institute Ethics Committee of the Post Graduate Institute of Medical Education and Research , Chandigarh , India .
 Administrative approvals were obtained from the Health Department of Punjab state .
 Written approval was obtained from Civil Surgeons of the concerned districts and officer in - charge of health facilities which were visited .

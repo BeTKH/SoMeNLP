@@ -5,8 +5,10 @@ Expression data identifies the basal / squamous gene expression subtype to be as
 Immune cell infiltration and high PD - 1 protein expression are associated with treatment response .
 Through integration of genomic and transcriptomic data , we demonstrate patient stratification to groups of low and high likelihood of cisplatin - based response .
 This could pave the way for future patient selection following validation in prospective clinical trials .
+
 There are currently only a few biomarkers to predict the response of muscle invasive bladder cancer to therapy .
 Here , the authors analyse 300 tumors using exome and RNA sequencing and find that tumors with a high degree of genomic instability and a non - basal / squamous gene expression subtype are most likely to respond to treatment .
+
 Introduction
 Bladder cancer ( BC ) is the 9th most commonly diagnosed cancer worldwide and each year responsible for 165,000 deaths [1] .
 One of four patients with BC presents with muscle invasive disease .
@@ -31,11 +33,13 @@ We demonstrate that genomic instability driven by a high number of chromosomal a
 Furthermore , we show that the basal / squamous gene expression subtype is associated with poor response and immune cell infiltration and high PD - 1 protein expression are associated with treatment response .
 Finally , through integration of genomic alterations and gene expression subtypes we identify patient groups with vastly different response rates .
 Our findings provide insight into the mechanisms associated with cisplatin - based treatment response , which could aid future personalized treatment in BC .
+
 Results
 Clinicopathological and multi - omics molecular data
 To investigate molecular correlates associated with treatment response , we included 300 tumors from patients with BC receiving chemotherapy ; 62 received NAC before cystectomy ( CX ) and 245 received first - line chemotherapy upon detection of locally - advanced ( T4b ) or metastatic disease ( Supplementary Fig . 1a ; Supplementary Data [1] ; Supplementary Tables [1] and [2] ) .
 An overview of the molecular analyses performed is provided in Supplementary Fig . 1b .
 Treatment response , defined as pathological noninvasive downstaging ( ≤ pTa , CIS , N0 ) after NAC or complete or partial response after first - line treatment ( RECIST 1.1 ) , was observed for ~ 57 % of patients ( n = 172 / 300 , NAC : ~ 63 % , first - line : ~ 55 % ) .
+
 Tumor - specific DNA alterations
 WES was performed using DNA from 165 tumors ( 76 × median coverage , median of 92 % target bases at 20X ) and associated leukocyte germline DNA ( 46 × median coverage , median of 85 % target bases at 20X ) .
 A median of 524 ( 35 - 8231 ) mutations and 41 ( 6 - 2171 ) indels per tumor were identified .
@@ -63,6 +67,7 @@ Importantly , patients with BRCA 2 mutated tumors had a significantly higher res
 Kaplan - Meier survival analysis indicated improved survival for BRCA 2 mutated patients ( p = 0.11 ; log - rank test ; Fig . 2f ) .
 In TCGA data , BRCA 2 and ERCC 2 mutated samples similarly demonstrated elevated numbers of SBS 5 mutations , however , they also demonstrated elevated numbers of mutations in an APOBEC ( SBS 2 + 13 ) context ( Fig . 2g , h and Supplementary Fig . 4b ) .
 Importantly , in TCGA , all patients with BRCA 2 mutated tumors receiving cisplatin - based chemotherapy ( n = 6 out of 62 patients ) responded ( vs . 34 / 56 for BRCA 2 wt , p = 0.08 ; Fisher ’ s exact test ; Fig . 2i ) , while 6 / 7 patients with ERCC 2 mutated tumors responded ( vs . 34 / 55 for ERCC 2 wt , p = 0.40 ; Fisher ’ s exact test ; Fig . 2j ) .
+
 Genomic analysis of paired primary and metastatic lesions
 In this study , we assessed tumor - specific alterations associated with chemotherapy response based on primary tumor specimens , however in ~ 30 % ( 49 / 165 patients ) the primary tumors were removed , and chemotherapy response evaluation was based on image analysis of the metastatic sites .
 To assess if molecular correlates of chemotherapy response identified in primary tumors persist in metastatic lesions , we performed WES of DNA from available metastatic lesions ( n = 11 ) from six patients ( Fig . 3a ) to a median read depth of 100X .
@@ -77,6 +82,7 @@ We , therefore , compared the mutational processes underlying the mutational lan
 In three patients , the majority of both shared and private mutations were observed in an SBS 5 context .
 For the remaining three patients , the majority of trunk mutations were observed in a SBS 2 + 13 ( APOBEC ) context while the majority of private mutations in the metastatic samples were observed in an SBS 5 context .
 This suggests APOBEC mutagenesis may primarily occur before metastatic dissemination , whereas SBS 5 shapes the mutational landscape of metastatic lesions .
+
 Gene expression analysis
 Gene expression consensus subtypes were called based on RNA - Seq data ( n = 121 ) [15] with the following distribution : LumP : 36.4 % , LumNS : 0 % , LumU : 21.5 % , Stroma - rich : 14.9 % , Ba / Sq : 26.4 % , NE - like : 0.8 % .
 Assigned subtypes were validated based on expression of basal - , luminal - , immune - , extracellular matrix - and FGFR 3 - related markers ( Fig . 4a ) .
@@ -98,6 +104,7 @@ Grouping patients based on immune infiltration and neoantigen load neither displ
 We , therefore , speculated whether the presence of mutations and an effective machinery for neoantigen presentation would be a prerequisite for an effective immune response .
 Overall , the number of mutations and indels showed no association with immune infiltration levels ( Supplementary Fig . 5c ) .
 However , for tumors with high levels of immune infiltration , we found a trend towards higher expression of neoantigen presenting genes [23] for patients responding to chemotherapy compared to non - responders ( p = 0.069 ; Wilcoxon rank - sum test ; Fig . 4j ) .
+
 Methylation alterations
 Illumina EPIC arrays were used to investigate if methylation alterations were associated with chemotherapy response ( n = 72 ) .
 We performed unsupervised consensus clustering using tumor - associated hyper - or hypomethylated CpG sites ( Fig . 5a and Supplementary Fig [6] . ) .
@@ -108,6 +115,7 @@ In addition , HMC 3 showed significantly higher gene expression scores attributa
 Similar gene expression scores for smooth muscle cells were observed between methylation clusters ( Fig . 5c ) .
 Collectively , these findings indicate that HMC 3 represents a group of tumors characterized by high immune cell infiltration and probably few carcinoma cells .
 We observed no correlation between methylation clusters and response to chemotherapy ( Fig . 5d ) .
+
 Spatial proteomics analysis by digital pathology
 We performed multiplex immunofluorescence and immunohistochemical staining to analyze the spatial composition of tumor - and immune cells ( T - Helper , CTLs , Tregs , B - cells , M1 , and M2 macrophages ) and immune evasion mechanisms ( PD - L1 , PD - 1 , and MHC class I ) in 184 patients who received first - line chemotherapy .
 All antibodies used are listed in Supplementary Data [2] .
@@ -122,6 +130,7 @@ We further explored immune evasion mechanisms within immune subtypes and found t
 These features suggest that immune cells are able to migrate into the tumor parenchyma , however , the antitumor response might be less effective due to immunosuppression .
 Immune desert tumors showed a lower fraction of PD - 1 positive cells compared to the other subtypes ( Fig . 6i ) .
 Furthermore , downregulation of MHC class I on tumor cells was observed in the immune desert and excluded tumors , which could explain the lack or retention of immune cells in the stroma surrounding the tumor parenchyma ( Fig . 6k ) .
+
 Integrative multi - omics analysis
 An integrative analysis of genomics , transcriptomics and proteomics data enabled us to further examine possible biological differences between responders and non - responders of chemotherapy .
 The genomic features associated with response in this study seemed to converge on inefficient DNA damage response .
@@ -136,6 +145,7 @@ Among the clinical features , only performance status prior to first - line chem
 Since the majority of patients ( ~ 98 % ) were treated with cisplatin - based chemotherapy , we integrated genomic instability measures and gene expression subtypes for these patients to assess the impact on response rates .
 This revealed that while high genomic instability is associated with elevated response rates , the Ba / Sq subtype was associated with reduced response rates across the genomic instability groups ( Fig . 7e ) .
 Importantly , this combined analysis identifies a group of patients with a very high response rate ( 80 % ; NAC : 90 % ; First - line : 71 % ) characterized by high genomic instability and non - Ba / Sq gene expression subtype and a group of patients with a very low response rate ( 25 % ; NAC : 20 % ; First - line : 29 % ) characterized by low genomic instability and Ba / Sq gene expression subtype ( p = 4.3e - 4 ; NAC : p = 0.006 ; First - line : p = 0.077 ; chi - square test ; Supplementary Fig [8] . ) .
+
 Discussion
 To capture the complex interplay between tumor biology and possible cisplatin - based chemotherapy response and resistance mechanisms , we investigated genomics , transcriptomics , epigenetics , and proteomics with clinical and pathological data .
 The predictors of chemotherapy response in this patient cohort were : a large proportion of the genome under allelic imbalance , a high number of indels , a high number of SBS 5 mutations , somatic mutations in BRCA 2 .
@@ -176,6 +186,7 @@ Although pathological downstaging has been used for evaluating NAC response in s
 Overall , our results highlight several molecular correlates of chemotherapy response and importantly , the integration of genomic instability and gene expression subtypes identified patient groups with vastly different response rates .
 If successfully validated in future prospective trials , these findings could aid in selecting patients with a high probability of treatment response and potentially minimize the current overtreatment of patients .
 Prospective validation is currently ongoing ( NCT 04138628 ) .
+
 Methods
 Patient details
 A total of 300 patients with BC receiving chemotherapy were included in the study ; 62 received NAC before cystectomy ( CX ) and 245 received first - line chemotherapy upon detection of locally - advanced ( T4b ) or metastatic disease ( Supplementary Fig . 1a ) .
@@ -195,10 +206,12 @@ NAC treated cases represent a very homogeneous cohort based on pre - therapeutic
 Informed written consent to take part in future research projects was obtained from all patients , and the specific project was approved by the National Committee on Health Research Ethics ( # 1706291 ) .
 Biological specimens from TURB - T or metastatic lesions collected between 1995 and 2017 were provided by the Departments of Urology , Aarhus University Hospital and Departments of Pathology at Aarhus University Hospital , Randers Hospital , Aalborg University Hospital , Viborg / Holstebro Hospital , S ø nderborg Hospital , Vejle Hospital , and Esbjerg Hospital .
 Study data were collected and managed using REDCap electronic data capture tools hosted at Aarhus University [38] .
+
 Tissue microarrays
 Tissue microarrays ( TMA ) from three MIBC cohorts were included in the study , representing 184 patients in total .
 The TMAs consisted of up to six 1.0 mm core biopsies per patient .
 All core biopsies were taken from the most representative tumor area , selected by a trained pathologist .
+
 Nucleotide extraction procedures
 Tumor tissue was snap frozen in liquid nitrogen and stored at − 80 ° C or was formalin fixed and paraffin embedded ( FFPE ) .
 Hematoxylin and eosin stained overview sections ( top and bottom ) were evaluated for the presence of carcinoma cells .
@@ -206,6 +219,7 @@ DNA was extracted using the Puregene DNA purification kit ( Gentra Systems ) or 
 DNA was extracted from peripheral blood leukocytes from all patients using the QIAsymphony DSP DNA midi kit ( QIAGEN , cat # 937255 ) .
 RNA was quantified using an Infinite 200 PRO NanoQuant spectrophotometer ( Tecan ) .
 RNA integrity was assessed using a 2100 Bioanalyzer ( Agilent Technologies ) .
+
 Whole exome sequencing
 Libraries of tumor and matching germline DNA were prepared using 100 - 500 ng DNA and processed using the pipeline available from Roche Nimblegen ( see Supplementary Data [3] for details ) .
 DNA concentration was calculated using a Qubit 3.0 fluorometer ( ThermoFisher ) .
@@ -219,9 +233,11 @@ A custom filter selecting variants only vastly more present in the tumor and in 
 Furthermore , variants identified by MuTect 2 that did not pass the built - in filters were reintroduced if they were identified with high confidence using VarScan 2 [40] ( pileups generated using samtools [41] ) .
 All somatic alterations were annotated using SnpEff [21] and hg 19 build .
 We used the four predicted impact categories defined by SnpEff to filter alterations with high impact ( frameshift variant , start codon lost or stop codon gained or lost , etc ) or moderate impact ( missense variation , inframe insertion or deletion , etc ) from low impact ( mainly synonymous variant ) and modifier impact ( intergenic or intron variant , etc . ) .
+
 Neoantigen prediction
 Polysolver [42] was used to predict germline alleles of class I HLA - A , B , and C genes from the WES of the germline samples .
 The MuPeXI webserver [43] was then used to extract 8 to 11 length peptides around missense mutations , indels and frameshift mutations from the somatic VCF files and all mutant peptides with a binding prediction to MHC below 2 % ( weak binders ) from NetMHCpan [44] were retained as neoantigens .
+
 Copy number alterations
 Custom Illumina SNP arrays ( ~ 760k positions ) were produced for 49 patients ( tumor + germline DNA ) in order to assess copy number alterations .
 Genotyping , logR Ratio ( LRR ) and B - allele - fraction ( BAF ) were corrected and normalized using the Genotyping module from GenomeStudio 2.0 ( Illumina ) and all positions with cluster separation > 0.75 were exported ( 594k SNPs ) for further analysis .
@@ -229,6 +245,7 @@ The R package ASCAT [45] was used for segmentation of the genome but various tum
 Therefore , only the raw - segmented BAF data was used to define genomic regions with allelic imbalance .
 A sample - specific threshold was defined corresponding to a third of the max BAF segmented value ( removing outliers ) .
 Regions with strong imbalance reflect genomic regions with either a loss of heterozygosity due to a loss allele ( copy number loss ) or due to an amplification of only one allele ( imbalanced copy number gain ) in most of the tumor cells .
+
 Mutational signature analysis and microsatellite instability
 SNVs and their trinucleotide context were subjected to mutational signature analysis using R packages SomaticSignatures [46] and MutationalPatterns [47] .
 Only samples with more than 100 SNVs were included to ensure robustness of the signature decomposition ( 162 / 165 samples ) .
@@ -244,15 +261,18 @@ A matrix consisting of samples as columns and genes as rows and the appropriate 
 P - values ( p _ perm ) were then calculated using a Wilcoxon rank - sum test for every gene in every permuted matrix and the final p - value was calculated as the fraction of p _ perm smaller than p _ obs .
 TCGA data were processed similarly for analyses related to mutational signatures .
 MSI status was inferred using MSIsensor [50] .
+
 Damaging DNA damage response mutations
 Missense mutations in genes related to DDR were analyzed for potentially damaging effects using Polyphen 2 [18] and MutationAssessor [19] .
 Mutations identified as possibly damaging / probably damaging or medium / high in PolyPhen 2 and MutationAssessor , respectively , were considered damaging .
 All loss of function mutations were considered damaging .
+
 Comparison of primary tumors and metastatic lesions
 For each patient , we called mutations using MuTect 2 ( default parameters ) by comparing all available samples ( primary tumor and metastatic lesions ) to the germline .
 However , a mutation might be called in e.g. the primary tumor and not quite reach the threshold of being called in a metastatic lesion .
 We , therefore , combined all called mutations for each patient and assessed the presence of said mutations in all relevant bam files using bam - readcount ( only reads and bases with high quality were considered ) .
 Based on the minimum observed VAF for a mutation across all relevant samples , we calculated the minimum required read depth to observe it and kept only mutations with sufficient read depth in all relevant samples .
+
 RNA sequencing
 RNA - seq was performed using the QuantSeq kit FWD HT kit ( Lexogen ) using 500 ng input RNA .
 The method generates 3 ′ count data from polyadenylated RNA and only one fragment is assessed per transcript ensuring highly accurate gene expression values .
@@ -262,6 +282,7 @@ Salmon [51] was used to quantify the amount of each transcript using annotation 
 The R - packages , tximport [52] and edgeR [53] , were used to respectively summarize the expression at gene - level and normalize the data .
 Samples were classified according to the six consensus classes of MIBC using the R - based consensus MIBC classification tool ( n = 121 ) [15] .
 All samples were used for the expression subtyping but only the fresh frozen samples ( n = 96 ) were used for further analysis .
+
 Analysis of regulon activity
 We investigated transcriptional regulatory networks consisting of transcription factors and associated induced / repressed target genes using R package RTN [54] .
 Our analysis was confined to 23 transcription factors previously associated with BC ( Supplementary Table [4] ) [5,55] .
@@ -270,10 +291,12 @@ Unstable associations were removed by bootstrap analysis .
 A gene can be associated with more than one transcription factor at this point and the weakest interaction was , therefore , removed .
 Finally , the activity of all regulons was assessed using a two - tailed gene set enrichment analysis .
 We furthermore performed cell type enrichment analysis using xCell with the same normalized gene expression matrix as above as input [56] .
+
 Immune cell deconvolution
 The presence of immune cells was evaluated based on the expression of predefined gene lists for every immune cell type of interest [57] ( for CD 4 cells [58] ) .
 A score for every cell type was calculated as the mean expression for all genes associated with the cell type in question .
 An overall immune score was defined as the sum of all immune cell type scores .
+
 DNA methylation
 DNA methylation analysis was performed using DNA from 72 patients .
 We used 500 ng genomic DNA for bisulfite conversion followed by whole - genome amplification prior to hybridization to EPIC BeadChip ( Illumina , San Diego , CA ) overnight as described by the manufacturer and then scanned with the Illumina iSCAN system .
@@ -283,6 +306,7 @@ We identified 5000 tumor - associated hyper - and 5000 hypomethylated CpG sites 
 For the tumor - associated hypermethylated sites , we selected 5000 CpG autosomal sites unmethylated in normal bladder tissue and in leukocytes , present on the EPIC platform and methylated in at least four patients .
 Unsupervised consensus clustering [61] was used with each set and for both cases , three major clusters were found .
 All probes annotated as TSS 1500 , TSS 200 or 5 ′ UTR were summarized to define the promoter methylation value and all probes annotated as Body were summarized to define the gene body methylation value for all genes .
+
 Immunofluorescence , immunohistochemistry and imaging
 Two TMA sections per patient ( 3 μ m ) were analyzed using multiplex immunofluorescence to detect the expression of markers in Panel 1 ( CD 3 , CD 8 , FOXP 3 ) and Panel 2 ( CD 20 , CD 68 , CD 163 , HLA - ABC ) .
 Primary antibodies are listed in Supplementary Data [2] .
@@ -301,6 +325,7 @@ Additionally , three TMA sections per patient were obtained and immunohistochemi
 For bright - field detection , slides were developed using the Ventanas Detection Kits : ultraView Universal 3 , 3 ′ - Diaminobenzidin ( cat # 760 - 500 ) according to the manufacturer ’ s instructions .
 Slides were then counterstained with hematoxylin II ( cat # 790 - 2208 ) for 8 min , followed by Bluing reagent ( cat # 760 - 2037 ) for 4 min .
 Bright - field imaging was performed in the Hamamatsu Nanozoomer 2.0 HT ( Meyers Instruments ) .
+
 Automated quantification of scanned images
 Automated quantification of selected markers was carried out using the Visiopharm software ( Visiopharm A / S , H ø rsholm , Denmark ) .
 For each tissue core , the fluorescence image was aligned to its corresponding chromogenic ( cytokeratin ) stained image using the Visiopharm Tissue Align module ( Supplementary Fig . 7a ) .
@@ -311,6 +336,7 @@ For each selected marker , a visually defined threshold was set to differentiate
 The following scoring algorithms were applied to calculate cell fractions ( here shown for CTLs ( CD 8 + CD 3 + FOXP 3 - ) as an example ) :
 Intratumoral CTLs = CTLs counts intratumoral / total cell count intratumoral
 Peritumoral CTLs = CTLs counts peritumoral / total cell count peritumoral .
+
 Immune subtypes and PD - 1 / PD - L1 axis
 Immune Scores ( IS ) for each region of interest were calculated based on the sum of immune cell fractions ( T - Helper , CTLs , Tregs , B - cells , M1 and M2 macrophages ) present in the specific region .
 The IS were then split at the median to form high and low groups .
@@ -319,6 +345,7 @@ We classified our three immune subtypes as follows :
 ( 2 ) Excluded : Intratumoral IS + Peritumoral IS ,
 ( 3 ) Infiltrated : Intratumoral IS + Peritumoral IS or Intratumoral IS + Peritumoral IS .
 For evaluation of the combined PD - 1 / PD - L1 axis ( Fig . 6h ) , samples were dichotomized as positive and negative by the median .
+
 Statistics and reproducibility
 All multi - omics measurements were performed once for each distinct sample .
 Assessment of statistical significance included Fisher ’ s exact test or chi - square test for categorical variables and Wilcoxon rank - sum test for continuous variables .
@@ -329,8 +356,10 @@ Eight patients received both NAC and first - line treatment for metastatic disea
 Genomic instability groups were defined by the number of SBS 5 mutations , indels and allelic imbalance and BRCA 2 mutation status .
 If patients had numbers above the median for SBS 5 mutations , indels or allelic imbalance or a BRCA 2 mutation , they were assigned to the group of high genomic instability .
 The protein immune score ( IS ) , defined as the sum of immune cell fractions , was dichotomized based on the median .
+
 Reporting summary
 Further information on research design is available in the Nature Research Reporting Summary linked to this article .
+
 Supplementary information
 Supplementary Information
 Peer Review File

@@ -1,14 +1,18 @@
 OBJECTIVES :
 Aromatase inhibitors are the first - choice drugs for the treatment of hormone sensitive breast cancer .
 However , in addition to the scarcity of studies , there are controversies about their effects on vaginal epithelial cell proliferation in rats , especially those in persistent estrus .
+
 METHODS :
 To investigate vaginal epithelial cell proliferation by Ki - 67 antigen expression , persistent estrus was induced in 42 randomly selected rats .
 These rats were randomly divided into 2 groups : group I ( control , n = 21 ) , which received 0.1 mL of propylene glycol ( vehicle ) daily , and group II ( experimental , n = 21 ) , which received 0.5 mg / kg or 0.125 mg / day of anastrozole diluted with 0.1 mL of propylene glycol .
+
 RESULTS :
 Light microscopy showed a higher concentration of cells with brown Ki - 67 stained nuclei in the control compared to the experimental group .
 The mean percentage of Ki - 67 stained nuclei per 500 cells in the vaginal epithelium was 68.64 ± 2.64 and 30.46 ± 2.00 [ mean ± standard error of the mean ( SEM ) ] in the control and experimental groups , respectively ( p < 0.003 ) .
+
 CONCLUSION :
 This study showed that anastrozole , at the dose and treatment duration selected , significantly decreased cell proliferation in the vaginal mucosa of the rats in persistent estrus .
+
 INTRODUCTION
 Vaginal atrophy and hormone - sensitive breast cancer are common conditions in postmenopausal women , for which tamoxifen is the standard endocrine therapy ; however , although tamoxifen may have trophic effects on the vaginal epithelium , severe adverse effects such as endometrial cancer lead to the search of alternative endocrine therapies [1] .
 Third - generation aromatase inhibitors , such as anastrozole , letrozole , and exemestane , have become the first - choice drug for endocrine treatment of hormone - sensitive breast cancer in postmenopausal women .
@@ -28,6 +32,7 @@ Meanwhile , among the aromatase inhibitors , letrozole significantly reduced cel
 However , Sadlonova et al [18] . administered anastrozole in the diet of rats for 15 weeks and did not show atrophy of the endometrial and vaginal epithelia .
 Although these were experimental studies using animal models , they lead to further interest for studies aimed at the clinical application of aromatase inhibitors in women with breast cancer and vaginal atrophy .
 Considering the controversies and , to the best of our knowledge , the scarcity of studies of the effects of anastrozole on the vaginal epithelium of rats in persistent estrus , the present study was designed .
+
 MATERIALS AND METHODS
 Animals
 This study was approved by the Animal Experimentation Ethics Committee of the Federal University of Piaui ( UFPI ) and conducted according to the ethical principles established by the Brazilian College of Animal Experimentation ( COBEA ) .
@@ -44,6 +49,7 @@ The vehicle and anastrozole were administered by oral gavage continuously for 28
 On the 29 day , the rats from both groups were euthanized by an intraperitoneal injection containing an excessive dose of anesthetics , 300 mg / kg ketamine and 15 mg / kg midazolam .
 The rats were then immobilized on a cork board to remove the vagina , and the tissue was fixed in buffered formalin ( pH approximately 7.5 ) .
 After 24h fixation , the vaginal epithelium was subjected to immunohistochemical analysis .
+
 Immunohistochemistry
 Histological sectioning to produce the histological slides was performed using the Minota - type microtome adjusted to 5 - μ m thickness .
 The preparation of the histological slides and respective immunohistochemistry , were performed simultaneously under the same conditions .
@@ -53,19 +59,23 @@ Following antigen recovery , tissue samples were incubated with anti - Ki - 67 r
 The samples were then washed with buffered saline and incubated for 45 min with the New Link Polymer detection system .
 To read these reactions , all histological slides were treated for 5 min with a 3 - 3 solution of benzidine diamine tetrahydrochloride at a concentration of 1 mg / mL of Tris buffered saline and hydrogen peroxide solution , then contrasted with Harris Hematoxylin for 5 min , followed by dehydration in ethyl alcohol and xylol baths .
 The cells were considered positive for immunohistochemical expression of the Ki - 67 antigen when their nuclei were stained with a brown color .
+
 Quantitative method
 Cell counting was performed manually by two blind observers in relation to the groups studied , and the positive and negative cells were labeled separately to avoid counting the same cells more than once .
 Cell counting was performed at a research laboratory located at the Gynecological Coordination of the Getulio Vargas Hospital / Federal University of Piaui , where a computerized system consisting of a Light Microscope Eclipse E - 400 ( Tokyo , Japan ) was used , coupled with a color camcorder ( Samsung Digital Camera SCC - 131 , Seoul , South Korea ) .
 Images were captured on a Pentium IV microcomputer with an 80 - Gigabyte hard drive , 3.0 - GHz processor , 1024 RAM , and graphics card using Windows XP .
 Cell counting for Ki - 67 positive and negative cells was performed at 400 × magnification .
 At least 500 cells in the vaginal epithelium were counted in each slide in random fields , starting in the area of higher nuclei concentration with Ki - 67 expression , using Imagelab Image Analysis and Processing Software ( SOFTIUM Informatica LTDA , Sao Paulo , Brazil ) .
+
 Statistical Analysis
 The data were analyzed using the non - parametric Mann - Whitney test .
 The data were tabulated using the IBM SPSS Statistics V 21 program , with the significance level set at p < 0.05 .
+
 RESULTS
 Under light microscopy , the concentration of cells expressing the Ki - 67 antigen was higher in the control group compared to the experimental group ( Figure 1 ) .
 The mean numbers ( ± standard error [ SE ] of the mean ) of Ki - 67 - stained nuclei in the vaginal epithelium of rats in persistent estrus were 68.64 ± 2.64 and 30.46 ± 2.00 in groups I ( control ) and II ( experimental ) , respectively ( p < 0.003 ) ( Table 1 ) .
 Figure 2 clearly shows the difference between the mean percentage of Ki - 67 - stained nuclei in the control and experimental groups .
+
 DISCUSSION
 Studies on the effects of drugs used to treat hormone - sensitive breast cancer in human tissue are limited for ethical reasons ; hence experiments using animal models are reasonable alternatives .
 This led us to study the effects of anastrozole , an inhibitor of the synthesis of estrogens , in a rat experimental model where the rats are in persistent estrus as the vaginal epithelium is under constant estrogen stimulation .
@@ -97,8 +107,10 @@ On the other hand , Barros - Oliveira et al . showed significantly decreased exp
 Furthermore , Ferreira et al [26] . and Mahamed et al [27] . showed a reduction in uterine cell apoptosis and endometrial thickness of rats in persistent estrus treated with melatonin and metformin , respectively .
 Thus , we conclude that anastrozole administered to female rats in persistent estrus at a dose of 0.5 mg / kg / day , that is 0.125 mg / day , by oral gavage for 28 days , significantly decreased Ki - 67 antigen expression in the vaginal epithelium , showing an anti - proliferative effect of anastrozole on the vaginal mucosa .
 However , further studies are necessary and important to confirm these scientific findings .
+
 AUTHOR CONTRIBUTIONS
 Chagas DC , Barros - Oliveira MC , Lopes - Costa PV and da Silva BB conceived and designed the study , and wrote the final version of the manuscript .
 Pereira RO , Melo MA , dos Santos AR , Costa - Silva DR , Borges CS , Viana JL , Facina G , da Silva BB were responsible for conducting the study , statistically analyzing the data , and manuscript drafting and review .
 All of the authors reviewed the manuscript .
+
 Mean percentage of Ki - 67 nuclei per 500 cells in the control an experimental groups .

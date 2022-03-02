@@ -16,6 +16,7 @@ The children were followed up at two months of age and then again at one year .
 At two months , trained investigators interviewed the parents in a face to face interview at home .
 When the child reached one year old , parents answered a standardized questionnaire through a telephone conversation conducted by specially trained professionals ( phone - platforms currently involved in health studies in France , by the French institute of statistics ( INSEE ) ) .
 By the time of the phone interview , 4270 participants had been lost during the follow - up , leaving a total of 14059 children included in the present analysis ( Fig 1 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0196711.g001 Flow chart .
 Four groups were defined : non - wheezers ( no current wheezing symptoms at both two months and one year old ) , intermittent ( current wheezing symptoms at two months but no wheezing at one year ) , persistent ( current wheezing at two months and at one year ) and incident ( no current wheezing at two months but wheezing at one year ) .
@@ -30,9 +31,11 @@ The presence of coughing was ascertained by an affirmative answer to the questio
 To know whether the child had respiratory problems , the following questions were used : “ Has your child had any sign of respiratory distress ? ” and “ At present does your child have any sign of respiratory distress ? ” .
 To investigate the presence of excess bronchial secretions , the following questions were used : “ Has your child had an excess of bronchial secretion or phlegm ? ” and “ At present are you noticing that your child has an excess of bronchial secretion or phlegm ? ” .
 A question was further asking if the child had ever been diagnosed with a bronchitis , and whether a doctor had prescribed medications , and a list of medications by class was proposed , to the parents .
+
 Each parent gave written informed consent at the maternity unit .
 Every level of the project and each procedure was monitored by the National Council for Statistical Information ( CNIS ) and approved by the French Data Protection Authority ( CNIL ) , in conjunction with the Consultative Committee for Data Processing in Health Research ( CCTIRS ) , which assesses the scientific relevance of health projects , properly conducted from start to finish .
 Each parent retains the right to withdraw his / her child at any point during the study .
+
 Data analysis was performed by SPSS software , version 23 .
 Two - sided statistical tests were used to test the association of each respiratory symptom at two months across all four wheezing groups ; the Chi - 2 test for dichotomous or multinomial qualitative variables , with Fisher ’ s exact test whenever appropriate .
 Regarding multivariate analysis , backward logistic regressions were performed by taking into account the variables in the bivariate analysis that showed a p - value < 0.10 [ 24 , 25 ] ; which included recommended covariates ( such as maternal asthma , smoking , and educational level of the mother used as a proxy for socio - economical status ) .

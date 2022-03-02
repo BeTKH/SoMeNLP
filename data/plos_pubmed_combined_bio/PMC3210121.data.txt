@@ -7,6 +7,7 @@ Data on dominant influenza subtypes circulating in Japan and the US during the s
 To estimate seasonal influenza - related mortality rates , we applied Serfling cyclical regression models to monthly P&I death rates for each country and age - group , as in [5] , [26] .
 These models provide seasonal baseline levels of expected mortality in the absence of influenza virus circulation .
 Mortality observed in excess of the baseline during influenza - epidemic months is attributed to influenza and termed “ seasonal excess mortality ” .
+
 Estimating excess mortality reduction among seniors : To account for long - term changes in mortality unrelated to influenza and for baseline differences between Japan and the US , we standardized winter - seasonal excess P&I mortality rates for changes in population structure and summer mortality rates ( Information S1 ) .
 This approach has been used in the past to adjust for differences in socioeconomic status and access to healthcare between high and middle - income countries [27] .
 We chose the US summer P&I mortality rate and population structure in 2000 as a reference .

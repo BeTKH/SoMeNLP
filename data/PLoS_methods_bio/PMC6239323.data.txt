@@ -5,6 +5,7 @@ Written informed consent was obtained from all subjects prior to the measurement
 Participants between 18 and 35 years of age were included , with a spherical equivalent refraction ( SE ) between 1.00 D and 6.00 D , maximal cylindrical power of ( + or - ) 1.00 D and visual acuity of 0.1 logMAR or better , when corrected with the SE only .
 Furthermore , Bruch ’ s membrane and the choroidal - scleral interface in the optical coherence tomography ( OCT ) scan had to be sufficiently detectable to ensure a correct analysis of the choroidal thickness ( ChT ) of the OCT scan by the automated choroid segmentation .
 Hereby , the intrasubject repeatability of the measurements had to be 15 μ m or better as an additional inclusion criterion , since this was the limit for qualitative good choroid segmentation , as observed in the small subset of the first complementary study .
+
 Table 1 lists the types and parameters of the applied contact lenses .
 The defocus power and multifocal addition were each + 2.50 D based on the subject ’ s individual refraction .
 The Proclear Multifocal ‘ D ’ ( MFD ) lens has a center - distance design with a 2.3 mm diameter zone of distance correction .
@@ -12,9 +13,11 @@ In the progressive zone , up to 8.5 mm diameter , the power slowly increases unt
 The outermost ring has no optical effect because it lies outside the pupil [ 7 , 17 ] .
 In contrast , the Proclear Multifocal ‘ N ’ ( MFN ) lens is structured oppositely with a central ring that consists of the maximum addition power and a progressive power decrease to the distance correction within the transition zone [17] .
 Both monofocal contact lenses , one with distance correction ( SVDC ) and one with a full - field undercorrection ( SVDF ) , were used as a comparison to the multifocal contact lenses .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0207637.t001 Applied contact lenses with parameters .
 Abbreviations of the contact lenses in brackets in the first row are used hereinafter in the text .
+
 The protocol of the main study consisted of OCT scans ( CIRRUS HD - OCT 5000 , Carl Zeiss Meditec Inc . , Dublin , CA , USA ) and biometry measurements ( IOLMaster 700 , Carl Zeiss Meditec AG , Jena , Germany ) before and after 30 min of wearing each of the four different contact lenses .
 In addition , peripheral refraction profiles in primary gaze were obtained using photorefraction .
 The refractor used a moving mirror to measure refractive errors of both vertical and horizontal meridians out to an eccentricity of ± 50 ° nasally and temporally as described previously [18] .
@@ -27,12 +30,14 @@ During each round of contact lens wear , subjects watched a movie at a distance 
 The order of contact lenses , as well as the order of the devices used for the described measurements , were randomized .
 The anterior segment picture of the IOLMaster 700 was used for the control of the contact lens centration on the eye .
 All participants were scheduled between 1 pm and 3 pm , to diminish intersubject differences in ChT changes due to the diurnal choroidal rhythm [ 19 , 20 ] .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0207637.g001 Study procedure of the main study .
 Subjects underwent OCT and biometry measurements before and after 30 min of contact lens wear .
 This was followed by a 15 min wash - out period with trial frame correction .
 The procedure was repeated for each of the four contact lenses .
 The left eye was constantly wearing trial frame correction while undergoing the same measurements at the same time points as the right eye .
+
 Choroidal segmentation and thickness analyses were performed automatically with custom MATLAB ( MATLAB 2017b , The MathWorks , Inc . , Natick , MA , USA ) software for choroid segmentation [21] .
 The obtained 6x 6 mm 2 Macular Cube OCT scan was presented as a squared 2D - matrix , which consisted of single values representing the choroidal thickness of every pixel location in the cubic scan .
 This map of three averaged measurements was used for the choroidal thickness analysis and was further sectioned into the nine ETDRS fields within MATLAB .
@@ -48,6 +53,7 @@ The normally distributed differences between treated and control eyes were compa
 For the analysis of peripheral refraction , the mean of the dioptric values in the horizontal and vertical meridian were taken as SE at each angle point in steps of 0.71 ° for ± 50 ° from the fovea .
 The corresponding values of at least six scans were averaged , to obtain the refractive profile of the uncorrected eye .
 The adjustment of the critical p - value for all analyses was performed with the Benjamini & Hochberg / Yekutieli familywise error posthoc correction [23] .
+
 Within a small subset of n = 3 subjects , a complementary prestudy was conducted .
 Materials , measurement devices and data analysis modalities were the same as described in the main protocol , except for the ETDRS grid , since only the 1 mm central field was evaluated in this study .
 Subjects ’ choroidal thickness of both eyes was measured on three separate days in 2 h intervals between 9 am and 5 pm while wearing regular spectacle distance correction lenses during the day .

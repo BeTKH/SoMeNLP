@@ -10,18 +10,22 @@ With these terms , we obtained 8,764 articles including studies in tropical and 
 In a prior analysis of the title and summary of each study , we selected 3,190 articles that contained all quantitative variables necessary for the meta - analysis .
 Then , we searched each article for quantitative variables ( mean , standard deviation , sample size and age ) of ecological indicators in degraded , restored and / or reference conditions ( see below ) .
 From this search , 69 articles from 25 countries in five continents were found ( Fig 1 ; Supporting information S1 Table ; S1 Fig ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0208523.g001 Flow diagram of database searching and article screening .
 The checklist of the total Prisma 2009 requirements is in S2 Table .
 For each study , we compiled ecological indicators based on Benayas et al . [51] and respective ecosystem services , according to MEA [2] , as follows : carbon pool ( aboveground biomass , below - ground biomass , dead organic matter and soil organic carbon ) and soil attributes ( C , Ca , Mg , N , Nitrate , P , pH , cation exchange capacity [ CEC ] , water holding capacity , and soil organic matter ) .
 Moreover , we compiled species richness , diversity , density and abundance data as a proxy for evaluating the effect of restoration practices on recovering biodiversity protection ( Table 1 ) .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0208523.t001 Definition and number of ecological indicators ( n ) of ecosystem services of parameters considered in the meta - analysis .
 * CEC : cation exchange capacity .
+
 From these 69 studies , we extracted 866 quantitative measures of ES : 383 independent effect sizes were calculated comparing restoration and degraded areas , and 685 independent effect sizes were calculated comparing restoration areas and reference ecosystems .
 To explain heterogeneity in effect sizes , we compared the effect sizes among five restoration strategies ( natural regeneration , nucleation , reforestation with native species , reforestation with exotic species and agroforestry ) and three types of land use ( i.e. , degradation ) prior to restoration ( pasture , logging and agriculture ) ( Table 1 ) .
 When the sample size was sufficient ( pasture and agriculture ) , we compared the effects of different restoration strategies on ES recovery in the degraded ecosystem .
 For the land use “ logging ” the sample size was insufficient for analysis .
+
 We extracted the mean , standard deviation and sample size for each ecological indicator of ES in the primary studies .
 Using this information , we calculated Hedges ’ g effect size , the variance and the bootstrap confidence interval ( CI ) .
 Hedges ’ g ( average differences divided by standard deviation ) is a variation of Cohen ’ s d that includes a correction of deviations , which are derived from a small sample [52] .

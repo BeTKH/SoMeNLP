@@ -5,6 +5,7 @@ Within the scale of our analysis , variability that is due to the diversity of t
 Further applications of the proposed methodology to significantly extended databases require critical analysis of initial palaeodemographic estimates .
 This will also include consideration of different estimates proposed for the same datasets .
 Furthermore , the increase in sample size that such an expanded study would bring decreases the estimated average values , resolving the issues of research bias and comparison of different methods of estimations , as suggested in studies of archaeological and ethnographical metapopulations [6-8] .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0208739.t001 Methodologies applied for the estimations of population density .
 The sample collected for this paper includes 42 population densities from Southeastern Europe , 33 population densities from Central Europe and Southern Scandinavia , and 56 population densities from the Near East .
@@ -14,6 +15,7 @@ Changes in population density are traced at several spatial scales .
 Regional density , which is also labeled ‘ global ’ density in the related studies [ 2 , 3 ] , is estimated as population density in more densely settled core areas and the surrounding un - or less settled areas , e.g. mountains .
 Macro - regional population density is estimated for two larger territories , i.e. Southeastern Europe and Central Europe / Southern Scandinavia ( Fig 1 ) .
 The density of metapopulations is represented by the values obtained for the Near East and also for Southeastern and Central Europe , and Southern Scandinavia .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0208739.g001 Spatial arrangement of sites in Europe and the Near East ( produced using the basemap Natural Earth data by Ines Reese and Karin Winter ( Graphics department of the Institute of Pre - and Protohistoric Archaeology Kiel ) .
 The procedure of this research method considers several issues of data analysis .

@@ -2,6 +2,7 @@ The study was based in a peri - urban township in the greater area of Cape Town 
 The community is served by a single public - sector primary care clinic , which provides outpatient care including ART free of charge .
 A nearby hospital ( 5 km away ) provides all secondary care for the population , including inpatient and antenatal services .
 The hospital also provides ART for some HIV - infected individuals from the community .
+
 HIV testing , CD 4 count measurements and ART services : Client - initiated HIV testing services have been available to all individuals accessing either the local clinic or the hospital since 2001 .
 Clients who tested on their own initiative are referred to as having tested through VCT services .
 Provider - initiated testing was routinely provided to any patient accessing TB services whose HIV status was unknown .
@@ -9,10 +10,12 @@ This was extended to all pregnant females accessing the hospital or clinic in 20
 All testing required signed consent .
 All CD 4 count tests were free for patients and performed by the centrally located National Health Laboratory Services ( NHLS ) in Cape Town .
 ART provision at the primary health care clinic and hospital began in 2004 .
+
 Linkage to HIV and ART care : Linkage to HIV care was defined as attending for a CD 4 count measurement within 6 months of HIV diagnosis .
 We did not ascertain if individuals actually received their CD 4 counts .
 Linkage to ART care was defined as initiating ART within 6 months of HIV diagnosis in individuals with a CD 4 count ≤ 200 cells / μ l taken within 6 months of HIV diagnosis .
 Having a repeat CD 4 count was defined as having had a repeated CD 4 count in individuals not yet eligible for ART ( CD 4 count > 200 cells / μ l ) and tested before 2009 .
+
 We collected data from 3 sources .
 First , the primary care clinic and hospital HIV testing registers provided all data on HIV infected , adult community residents ( ≥ 18 years ) diagnosed between January 2004 and March 2009 .
 Data at the primary health care clinic were missing for the period from February 2008 to August 2008 .
@@ -26,10 +29,12 @@ In cases where identifiers did not match completely two researchers ( PG and KK 
 Concordance between the two researchers was 97 % .
 Cases where the two researchers disagreed were discussed until consensus was reached .
 For all subsequent analysis data was stripped of all personal identifiers .
+
 Written informed consent was obtained from all individuals initiated on ART and screened for ART .
 Individuals testing for HIV are routinely entered into the HIV testing register .
 Informed consent was not obtained from HIV positive individuals not linking to care , as this was a retrospective study and individuals were not actively follow - up .
 Data collection and analysis was approved by the University of Cape Town Ethics Committee and Partners Human Subjects Institutional Review Board and the London School of Hygiene and Tropical Medicine .
+
 A random sample ( n = 885 ) of adults testing HIV positive through ANC , STI and VCT services between January 2004 and March 2009 was selected for this analysis .
 All adults testing positive through TB services were included in this analysis to ensure an adequate sample size in this group .
 All analyses were carried out using Stata version 11 ( Stata Corp . LP , College Station , TX , United States of America ) .

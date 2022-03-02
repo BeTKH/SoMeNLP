@@ -4,6 +4,7 @@ Here we identify additional SRPS genes and further unravel the functional basis 
 We perform whole exome sequencing and identify mutations in a new disease - producing gene , cytoplasmic dynein - 2 light intermediate chain 1 , DYNC2LI 1 , segregating with disease in three families .
 Using primary fibroblasts , we show that DYNC2LI 1 is essential for dynein - 2 complex stability and that mutations in DYNC2LI 1 result in variable - length , including hyperelongated , cilia , Hedgehog pathway impairment , and ciliary IFT accumulations .
 The findings in this study expand our understanding of SRPS locus heterogeneity and demonstrate the importance of DYNC2LI 1 in dynein - 2 complex stability , cilium function , Hedgehog regulation , and skeletogenesis .
+
 Introduction
 The primary cilium is a microtubule - based projection on the surface of nearly every cell that acts as a concentrated signaling center for several pathways [1] .
 Defects in the formation or function of primary cilia cause a wide variety of disorders known as ciliopathies .
@@ -27,6 +28,7 @@ Furthermore , DYNC2LI 1 mouse mutants result in lethality early in embryogenesis
 In this study , we identify mutations in DYNC2LI 1 causing SRPS in three independent cases .
 We show that DYNC2LI 1 is essential for dynein - 2 complex stability , is expressed in the cartilage growth plate , and plays critical roles in the regulation of primary cilium length , retrograde IFT , and Hedgehog signaling .
 Analysis of SRPS - derived fibroblasts supports a role for DYNC2LI 1 in cilia function and signaling and the findings highlight the importance of this gene and the dynein - 2 complex in skeletogenesis .
+
 Results
 DYNC2LI 1 mutations identified in SRPS cases
 To identify additional genes that are essential for skeletal development , we used whole exome sequencing under an approved human subjects protocol and identified mutations in the dynein - 2 light intermediate chain gene , DYNC2LI 1 , producing SRPS .
@@ -44,18 +46,21 @@ This mutation may interfere with cargo - binding as it occurs within a homologou
 However , of the three mammalian DLICs , only DYNC2LI 1 interacts with the dynein - 2 complex ; the more closely related DYNC1LI 1 and DYNC1LI 2 are targeted to the non - ciliary cytoplasmic dynein - 1 , DYNC1H 1 [26,38] .
 Finally , the other heterozygous changes in R 07 - 628A and R 03 - 303A were nonsense mutations in exon 6 ( p.Trp 124Ter ) and 13 ( p.Glu 334Ter ) , respectively .
 Western blot analyses of fibroblast - derived lysates showed that DYNC2LI 1 is markedly reduced in R 01 - 013A ( c .993 + 1G > A ; p.Leu 117Val ) and R 07 - 628A ( p.Trp 124Ter ; p.Leu 117Val ) , indicating that these mutations likely lead to loss of DYNC2LI 1 stability ( Fig . 2b , c ) .
+
 DYNC2LI 1 - mutant fibroblasts are depleted of DYNC2H 1
 DYNC2H 1 and DYNC2LI 1 are distinct components of the ciliary dynein - 2 complex and studies in Chlamydomonas reinhardtii and Trypanosoma brucei show that loss of one results in loss or reduction of the other [24,29,33,34] .
 To determine whether DYNC2H 1 amounts were affected by the decrease in DYNC2LI 1 , we probed whole - cell lysates from SRPS cases and controls for DYNC2H 1 and discovered near - total loss of protein ( Fig . 3a ) .
 The amounts of the dynein - 2 intermediate chain WDR 34 and the heavy chain of the dynein - 1 complex ( DYNC1H 1 ) were unchanged , indicating that the effects of the DYNC2LI 1 mutations were specific to DYNC2H 1 .
 Immunofluorescence staining showed that WDR 34 and the minimal remaining DYNC2H 1 in SRPS cells localized to the basal bodies , similar to controls ( Fig . 3b ) .
 These results suggest that even though DYNC2LI 1 is important for the stabilization of DYNC2H 1 , it is not essential for the recruitment of the dynein - 2 complex to the pericentriolar region of basal bodies .
+
 DYNC2LI 1 is expressed in the developing human growth plate
 While the dynein - 2 complex is required for IFT in all ciliated cells of the body , the marked skeletal consequences of dynein - 2 complex mutations suggest that the developing skeleton is very sensitive to reductions in its activity .
 Concordant with this hypothesis , transcriptional analysis by qRT - PCR showed that DYNC2LI 1 was more highly expressed in bone compared with other embryonic tissues ( bone , brain , cartilage , heart , liver , lung , placenta and thymus ) ( Supplementary Fig . 3 ) .
 Furthermore , immunohistochemistry of human cartilage growth plate revealed DYNC2LI 1 expression in the perichondrium , periosteum and primary spongiosa of bone ( Fig . 4 ) .
 Similarly , immunohistochemistry of DYNC2H 1 and WDR 34 showed an overlapping expression pattern ( Fig . 4 ) .
 Together , these expression studies support a role for DYNC2LI 1 and the dynein - 2 complex in human skeletal development .
+
 SRPS fibroblasts exhibit loss of ciliary length control
 To investigate whether mutations in DYNC2LI 1 affect ciliogenesis and / or IFT , we quantified the fraction of ciliated cells , measured cilia length and probed SRPS and control fibroblasts for a number of ciliary components .
 The percentage of ciliated cells was only slightly reduced between SRPS and control cells ( Fig . 5b ) .
@@ -65,6 +70,7 @@ DYNC2LI 1 - knockdown led to significantly increased variation in cilia length ,
 To test for phenotypic rescue , we expressed wild type DYNC2LI 1 in SRPS cells .
 As shown in Fig . 5c , d , transfection of DYNC2LI 1 into SRPS fibroblasts reduced ciliary length variation and restored length to control values .
 We therefore conclude that DYNC2LI 1 and the dynein - 2 complex play an important role in the regulation of primary cilia length .
+
 IFT components accumulate in DYCN2LI 1 - mutant cilia
 The IFT - B components , IFT 88 and TRAF 3IP 1 , and the IFT - B kinesin motor , KIF3A , localized strongly to the base of the cilia and weakly along the axoneme in control cells , as observed by others [39] ( Fig . 6a ) .
 Consistent with defective retrograde transport in SRPS fibroblasts , IFT 88 , TRAF 3IP 1 , and KIF3A all accumulated near the cilia tip .
@@ -72,12 +78,14 @@ More specifically , three to four fold more IFT 88 was retained in the axonemes 
 RNAi - knockdown of DYNC2LI 1 in RPE 1 cells replicated this finding by increasing the ratio of IFT 88 retained in the primary cilium body relative to the proximal end by three fold ( Supplementary Fig . 4c , d ) .
 In addition , we were able to reduce this ratio in SRPS fibroblasts by expressing wild type DYNC2LI 1 ( Fig . 6b , c ) .
 Our results demonstrate that loss of DYNC2LI 1 markedly impairs retrograde IFT and leads to the accumulation of IFT proteins within the primary cilium .
+
 SMO inappropriately enters the cilia of SRPS fibroblasts
 Hedgehog signaling requires intact cilia and IFT ; not surprisingly , many IFT mutants display defects in this pathway [40] .
 To determine if DYNC2LI 1 mutations affect Hedgehog signaling , we examined the localization of SMO and GLI 3 in SMO agonist ( SAG ) - stimulated and unstimulated fibroblasts from SRPS cases and controls .
 While the localization of GLI 3 did not differ between SRPS and control cells ( Fig . 7a ) , we detected SMO along the length of cilia of unstimulated DYNC2LI 1 - mutant cells ( Fig . 7b , c ) .
 In contrast , SMO was only observed in the cilia of control cells upon stimulation .
 Similar to findings in DYNC2H 1 mouse mutants [41] , these observations suggest that DYNC2LI 1 and the activity of the dynein - 2 complex play an important role in preventing SMO from entering cilia in the absence of Hedgehog stimulation .
+
 DYNC2LI 1 mutants exhibit reduced GLI 3 processing
 To further investigate Hedgehog pathway activation , we measured GLI 3 processing in affected and control fibroblasts stimulated with SAG and quantified the ratio of GLI 3 full - length ( GLI3FL ) to re - pressor ( GLI3R ) forms by Western blot analysis .
 We found that this ratio is increased two to three fold in DYNC2LI 1 - mutant fibroblasts as compared with control cells ( Fig . 7d , e ) .
@@ -86,6 +94,7 @@ In addition , total GLI 3 was markedly increased in unstimulated DYNC2LI 1 - mut
 To test whether this altered ratio had functional consequences on transcription of Hedgehog targets , we performed quantitative RT - PCR of PTCH 1 and GLI 1 on control and SRPS fibroblasts .
 We found that both control and SRPS cells responded to SAG with an increase in PTCH 1 and GLI 1 cDNA ( Supplementary Fig . 5 ) , suggesting that in these cells , the loss of the dynein - 2 complex stability does not completely impair their ability to respond to SAG .
 Yet , altered GLI3FL to GLI3R ratios , together with the abnormal distribution of SMO into cilia of unstimulated SRPS cells , support impaired regulation of Hedgehog signaling in cells from SRPS cases with DYNC2LI 1 mutations .
+
 Discussion
 We show that DYNC2LI 1 mutations cause SRPS , expanding the number of genes associated with this condition .
 The phenotypic findings in these SRPS cases are similar to those seen in cases with DYNC2H 1 [36] and WDR 34 [13] mutations , supporting that these proteins are part of the same complex .
@@ -117,6 +126,7 @@ These regions have been shown to be important for signaling and organization of 
 The primary spongiosa , in particular , was reported to be irregular in SRPS cases with DYNC2H 1 mutations [4] with loss of degradation of the mineralized hypertrophic zone , supporting the potential role of the dynein - 2 complex in orchestrating the development of normal endochondral bone formation .
 Localization of the dynein - 2 complex to the cartilage growth plate begins to provide insight into the reasons for altered endochondral ossification that are seen in SRPS .
 In summary , our findings establish the clinical and cellular consequences of DYNC2LI 1 mutations and dynein - 2 complex disruption in human primary cells , and support the profound importance of this protein complex in proper skeletogenesis .
+
 Methods
 Exome sequencing
 Under an approved University of California at Los Angeles human subjects protocol , DNA was isolated and submitted to the University of Washington Center for Mendelian Genomics for library preparation and exome sequencing .
@@ -130,21 +140,27 @@ Variants were annotated using VAX [52] and mutation pathogenicity was predicted 
 The mutations reported in this work were confirmed by bidirectional Sanger sequencing of amplified DNA from the proband and available parents ( Supplementary Fig . 1 ) .
 Primer sequences used were :
 DYNC2LI 1 - ex 6 F ’ : TTTTTGTTTTTGGGAGTCTTAGAA R ’ : TTGCTGTAATTTTCCAGTGAACA
+
 DYNC2LI 1 - ex 12 F ’ : ACCTGGCAGAATTGGAAGTG R ’ : GGTGGGATGACAGGTGATTT
+
 DYNC2LI 1 - ex 13 F ’ : GTGCTGCTTAGCCACACAGA R ’ : GTGGGCACTTAACCTTGCAT
+
 Sequence trace files were aligned and analyzed using Geneious version 7.1.4 created by Biomatters ( http://www.geneious.com/ ) .
 The samples were part of a larger cohort of SRPS samples submitted for the purpose of identifying novel disease genes and characterizing the incidence of mutations in known genes .
 The cohort had not been previously tested for mutations in known SRPS - causing genes .
+
 Filtering Strategy
 We prioritized mutations predicted to affect protein function ( insertions or deletions , frameshifts , non - synonymous mutations , and essential spice site mutations ) .
 We later included highly conserved splice region variants , allowing us to discover the DYNC2LI 1 + 3 splice site mutation .
 We prioritized mutations that had not been previously seen in the homozygous state in control databases and mutations with a minor allele frequency < 0.005 .
 Due to the recessive inheritance of SRPS , we looked for genes in which both alleles were potentially mutated .
 DYNC2LI 1 stood out as a potential gene due to the incidence of unique , compound heterozygous mutations in three families in which the SRPS cases had strikingly similar X - ray features .
+
 RT - PCR
 RNA from SRPS case and control fibroblast cell lines was extracted using TRIZOL ( Invitrogen 15596 ) .
 RT - PCR was performed using SuperScript III One Step Kit ( Invitrogen 12574 - 018 ) with the following DYNC2LI 1 primers targeting a 431 bp template spanning exon 12 : F ’ : CGCTGTTTATCACAGCAGGA R ’ : CCAAGAAATCCAGCTTGTCC .
 An amplified fragment of 431 bp corresponds to the wild - type RNA and a fragment of 339 bp corresponds to a transcript missing exon 12 .
+
 Quantitative RT - PCR
 Total RNA was extracted from a series of 16 - week fetal tissues as well as from control , R 01 - 013A and R 07 - 628A fibroblasts ( with and without SAG treatment ) using TRIZOL ( Invitrogen 15596 ) .
 cDNA was treated with DNAase ( Invitrogen 18068 ) and reversed transcribed ( Thermo Scientific K1621 ) according to the manufacturer ’ s instructions .
@@ -154,24 +170,32 @@ Each sample was analyzed for two housekeeping genes to normalize for RNA input a
 Levels of transcripts in controls were set at 1 .
 Melting curve analysis showed a single , sharp peak with the expected melting temperature for all samples .
 RT - PCR primers sequences were as follows :
+
 Molecular cloning of DYNC2LI 1
 Human DYNC2LI 1 cDNA ( NM _ 016008.3 ) was synthesized using gBlock from IDT .
 The cDNA was flanked by XhoI and NotI restriction sites , which were used for insertion into pCAGIG , a pCAG - IRES - GFP vector ( a gift from Connie Cepko ( Addgene plasmid # 11159 ) ) .
 The final construct was then used to express both untagged DYNC2LI 1 and GFP in SRPS fibroblasts for the rescue experiments .
+
 Cell culture
 Unless otherwise stated , control and SRPS human fibroblasts from patients were grown in DMEM supplemented with 10 % FBS , 1 % Penicillin / Streptomycin / L - Glutamine and were maintained at 37 ° C with 5 % CO .
 For serum starvation and to promote ciliogenesis , cells were washed in PBS and incubated with serum - free media ( or supplemented with 0.5 % FBS ) for 48 hrs .
 For stimulation of the sonic hedgehog pathway , serum - free media was supplemented with 500 nM SAG ( Calbiochem 566660 ) for 24 - 48 hrs before cell fixation .
 hTERT - RPE 1 - GFP - CSAP cells ( a kind gift from I . Cheeseman ) [57] were grown in DMEM / F12 supplemented with 10 % FBS , 1 % Penicillin / Streptomycin and were maintained at 37 ° C with 5 % CO .
+
 Rescue experiments
 Transfections of SRPS fibroblasts with hDYNC2LI 1 IRES GFP were performed using Amaxa Kit for Primary Mammalian Fibroblasts according to manufacturer ’ s instructions and program T - 16 .
 24 hrs following transfection , cells were washed in PBS and incubated with serum - free media for an additional 48 hrs .
+
 RNAi
 For RNA - mediated interference , siGENOME ( 51626 ) Human DYNC2LI 1 siRNA smartpool ( Dharma - con ) was employed against the following target sequences :
 5 ’ - GGAAUAAUAUGCCGAAGGA - 3 ’
+
 5 ’ - CAAAAGAUAUCGCUCACUU - 3 ’
+
 5 ’ - CCAUGUAGACAAAGUGAUA - 3 ’
+
 5 ’ - GGAAAGACUACUAUUAUUC - 3 ’ .
+
 Non - targeting siRNA was used as a control .
 RNAi was carried out using the Hiperfect reagent ( Qiagen ) , according to manufacturer ’ s instructions .
 48 hrs following RNAi transfection , hTERT - RPE 1 - GFP - CSAP cells [57] ( RPE 1 cells with ciliary axoneme and centrioles marked by CSAP ) were washed in PBS and incubated with an additional round of RNAi in serum - free media for 48 hrs to induce ciliogenesis .
@@ -196,12 +220,14 @@ Quantification of IFT 88 retention in the distal end of primary cilia was perfor
 Polyglutamylated tubulin staining of centrioles and the proximal end of the axoneme served to determine the orientation of each primary cilium , allowing for the measurement of IFT 88 signal intensity in the proximal end and in the remaining body of each primary cilium .
 After determining the ratio of IFT 88 signal in each primary cilium , the resulting values were used to determine the average ratio of IFT 88 signal for each experiment .
 Statistical analyses were performed with Prism v 5.0 ( GraphPad ) .
+
 Immunohistochemistry
 A human humerus from a 14 - week fetus was fixed in PFA and decalcified with Immunocal for 2 days .
 After decalcification , samples were embedded in paraffin and 10 μ m sections were prepared .
 Sections were treated with citrate buffer for antigen retrieval and quenched by peroxidase solution for 10 min each .
 Primary antibodies used were : rabbit anti - DYNC2LI 1 [26] ( 1 : 200 ; LIC 3 ) , rabbit anti - WDR 34 ( 1 : 150 ; Sigma HPA 041091 ) and rabbit anti - DYNC2H 1 [26] ( 1 : 150 ; Dynein HC 2 ) .
 After primary incubation , a Histostain Plus kit ( Invitrogen 85 - 9243 ) was used for development with DAB .
+
 Protein / Western blot analysis
 Cells were lysed in 1X RIPA Buffer ( Cell Signaling Technology ) supplemented with 1 mM PMSF and a protease inhibitor cocktail ( Sigma - Aldrich ) .
 Lysates were cleared by centrifugation ( 10 min at 16,000 x g at 4oC ) .
@@ -211,5 +237,7 @@ Membranes were then probed with primary antibodies diluted in 1 - 5 % milk or BS
 After extensive washing , membranes were incubated with HRP - conjugated or fluorescent secondary antibodies and the signal was captured on film or in an Odyssey system ( Licor ) .
 Protein amounts were quantified from scanned blots using ImageJ ( NIH ) .
 Full scans of Western blot data are included in Supplementary Fig . 6 .
+
 Supplementary Material
+
 Pathogenic DYNC2LI 1 Mutations in SRPS Cohort

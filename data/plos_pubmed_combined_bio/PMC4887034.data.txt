@@ -1,17 +1,20 @@
 Male Sprague - Dawley rats ( n = 10 ) were purchased from the Canadian Breeding Laboratories ( St - Constant , QC , Canada ) .
 All the rats were housed in individual plastic home cages lined with wood shavings and maintained on a 12 : 12 dark - light cycle ( with the lights on from 06 : 00 to 18 : 00 ) , with an ambient temperature of 22 ± 1 ° C , and free access to tap water and the standard laboratory rat diet ( Rat / Mouse / Hamster chow , 1000 Formula , 12.9 kJ / g ; Agway Prolab , Syracuse , NY ) , unless otherwise specified .
 All rats were cared for and handled according to the Canadian Guide for the Care and Use of Laboratory Animals , and the present protocol was approved by our institutional animal care committee ( Comite de protection des animaux de l ' Universite Laval ) .
+
 Rats were anesthetized using 4 % isoflurane mixed with 2 % oxygen ; the dose was gradually reduced to 2 % isoflurane - 1 % oxygen during the surgery .
 Under anesthesia , the head was shaved , eye lubricant was applied , the analgesic buprenorphine ( 0.02 mg / kg ) was administered subcutaneously under the abdominal skin , and a mixture of lidocaine ( 7 mg / kg ) and bupivacaine ( 3.5 mg / kg ) was injected subcutaneously over the skull incision site and area in contact with the stereotaxic ear bars .
 A chronically implanted unilateral 25 - gauge guide cannula was aimed at the dorsal border of the cAHA ( 1.32 mm caudal to the bregma , 0.6 mm lateral to the midline , and 8.6 mm ventral to the scalp ) [30] .
 Bundles of 16 microwire electrodes ( platinum - iridium , formvar coated , 25 - μ m diameter , with an impedance of 250 - 500 k Ω measured at 1 kHz ; California Fine Wire , Grover Beach , CA ) , along with one 50 - μ m diameter reference electrode made of the same material and insulation ( California Fine Wire , Grover Beach , CA ) were lowered into the guide cannula and protruded 1 mm below the distal end of the guide cannula ( Fig 1 ) .
 A stainless steel wire , as the conventional ground , was shouldered on one of the supporting screws on the skull .
 Rats were hydrated with saline and subcutaneously administered with the anti - inflammatory analgesic meloxicam ( 1 mg / kg ) after completion of the surgery and before they were returned to the home cages for 7 days of recovery .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0156563.g001 A , Thionine - stained coronal brain section at the level of the central nucleus of the anterior hypothalamic area ( cAHA ; 1.32 mm caudal to the bregma ) depicting electric micro - lesions ( indicated by the white arrow ) at the tip of the recording electrode that was lowered 1 mm ventral from the distal edge of the guide cannula .
 B , Panel B is an enlargement of a square shown in panel A .
 SO , supraoptic hypothalamic nucleus .
 Scale bar , 200 μ m .
+
 Recording of sucrose - licking events and neuronal activity in the cAHA : After 7 days of post - operative care and 2 days of habituation to an operant chamber equipped with two photo - beam lickometers ( Med Asscociates Inc , VT , USA ) supplied only with water , the rats were given 1 h of daily access to 10 % sucrose , in addition to water , in the operant chamber in the following 2 days , in order to counter neophobia to the taste of sucrose .
 After the following 2 days on ad libitum access to chow in their home cages , rats were given 1 h of access to 10 % sucrose and water in the operant chamber , during which time simultaneous acquisition of licking activity and extra - cellular multi - unit recordings in the cAHA was performed using a custom - made interface between the operant chamber and TDT multichannel acquisition system ( Tucker Davis Technologies , FL , USA ) .
 This recording session provided data on sucrose licking and multi - unit activity in control , non - stressful conditions .
@@ -24,6 +27,7 @@ On completion of the experiment , the rats were deeply anesthetized ( 60 mg / kg
 The rats were then euthanized under anesthesia ( 60 mg / kg ketamine and 7.5 mg / kg xylazine ) by intracardial perfusion with saline followed by phosphate buffered 4 % paraformaldehyde .
 The brains were removed and stored at 4 ° C in a phosphate buffered 4 % paraformaldehyde solution before they were cut into 40 - μ m coronal brain sections and stained with thionin .
 Rats with correct electrode placement to the cAHA ( n = 8 ) were used for statistical analysis .
+
 Lick timestamps were used to perform lick microstructure analysis .
 The total number of licks was determined in each 1 - h recording session .
 Because water intake was very low ( from 0 ml to 1 ml ) during the 1 - h assess to sucrose , the licking microstructure was analyzed only for sucrose .
@@ -32,6 +36,7 @@ The total number of licks , cluster number , cluster duration ( s ) and number o
 The total meal duration ( s ) was calculated as the sum of all cluster durations during the 1 - h access to sucrose .
 Lick frequency within a cluster was estimated by dividing the number of licks per cluster by cluster duration .
 The mean inter - lick interval ( ILI , ms ) was calculated by creating an inter - lick interval histogram of the total lick events during the 1 - h recording session with a bin size of 1 s .
+
 Multi - unit activity was recorded using a 25 - kHz sampling rate and signal filtering between 300 and 8000 Hz .
 The units with a signal - to - noise ratio of 3 : 1 were discriminated using a digital window discriminator .
 The principal component analysis spike sorter ( Tucker Davis Technologies , FL , USA ) was used for online sorting of captured spikes and their storage for offline analysis .
@@ -40,6 +45,7 @@ The mean waveform shape of each unit was identified using NeuroExplorer ( Nex Te
 To characterize the neurons according to sucrose licking activity , 6 - s ( ± 3 s , 100 - ms bin duration ) peri - event rasters and peri - event histograms ( PEHs ) were created by aligning the unit firing to the licking cluster start ( CS ) or cluster end ( CE ) as a reference event ( Figs 2 and 3 ) .
 The resulting PEHs were smoothed with a Gaussian filter ( bin width = 3 ) to reduce fluctuation in the firing rate due to licking .
 The PEH bin values are given in spikes per second and represent the mean frequency across all licking clusters for each neuron .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0156563.g002 A , Example of simultaneous recording of sucrose - licking events and the neuronal firing of a neuron with an increased firing rate at the cluster start ( CS ) , termed CS - excited neuron .
 Clustering of the sucrose - licking events was based on inter - cluster intervals ( ICIs ) ≥ 3 s .
@@ -50,6 +56,7 @@ In the rasters , the red triangles indicate sucrose licks and the black vertical
 The bin duration in the PEHs was 100 ms .
 Bin frequency values ( impulses per second ) from - 2 s to - 1 s were used to calculate the mean baseline frequency .
 Bin frequency values from 0 s to + 1 s were used to characterize response to the CS .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0156563.g003 A , Example of simultaneous recording of sucrose - licking events and the neuronal firing rate of a neuron with decreased firing rate at the cluster start ( CS ) , termed CS - inhibited neuron .
 Clustering of the sucrose - licking events was based on inter - cluster intervals ( ICIs ) ≥ 3 s .
@@ -60,6 +67,7 @@ In the rasters , the red triangles indicate sucrose licks and the black vertical
 The bin duration in the PEHs was 100 ms .
 Bin frequency values ( impulses per second ) from - 2 s to - 1 s were used to calculate the mean baseline frequency .
 Bin frequency values from 0 s to + 1 s were used to characterize response to the CS .
+
 The mean baseline firing rate ( shown in Figs 2B and 3B ) of each neuron was determined in the - 2 s to - 1 s time interval before the first lick of the cluster .
 The mean firing rate during the response to CS was calculated from 0 s to 1 s ( Figs 2B and 3B ) .
 The baseline and response mean firing rate of all the recorded neurons was calculated for each experimental condition .
@@ -74,6 +82,7 @@ To estimate the general 1 - h dynamics of the firing rate of CS - classified neu
 The first 2 min were excluded from this analysis because during the first 2 min , system calibration and establishment of the units ’ thresholds across the recording channels at the beginning of each recording sessions were performed .
 The mean firing rate across the 1 - h recording was calculated in non - stressful and stressful conditions for CS - classified groups of neurons .
 The correlation between the firing rate of CS - inhibited , CS - excited and CS - nonresponsive neurons in non - stressful and stressful conditions was assessed using the non - parametric Spearman correlation test .
+
 A fraction of the AHA neurons showed burst activity in the in vitro recordings and in the in vivo recordings under anesthesia [32,33] .
 To the best of our knowledge , this study is the first to present the burst analysis of the AHA neurons in freely moving rats .
 To examine the burst activity of the cAHA neurons , we used the Poisson surprise method [34] .
@@ -89,6 +98,7 @@ We created 1 - s PEHs ( ± 0.5 s , 100 - ms bin duration ) by aligning the licki
 The Wilcoxon signed - rank test was used to find significant ( p < 0.05 ) differences between the lick frequency before ( 5 bin counts from - 0.5 s to 0 s , with a 100 - ms bin duration ) and after ( 5 bin counts from - 0 s to 0.5 s , with a 100 - ms bin duration ) the reference event .
 To assess whether BS occurred simultaneously with CS , we created 500 - ms ( ± 250 ms with a bin size of 1 ms ) cross - correlograms between the BS and CS events .
 The higher level of the confidence interval was set to 95 % .
+
 All results are presented as mean ± SEM .
 The paired Student ’ s t - test ( p < 0.05 ) was used to compare sucrose intake and variables of the sucrose licking microstructure in non - stressful and stressful conditions .
 To assess whether the distribution of neuronal firing rates , responsiveness to sucrose and burst parameter values were normal , the Kolmogorov - Smirnoff test ( p < 0.05 ) was used .

@@ -10,6 +10,7 @@ HydraPsiSeq requires minute amounts of RNA ( as low as 10 - 50 ng ) , making it 
 Exploring the potential of HydraPsiSeq , we profiled human rRNAs , revealing strong variations in pseudouridylation levels at ∼ 20 - 25 positions out of total 104 sites .
 We also observed the dynamics of rRNA pseudouridylation throughout chondrogenic differentiation of human bone marrow stem cells .
 In conclusion , HydraPsiSeq is a robust approach for the systematic mapping and accurate quantification of pseudouridines in RNAs with applications in disease , aging , development , differentiation and / or stress response .
+
 INTRODUCTION
 Single nucleotide - resolution mapping and precise quantification of RNA modified nucleotides are key challenges in epitranscriptomics ( 1 - 4 ) .
 This information is of crucial importance for analysis of biological functions of these modified RNA residues ( 5 - 8 ) , since only precise and reliable knowledge of RNA modification profiles allows their correlation with physiological state of the cell and other factors influencing RNA maturation and functions .
@@ -35,6 +36,7 @@ Protected residues ( negative hits ) reveal the presence of pseudouridines based
 These protection signals were compared to efficiency of neighboring cleavages at unmodified uridines to obtain a quantitative information on the pseudouridylation levels .
 The method termed ‘ HydraPsiSeq ’ was successfully applied for precise mapping and quantification of pseudouridine residues in yeast Saccharomyces cerevisiae and Homo sapiens rRNAs and tRNAs , as well as S . cerevisiae mRNAs .
 Application of HydraPsiSeq revealed differential rRNA pseudouridylation profiles in different human cell lines and highlighted a dynamic regulation of rRNA pseudouridylation levels during chondrogenic stem cells differentiation .
+
 MATERIALS AND METHODS
 Yeast strains and cultures
 Yeast strains used in this study were obtained either from the lab of Denis L.J .
@@ -49,27 +51,33 @@ Cells were maintained in log phase by continuous dilution in fresh 2 % glucose s
 To produce rRNA deprived of box H / ACA mediated pseudouridylation , we used cells expressing as sole source of Cbf 5 a catalytically deficient allele ( CBF5cata , Cbf 5 - D95A , strain YDL 2932 ) .
 YDL 2932 is a haploid yeast strain in which the endogenous CBF 5 gene was deleted by insertion of a TRP 1 cassette and rescued by expression of Cbf 5 - D95A from a low copy ARS / CEN HIS 3 plasmid .
 Cells were grown to mid - log phase in YPD rich medium ( 1 % yeast extract , 2 % peptone , 2 % glucose ) .
+
 RNA extraction
 Total RNA from yeast cells was isolated using hot acid phenol ( [50,51] ) .
 RNA concentration was measured on a Nanodrop One and RNA quality was assessed by capillary electrophoresis using a PicoRNA chip on Bioanalyzer 2100 ( Agilent technologies , USA ) .
 Yeast PolyA + mRNA fraction was prepared from total RNA using NEBNext Poly ( A ) mRNA Magnetic Isolation Module ( NEB , US ) , according to manufacturer ' s instructions .
+
 RNA fragmentation conditions
 RNA ( 50 - 300 ng ) was subjected to hydrazine treatment ( 50 % final concentration ) for 30 - 60 min on ice .
 The reaction was stopped by ethanol precipitation using 0.3M NaOAc , pH 5.2 and Glycoblue and incubated 30 min at − 80 ° C .
 After centrifugation , the pellet was washed twice with 80 % ethanol and resuspended in 1 M aniline , pH 4.5 .
 The reaction was incubated in dark for 15 min at 60 ° C and processed as described above , by ethanol precipitation .
+
 RNA 3 ′ - end dephosphorylation
 RNA was dephosphorylated at the 3 ′ - end using 10 U of T4 PNK in 100 mM Tris - HCl pH 6.5 , 100 mM MgOAc and 5 mM β - mercaptoethanol and incubated for 6h at 37 ° C .
 T4 PNK was inactivated by incubation for 20 min at 65 ° C .
 RNA was extracted by phenol : chloroform and ethanol precipitated .
 The pellet was resuspended in RNase free water .
+
 Library preparation
 RNA was converted to library using NEBNext Small RNA Library kit ( NEB , UK ) using the manufacturer ' s instructions .
 Library quality was assessed using a High Sensitivity DNA chip on a Bioanalyzer 2100 .
 Library quantification was done using a fluorometer ( Qubit 3.0 fluorometer , Invitrogen , USA ) .
+
 Sequencing
 Libraries were multiplexed and subjected for high - throughput sequencing using an Illumina HiSeq 1000 instrument with 50 bp single - read runs .
 Libraries were loaded onto flow - cell at 10 - 12 pM final concentration .
+
 Bioinformatic pipeline
 Adapter removal was performed using the Trimmomatic utility v 32.0 ( [52] ) , with a stringency parameter of 7 , very short reads < 8 nt were excluded .
 The alignment of raw reads was conducted by Bowtie 2 ( [53] ) in end - to - end mode .
@@ -85,6 +93,7 @@ PsiScore ( ScoreC 2 in RiboMethSeq ) , is calculated using the following formula
 ScoreA and ScoreB were previously reported ( [55] ) and are described in more details in the Supplementary Material .
 Mapping of yeast mRNA reads was done to reference collection of yeast CDS ( ENSEMBL release R 64 - 1 - 1 Saccharomyces _ cerevisiae.R 64 - 1 - 1.cdna .all .fa ) .
 Only uniquely mapped reads were taken into account for further analysis and calculation of protection scores .
+
 Isolation and expansion of human bone marrow mesenchymal stem cells ( BMMSCs )
 MSCs were isolated from human bone marrow biopsy from patient during total hip arthroplasty after informed consent .
 This study was approved by our local ethics committee ( Registration number DC - 2014 - 2148 ) .
@@ -92,6 +101,7 @@ Bone marrow biopsy was heparined , diluted in Phosphate - Buffered Saline soluti
 The pellet was resuspended , seeded in Petri dishes at 4 × 10 cells / dish and cultured at 37 ° C in a humidified atmosphere containing 5 % ( v / v ) CO .
 The expansion phase was performed until passage P2 .
 The expansion medium is composed of Dulbecco ' s modified Eagle ' s medium with low glucose ( DMEM - LG , Gibco ) supplemented with 10 % fetal bovine serum ( FBS , Sigma ) , 1 ng / ml basic fibroblast growth factor ( bFGF , Miltenyi Biotec ) , 1 % glutamine ( Gibco ) and 1 % penicillin − streptomycin ( Gibco ) .
+
 Predifferentiation of BMMSCs in monolayer and production of cartilaginous TE substitutes
 To favor chondrogenic differentiation , BMMSCs were cultured at passage 3 with predifferentiation medium until confluence before seeding to biomaterials ( collagen sponges ) .
 This medium was composed of Dulbecco ' s modified Eagle ' s medium with high glucose ( DMEM - HG , Gibco ) supplemented with 10 % fetal bovine serum ( FBS , Sigma ) , sodium pyruvate ( 110 μ g / ml , Gibco ) , bFGF ( 1 ng / ml , Miltenyi Biotech ) , 1 % penicillin - streptomycin ( Gibco ) , chondrogenic supplements ( PAD : proline ( 40 μ g / ml , Sigma ) , - ascorbic acid - 2 - phosphate ( 50 μ g / ml , Sigma ) and dexamethasone ( 0.1 μ M , Sigma ) .
@@ -103,12 +113,14 @@ The other half of the sponges were cultured with chondrogenic medium ( TGF - ß 
 The control medium was composed of DMEM - HG supplemented with 1 % ITS ( ITS + premix , BD Biosciences ) , 1 % glutamine ( Gibco ) , sodium pyruvate ( 110 μ g / ml , Gibco ) , 1 % penicillin streptomycin ( Gibco ) , and PAD .
 The chondrogenic medium was prepared with control medium supplemented with TGF - ß 1 at 10 ng / ml ( Miltenyi Biotech ) .
 At D7 , D14 , D21 and D28 , analysis of cartilaginous matrix synthesis by BMMSCs inside collagen sponges was performed .
+
 Analysis of cartilaginous matrix synthesis of TE substitutes
 At D7 , D14 , D21 and D28 , cartilaginous TE substitutes seeded with human MSCs were fixed ( n = 3 substitutes / time ) with 4 % paraformaldehyde during 24 hours and embedded in paraffin .
 5 μ m sections were stained with Alcian blue staining to visualize proteoglycan content .
 To visualize collagen II content , immunohistochemical analysis was performed as described previously ( [56] ) .
 The stained slides were observed and recorded by light microscopy ( DMD 108 , Leica ) at 4 × original magnification .
 The scale bars represent 500 μ m .
+
 RESULTS
 General overview of the HydraPsiSeq mapping technique
 The quantitative HydraPsiSeq protocol for pseudouridine mapping and quantification is based on random ( statistical ) cleavage at all uridine residues in RNA by combination of hydrazine treatment ( ring - opening of the pyrimidine base in uridines ) and aniline ( cleavage of the resulting RNA abasic site and release of 5 ′ - phosphorylated RNA fragments directly competent for adapter ligation at the N + 1 nucleotide in the sequence , Figure 1A , Supplementary Figure S1 ) .
@@ -129,6 +141,7 @@ In this case , positions normally pseudouridylated behaved like unmodified Us ( 
 A typical cleavage profile observed for yeast 18S rRNA at position 106 and the corresponding Uprofiles ( insert ) are shown in Figure 1C and D .
 Cleavage of pseudouridine at position 106 was very low in WT rRNA ( Figure 1C ) , while in the absence of modification ( in strain expressing Cbf 5 catalytic mutant , Figure 1D ) , the signal was roughly equivalent to the neighboring unmodified Us in the sequence .
 Similar observation was done for other sites ( see also position 120 , Figure 1C and D ) .
+
 Optimization of the hydrazine cleavage conditions
 Conditions of hydrazine cleavage were optimized with respect to incubation temperature and time to achieve a fragment size compatible with sequencing and analysis ( from ∼ 10 to 30 nt ) and to maximize signal - to - noise ratio .
 We found that the best results were obtained for hydrazine cleavage at 0 ° C for 45 min as longer incubation times were detrimental to read mapping during the alignment step .
@@ -137,6 +150,7 @@ Under optimized hydrazine treatment conditions , cleavage of U residues remains 
 This may be related to particular sequence context or RNA structural effects .
 Even if RNA 2D and 3D structures have been described to be totally compromised in 50 % ( w / w ) hydrazine solution ( [57] ) , the use of additives , known to destabilize RNA 3D and 2D structures , such as urea / DMF or DMSO , led to accelerated hydrazine cleavage .
 However , these additives did not allow to improve the U - to - ψ detection specificity or make cleavage more homogeneous ( data not shown ) .
+
 Pseudouridine detection and mapping
 The reliability of pseudouridine detection by HydraPsiSeq was evaluated by Receiver Operating Characteristic ( ROC ) curves and associated Matthews correlation coefficient ( MCC ) values for WT yeast rRNA containing 47 ψ residues altogether ( [60] ) , of which 46 are installed by Cbf 5 as part of H / ACA snoRNPs ( [47] ) , while formation of ψ 50 in 5S rRNA is catalyzed by the stand - alone enzyme Pus 7 ( [61] ) .
 ROC curve for protection Uscore ( defined as normalized protection of U residues from cleavage , see Materials and Methods ) shows a reliable detection for the majority of pseudouridylation sites ( Figure 2A ) .
@@ -152,6 +166,7 @@ We found the average standard deviations to be of < 5 % , and the most variable 
 Similar data were obtained for biological replicates as well .
 Thus , variations of PsiScore of > 10 % ( 0.1 in molar ψ amount per site ) can be considered as significant and reproducible , opening the way for precise profiling of pseudouridine content .
 Comparison of the results obtained for different sequencing libraries demonstrated that 20 - 25 millions of reads were sufficient for an almost perfect coverage of all S . cerevisiae rRNA positions , thus this number of raw reads was used in further experiments .
+
 Analysis of HydraPsiSeq signals in snoRNA - deleted S . cerevisiae strains and in yeast cells expressing inactive Cbf 5
 To further prove the reliability of HydraPsiSeq in ψ detection and quantification , we performed analysis of two yeast strains bearing deletions of H / ACA snoRNAs snR 44 or snR 81 .
 The snoRNA snR 44 guides rRNA modifications at two positions ( 18S - ψ 106 and 25S - ψ 1056 ) , while snR 81 is responsible for modification of 25S - ψ 1052 ( [62] ) ( Supplementary Figure S6 ) .
@@ -174,6 +189,7 @@ With moderate sequencing depth ( 100 mln reads / sample ) sufficient coverage fo
 Yeast mRNA was reported to contain ∼ 200 - 250 potential ψ modification sites ( [31,38,64] ) .
 We were able to extract NormUcount values for ∼ 70 of them and evaluate protection level for these residues .
 Compilation of these data allowed to confirm moderate to high protection score ( UScore 0.5 - 10 ) for ∼ 35 sites reported by two previous studies , and out of 14 sites reported to be common between two published datasets , HydraPsiSeq confirmed high protection level at two positions ( Figure 4A ) .
+
 Profiling rRNA pseudouridylation in different human cell lines
 Having successfully analyzed pseudouridine sites in yeast rRNAs , tRNAs and mRNAs , we next applied HydraPsiSeq profiling to human rRNAs , containing altogether 104 reported ψ sites ( [65] ) .
 The HydraPsiSeq profiling was performed in biological duplicate ( or triplicate ) for three commonly used human cell lines , namely : fibroblasts , kidney cells ( HEK 293 cells ) , and cervix cancer cells ( HeLa ) .
@@ -182,6 +198,7 @@ The finding that rRNA pseudouridylation levels differ from one cell line to anot
 Such differential rRNA modification was previously observed for other modifications , such as 2 ′ - O methylation ( [66,67] ) .
 Most affected cell type - specific pseudouridylation sites ( 24 sites , see Figure 4B ) were located both on 18S ( 9 sites ) and 28S rRNAs ( 15 sites ) , and mostly clustered in the region 800 - 1150 for 18S rRNA and were relatively evenly distributed throughout 28S rRNA domains ( 4 in Domain I , 1 in Domain II , 6 in Domain III , 1 in Domain V - PTC and 3 in Domain VI ) .
 Differential pseudouridylation may reflect variable efficiency of the rRNA pseudouridylation machinery ( as suggested previously for 2 ′ - O methylation ( [67] ) ) , and / or a novel layer of regulation at the rRNA modification level .
+
 Profiling rRNA pseudouridylation during human chondrogenic differentiation
 To demonstrate further applications of HydraPsiSeq , we performed profiling of pseudouridine content in rRNA extracted from human bone marrow mesenchymal stem cells ( BMMSCs ) during their chondrogenic differentiation .
 Non - differentiated BMMSCs are capable to engage selective differentiation program , to become osteoblasts , chondrocytes or adipocytes and each of these programs requires specific expression of particular proteomes ( [68,69] ) .
@@ -192,6 +209,7 @@ In parallel , samples were collected at 4 time points ( 7 , 14 , 21 and 28 days 
 The majority of pseudouridylation sites remained constitutively modified during the time course of differentiation , both in non - differentiating ITS medium and during differentiation in TGF - β 1 - containing medium ( Supplementary Figure S11 ) , but specific positions displayed altered pseudouridylation levels between these two states ( Figure 5B ) .
 Remarkably , this subset of variable pseudouridylation sites largely overlap with the set of cell type - specific modifications ( see above and Figure 5C ) , and some of those residues have been shown to play an important role in ribosome functions ( e.g. 28S - ψ 3743 ( [72] ) ) .
 In conclusion , our analysis demonstrates that global pseudouridylation profile of human rRNAs may vary considerably between different cell lines , and throughout cell differentiation programs , supporting the emerging concept that cells produce different types of ribosomes , which may carry specialized function in order to adapt to specific translation requirements ( [73,74] ) .
+
 DISCUSSION
 Advantages and limitations of HydraPsiSeq
 A unique feature of HydraPsiSeq , by comparison to previously described high throughput methods , is that it provides for the first time quantitative information about the amounts of pseudouridylation at any particular position of an RNA molecule with nucleotide precision .
@@ -203,6 +221,7 @@ The absence of an enrichment step in HydraPsiSeq implies that a substantial cove
 Since the main advantage of this new protocol over previously published CMC - based techniques ( [31,38,39] ) resides in quantification of pseudouridines , we foresee quantitative profiling of eukaryotic rRNA as the main application , together with analysis of tRNA modification dynamics under different cell growth and physiological or pathological conditions .
 Application for analysis of rare RNAs , such as mRNA or lncRNA is attainable , but mostly for validation purposes , and presumably only for the most abundant molecules , since otherwise quite substantial sequencing depth would be required for significant analysis at the transcriptome - wide level which would increase costs .
 This limitation of HydraPsiSeq in analysis of moderately abundant mRNAs can be overcome , providing that an appropriate enrichment step is included , e.g. through the development of a ψ - specific antibody for IP - like enrichment ( [17] ) .
+
 Required amount of input material and sequencing depth
 In our optimized protocol , HydraPsiSeq requires about 50 ng of total RNA for analysis of rRNA modifications , or equivalent amount of enriched RNA fraction for analysis of low abundant RNAs .
 With some , but still acceptable , loss in efficiency in the library preparation step , this amount can be even further reduced to only ∼ 10 - 20 ng .
@@ -211,10 +230,12 @@ It is noteworthy that , except for the Illumina - based RiboMethSeq protocol , w
 Also of note is that , in principle , the detection of protected ψ residues by comparison to cleaved U residues ( negative detection ) requires much higher sequencing depth than ‘ positive ’ detection methods ( e.g. CMC - based protocols ) .
 Our optimized protocol provides robust coverage of all U residues in human rRNA and thus reliable detection and quantification of all pseudouridines in these species , with 20 - 25 millions raw reads available for analysis ( 2000 - 3000 reads / position ) .
 This sequencing depth is a bit higher than that required in other common protocols ( e.g. RiboMethSeq ) , but remains relatively reasonable , since no costly selection steps are necessary , and thus the overall cost of library preparation remains rather limited .
+
 Reproducibility and precision of pseudouridine quantification
 Analysis of technical and biological replicates for yeast ( Supplementary Figure S5 ) and human rRNA ( Figure 4B ) demonstrated a very low dispersion of measured protection Uscores and derived PsiScores used for quantification .
 Technical variability was found to be higher for partially modified rRNA positions and inversely correlated with sequencing coverage in the region used for calculation of scores .
 In conclusion , HydraPsiSeq now provides quantification of RNA pseudouridylation with precision at least equivalent to mass spectrometry approaches ( [9,10] ) , but the use of deep sequencing allows accommodation of larger series of samples even when only minute amounts of RNA are available .
+
 Known false - positive / negative identifications
 Random and uniform cleavage of U residues by hydrazine is the pre - requisite for successful analysis of hydrazine - resistant pseudouridines by HydraPsiSeq .
 Analysis of yeast and human rRNAs demonstrated that , most likely due to residual 2D and / or 3D RNA structures under hydrazine treatment at low temperature ( 0 ° C ) , a minor subpopulation of inaccessible U residues pertains and displays only very limited cleavage ( Uscore ) .
@@ -223,6 +244,7 @@ Another known source of false - positive hits is related to resistance of 5 - mo
 However , compared to pseudouridines , which are abundantly present in many different RNAs , these modifications are relatively rare ( they are mostly found in tRNAs ) .
 Dihydrouridines ( D ) are most probably resistant to hydrazine themselves , but finally cleaved by the combination of alkaline conditions under hydrazine treatment and aniline scission , and thus are not revealed as false - positive protected hits in HydraPsiSeq ( data not shown ) .
 Reciprocally , some rare non - U modified residues in rRNAs and tRNAs displayed an unexpectedly high sensitivity to cleavage under the conditions used in HydraPsiSeq ( e.g. mG and mC ) , but this did not affect ψ detection or quantification .
+
 Constitutive and variable pseudouridylation sites in human rRNAs in cancer and cell differentiation programs
 Profiling of different human cell lines and stem cells during chondrogenic differentiation demonstrated that the great majority of rRNA pseudouridines is constitutively modified and hardly show any variation .
 These represent over 80 % of all known modified sites .
@@ -232,5 +254,6 @@ The exact reasons and molecular mechanisms underlying such variability are not y
 The existence of variable pseudouridylated positions is to be interpreted in light of the observation that snoRNA H / ACA - dependent rRNA pseudouridylation ( [76] ) is strongly connected to different pathologies and development ( 77 - 79 ) .
 Notably , it was reported that rRNA pseudouridylation affects the balance between cap - dependent and IRES - driven initiation of mRNA translation , and that it affects translation fidelity ( [49] ) .
 Profiling of rRNA ( and tRNA ) pseudouridylation under normal and stress conditions using HydraPsiSeq will undoubtedly help addressing these and other fundamental biological questions in the future .
+
 Supplementary Material
 Click here for additional data file .

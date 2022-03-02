@@ -6,6 +6,7 @@ And These captures of rhesus monkey were authorized by the specific government a
 We collected the fecal samples from the Henan Taihang Macaque Nature Reserve , and the Zhangjiajie National Forest Park .
 We have obtained permission from the above administrative departments to observe the animal behavior of rhesus monkey and collect the stool samples .
 We also confirm that the behavioral observations did not impact the animals in any way .
+
 We collected 337 wild samples from most of the extant groups of M . mulatta across its entire range in China ( Figure 1 ) .
 Samples used for genetic analysis included feces ( n = 78 ) and blood ( n = 259 ) .
 Blood samples were salvaged from routine health checks for newly captured wild macaques at breeding centers .
@@ -15,10 +16,12 @@ Each dropping was identified by size , shape , and color , and only one sample l
 D - loop sequences from 168 M . mulatta and 56 haplotypes from Sichuan used by Li et al . [29] were downloaded from GenBank .
 The downloaded data included 76 , 21 , 13 , 109 , and 5 sequences originating in China ( Guangxi , 20 ; Sichuan , 56 ) , Nepal , Myanmar , India , and Viet Nam , respectively .
 The detailed sample data were listed in Table S1 .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0055315.g001 Map of sampling locations for the rhesus macaque , Macaca mulatta .
 Dots indicate specific locality data .
 SC = Sichuan ( SCML = Muli ; SCDB = Danba ) , YN = Yunnan ( YNJG = Jinggu ; YNSM = Simao ( = Pu ’ er ) ; YNZY = Zhenyuang ; YNMJ = Mojiang ) , HI = Hainan , HA = Henan , HN = Hunan , GZ = Guizhou , GX = Guangxi , FJ = Fujian , and ZJ = Zhejiang .
+
 Blood samples were digested using proteinase K .
 This was followed by a standard 3 - step phenol / chloroform extraction procedure .
 Fecal samples extracted using the 2CTAB / PCI protocol as modified by Vallet et al . [39] .
@@ -34,6 +37,7 @@ PCR cycling conditions for D - loop consisted of an initial denaturation of 5 mi
 Final extension at 72 ° C was conducted for 10 min .
 We used the same procedure for Cytb and 16S but with annealing at 55 ° C and 59 ° C , respectively .
 Primers sequences were summarized in Table 1 .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0055315.t001 Primers used in PCR and sequencing for the rhesus macaque , Macaca mulatta .
 The amplified DNA fragments were purified via spin columns and sequenced using an ABI PRISM 3730 DNA analyzer following the manufacturer ’ s protocols .
@@ -45,14 +49,17 @@ PCR procedures involved an initial denaturation at 94 ° C for 4 min followed by
 PCR products were diluted and mixed with LIZ 500 size standards .
 Microsatellites were obtained using an ABI PRISM 3730 DNA analyzer ( ABI , USA ) .
 Allele scoring was performed using genemapper [42] .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0055315.t002 Primer sequences used in the microsatellite study .
 The fluorescent dyes , original references , and annealing temperatures used for rhesus macaque - derived markers , with the number of alleles ( NA ) and allele size range found in the 265 samples screened in this study are listed.a , b.aThe sequence of primers used to amplify each locus can be obtained from Research Genetics Inc.bThe chromosome number of the STR markers in Macaca mulatta was determined by e - PCR in the UniSTS database from NCBI .
+
 Alignments were first conducted using Clustal W [43] integrated into MEGA v. 4.1 [41] while employing default parameters .
 When required , the initial alignments were subsequently adjusted by eye using MEGA v. 4.1 .
 Protein - coding nucleotide sequences were translated to amino acids using MEGA v. 4.1 to confirm alignments .
 Gaps were considered to be a nucleotide variant ( fifth state ) .
 Identical haplotypes were collapsed using DnaSP , v. 5.0 [44] .
+
 For phylogenetic analyses , several species of macaques were selected as outgroup taxa .
 Two mitochondrial datasets were analyzed separately .
 First , the D - loop fragments alone , including 214 unique haplotypes plus the four outgroup taxa from M . fascicularis , M . thibetana , M . sylvanus , and M . arctoides , were subjected to phylogenetic analyses .
@@ -66,6 +73,7 @@ For the second dataset , phylogenetic relationships were also inferred using Bay
 The best - fitting nucleotide substitution model for each gene ( 16S : GTR + I + G , Cytb : GTR + G , D - loop : HKY + I + G ) was selected based on the Akaike Information Criterion as implemented in Modeltest v. 3.7 [50] using default parameters .
 Four Monte Carlo Markov chains ( MCMC ) were used and the dataset was run for 10 million generations and trees were sampled every 200 generations .
 The last 25 % of the sampled trees were used to estimate the consensus tree and corresponding Bayesian posterior probabilities .
+
 Isolation - by - distance and historical population analyses : Using the first dataset , we tested the null hypothesis of a correlation between genetic and geographical distances , i.e. isolation - by - distance ( IBD ) , for the matrilines using both all ten sampling localities and the six western sites that had specific locality data ( Figure 1 ) .
 Approximate geographic coordinates were determined using Google Earth .
 Distances between localitied were estimated using the spherical distance between two points .
@@ -81,6 +89,7 @@ Tajima ’ s D [55] and Fu ’ s Fs statistics [56] , calculated using Arlequin 
 Statistical significance was tested with 1000 permutations .
 The null hypothesis was that of a stable population .
 Additionally , we calculated the statistics of genetic diversity , neutrality tests , and mismatch distributions for the main populations of Macaca mulatta in China .
+
 Divergence times were estimated using a Bayesian MCMC method implemented in beast v. 1.5.3 [57] , which employed a relaxed molecular clock approach [58] .
 A relaxed lognormal clock model of haplogroup variation and a Yule prior for branching rates was assumed .
 Divergence time estimations were based on the second dataset only .
@@ -91,6 +100,7 @@ Instead of using hardbounded calibration points , we relied on published dates a
 Two replicates were run for 100 million generations while sampling trees and parameters every 1,000 generations .
 The adequacy of using a 50 % burn - in to generate MCMC trees and for convergence of all parameters was assessed visually using Tracer v. 1.4.1 [59] .
 Subsequently , the sampling distributions of two independent replicates were combined using the software LogCombiner v. 1.5.2 [54] , and the resulting 100,002 samples were summarized and visualized using TreeAnnotator v. 1.5.2 [54] and Fig Tree v. 1.2 [60] .
+
 All loci were collected as an EXCEL file , and then converted into the computable files using convert [61] .
 We used Arlequin v. 3.11 to check if the microsatellite data departed from Hardy - Weinberg expectations .
 Tests for linkage disequilibrium were checked by using the GenePop v. 4.0 [62] .
@@ -99,6 +109,7 @@ The presence of genetic bottlenecks was tested by using the heterozygosity exces
 Following recommendations of Piry et al . , we used the two - phase model ( TPM ) with 95 % stepwise mutations and a variance of 12 [65] , [66] .
 We used the Wilcoxon signed - rank test because this test was proven to be more powerful when less than 20 loci are used [65] .
 The mode - shift test implemented in Bottleneck [65] was also run .
+
 First , we assessed population structure by using pairwise FST values calculated in Arlequin v. 3.11 and the Bayesian clustering approach implemented in Structure v. 2.3.3 [66] , [67] , [68] .
 For analyses using Structure , the admixture model with correlated allele frequencies was chosen and the number of genetic groups K was set from 1 to 8 .
 Each run used five replicates , which consisted of a burn - in period of 1 000 000 MCMC steps followed by 1 000 000 MCMC steps .

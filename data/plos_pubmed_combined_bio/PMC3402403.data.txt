@@ -3,6 +3,7 @@ Participants were informed orally about this study and also given a detailed inf
 Only those who gave written consent were interviewed .
 No compensation was offered for the interview .
 Interview data sheets did not bear the names of respondents and all data were anonymized before analysis .
+
 The east African archipelago of Zanzibar belongs to the United Republic of Tanzania and is inhabited by ∼ 1.2 million people who are predominantly Muslim .
 Kiswahili is the main language , but English is also widely used .
 The archipelago is located ∼ 60 km off the coast of mainland Tanzania and consists of two major islands - Unguja in the south and Pemba in the north - and several islets ; it can be reached from the coast by ferry or air within 20 minutes to 2 hours .
@@ -12,6 +13,7 @@ Both Shehias ( administrative term for community in Zanzibar ) were among the co
 The sample for this study was drawn from these two Shehias because they had been studied in a pre - vaccination survey in 2008 [23] , [24] .
 The peri - urban site , an unplanned , slum - like extension of the capital , mainly consists of brick houses and is characterized by a high population density ; the rural site consists of hamlets and most people live in mud houses .
 More details of both sites have been reported elsewhere [24] .
+
 The mass vaccination campaign aimed to vaccinate ∼ 50,000 inhabitants with Dukoral ™ , a two - dose OCV containing killed V. cholerae O1 bacteria and recombinant cholera toxin B subunit protein [38] .
 Dukoral ™ was the only OCV pre - qualified by the WHO at the time of vaccination .
 It requires a cold chain for storage and safe water ( ∼ 1.5 dl per dose ) for its administration .
@@ -26,6 +28,7 @@ The campaign was officially launched by the Minister of Health who drank the vac
 Mobilizer teams were formed for each Shehia and delivered information from house to house and by megaphone .
 Each team consisted of five to six community residents representing also women ' s groups , youth , religious groups and members of the opposition party .
 Key messages highlighted not only the importance of vaccination for cholera prevention , but also promoted hygiene messages to prevent other diarrheal diseases , and explained administration of the OCV , its characteristic features and potential for mild side effects .
+
 This was a cross - sectional interview survey based on a case - control design to identify factors associated with vaccine uptake among vaccinated and unvaccinated community members targeted for the mass vaccination campaign .
 In addition , unvaccinated participants were also interviewed about barriers to uptake for site - and gender - related comparative analysis .
 Data were collected in June and July 2009 , six months after the mass vaccination campaign .
@@ -38,6 +41,7 @@ Second , peri - urban and rural respondents were separated and groups of women a
 Third , of the approximately 95 women and 95 men required per site , 50 % were selected from those who had received two doses of the OCV , 40 % from those who had not received a single dose and 10 % from those with one dose only .
 Only residents who were physically and mentally fit to stand an interview of approximately one hour duration were included in the sample .
 Women who had not taken the vaccine because of pregnancy during the mass vaccination campaign were not interviewed .
+
 Semi - structured interviews based on the Explanatory Model Interview Catalogue ( EMIC ) are the principal instrument for cultural epidemiological studies and elicit locally valid features of illness - related experience ( operationalized as categories of distress ) , meaning ( perceived causes ) and behavior ( help seeking ) [25] , [35] .
 An EMIC interview for study of diarrhea - free community residents was developed based on the pre - vaccination survey [24] ( see supporting information , Text S1 ) .
 A ten - day workshop was conducted shortly before the survey to train field workers and pilot the EMIC interview in Shehias adjacent to the study communities .
@@ -45,11 +49,13 @@ After recording relevant socio - demographic characteristics , interviews began 
 To study socio - cultural features of cholera - like illness , respondents were asked a series of open and closed questions .
 These elicited patterns of distress ( i.e. , respondents ' opinions on what additional physical symptoms the cholera patient described in the vignette might suffer from , and how the illness might impact him / her socially , emotionally and financially ) , perceived causes ( i.e. , what causes the illness may be attributed to ) and help - seeking behavior ( i.e. , what would usually be done at the patient ' s home for self treatment and what sources of help would be consulted outside the household ) .
 Respondents who did not swallow two doses of the OCV during the mass vaccination campaign were queried about their reasons against vaccination by specifically inquiring about barriers related to logistical , social and system - relevant and medical aspects .
+
 Quantitative data were recorded by interviewers on data sheets , double entered in Epi Info 3.5.1 ( CDC , Atlanta , GA , USA ) by data entry clerks and cleaned for statistical analysis in SAS 9.2 ( SAS Institute , Cary , NC , USA ) .
 Qualitative data were written down during the interview by note takers in Kiswahili ( or in English in a few cases ) .
 After translation into English , narratives were typed in a pre - coded word processor template that reflected interview items ; this procedure followed the pre - vaccination survey [23] .
 This enabled automatic importation of entire interviews with codes into the qualitative data analysis software MAXQDA 10 ( VERBI Software , Consult . Sozialforschung . GmbH , Marburg , Germany ) .
 For integrated analysis of quantitative and qualitative data , quantitative variables ( see below ) were imported into MAXQDA 10 ; this made it possible to retrieve narrative segments based on analytically relevant findings or statistical relationships .
+
 Multivariable analysis of factors of uptake : Socio - demographic characteristics were coded as numeric or categorical variables .
 Categories of socio - cultural features of cholera - like illness were assigned a value of 2 if they were mentioned spontaneously and a value of 1 if they were mentioned only after probing .
 Those among the reported categories that were identified as single most troubling ( among patterns of distress ) , most important ( perceived causes ) or most helpful ( help seeking ) were given an additional value of 3 .
@@ -67,6 +73,7 @@ To calculate the final model , only those variables which were retained with a p
 Interaction between each explanatory variable and site ( rural vs . peri - urban site at baseline ) was tested in sub - models ; only interaction terms retained with a p < 0.1 in sub - models were used in the final model .
 The final model reports adjusted odds ratios with 95 % confidence intervals and p values .
 In case of significant interaction with site , site - specific estimates are presented .
+
 Descriptive analysis of barriers to uptake : Coding and calculation of variables related to barriers followed the approach used for socio - cultural features of illness .
 Unvaccinated respondents ' spontaneous and probed answers for each barrier and the barrier they identified as most important were recorded .
 Thematically similar barriers were subsumed under groups of logistical , medical and social / system - related barriers .

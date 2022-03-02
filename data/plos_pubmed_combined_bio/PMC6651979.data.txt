@@ -2,10 +2,12 @@ Background
 Process evaluation is increasingly recognized as an important component of effective implementation research and yet , there has been surprisingly little work to understand what constitutes best practice .
 Researchers use different methodologies describing causal pathways and understanding barriers and facilitators to implementation of interventions in diverse contexts and settings .
 We report on challenges and lessons learned from undertaking process evaluation of seven hypertension intervention trials funded through the Global Alliance of Chronic Diseases ( GACD ) .
+
 Methods
 Preliminary data collected from the GACD hypertension teams in 2015 were used to inform a template for data collection .
 Case study themes included : ( 1 ) description of the intervention , ( 2 ) objectives of the process evaluation , ( 3 ) methods including theoretical basis , ( 4 ) main findings of the study and the process evaluation , ( 5 ) implications for the project , policy and research practice and ( 6 ) lessons for future process evaluations .
 The information was summarized and reported descriptively and narratively and key lessons were identified .
+
 Results
 The case studies were from low - and middle - income countries and Indigenous communities in Canada .
 They were implementation research projects with intervention arm .
@@ -13,12 +15,15 @@ Six theoretical approaches were used but most comprised of mixed - methods appro
 Each of the process evaluations generated findings on whether interventions were implemented with fidelity , the extent of capacity building , contextual factors and the extent to which relationships between researchers and community impacted on intervention implementation .
 The most important learning was that although process evaluation is time consuming , it enhances understanding of factors affecting implementation of complex interventions .
 The research highlighted the need to initiate process evaluations early on in the project , to help guide design of the intervention ; and the importance of effective communication between researchers responsible for trial implementation , process evaluation and outcome evaluation .
+
 Conclusion
 This research demonstrates the important role of process evaluation in understanding implementation process of complex interventions .
 This can help to highlight a broad range of system requirements such as new policies and capacity building to support implementation .
 Process evaluation is crucial in understanding contextual factors that may impact intervention implementation which is important in considering whether or not the intervention can be translated to other contexts .
+
 Electronic supplementary material
 The online version of this article ( 10.1186 / s12889 - 019 - 7261 - 8 ) contains supplementary material , which is available to authorized users .
+
 Background
 A substantial challenge faced by implementation researchers is to understand if , why and how an intervention has worked in a real world context , and to explain how research that has demonstrated effectiveness in one context may or may not be effective in another context or setting [1] .
 Process evaluation provides a process by which researchers can explain the outcomes resulting from complex interventions that often have nonlinear implementation processes .
@@ -30,18 +35,21 @@ Given the significance of the causal pathway of a research intervention , which 
 Since 2009 , the Global Alliance for Chronic Diseases ( GACD ) has facilitated the funding and global collaboration of 49 innovative research projects for the prevention and management of chronic non - communicable diseases [8] with funding from GACD member agencies [1] .
 Process evaluation has increased in importance and is now an explicit criterion for project funding through this program .
 The objective of this paper is therefore to describe the different process evaluation approaches used in the first round of GACD projects related to hypertension , and to document the findings and lessons learned in various global settings .
+
 Methods
 Data collection
 Preliminary data on how the projects planned their process evaluations , were collected from the 15 hypertension research teams in the network in 2015 and was used to develop a data collection tool .
 This tool was then used to collate case study information from seven projects based on the following themes : ( 1 ) description of the intervention , ( 2 ) objectives of the process evaluation , ( 3 ) approach ( including theoretical basis , main sources of data and analysis methods ) , ( 4 ) main findings of the study and the process evaluation , ( 5 ) implications for the project , policy and research practice and ( 6 ) lessons for future process evaluations .
 The case study approach recognizes that projects were at different stages of intervention / evaluation .
 Each process evaluation was nested within an intervention study that was either completed or nearly completed .
+
 Data analysis
 Information relevant to each of the agreed themes was documented by FL and JW using a data extraction sheet ( see Table [1] ) .
 The information was summarized and reported descriptively and narratively in relation to the themes above .
 Overarching issues were identified by the working group that had been established to oversee the project .
 The working group comprised researchers who had all been involved in the different process evaluations and helped to draw out the main implications of the process evaluation with respect to project and policy , as well as lessons to inform future process evaluations .
 Process evaluation approaches , implications and lessons from seven case studies
+
 Results
 Countries and interventions studied
 The seven process evaluations were from low - and middle - income countries ( LMICs ) that had either completed or nearly completed their process evaluations including Fiji and Samoa , South Africa , Kenya , Peru , India , Sri Lanka , Tanzania and indigenous communities in Canada , ( Table [1] ) .
@@ -50,6 +58,7 @@ These process evaluations were part of pragmatic trials of innovative interventi
 Although the studies generally took place in LMICs , there were varying geographical , cultural and economic settings within and across countries ( Table [1] ) .
 Most of the interventions ( five ) were tested in randomized controlled trials with one stepped wedged trial and one pre - post study design .
 The duration of the studies was three to 5 years ( Additional file [1] ) .
+
 Objectives and theoretical approaches to process evaluations
 The specific objectives for each process evaluation were tailored to the broader objectives for each project and however , they were generally aimed at understanding factors that would have affected the implementation process and the impact of this process on trial outcomes .
 These objectives were achieved through the collection of qualitative information about context , mechanisms , feasibility , acceptability and sustainability of the interventions and quantitative information about fidelity ( extent to which the intervention is implemented as intended ) , dose ( how many units of each intervention are delivered ) and reach ( extent of participation of the target population ) [2] .
@@ -59,6 +68,7 @@ For the DREAM GLOBAL in Tanzania and Canada , the investigators have so far unde
 This formative research is aimed at assessing the major components of the intervention and how these components should vary among and between people , countries and cultures .
 The theoretical approaches to process evaluation differed in the seven case studies , including use of the United Kingdom ’ s Medical Research Council ( MRC ) framework for process evaluation ( Fiji / Samoa ) [ 2 , 10 ] , the realist evaluation approach ( South Africa and Kenya ) [11] , community - based participatory evaluation theory ( Tanzania and Canada ) [7] , the RE - AIM framework ( Kenya ) [12] , Kirkpatricks ’ four level evaluation model ( India ) [13] , phenomenology ( Peru ) [14] and Framework analysis method ( Sri Lanka ) [15] ( see Table [2] ) .
 Description of the different theoretical approaches used in the GACD process evaluations
+
 Main sources of data and data collection methods
 Most of the investigators used a mixed methods approach in their data collection and inquiry , integrating quantitative and qualitative data within a single study [18] .
 For all seven case studies , qualitative data were obtained using one or more of the following methods : interviews , observations , focus group discussions , implementer diaries , researcher notes and reports of meetings .
@@ -66,6 +76,7 @@ Quantitative data were obtained from surveys , metrics of process measures , wri
 In most of these cases , data were collected and analyzed by researchers who were members of the study team but were adept at analyzing these types of data and so were specifically employed to conduct process evaluation .
 In two studies , phenomenological and framework analysis approaches were applied with only qualitative data used in their evaluation .
 This was because their process evaluation solely focused on assessing barriers and facilitators .
+
 Main findings of process evaluations
 Although the studies reported in this paper had very distinct interventions and outcomes , there were similarities in the findings of the process evaluations across the studies .
 The process evaluations of the salt reduction interventions in Fiji and Samoa demonstrated that the absence of a significant reduction in salt , in either country , could be explained by the fact that the interventions were not implemented with full fidelity ( i.e. implemented in line with the study protocol ) .
@@ -89,6 +100,7 @@ At the beginning of the trial , providers expressed apprehension about initiatin
 Over time , they became comfortable as no major safety issues were reported and the extent of BP lowering achieved was substantial .
 Providers expressed a willingness to prescribe the triple pill and patients were willing to use it if it was made available after the trial .
 These findings from the seven cases demonstrate the role of process evaluations in describing the implementation process despite variation in study outcomes .
+
 Implications for the projects and policy
 A series of implications for projects and policies were highlighted by the process evaluations .
 For salt reduction interventions , these included the need for adequate time between baseline and follow up for the implementation to take effect ; the need for strong leadership ( diverse , experienced and representative ) and clear roles for multi - sector advisory bodies ; regular communication with stakeholders ; and consideration of consumer acceptability and affordability of salt - reduced products .
@@ -98,6 +110,7 @@ The process evaluation in the CHW study in Kenya showed the need for additional 
 Similarly , findings from the ASHA program in India emphasized the need for culturally appropriate training materials , delivered using interactive and innovative methods .
 It also showed the need to align project tasks and responsibilities with CHW incentives as without this , their morale for work would decline .
 Implementing a low dose , combination treatment strategy in Sri Lanka highlighted the need for education and training for prescribing physicians around the benefits of early use of combination therapy for treatment of hypertension and ensuring availability of the combined therapy for hypertension .
+
 Discussion
 This paper provides an overview of the application and findings of process evaluations in different hypertension implementation research projects in various LMICs and Indigenous communities in Canada .
 The major objective of each process evaluation was to understand the implementation of interventions .
@@ -166,9 +179,12 @@ In some teams , discussion of the preliminary results of the process evaluation 
 The DREAM GOBAL process evaluation demonstrated the need for formative research that informed the mHealth projects for rural communities in Tanzania and Indigenous people in Canada as well as the value of using a participatory research tool [28] .
 This tool helped to identify : a ) key domains required for ongoing dialogue between the community and the research team and b ) existing strengths and areas requiring further development for effective implementation .
 Applying this approach , it was found that key factors of this project , such as technology and task shifting required study at the patient , provider , community , organization , and health systems / setting level for effective implementation [7] .
+
 Conclusion
 The analysis of process evaluations across various NCD - related research projects has deepened the knowledge of the different theoretical approaches to process evaluation , the applications and the effects of including process evaluations in implementation research , especially in LMICs .
 Our findings provide evidence that , whilst time - consuming , process evaluations in low resource settings are feasible and crucial for understanding the extent to which interventions are being implemented as planned , the contextual factors influencing implementation and the critical resources needed to create change .
 It is , therefore , essential to allocate sufficient time and resources to process evaluations , throughout the lifetime of these implementation research projects .
+
 Additional files
+
 Annexures ( case studies ) ( DOCX 39 kb )

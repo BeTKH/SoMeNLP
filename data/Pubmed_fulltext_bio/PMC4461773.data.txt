@@ -7,6 +7,7 @@ Inflammation was evaluated by high - sensitive C - reactive protein and five cyt
 Although a dose - dependent increase in serum 25 ( OH ) D over the supplementation period was observed ( P trend < 0.001 ) , there were no other statistically significant differences in changes in the 13 glucose homeostasis indicators between the study groups other than increase in the 120 min glucose concentration ( P trend = 0.021 ) and a decreasing trend both in 30 min plasma insulin ( P trend = 0.030 ) and glycated hemoglobin ( P trend = 0.024 ) concentrations .
 A borderline statistically significant decreasing trend in interleukin - 1 receptor antagonist concentration was observed ( P = 0.070 ) .
 Vitamin D supplementation does not improve glucose metabolism in ageing subjects with prediabetes but may have modest anti - inflammatory effects .
+
 1 .
 Introduction
 There is a lot of epidemiological evidence to suggest that vitamin D has a role in glucose homeostasis , especially in maintaining normal glucose homeostasis and protecting against type 2 diabetes [ 1 , 2 ] .
@@ -18,6 +19,7 @@ Insulin resistance , metabolic syndrome , and type 2 diabetes are associated wit
 Although vitamin D has immunomodulatory and anti - inflammatory properties , especially based on experimental studies [13] , bodies of evidence from human studies in the prediabetic state assessing the role of moderate to large dose supplementation of vitamin D in inflammation and glucose metabolism are still relatively few .
 As more evidence is clearly needed , we decided to study the placebo - controlled effect of 5 - month 40 μ g / d ( 1,600 IU ) or 80 μ g / d ( 3,200 IU ) oral vitamin D supplementation on glucose homeostasis in an eastern Finnish population with either impaired fasting glucose ( IFG ) or IGT during winter time when serum vitamin D concentrations drop without supplementation .
 Furthermore , we assessed the anti - inflammatory effect of the supplementation by measurements of serum high - sensitive C - reactive protein ( hsCRP ) , plasma soluble tumor necrosis factor receptor type II ( psTNFrII ) , plasma interleukin - 6 ( pIL - 6 ) , plasma interleukin - 1 receptor antagonist ( pIL - 1RA ) , and plasma interleukin - 1 beta ( pIL - 1 β ) concentrations .
+
 2 .
 Materials and Methods
 2.1 .
@@ -44,6 +46,7 @@ According to power computations , to reach 80 % power ( i.e. , β = 0.20 ) at α
 The Research Ethics Committee of the Northern Savo Hospital District has approved the study protocol .
 All subjects gave a written informed consent to participate in the study .
 The study is registered in the ClinicalTrials.gov ( identification code : https://clinicaltrials.gov/ct2/show/NCT01479933 ) .
+
 2.2 .
 Measurements
 Serum 25 ( OH ) D concentration was measured from venous blood samples by a high performance liquid chromatography with coulometric electrode array ( HPLC - CEAD ) , as described [14] .
@@ -64,6 +67,7 @@ Body mass index ( BMI ) was computed as weight / height squared ( kg / m ) .
 Blood pressure was measured after a 5 min rest from the upper arm at a supine position , using a recently calibrated semiautomatic device ( OMRON Intellisense M7 , OMRON Healthcare , Netherlands ) .
 Systolic and diastolic blood pressure values were computed as the mean of the last two of three measurements .
 Participant compliance in taking supplements as instructed was assessed by counting the study supplements not consumed at the last study visit .
+
 2.3 .
 Statistical Analysis
 From the statistical analyses we excluded two subjects who had an increase in their BMI to > 35 kg / m between the randomization and the start of the supplementation ( visit 3 ) , two subjects who reported at the end of the study that they had started to use a high - dose ( 50 μ g / day and 125 μ g / day ) vitamin D supplement in addition to the study supplements during the study period , and one subject due to low compliance .
@@ -79,11 +83,13 @@ Related - Samples Wilcoxon Signed Rank test ( P ) was used to study the intragro
 A two - sided P < 0.05 was considered statistically significant for the Kruskal - Wallis test , a 1 - sided P < 0.05 for the Jonckheere - Terpstra test , and a two - sided P < 0.025 for the Mann - Whitney U test ( i.e. , with the Bonferroni correction ) .
 All statistical analyses were computed with the SPSS Statistical Package for Windows , version 21.0 ( Armonk , NY : IBM Corp . ) .
 The supplementation effect analyses were conducted per protocol ; as for the dropouts there were no data available at the end of the study to compute the change variables .
+
 3 .
 Results
 3.1 .
 Randomization
 Despite the moderately small sample size , the randomization yielded reasonably identical groups with regard to vitamin D and glucose metabolism - related parameters .
+
 3.2 .
 Subject Characteristics
 Characteristics of the 68 study subjects at baseline are presented in Table 1 .
@@ -91,29 +97,35 @@ The median age of the subjects at entry was 65.7 ( interquartile range 62.7 to 6
 The arithmetic mean 25 ( OH ) D concentration was 57.0 nmol / L with a standard deviation of 11.0 nmol / L .
 One of the 68 subjects had serum 25 ( OH ) D concentration under 30 nmol / L and 18 subjects had concentration below 50 nmol / L .
 Of the 68 subjects that entered the supplementation period , 66 completed the study ( Figure 1 ) .
+
 3.3 .
 Serum 25 ( OH ) D and PTH
 There was a marked dose - dependent increase in the average serum 25 ( OH ) D concentration in the three study groups , from 55.3 to 59.0 nmol / L , from 57.7 to 85.4 nmol / L , and from 58.1 to 103.1 nmol / L , in the placebo , 40 μ g / d , and 80 μ g / d groups , respectively ( mean ranks for change 17.1 , 35.4 , and 47.8 , resp . , P < 0.001 ; see Table 2 ) .
 At baseline , one of the subjects in the 80 μ g / day group had serum 25 ( OH ) D > 75 nmol / L .
 At the end of the study , 3 / 21 ( 14 % ) subjects in the placebo group , 16 / 24 ( 67 % ) subjects in the 40 μ g / d group , and 18 / 21 ( 86 % ) subjects in the 80 μ g / d group had serum 25 ( OH ) D > 75 nmol / L .
 Concomitant with the increase in the serum 25 ( OH ) D concentrations , there was a dose - dependent decrease in the serum PTH concentrations ( Table 2 ) .
+
 3.4 .
 Glucose Metabolism
 Changes in the tested glucose homeostasis parameters over the supplementation period are given in Table 2 .
 The only statistically significant effect between the groups was an increase in the 120 min plasma glucose concentration , that is , opposite to expected ( P = 0.039 , P = 0.021 ) , although only the pairwise group difference for the placebo versus 40 μ g / d was statistically significant after Bonferroni correction ( P = 0.022 ) , and a decreasing trend in the HbA concentration ( P = 0.024 ) and in the 30 min insulin concentration ( P = 0.030 ) .
 Borderline statistically significant trend was observed in the IGI ( P = 0.063 ) .
+
 3.5 .
 Inflammation
 In the tested inflammation markers , shown in Table 2 , the only borderline statistically significant finding was a decreasing trend in the plasma IL - 1RA concentration ( P = 0.070 ) .
 There were detectable concentrations of pIL - 1 β only for four subjects at entry and for two subjects at the end of the study and therefore the P values cannot be considered reliable .
+
 3.6 .
 Safety
 No statistically significant changes were observed in sCA ( Table 2 ) or in the parameters of liver or kidney function or in the TBC ( data not shown ) .
 No statistically significant differences between groups were observed in changes in waist circumference or BMI , in blood pressure , or in circulating lipids ( data not shown ) .
+
 3.7 .
 Sensitivity Analyses
 We repeated the analyses by including also those with BMI > 35 at the start of the supplementation period , those who started their own high - dose vitamin D supplementation during the trial , or the one with low compliance ( n = 71 ) .
 The results were generally similar to those with the exclusions , except for the P for trend for IL 1 - Ra , which was statistically significant ( P = 0.027 ) .
+
 4 .
 Discussion
 Our study showed that oral supplementation with daily 40 μ g or 80 μ g doses of vitamin D for five months markedly increases the circulating concentrations of 25 ( OH ) D , even over the winter months that usually are associated with a decrease in the 25 ( OH ) D in this population [18] .
@@ -148,8 +160,10 @@ Strengths of the study were the homogenous study population and use of two diffe
 A limitation of the study was the unbalanced gender distribution , especially the low number of females .
 Another limitation is the lower than planned total number of study subjects , which was due to the need to close recruitment to allow a sufficiently long supplementation during the low UVB exposure period , and the higher than anticipated average 25 ( OH ) D concentration of the study population at the start of the study .
 However , the fairly consistent results of our study do not suggest a marked change in observed effects even if some more subjects would have been included , or if intention - to - treat analysis had been carried out instead of per - protocol analysis , given that per - protocol tends to exaggerate the treatment effects , if anything .
+
 5 .
 Conclusions
 In conclusion , our study does not support the role of winter - time relatively high - dose vitamin D supplementation as a means to improve glucose homeostasis in a general ageing population with prediabetes but suggests a modest anti - inflammatory effect .
+
 Characteristics of the study population ( n = 68 ) at the start of the supplementation period .
 Changes over time in the outcome parameters by supplementation group ( n = 66 ) .

@@ -17,10 +17,14 @@
 
 
 
+
+
+
 Citation_of	[42]	54	1	AFNI	40	0;;URL_of	http://afni.nimh.nih.gov	61	2	AFNI	40	0;;
 
 PlugIn_of	3dDespike	42	0	AFNI	55	1;;
 PlugIn_of	3dBandpass	30	0	AFNI	44	1;;
+
 
 
 
@@ -34,6 +38,7 @@ Citation_of	[45]	51	1	PyMVPA	44	0;;URL_of	http://www.pymvpa.org	58	2	PyMVPA	44	0
 
 
 Citation_of	[43]	131	1	SUMA	126	0;;
+
 
 
 
@@ -161,12 +166,23 @@ Citation_of	[43]	116	1	SUMA	111	0;;
 
 
 
+
+
+
+
+
 Citation_of	[22]	122	1	NeuroSynth	111	0;;
 
 
 
 
+
 Citation_of	[51]	157	1	BootES	150	0;;
+
+
+
+
+
 
 
 

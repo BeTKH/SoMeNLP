@@ -3,6 +3,7 @@ Their average age was 22.1 ( s.d . = 1.4 ) years .
 Eight had normal vision and two had corrected - to - normal vision .
 All gave informed written consent .
 The project was given ethics approval ( number AOD 02 - 09 ) by the Chief of Air Operations Division , Defence Science and Technology Organisation , in accordance with the National Statement on Ethical Conduct in Human Research [11] .
+
 Observers performed a change detection task for symbol shape while viewing displays modelled on military tactical displays in each of which eight symbols from the Hostile , Ambiguous , Friendly , Unknown ( HAFU ) symbol set [12] were presented ( Fig 1 ) .
 Observers were naive with respect to the semantic content of these symbols .
 Each symbol subtended approximately 0.6 ° in height and width and had a white line of length 1.3 ° emanating from its centre in a random direction .
@@ -12,6 +13,7 @@ On each trial , an initial display was presented for 3 seconds and followed by a
 A second display was then presented until the observer responded with his / her detection , confidence and identification decisions ( see below ) .
 The second display was identical to the first except that on a proportion of trials ( either .25 or .75 ) the shape of one randomly selected symbol had been changed to another in the set .
 Displays were presented on a 24 " LCD monitor ( Hewlett Packard 2465 ) at a viewing distance of approximately 60 cm .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0149217.g001 Time course of a trial .
 There were eight randomly placed symbols .
@@ -19,6 +21,7 @@ Each symbol was of one of three shapes and one of three colours , and had a rand
 On a proportion ( .25 or .75 ) of trials , the shape of one symbol changed between the first and second displays .
 Observers made a yes / no change detection response and then rated their confidence in that response using five confidence bins ranging from guess ( .5 correct ) to certain ( 1.0 correct ) .
 Following the confidence rating , observers indicated with a mouse the symbol that they believed was most likely to have changed .
+
 Data were collected in 12 blocks of 40 trials .
 The two conditions of change probability ( .25 and .75 ) were presented in separate blocks .
 The order of presentation of these conditions was counterbalanced within and across observers .
@@ -29,6 +32,7 @@ These confidence ratings were used to generate 9 - point receiver operating char
 Observers were then asked to indicate with the mouse the item they believed was most likely to have changed .
 This change identification decision was made for all trials , including those where observers indicated they thought a change had not occurred .
 No feedback was given in regard to the accuracy of detection or identification responses .
+
 This model is based on HTT and incorporates a limited number of noiseless memory representations .
 According to this model , when the number of items ( N ) exceeds the capacity of memory ( k ) , only a proportion ( k / N ) of items is represented in memory .
 A change is correctly detected ( i.e. , a hit occurs ) if , and only if , either of the following two mutually exclusive events occurs : ( i ) the changed item is held in memory or ( ii ) the changed item is not held in memory but the observer guesses that there was a change .
@@ -41,9 +45,11 @@ Where a change is missed , the identity of the changed item is guessed at from t
 The correct identification rate for misses ( MID ) is therefore given by formtok
 Memory capacity is a free parameter .
 The HTT model generates linear ROCs which pass through the point 1 , 1 and have a y - intercept of k / N .
+
 Noiseless slots with lapses of attention ( HTTa ) : This model is a variant of HTT that allows for lapses of attention [5] .
 For this model , the observer is attentive on a proportion of trials ( a ) and inattentive on all others .
 Attended trials are processed according to standard HTT but on unattended trials no information is stored in memory , changes are detected at the false alarm rate for unattended trials , and identity is guessed at from the set of all items ( Fig 2 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0149217.g002 HTTa model .
 Decision tree for the HTTa model for trials on which a change occurred .
@@ -58,6 +64,7 @@ Where a change is missed , the identity of the changed item is guessed from the 
 The correct identification rate for misses is therefore given by formtok
 Memory capacity and attention rate are free parameters .
 The HTTa model generates linear ROCs which are not constrained to pass through the point 1 , 1 , and have a y - intercept of ak / N .
+
 This model is a variant of HTT in which memory representations are limited in both number and precision [10] .
 For this model , memory representations may be less precise than required to support accurate task performance .
 In the context of this study , an insufficiently precise representation would be one that results in the incorrect retrieval of a symbol ' s shape ( e.g. , the retrieval of a triangle or a rectangle when a semi - circular symbol was displayed ) .
@@ -94,6 +101,7 @@ The HID and MID rates for this model were estimated by Monte Carlo simulation of
 Detector sensitivity and the ratio of the standard deviations of the signal - plus - noise and the noise distributions are free parameters .
 This multidimensional SDT model generates asymmetric , nonlinear ROCs which are constrained to pass through the points 0 , 0 and 1 , 1 .
 When expressed in z coordinates , the ROCs are linear if the variances of the noise and signal - plus - noise distributions are equal and nonlinear if they are not .
+
 Each model process was programmed in Matlab ( Mathworks ) and fitted to data for each observer and condition of change probability .
 For each model , the free parameters discussed above define its ROC .
 Nine response biases are additional free parameters that define the points on the model ’ s ROC that correspond to the observed ROC hit and false - alarm pairs .

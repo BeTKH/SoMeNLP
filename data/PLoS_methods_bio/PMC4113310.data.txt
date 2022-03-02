@@ -5,6 +5,7 @@ Studies were eligible if a single cumulative meta - analysis was presented , or 
 Eligible cumulative meta - analyses had sometimes been done as part of the planning process for a new study to explore how the evidence base had evolved .
 Studies were not included if only surrogate outcome measures were used unless - like blood pressure and severe anaemia , for example - these were unambiguously important .
 The searches also identified cumulative meta - analysis in other types of health research ( including observational epidemiology and genetics ) but these were not eligible for this review .
+
 We wished to identify published reports containing graphs of cumulative meta - analyses .
 An initial search of Pubmed Clinical Queries using the term ‘ cumulative meta - analysis ’ retrieved 822 records .
 The selected papers were screened by one author ( IC ) , who selected a set of 23 records which were added to a set of core articles that had been previously identified as part of this author ' s general interest in this area .
@@ -17,6 +18,7 @@ The search of the Cochrane Methodology Register combined the output of a simple 
 The searches were conducted in June 2012 .
 The reference lists of relevant systematic reviews and other publications were checked to identify additional articles [11] .
 A search was undertaken in Google Scholar to identify relevant terms in the full text of articles where relevant concepts had not been located in bibliographic databases using searches of titles , abstracts and index terms .
+
 Assessment of studies , data extraction and analysis : Records were exported from Endnote to Sente for first screening by one of the authors ( AB ) .
 This screening was deliberately over - inclusive , and all potentially eligible articles or unclear articles were checked by a second author ( IC ) .
 The eligibility of all studies arising from this process was then confirmed by a third author ( MC ) before their inclusion in this review .

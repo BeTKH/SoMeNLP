@@ -162,8 +162,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Developer_of	GraphPad	118	0	Prism	127	1;;
 Developer_of	ComboSyn, Inc.	186	1	CompuSin	166	0;;Release_of	2007	216	2	CompuSin	166	0;;
+
+
+
+
+
 
 
 
@@ -211,7 +228,12 @@ Developer_of	DeLano Scientific LLC	17	1	PyMOL	0	0;;
 
 
 
+
+
 Developer_of	BioRad	251	1	Quantity One	227	0;;
+
+
+
 
 
 

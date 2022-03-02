@@ -18,10 +18,12 @@ Plugging the relationship B = W ( PTW ) − 1CT [ 27 , 28 ] into Eq ( 5 ) , we o
 In general , B is obtained from a centered training dataset .
 The response ynew for a new subject xnew , referred to as test dataset , is then estimated as follows : ynew = y + BT ( xnew - x ) , ( 12 ) where y and x represent the mean predictor and response in the training dataset , respectively .
 A schematic outline of PLS is illustrated in Fig 1 and S1 Appendix .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0179638.g001 Schematic illustration of partial least squares regression .
 Two blocks of data , X and Y , are projected by w and c onto latent components , t and u , and least squares regression is performed .
 p and q represent loading vectors .
+
 Kernel Partial Least Squares Regression ( KPLS ) : Linear PLS is easily extended to nonlinear regression using a kernel trick [ 28 , 30 ] .
 Let ϕ : Rp → H be a nonlinear transformation of the predictor , x ∈ Rp , into a feature vector , ϕ ( x ) ∈ H , where H is a high - dimensional feature space .
 Define a Gram matrix K as inner products of points in feature space , i.e. , K = Φ Φ T , where Φ = ( ϕ ( x1 ) , … , ϕ ( xn ) ) T represents the predictor matrix in feature space .
@@ -31,6 +33,7 @@ The deflation procedure is performed as follows : K ← ( In - ttT ) K ( In - tt
 We obtain the prediction on the training data from : Y ^ = Φ B ( 15 ) = Φ Φ TU ( TT Φ Φ TU ) - 1TTY ( 16 ) = KU ( TTKU ) - 1TTY . ( 17 ) To exclude the bias term , we assume that the responses and the predictors are set to have zero mean in the feature space by applying the following procedure to test kernel Kt and training kernel K [31] : Kt ← ( Kt - 1n 1nt 1nTK ) ( In - 1n 1n 1nT ) ( 18 ) K ← ( In - 1n 1n 1nT ) K ( In - 1n 1n 1nT ) , ( 19 ) where 1n represents the n - length vector whose n elements are 1 .
 Note that n and nt represent the number of training and test samples , respectively .
 In the following section of this paper , we investigate three kernel functions : 1 ) a second order polynomial kernel k ( x , x ′ ) = ( xTx ′ + 1 ) 2 , referred to as KPLS - Poly ( 2 ) , 2 ) a third order polynomial kernel k ( x , x ′ ) = ( xTx ′ + 1 ) 3 , referred to as KPLS - Poly ( 3 ) , 3 ) a Gaussian kernel k ( x , x ′ ) = exp ( − γ | | x − x ′ | | ) 2 ) , referred to as KPLS - Gauss , where γ is a hyper parameter and set to the inverse of the median of the Euclidian distance of data points .
+
 In addition to predicting clinical measures , our aim is to classify subjects into depressed patients and healthy controls using the predicted value of clinical measures for objective diagnosis .
 We evaluate generalization of binary classifiers using linear discriminant analysis ( LDA ) .
 Given the training data Dtr = { xtr , ytr , ztr } and test data Dte = { xte , yte , zte } , x ∈ Rp , y ∈ Rq , and z ∈ { 0 , 1 } represent functional connectivity as predictors , clinical measures as responses , and binary labels ( i.e. 0 is patients and 1 is healthy controls ) , respectively .
@@ -45,20 +48,24 @@ We compared two scenarios , i.e. i ) classification of patients and healthy cont
 Note that we perform feature selection before scenario 2 ) by calculating connection - wise t - tests to determine the connections with different group means , represented by t - scores .
 We select the M functional connections with the highest absolute t - scores .
 M is optimized by cross validations .
+
 Even though PLS can cope with high - dimensional , co - linear datasets , we prescreened variables depending on their relevance to responses in the following way .
 Based on Pearson correlation coefficients , ρ rl , between the r - th functional connection and the l - th clinical measures , we define the empirical relevance of the r - th functional connection as formtok where p is the total number of functional connections .
 These functional connections are ranked according to their empirical relevance , { Rr } r = 1p , and only M relevant functional connections are used in following procedure .
 The optimal number for M was determined through nested leave - one - out cross - validation .
+
 Conventionally , cross validation is employed to assure generalization ability of a model or to evaluate optimal parameters .
 Since we have to account for both generalization ability and parameter optimization , we made use of nested leave - one - out cross validation ( LOOCV ) , which consisted of outer and inner LOOCV .
 The outer LOOCV repeats iterations that split the whole set of samples into a single outer validation sample used to evaluate the generalization ability , and an outer training set for model estimation .
 The inner loop of LOOCV is performed on the outer training set to optimize two parameters , M and L , the number of selected predictor variables and the number of components , respectively .
 The pair of parameters that achieves the lowest root mean squared error based on the inner validation sample are adopted as optimal parameters and used to evaluate the model using the outer LOOCV .
 These steps are repeated until each sample has served as the validation sample .
+
 Age is significantly correlated with three clinical measures ( Table 2 ) .
 In general , age matching performed on different diagnostic groups reduces sample size , causing poor performance .
 To avoid this problem , we investigated three models , i.e. ( i ) a model with age as a response ( denoted by output - age ) , ( ii ) a model with age as a predictor ( denoted by input - age ) , and ( iii ) a model without age ( denoted by no - age ) .
 By incorporating age into our model , we can cope with age differences among subjects and can fairly evaluate prediction performance .
+
 Interpretation of each latent component projected from input and output data gives novel insights into the relationship between functional connectivity and clinical measures .
 In the framework of PLS , loading matrices , P and C , indicate contributions from predictor variables and response variables to each latent component ( see Eqs ( 10 ) and ( 11 ) ) .
 The ( i , j ) - element of the loading matrix , P , represents the contribution of the i - th functional connection to the j - th latent component .

@@ -6,6 +6,7 @@ Perinatal data for both groups were collected from medical registers following p
 All participants had to be fluent in Swedish .
 Exclusion criteria included reported concomitant neurological or psychiatric illness , and metal implants that could interfere with the fMRI investigation .
 All children attended regular schools .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0185571.t001 Perinatal and performance data for the included participants and the original cohort .
 † n ) Data missing for n participants.a ) Wechsler Intelligence Scale for Children , for version see annotation per column.b ) At age 9 : Wechsler Intelligence Scale for Children , WISC - III . ( 3rd ed . ) Swedish manual .
@@ -13,6 +14,7 @@ Stockholm : Psykologiforlaget , 2002.c ) at age 13WISC - IV ( 4th ed . ) .
 Swedish manual .
 Stockholm : Pearson Assessment and Information AB , 2007 .
 VLBW = very low birth weight ( < 1500 g ) , NBW = normal birth weight , n = number , SD = standard deviation , g = gram , ROP = retinopathy of prematurity .
+
 During the intake period ( 1998 - 1999 ) , 103 VLBW infants were born in the southeast region of Sweden , of which 93 ( 90 % ) survived the neonatal period .
 At the age of both 7 and 9 years , this cohort was enrolled in prior studies focusing on behavior , cortisol levels , cognition , and reading comprehension ; 50 children completed the follow - up at both 7 and 9 years of age [11,28] .
 Our current follow - up study of children age 12 - 14 - who are now participating as young adolescents - includes 13 of the 50 children studied at ages 7 and 9 ; 25 declined , 11 did not respond , and one withdrew .
@@ -25,12 +27,14 @@ Our current study sample size prohibited further investigation of SGA in this st
 We confirmed that our VLBW group was representative for the initial cohort tested at age 7 , by performing a statistical comparison on all perinatal variables that were available to us in this study .
 We performed t - tests on birth weight and gestational age , Mann - Whitney U - tests on ordinal factors of surfactant use , septicemia , and maternal education , and Chi - square tests on SGA , extra low birth weight , respiratory distress syndrome , bronchopulmonary dysplasia , retinopathy of prematurity , intracranial bleeding ( collapsed grading ) , and periventricular leukomalacia .
 None of these tests showed significant differences in relation to the inclusion factor .
+
 The former studies of children age 7 to 9 included a control group of 51 normal birth weight ( NBW , ≥ 2500 g ) children , which was selected as follows : for each VLBW participant , a child living in the same municipality was selected from the national birth register for comparison .
 These NBW children , who were matched for sex and number of siblings , were selected on the basis of being born as close in time to the VLBW child as possible and with no diagnosis in the standard maternity protocol .
 Of this group , 13 NBW agreed to participate in this current follow - up at age 12 - 14 ; seven had declined during earlier studies , 21 declined for the present study , nine did not respond and one child had moved abroad at the time of recruitment and was excluded .
 The mean age of the included group of 13 NBW was 13.0 years ( SD = 0.2 ) .
 Cognitive assessments and MRI data from all 13 NBW adolescents were included in the analyses , and data from 12 NBW participants were included in the brain volume analysis , one participant having been excluded due to technical problems .
 One NBW participant was left - handed , however since this individual showed no indication of right - lateralized activation on the fMRI tasks , we found no justification to exclude this participant from the study .
+
 Based on previous observed reading problems [11] , a language task based on a Swedish test to screen for dyslexia was developed for this study [29] .
 This test included a word pair task and a recognition task ( the latter will be presented elsewhere ) .
 The word pair task comprised three language conditions , namely a phonological choice condition , an orthographic choice condition , a semantic judgment condition , and a line orientation baseline condition .
@@ -48,6 +52,7 @@ The orthographic condition investigated spelling with a word pair of a correctly
 The phonological condition asked " Which word sounds correct ? ” after which pairs of pseudo - words were presented .
 One of the pseudo - words was a real word when sounded out , while the other was not .
 The line orientation condition served as a baseline condition and showed two strings of " x " , in one string one " x " was replaced by an " y " .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0185571.g001 Schematic overview of the word pair task used during the fMRI session .
 The different blocks for each language choice condition are shown , the example block shows the timing in seconds for the blocks , and the sequence of 5 word pairs after each question .
@@ -56,6 +61,7 @@ After presenting four condition blocks ( semantic , orthographic , phonological 
 In all , four condition blocks were presented four times , resulting in a total of 20 pairs of words for each condition , to make a grand total of 80 presented word pairs .
 To become familiar with the task , all participants completed an off - line training session prior to the fMRI session .
 The training session words were different from those presented during the scanning procedure .
+
 All examinations were conducted at the Center for Medical Image Science and Visualization ( CMIV , Linkoping University ) , located at Linkoping University Hospital , Sweden .
 Images were acquired using a Philips Ingenia 3.0 Tesla scanner with a standard head coil , which was halfway the study replaced by a head - neck coil due to technical complications , this affected both the VLBW and the NBW group equally .
 Structural and functional brain images were obtained during a scanning session of approximately 40 minutes .
@@ -64,16 +70,19 @@ Whole brain coverage was obtained with 34 or 35 slices with a 0.3 mm slice gap (
 Repetition time = 2 s , time to echo = 35 ms , flip angle = 75 ° , voxel size = 3x 3x 3 mm 3 , acquisition matrix = 72x 68 voxels , number of dynamics = 248 .
 The slices were aligned between the floor of the sella turcica and the posterior angle of the fourth ventricle .
 The structural images were collected with T1 - weighted sequences covering the whole brain with the following parameters : repetition time = 7.5 ms , time to echo = 3.5 ms , flip angle = 8 ° , voxel size = 1.1x 1.1x 0.6 mm 3 , acquisition matrix 228x 227 voxels , with 301 slices obtained .
+
 Preprocessing and statistical analysis were performed in SPM 8 ( www.fil.ion.ucl.ac.uk/spm/software/spm8 ) .
 The DARTEL toolbox was used for preprocessing [30] , with default settings for EPI data as outlined in the SPM 8 manual ( www.fil.ion.ucl.ac.uk/spm/doc/spm8_manual.pdf ) .
 We used DARTEL to create a template of extracted grey and white matter from the anatomical images of all participants in this study ( both VLBW and control group ) with the default number of 6 outer iterations .
 The template was then normalized within the DARTEL toolbox to a 2x 2x 2 mm 3 Montreal Neurological Institute ( MNI ) template and smoothed with an 8 mm full width half maximum ( FWHM ) Gaussian kernel .
 In SPM , the individual realigned and resliced EPI data from the fMRI tasks were coregistered and then normalized to 2x 2x 2 mm 3 MNI space with help of the normalized DARTEL template and smoothed with an 8 mm FWHM Gaussian kernel .
+
 Components of intellectual capacity was assessed on the same day prior to the fMRI session , using Vocabulary and Block Design subtests from the Wechsler Intelligence Scale of Children ( WISC - IV , Wechsler 2003 ) .
 WISC Vocabulary asks for word definitions , and measures verbal comprehension .
 WISC Block Design measures visuo - spatial processing by asking to recreate patterns with colored blocks .
 Furthermore , the parents of each participant were asked to fill in a questionnaire regarding their child ’ s health status , family constellation and school situation .
 The participant data , cognitive measures from the WISC tests , and fMRI performance data can be found in S1 Table .
+
 The individual preprocessed images were analyzed for brain activation related to sentence processing by applying contrasts between the language conditions and the line orientation baseline .
 This resulted in three contrast images per participant for semantic > baseline , orthographic > baseline , and phonological > baseline .
 Head movement parameters were filtered out by entering those into the analysis as multiple regressors of no interest .
@@ -81,12 +90,14 @@ To qualify as an exclusion criterion , excessive head movement was defined as > 
 Group activation for all participants per language condition in the whole brain at a significance threshold of 0.001 uncorrected was used for multiple regression ( Fig 2 ) .
 Performance on the fMRI tasks was measured in terms of accuracy and reaction time .
 Accuracy was defined as the hit rate on the answers , which was calculated by subtracting the number of incorrect from correct answers for each condition and each participant .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0185571.g002 Neural activation ( warm / orange ) and deactivation ( cool / blue ) during the three fMRI language tasks ( semantic , orthographic , and phonological processing ) for all participants .
 The locations of the transversal sections are shown in the sagittal midline section on the right .
 Locations of transversal section are identical for all tasks .
 For visualization purposes to show the extent of the activation , these images are thresholded at p = 0.001 uncorrected .
 L = left hemisphere , R = right hemisphere .
+
 Between - group differences were investigated per language condition with three multiple regression analyses , each with the inclusion of the following covariates : age , sex , accuracy on fMRI tasks ( per condition ) , WISC Vocabulary Raw Scores and WISC Block Design Raw Scores .
 Age and sex were included to control for deviation from the original matched groups in the first study ( at age 7 ) , as this study was not aimed towards investigating age effects or sex differences .
 Accuracy on fMRI tasks , WISC Vocabulary Raw Scores and WISC Block Design Raw Scores are considered to be potential correlates to language performance , and therefore covariates of interest .

@@ -2,6 +2,7 @@ The Brazilian Pampa region occupies a small area in the southern limit of Brazil
 This region presents continuity with the grasslands in Uruguay and a small section of the Argentinean province of Entre Rios , corresponding to the Uruguayan Savannas ecoregion [16] , a biome of “ tropical and subtropical grasslands , savannas , and shrublands ” , defined by Olson et al . [17] .
 Grass - dominated vegetation types prevail , with sparse shrub and tree formations co - occurring within the grassland matrix .
 This lies within the South Temperate Zone and has both subtropical and temperate climates with hot summers , cool winters , and no dry season [18] , classified as Cfa ( humid subtropical ) by Koppen ’ s climatic classification [19] .
+
 From October 2013 to August 2017 , we opportunistically collected stomach contents of 98 road - killed specimens of four cat species , along highways of Rio Grande do Sul state , Brazil .
 All dead cats found in the road were exanimate ( in the lab or in the field ) for the presence of food in the stomach .
 The stomach contents , when present , were stored in alcohol 70 % for diet analysis .
@@ -11,6 +12,7 @@ Samples of muscular tissue were collected from all individuals included in this 
 The macroscopic items contained in the stomachs such as hairs , teeth , feathers , beaks , and scales were separated and identified to the lowest possible taxonomic level of prey consumed by these cats .
 Mammal prey was mainly identified by microscopic hair patterns and bird feathers based on barbule nodules of the down [20] , comparing with the reference collection of LABIMAVE .
 Reptiles and amphibians were identified by consulting a specialist .
+
 Food items were expressed in terms of Frequency of Occurrence ( FO ) , where the number of samples in which one prey type occurred divided by the total number of samples multiplied by 100 , and Percentage of Occurrence ( PO ) , calculated by dividing the number of occurrences of a prey type by the total occurrences of all prey types multiplied by 100 .
 The FO indicates how common an item was in the diet , while the PO indicates the relative importance of an item in the diet .
 Similarity among diets was evaluated using the clustering technique with the unweighted pair - group method and arithmetic averaging ( UPGMA ) based on the proportion of each prey type using the Morisita ’ s index on software PAST 2.17c [21] .

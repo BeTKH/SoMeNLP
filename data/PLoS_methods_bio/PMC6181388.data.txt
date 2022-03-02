@@ -14,11 +14,14 @@ In our original design we wanted to conform a group of participant who have hear
 Unfortunately , we only recruited 14 participants for this group and thus we decided to exclude them from data analyses .
 The final sample for the second part of the study includes 38 participants ( 23 women , M = 32.52 years - old , SD = 10.90 ) who hand neither watched nor heard about the game ( did not watch the match group ) and 61 participants ( 25 women , M = 31.52 years - old , SD = 9.34 ) who had watched the match live ( watched the match group ) .
 No differences were observed between groups in terms of age ( F ( 2 , 155 ) = 0.23 , p = .795 ) , education ( F ( 2 , 155 ) = 0.03 , p = .966 ) , or gender ( χ 2 = 3.66 , p = .160 ) ( see details in Table 1 ) .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0205595.t001 Means , DS and group comparison in demographics , predictors of schadenfreude and control questions .
 * Participants responded to a 7 - point scale : 1 = Primary school incomplete , 2 = Primary school completed , 3 = Secondary school completed , 4 = College degree incomplete , 5 = College degree completed , 6 = Master ’ s degree completed , 7 = Ph .
 D . completed .
+
 All participants gave written informed consent and the study was reviewed and approved by the ethics committee : “ Comite de Etica del Centro de Educacion Medica e Investigaciones Clinicas ( CEMIC ) ” qualified by the Department of Health and Human Services ( HHS , USA ) : IRb 00001745 - IORG 0001315 .
+
 Before the real game , the hypothetical match group responded to a short survey that included the following hypothetical football match between Brazil ( Argentina ’ s long - standing rival ) and Peru ( a relatively less competitive third team ) : “ Brazil and Peru are playing a football match . The match is decisive for the both teams ’ chances of advancing to the next round .
 Brazil will make it to the next round with a draw or a win , and Peru will only classify if they win .
 The match is tied 0 - 0 when , close to the end , the referee concedes Peru an illicit goal .
@@ -47,6 +50,7 @@ In each group , more than 80 % of the sample remembered the goal ( see details i
 Second , we asked how much participants liked Maradona because of this goal and how morally acceptable his action was .
 We observed no significant differences in these measures among the three groups ( Appreciation for Maradona : χ 2 ( 2 ) = .21 , p = .941 , and moral judgment about the unfair goal : χ 2 ( 2 ) = 2.78 , p = .249 , see details in Table 1 ) .
 These results suggest that the three groups were also similar regarding their dispositional tendency to like unfair goals .
+
 Since the ordinal measures were not normally distributed , we analyzed them via non - parametric statistics .
 First , Spearman ’ s Rho test was used to test the association between both schadenfreude measures in each group .
 Second , to contrast differences in schadenfreude among the three groups , we used a Kruskal - Wallis test and U Mann - Whitney test for pair - wise group comparisons .

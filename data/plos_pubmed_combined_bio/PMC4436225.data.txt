@@ -12,6 +12,7 @@ Genoa and Florence have a borderline humid subtropical and Mediterranean climate
 The other cities are characterized by a typical Mediterranean climate , with significant influence from the sea and hot - dry summers .
 The borders delimiting each city study - area were defined in order to include , besides the main city itself , an outer belt .
 The latter was represented by the municipalities of all satellite residential towns , suburbs or settlements around the city .
+
 Study design : spatial heat - related elderly risk assessment : The study design focuses on “ Crichton ’ s Risk Triangle ” hazard - risk assessment methodology [19] adopted through the ASCCUE ( Adaptation Strategies for Climate Change in the Urban Environment ) project [20] .
 The ASCCUE project aimed to improve understanding of the consequences of climate change for urban areas and testing of appropriate adaptation responses through assessment of impacts by using concepts of risk .
 In this study , the risk concept is represented by harmful human health consequences for elderly people resulting from the interaction between three components that form a triangle : natural hazard , exposure , and vulnerability .
@@ -20,6 +21,7 @@ If any component or “ side ” of the triangle is zero , then there is no risk
 The natural hazard is defined as the LST increase .
 Exposure to the natural hazard is depicted by the total population census data , the vulnerability by the elderly population ( over 65 ) .
 The final risk map is generated from the spatial interaction of all three components .
+
 Hazard layer : daytime and night - time summer LST layers : The hazard layer is obtained for the period 2001 - 2013 using two remote sensing MODIS data products ( ) : LST at 8 days temporal and 1 - km spatial resolution ( MOD 11A 2 ) both for daytime and night - time conditions ; NDVI at 16 days temporal and at 250 - m spatial resolution ( MYD 13Q 1 ) .
 The ESA ( European Space Agency ) Globcover land cover dataset ( http://due.esrin.esa.int/globcover ) was used based on 22 land cover classes as per the UN - FAO Land Cover Classification System at 300 - m spatial resolution [21] .
 A nearest - neighbour resample procedure was applied using GDAL ( Geospatial Data Abstraction Library ) operators working on raster - tiles to homogenize the different spatial resolution of data layers .
@@ -36,14 +38,17 @@ The same nearest - neighbour resample procedure was also used by averaging the m
 Water surfaces were excluded from the procedure .
 Geostatistical and GIS procedures were written in R - language using specific R - packages , such as rgdal , raster and mgcv , available online on : http://cran.r-project.org/ ( packages link ) .
 Demonstrative work - flow , data and code functions built - up for this work are available on github.com / meteosalute / mapheatrisk .
+
 Exposure and vulnerability layers : total and elderly population : The exposure layer was represented by the population density data extracted from the JRC population grid ( version 5 available on http://www.eea.europa.eu/data-and-maps/data/population-density-disaggregated-with-corine-land-cover-2000-2 ) which entails the 1 - km 2 population density for 2001 ( source Eurostat ) on a 100 - m grid for the European Union .
 Population by commune was disaggregated with the CORINE land cover 2000 using the downscaling method described in Gallego [18] .
 This product was further enhanced by stratifying the total population grid by age classes , using the Local Administrative Units 2 ( LAU 2 ) data , formerly the Nomenclature of Territorial Units for Statistics ( NUTS ) level 5 , which in Italy correspond to municipalities and are available on the Eurostat website ( http://epp.eurostat.ec.europa.eu ) .
 We represented the vulnerability layer by the aggregated age class of people aged 65 or over .
 For each city , the vulnerable population layer ( people > 65 years ) was calculated by multiplying the cumulative percentage of the vulnerable population for the pixel - wise total population layer .
 In this way , the consistency of the elderly was obtained numerically and spatially in compliance with the LAU 2 European statistical data ( Eurostat ) ( S1 Table ) .
+
 The spatial methodology employed to provide heat - related health risk mapping envisaged a normalization procedure , followed by a weighted - layers combining procedure and development of the final mapping of the HERI ( Fig 1 ) .
 The normalization was used to obtain the hazard , exposure and vulnerability layers on the same scale ( 0 to 1 ) by dividing each value of an individual layer by the range of variability .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0127277.g001 Work - flow of the spatial urban - hazard risk analysis employed to develop the final mapping of the Heat - related Elderly Risk Index ( HERI ) .
 The following step was the combination of the normalized layers through a weighting procedure .

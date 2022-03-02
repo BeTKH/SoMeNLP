@@ -4,9 +4,11 @@ All were recruited from the local student and staff population and either paid f
 All participants had no known prior or current pathological neurological condition ( based on self report ) and normal or corrected - to - normal vision .
 The experimental procedure and written consent form for this study were approved by the ethics committee at Bielefeld University , and adhered to the ethical standards of the sixth revision of the Declaration of Helsinki .
 All participants gave their informed written consent to participate in the study .
+
 We used the EyeFollower ( LC Technology , Clearwater , USA ) remote binocular eye - tracking system for the proposed study .
 It allows for head movements ( 76 x 51 x 40cm ) without the need to wear a headset .
 The EyeFollower has a sampling rate of 120 Hz and an accuracy of < 0.4 ° over the whole range of head movements ( see Fig 1 , left ) .
+
 We used the g.USBamp 16 - channel EEG amplifier ( Guger Techologies , Graz , Austria ) for the study .
 Twelve EEG channels were recorded at the locations Fz , F3 , F4 , Cz , C3 , C4 , Pz , P3 , P4 , PO 7 , PO 8 and Oz , referenced to the mastoids .
 Impedances were kept below 5 k Ω .
@@ -15,12 +17,14 @@ Two VEOG electrodes were placed above and below the right eye and two HEOG elect
 These electrodes register the corneo - retinal standing potential that exists between the front and the back of the human eye .
 This data allows to investigate the influence of eye movements on the recorded EEG data .
 The EOG comprises four additional channels that are recorded alongside the EEG channels leading to a total of sixteen channels that are registered by the EEG amplifier .
+
 The images containing every - day objects were taken from the Amsterdam Library of Object Images ( ALOI , http://aloi.science.uva.nl ) .
 An overall of 112 objects was selected , which equals the number of trials .
 The originally black background was converted to white .
 For each stimulus , twelve images were arranged in a grid - like fashion ( plus random offset , see Fig 1 ( right ) .
 One out of the 112 objects was selected as the target for a trial such that each object served only once as target .
 The remaining eleven objects per stimulus were chosen randomly from the set .
+
 The participants were instructed to search for the target object and to press a key on the keyboard when they found it .
 Each trial started with the presentation of the target object in the center of the screen .
 The participants had to press a key to start the search task .
@@ -28,6 +32,7 @@ We implemented a gaze - contingent approach , i.e. , not the whole stimulus imag
 The remaining part of the screen was black .
 The size of the visible area was chosen to cover the foveal ( ca . 2 ° visual angle ) plus half of the parafoveal area ( ca . 3 ° ) .
 The latter corresponds to the part of the parafoveal area that still provides rather sharp vision ( given the decreasing degree of sharpness toward the edges of the parafoveal area ) .
+
 All algorithms for analysis , feature extraction and classification were implemented in MATLAB ( Release 2015a ) .
 Fixation detection on the raw eye tracking data was done using an threshold - based algorithm proposed by the manufacturer of the eye tracking device ( LC Technology International Inc . , Clearwater , USA . http://www.eyegaze.com/ ) .
 The threshold is based on a spatial criterion , that is , consecutive samples are considered to be part of a fixation when they fall inside a circle with a diameter of 2 ° visual angle .
@@ -37,6 +42,7 @@ The fixation durations in the three groups did not significantly differ : Fixati
 The EEG data was segmented according to fixation onsets and grouped according to their locations .
 A fixation was considered to be an onto - object fixation , when it fell inside a circular area of 2.5 ° visual angle ( ca . 100 pixel ) anchored at the object center .
 Fig 1 ( right ) shows an example scanpath for one trial , that is , the sequence of the participant ’ s fixations and saccades while he / she searches for the target object .
+
 Removing eye artifacts with ICA : Independent component analysis ( ICA ) is a blind source separation method to split a multivariate signal into linearly independent sources [20] .
 These sources must be linearly mixed in the recorded signal .
 With respect to EEG data , the sources computed by the ICA can be directly interpreted as cortical sources of neural activity that provide a unique contribution to the overall signal that is picked up .
@@ -52,6 +58,7 @@ A manual selection of components is of course not possible during online operati
 However , the computation of the ICA projection matrix , the inspection process and the selection could be done on training data , which is needed for the classifier anyway .
 The stored ICA matrix with the affected components removed can subsequently be used during the online run to remove eye artifacts in an automated fashion .
 Moreover , Winkler and colleagues [30] have recently developed an algorithm for an automated classification of artifactual ICA components .
+
 First , the continuous , multi - channel EEG data was segmented according to the temporal onsets of the fixations .
 Each epoch started at the the first sample of a fixation and lasted for 800 ms , which equals 205 samples per channel .
 The channel - wise epochs were first bandpass filtered with cut - off frequencies of 0.5 to 10 Hz .
@@ -90,6 +97,7 @@ The AUC measure is chosen , because it is not effected by the prior class probab
 For the AUC , the chance level is always AUC = 0.5 .
 Please refer to Fig 2 ( bottom left ) as an illustrative example of the ROC of dataset 8 in the intra - subject classification scheme .
 A dataset corresponds to the data of one participant recorded in one continuous session .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0146848.g002 Top row : Verification of the linear separability for the best ( left - ) and poorest ( right ) datasets by inspecting the projections of the feature vectors on a 2d space spanned by the 2 largest eigenvectors of a 3 - class FDA .
 The results illustrate that the 3 - class FDA separates the data samples into three clearly distinguishable classes for the best dataset depending if the fixation appeared on targets , non - targets and background .

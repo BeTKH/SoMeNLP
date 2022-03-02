@@ -7,6 +7,7 @@ Spatial modulation depth is first calculated for each interferogram independentl
 After that , a binary control mask is reasonably constructed to identify the pixels that are valid for phase unwrapping .
 Then , a phase stitching method along the z - axis is carried out to conduct the large - height topography measurement within a giving field of view .
 The theoretical principle , simulation , and experimental validation are elaborated to demonstrate that the method can achieve an improved robustness for the reconstruction of large - range microstructures , the advantages of which include the elimination of stepping errors , the suppression of light fluctuations , and the freedom of a limited DOF .
+
 1 .
 Introduction
 Three - dimensional measurement of microstructure is an area with growing needs and interest since it plays an important role in addressing quality issues and observing the performance of micro products .
@@ -30,6 +31,7 @@ Then , a phase stitching method along the z - axis is proposed to complete the l
 The principle has been elaborated in detail , which contains modulation extraction , identification for valid pixels , the phase stitching process , and reconstruction algorithms .
 Simulation on a slope plane is organized to explain the procedure and verify the effectiveness .
 Additionally , the experimental results on a micro lens with a height of nearly 3000 nm show that the proposed method can precisely reshape the surface topography , the advantages of which include freedom of stepping errors , the suppression of light fluctuations , and a significant improvement in the measurement range .
+
 2 .
 Principle
 Figure 1 illustrates a Mirau correlation microscope - based system of SBLI for dimensional metrology of micro samples .
@@ -79,6 +81,7 @@ Seed points will eventually bring about the phase unwrapping in the whole image 
 In the method , the sample is scanned by the PZT scanner along the z - axis , where a sequence of interferograms will be obtained at different scanning positions .
 When the step pace is set appropriately , a number of pixels will be valid in both adjacent interferograms .
 In that case , the unwrapped phase of the valid areas in two frames can be utilized for phase stitching process along the z - axis .
+
 3 .
 Simulation
 To explain the proposed procedure specifically , the simulation has been conducted on a large - range slope .
@@ -99,6 +102,7 @@ disp - formula in which Mean ( I ) and Mean ( II ) illustrate the mean values of
 Lastly , in order to eliminate the phase difference between the two adjacent frames , the DV is added to the phase values of Frame II and the stitched continuous phase is obtained .
 In that case , the phase distribution of the valid areas in both two interferograms will be calculated , as shown in Figure 3d .
 It should also be noted that additional frames are required to completely recover the large - height surface topography .
+
 4 .
 Experimental Results
 An experiment on a large - range micro - dome silica structure ( micro lens ) is carried out to demonstrate the advanced FT technique and the phase stitching method in SBLI .
@@ -139,6 +143,7 @@ Meanwhile , the mean errors between the proposed method and the 3D profiler are 
 We also compare the height information of various other pixels to demonstrate that the stitching errors are almost uniform at all lateral positions , for the reason that the stitching deviations are nearly unvarying for the giving surface .
 It can also be noted that the height difference of the sample is nearly 3000 nm , which is significantly larger than the DOF of the experiment system .
 Additionally , the light fluctuations and environmental disturbances can be suppressed in some extent , because the filtering process is adopted in the spatial frequency domain and the background intensity is removed for each interferogram .
+
 5 .
 Discussion and Conclusions
 Here , the spatial modulation depth and discrete phase are first obtained via the FT method , and the modulation threshold is then reasonably set to identify the pixels that are valid for phase unwrapping .
@@ -147,4 +152,5 @@ In this technique , the background noises and light fluctuations are substantial
 Importantly , the height range can be improved to multiple DOFs , which can be applied in various samples with heights from the nanometer level to the micrometer level .
 In conclusion , this paper has analyzed the theoretical principle , simulation and experimental validation of the phase stitching method for dimensional metrology of microstructures .
 The technique could achieve an improved robustness for the measurement of large - height microstructures , the advantages of which include the elimination of stepping errors , the suppression of light fluctuations , and the freedom of a limited DOF .
+
 Experimental results using the proposed method and the 3D profiler .

@@ -7,6 +7,7 @@ Parts of the population have been involved in life - history experiments where a
 However , exclusion of such data necessarily leads to exclusion of the complete records of an individual , and could produce a bias in the animals used to estimate LRS versus the complete population , because such experiments are typically performed on ‘ average ’ individuals .
 Furthermore , we wanted to maximise the sample size and hence the power in our calculations of , especially , the genetic correlation in lifetime fitness across the sexes .
 We therefore considered the sum of all recruits that were raised in an individual ' s nest ( independently of their origin ) summed up for all individuals , irrespective of whether the individual was involved in an experiment at one point during its lifetime .
+
 Estimating genetic ( co ) variances in Lifetime Reproductive Success : We partitioned the variance in LRS using a REML linear mixed model that incorporates pedigree - based estimated of genetic relatedness across all individuals ( animal model [17] , , [23] ) , which was implemented in AsReml ( VSN International ) .
 We included as fixed effects the year an individual bred for the first time in order to correct for differences in LRS across ‘ cohorts ’ experiencing different environmental conditions during their lifetime , and the study plot in which the individual bred .
 As random effects , we estimated the additive genetic variances for males and females and the covariance between them .
@@ -20,6 +21,7 @@ The direction of the animal - model ' s genetic correlation was verified by calc
 Prior to each analysis , LRS values were corrected for differences between cohort years and areas , and standardized to zero mean and unit standard deviation .
 Values of multiple same - sex offspring were averaged .
 Resemblance was calculated as the slope of a linear regression between sex - specific offspring and parent values .
+
 Accounting for extra - pair paternities in the pedigree : There will be misassigned paternal links in the collared flycatcher pedigree , because about 15 % of offspring are not sired by their social father , i.e. the male that provides care for them during the nestling phase [20] .
 Such errors have been shown to have relatively minor effect on the estimation of animal - model derived variances for morphological traits [21] .
 However , a systematic investigation of the consequences of pedigree errors for the accuracy of genetic correlations has not been made .

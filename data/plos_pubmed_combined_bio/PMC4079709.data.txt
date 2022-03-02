@@ -6,6 +6,7 @@ Each heat unit is arbitrarily set to represent 1 % of the total development need
 For instance , a juvenile snail living at a constant temperature of 15 ° C will take 32 hour to gain one heat unit , and 131 days to become sexually mature , and a juvenile snail living at 27 ° C will take 9 hours to gain one heat unit and 39 days to become mature .
 Figure 1 shows a diagram of the model structure .
 Full details of the model structure are in ( Model description S1 ) , and a brief description is given below .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0101462.g001 Diagram of the model structure .
 Boxes indicate classes of agents .
@@ -15,6 +16,7 @@ Dotted lines indicate infection .
 Red outlines and arrows indicate the presence of Schistosoma mansoni .
 Agents of all classes can die and be removed from the model .
 Table S1 contains details of the rates and probabilities that determine the movement of agents between classes .
+
 Snails are born into the model as eggs .
 They accumulate heat units over time at a temperature dependent rate .
 When they accumulate 100 heat units they become juvenile snails [20] .
@@ -62,9 +64,11 @@ It is likely that there is an overall positive correlation between cercaria numb
 Finally , the relationship between infection risk and the number of worms will depend on the overall prevalence and intensity of infection in an area ( which will depend on human water contact and defecation practices as well cercariae numbers ) as repeated infection leads to partial immunity [26] .
 For these reasons , humans and schistosome worms are not modelled explicitly .
 Instead , miracidia are introduced into the model at a constant rate and human infection risk is indicated by a function of the number of cercariae in the model and their probability of causing infection upon contact .
+
 The model was parameterised using a combination of experimental and field data from B . pfeifferi and S . mansoni .
 All parameter values were based on empirical data .
 Full details are given in ( Model description S1 and figures S1 - S8 in Model description S1 ) .
+
 Water temperatures were modelled as a sine wave .
 Three sets of scenarios with different levels of diurnal variation in temperature were modelled : one with constant temperatures , one where maximum and minimum temperatures varied from the mean temperature by 2 ° C , and one where they varied by 5 ° C .
 For each of the three sets of scenarios , two scenarios were modelled .
@@ -73,6 +77,7 @@ In the other , the ‘ river ’ scenarios , an additional temperature independe
 The first scenario ( ‘ lake ’ ) approximates conditions in still water such as lakes and ponds and the second ( ‘ river ’ ) conditions in flowing water such as streams and rivers , where many miracidia and cercariae are likely to be quickly washed away .
 The scenarios are summarised in table 1 .
 The lake and river scenarios can be thought of as extremes , with conditions in many water bodies falling somewhere between the two .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0101462.t001 Summary of the simulated scenarios .
 Each set of scenarios was run for all temperatures at which the simulated snail populations could survive indefinitely , with temperature increasing in 0.5 ° C increments .

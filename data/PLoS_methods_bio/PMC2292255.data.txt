@@ -18,30 +18,38 @@ Coordinating centre ensured standardised training and quality assurance .
 All the participants were followed up on day - 4 and between days 11 - 14 days .
 Home visits were done within 24 hours for those who failed to report on the appointed days .
 Children who failed on therapy , developed adverse reactions or withdrew consent were treated according to standard hospital guidelines .
+
 Participants received either amoxycillin , 31 - 54 mg / Kg / day , in three divided doses , or placebo , which looked and tasted similar to amoxycillin , in three divided doses orally .
 In addition all participants also received oral salbutamol , 2.5 ml or 5 ml thrice a day for ages 2 - 11 months and 12 - 59 months , respectively ( each 5 ml = 2 mg salbutamol ) .
 Patients with fever also received paracetemol ( 10 - 15 mg / kg / dose ) in addition to the study intervention .
+
 The primary objective was to compare the proportions of eligible cases that achieve clinical cure on day - 4 on three - days of treatment with either oral amoxycillin or placebo .
 Our secondary objective was to compare the proportions that clinically relapsed within the next 11 - 14 days , as well as identify the determinants , if any , of clinical failure .
 Secondary laboratory outcome was the proportions positive for respiratory syncycial virus ( RSV ) in nasopharyngeal aspirate at enrolment .
+
 Main outcome measure was clinical cure on day - 4 , defined as those who were not assessed to have clinical failure .
 Clinical failure was defined as either ( i ) development of WHO - defined severe pneumonia or very severe disease ( with or without wheeze ) before or on day - 4 assessment , or ( ii ) oxygen saturation on pulse oximetry < 90 % before or on day - 4 assessment or ( iii ) axillary temperature > 101 degrees F on day - 4 assessment , or ( iv ) persistence of WHO - defined non - severe pneumonia on day - 4 assessment , or ( v ) presence of wheeze on day - 4 assessment .
 Loss to follow up on day - 4 or withdrawal from the study at any time after recruitment was also considered as therapy failure in the intention - to - treatment ( ITT ) analysis .
 Clinical relapse was defined as cases , which were clinically cured on day - 4 assessment , but at days - 11 - 14 follow - up showed signs of WHO - defined pneumonia .
+
 This was calculated for therapeutic equivalence of two treatments ( placebo and amoxycillin ) .
 It was assumed that the overall failure rate would be 17 % if the treatments were equivalent [5] .
 We used δ = 0.05 to be the range of equivalence for the difference in failure rates .
 To detect this difference using Type I error probability ( alpha ) of 0.05 and power of 0.9 , the required size of each treatment group was 970 .
+
 A professional not associated with clinical care ( GGA ) generated the randomization scheme at Lucknow .
 Randomised block sizes of two to four were used to avoid any uneven distribution of patients between two interventions .
 Unlabelled medicines were placed in serially numbered opaque envelopes by the pharmacy .
 Doses were provided for a maximum weight of 20 Kg .
 Extra doses were kept for administration to a child who vomited within 30 minutes of dosing .
 Health care workers , patients as well as research staff and investigators were blinded .
+
 Adherence was assessed by pill count on day - 4 follow - up .
 Non - adherence was defined as intake of less than 7 doses .
+
 A chest radiograph was taken prior to randomisation .
 Nasopharyngeal aspirate was tested at enrolment for RSV using DirectogenR kit ( manufactured by Becton Dickinson and Company , Sparks MD 21152 , USA ) .
+
 Primary analyses were done on ITT basis .
 Per protocol analysis was also done on subjects with complete follow - up and adherence to treatment .
 We have used the two one - sided tests ( TOST ) procedure as well as the confidence interval approach for assessing therapeutic equivalence of two treatments [11] .

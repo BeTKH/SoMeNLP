@@ -1,12 +1,14 @@
 Study sites and data collection : Study sites and monthly meteorological data collection have previously been described [19] .
 The sites were composed of 13 districts : Banan , Changshou , Fengdu , Fengjie , Fuling , Kaixian , Wanzhou , Shizhu , Wulong , Wushan , Yubei , Yunyang and Zhongxian .
 These districts are located along the Yangtze River ( Fig 1 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0133218.g001 Spatial distribution of HFRS occurrence from 1997 to 2008.WS : Wushan ; FJ : Fengjie ; YY : Yunyang ; KX : Kaixian ; WZ : Wanzhou ; SZ : Shizhu ; ZX : Zhongxian ; FD : Fengdu ; WL : Wulong ; FL : Fuling ; CS : Changshou ; YB : Yubei ; BN : Banan .
 TGD : Three Gorges Dam .
 HFRS : hemorrhagic fever with renal syndrome .
 Central region includes the districts of ZX , CS , SZ , FL , FD , and WL .
 The rest of districts are designated as periphery region .
+
 The case of HFRS was selected according to epidemiological data , clinical symptoms and signs .
 Patient blood samples were collected and sent to local Center for Disease Control and Prevention ( CDC ) institutes for serological and etiological confirmation .
 All cases were confirmed on antibody tests , pathogen isolation , or evidence of hantavirus RNA sequences in blood or tissues .
@@ -25,9 +27,11 @@ To capture the rodents , mouse traps were set at 5 - meter intervals and baited 
 The captured rodents were taxonomically identified to strain level according to criteria developed by Chen and Qiu [20] .
 Rodent density was calculated as a proportion ( total number of captured rodents / total number of valid mouse traps ) .
 An invalid mouse trap was defined as either a missing trap or non - rodent triggered trap .
+
 Spatio - temporal analysis of HFRS incidence : Cumulative incidences ( total number of cases / population at the beginning of study ) were calculated for each district to explore the spatial trend of HFRS .
 The annual / monthly HFRS incidences were calculated for the study area between 1997 and 2008 and curves were plotted to explore the temporal pattern .
 The number of cases occurring in each month was presented as mean ± standard error of mean to determine the seasonal pattern of HFRS .
+
 Poisson regression models were used to explore the association between HFRS incidence and climatic factors .
 The autocorrelation of incidence was examined and noticeable autocorrelation with lags of 1 , 3 , and 6 months were demonstrated .
 In these two plots , we found that the lag - 1 , lag - 3 and lag - 6 autocorrelations were 0.573 , 0.458 and 0.512 , respectively , which were significant under the level 0.05 ( the minimum absolute value for autocorrelation coefficient to be significant under 0.05 with the sample size of 140 was calculated to be formtok 0.166 , in which Φ − 1 is the inverse function of cumulative distribution function of standard normal distribution ) ; their partial autocorrelation were 0.573 , 0.279 and 0.220 , which were larger than the other lags up to 12 .

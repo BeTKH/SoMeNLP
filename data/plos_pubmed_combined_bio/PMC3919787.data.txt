@@ -2,6 +2,7 @@ The study protocol was approved by the Ethic Committees of Wuhan Mental Health C
 Before respondents were interviewed , written consent was obtained from all of the subjects and their guardians , and declarations of anonymity and confidentiality had been made .
 Verbal consent also obtained from each included inpatient ' s responsible physician .
 For the compensation of time spent in participating in this study , each respondent had been given a gift prior to the interview .
+
 This cross - sectional , two - site , hospital - based survey was conducted between January 2011 and June 2013 .
 Subjects were recruited by consecutively screening patients with schizophrenia who attended the psychosis inpatient wards of Wuhan Mental Health Center and Shenzhen Kangning Hospital in Wuhan and Shenzhen , two of the largest cities in China .
 These two cities , one located in south - central area and the other located in southeastern coastal area of China , are typical examples of the metropolitan regions of mainland China , in terms of their financial conditions and levels of health care service .
@@ -11,6 +12,7 @@ Patients who satisfied the following inclusion criteria were invited to particip
 Subjects with severe medical conditions , obvious intellectual disorders , active non - nicotine substance dependence , and organic psychosis , and who were prescribed two or more classes of antipsychotic agents , were excluded from this study .
 Although our subjects were inpatients , they were allowed to smoke regularly every day , except the time for sleep and taking drugs .
 Patients could easily buy cigarettes of most cigarette brands at reasonable prices in their psychiatric wards .
+
 The cross - sectional data of patients ' demographic and clinical characteristics and prescriptions of antipsychotic drugs were recorded using a standardized protocol and data collection procedure .
 Data on patients ' socio - demographic variables and clinical characteristics were collected through a questionnaire designed for this study .
 AAO refers to age at the first psychotic symptom reported by the patients themselves or informants [41] .
@@ -40,6 +42,7 @@ Hence , supplying real information about the smoking behaviors was of vitally im
 Our raters were also required to be patient to help respondents recall their smoking details during the course of interview .
 The completeness of all interview and physical examination records was checked daily by the survey team leader .
 Errors , omissions and other flaws were solved during the fieldwork period of this survey .
+
 For the analysis , we used the SPSS software for Windows , version 15.0 ( SPSS Ltd . ) .
 According to the smoking status diagnosed by NHIS definition , prevalence rates for ever , current and former cigarette smoking were calculated .
 Because the number of former smoker in our sample was very small ( N = 3 ) , the following univariate and multivariate analyses only focused on current and never smokers .

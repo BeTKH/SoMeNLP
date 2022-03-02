@@ -1,9 +1,11 @@
 †
 Four Janus NLO dendrimers were intelligently designed and synthesized with largely enhanced NLO performance .
+
 A new type of Janus dendrimers , consisting of two different side dendrons with the dipole orientation of the second - order nonlinear optical ( NLO ) chromophore moieties partially in a non - centrosymmetric direction , was intelligently designed and synthesized in order to enhance the macroscopic NLO performance and break through the limitation of NLO efficiency in the current molecular topological structure of azo chromophore - based polymers .
 This kind of Janus dendritic structure was constructed by the combination of convergent and divergent methods , with the utilization of a powerful “ click chemistry reaction ” .
 The obtained three dendrimers , D - 13N , D - 17N and D - 21N , show very high NLO performance , especially the dramatically enhanced NLO coefficient of 299 pm V for D - 13N , which is the highest value ever reported for polymers containing a simple azo chromophore .
 The new dendrimers provide a clear structure - properties relationship between high NLO efficiency and the controllable molecular topology with the non - centrosymmetrical alignment of dipole orientation , thus opening up a new avenue for the further development of NLO dendrimers with high performance and more importantly providing some clues for the rational design of functional dendrimers with controllable molecular topology .
+
 Introduction
 The architectural control of polymeric molecules is an important aspect in the field of polymer science , which to a large extent determines their diverse properties [1] .
 Thus , architectural control is regarded as the switch connecting designed structures and their corresponding specific properties , which has triggered much inspiration of scientists [2] .
@@ -12,6 +14,7 @@ In addition to their regular and symmetry features , dendrimers often possesses 
 Some specific dendrimers , classified as bow - tie or Janus [5] , three - face [6] , core - shell [7] , onion peel [8] . etc . , are attractive not only for their amazing functions or properties , but also for the art of their syntheses .
 A dendrimer with two dendritic wedges coupled together with a formed core , is called a Janus or bow - tie dendrimer ( Fig . 1a ) .
 “ Janus ” was the name of the mythological two - faced god who looked to the future and past in ancient Roman religion [5,9] .
+
 Generally , Janus dendrimers focus their asymmetry on the surface functionality , as the two dendrons connect two different types of peripheral functional groups .
 The dual - functionalized surfaces endow the dendrimers with different properties , which has allowed them be widely used in self - assembly [10] and biological therapeutics [11] .
 However , their applications in optoelectronic materials are very scarce until now [12] , partially because the photo - and electronic properties mainly depend on the electronic structure of the repeat unit instead of the peripheral groups .
@@ -55,6 +58,7 @@ The d
 value of D - 21N ( 261 pm V ) reaches the first - class level for azo - based polymers , and that of D - 13N ( 299 pm V ) is even larger than all of polymers that have ever been reported before , demonstrating the power of the control of molecular topology .
 This example might shed some light on the design of functional dendrimers with special topology .
 Herein , we present the synthesis , characterization and properties of these new dendrimers in detail .
+
 Results and discussion
 Synthesis and characterization
 The target dendrimers contain relatively large conjugated molecular fragments of nitro - azobenzene moieties , thus the synthetic method to construct a Janus dendrimer through the reaction of two dendrons was not suitable here .
@@ -83,6 +87,7 @@ The vibration peaks of - N and - CO were typically detected in the IR spectra .
 The peak of - N appears obviously for the reactant compound while it disappears for the product after the click reaction .
 The intensities of the - CO peak vary from compound to compound , depending on the content of - CO groups .
 The peak positions of the nitro - azobenzene chromophore moiety basically remain unchanged before and after the final reaction , partially confirming that the chromophore moieties were stable during the synthetic process .
+
 Photophysical properties
 The NLO chromophore was designed with a typical D - π - A structure , whose μ β value is related to the intramolecular charge transfer ( ICT ) effect .
 The most convenient and basic method to analyze this is UV - visible spectroscopy .
@@ -91,6 +96,7 @@ S39 - S43 , † with the maximum absorption wavelengths ( λ ) of the target den
 The main absorptions at 460 - 480 nm are attributed to the π → π * transitions of the nitro - azobenzene chromophores , and these three dendrimers share the same chromophore components and display almost the same absorptions .
 The maximum absorption wavelength ( λ , nm ) in different solvents ( 0.02 mg mL )
 a
+
 For comparison , the UV - vis spectrum of C1 , which contains one nitro - azobenzene chromophore moiety ( Scheme S7 † ) , was tested .
 Due to the subtle differences between C1 and the chromophores linked in the dendrimer , C1 was slightly red - shifted in each kind of solvent .
 All the compounds displayed solvatochromism phenomena [28] , that is , the UV - vis spectra and λ
@@ -101,6 +107,7 @@ values in 1 , 4 - dioxane and DMSO , C1 displays the biggest Δ value of 34 nm ,
 This indicates that the impact of solvent on chromophore moieties in dendrimers is much different from that in small molecules , or in other words , the separated small chromophore molecules were much more easily affected by solvent than the chromophore moieties hidden in dendrimers .
 This highly reduced solvatochromic shift is called the “ site - isolation effect ” , which typically exists in polymers containing bulk isolation groups [29] , due to the shielding effect of the bulky groups on the chromophore moieties in polymers .
 Here for these dendrimers , there were no bulky groups but all of them demonstrated an obvious “ site - isolation effect ” , which was supposed to be derived from their unique branched structure .
+
 NLO properties
 The NLO effect originates from the non - centrosymmetric alignment of the chromophore moieties , which could be conveniently achieved by using a corona - poling method to fabricate the poled thin films .
 The NLO effect could be quantified as a d
@@ -156,7 +163,8 @@ The NLO thermal stability could be evaluated according to the de - poling curve 
 The signal decayed at about 90 ° C for D - 17N , 100 ° C for D - 13N , and 113 ° C for D - 21N .
 The trend of T
 roughly agrees with the trend of T
-. For most polymers or dendrimers , T
+.
+For most polymers or dendrimers , T
 is lower than T
 .16 - 18 Just as in the case of D - 17N , the T
 band has no intersection with the T
@@ -196,6 +204,7 @@ However , there were no dendrimers located in quadrant II before D - 13N and D -
 The synthesis of D - 13N and D - 21N was easier when compared to that of the dendrimers in quadrant I .
 Since the synthetic process has been investigated and improved in this paper , it will be even more convenient to obtain dendrimers in this form .
 In addition , it might provide certain enlightenment and a reference for us in establishing a new system that combines a Janus topology structure with beneficial factors ( like Ar - ArF self - assembly and isolation chromophore effect ) in future research .
+
 Conclusions
 In summary , we have demonstrated the possibility of further improving NLO efficiency by constructing a new type of Janus dendrimers .
 The dendrimers contain x - axis and anti - x - axis dendrons , where the alignment of the chromophore moieties is taken into consideration .

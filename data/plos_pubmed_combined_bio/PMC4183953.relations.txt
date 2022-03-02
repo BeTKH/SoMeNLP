@@ -122,7 +122,15 @@
 
 
 
+
+
+
+
+
+
 Developer_of	MathWorks	35	1	Matlab	26	0;;Developer_of	FIL	60	3	Cogent	51	2;;
+
+
 
 
 
@@ -166,7 +174,9 @@ PlugIn_of	3dmaskave	15	1	AFNI	6	0;;
 
 
 
+
 Version_of	21	66	1	SPSS	59	0;;Developer_of	IBM	71	2	SPSS	59	0;;
+
 
 
 
@@ -188,12 +198,15 @@ PlugIn_of	waver	50	1	AFNI	45	0;;
 
 
 
+
 Abbreviation_of	ANTs	75	1	Advanced Normalization Tools	44	0;;
 
 
 
 
 PlugIn_of	3dttest+ +	9	1	AFNI	0	0;;
+
+
 
 
 

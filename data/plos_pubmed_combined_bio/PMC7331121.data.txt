@@ -2,18 +2,22 @@ Background
 Interprofessional education ( IPE ) is deemed essential for interprofessional collaboration ( IPC ) in healthcare systems .
 IPC has positive effects for both patients and healthcare professionals .
 Especially in pediatrics , IPC is paramount for adequate care of patients and their families though there is a lack of data on the attitudes towards IPE and IPC and acquisition of respective competences in pediatric nursing and medical staff .
+
 Methods
 Frequencies of interactions and attitudes towards IPE and IPC , with a focus on acquisition of competences for IPE and IPC , of nurses ( N = 79 ) and physicians ( N = 70 ) in a large pediatric university hospital were evaluated with an online questionnaire .
+
 Results
 All participants worked as part of interprofessional teams , mostly consisting of nurses and physicians .
 The majority ( 94.9 % ( n = 75 ) of nurses and 100 % ( n = 70 ) of physicians ) highly valued IPC .
 Medical doctors acquired most competences important for IPC during day - to - day work and reported a substantial lack of IPE .
 Nursing staff on the other hand did report significant interprofessional education during their training as well as ongoing interprofessional learning during day - to - day work .
 Nurses also appreciated IPE more .
+
 Conclusions
 Even though IPC is commonly reported in nurses and physicians working at a large pediatric university hospital there is a lack of structured IPE .
 A focus should be on IPE for nurses and physicians to enable them to effectively collaborate together .
 Political and local initiatives for IPE are gaining momentum but still need to be established nationally and internationally .
+
 Background
 Interprofessional collaboration ( IPC ) “ … takes place when health professionals with different professional backgrounds work with patients , families , and caregivers to ensure the highest quality of care … ” [1] .
 IPC is a mainstay of today ’ s healthcare [2] .
@@ -31,6 +35,7 @@ A lack of IPE and IPC has been demonstrated for both physicians and other health
 In a previous study that focused on health care professionals other than nurses our group could show that physicians mostly received training regarding IPC while working [10] .
 As in a hospital setting the most common interprofessional interaction is that between medical and nursing staff [31] , we decided to expand the study and to invite nurses of the same pediatric university hospital to participate .
 The study was designed to evaluate pediatric nurses ’ and physicians ’ frequency of interactions with other health care professionals , attitudes towards IPE and IPC and to investigate the self - reported acquisition of competences required for IPE and IPC .
+
 Methods
 Questionnaire construction
 We reviewed existing questionnaires which have been developed for measuring attitudes towards IPC including the Readiness for Interprofessional Learning Scale ( RIPLS ) [21] , the Generic Role Perception Questionnaire ( GRPQ ) [22] , the Interdisciplinary Education Perception Scale ( IEPS ) [23] , and the Index of Interdisciplinary Collaboration ( IIC ) [ 24 , 25 ] .
@@ -47,23 +52,27 @@ The remainder of the questions comprised boxes to tick .
 Six items on demographics of the study participants were also included .
 Detailed data on the questionnaire construction and the questionnaire itself have been published before [10] .
 The questionnaire , including a list of competences assessed in this study , is available here : https://www.egms.de/tools/download.jsp?path=journals/zma/2016-33/zma001016.a1en.pdf & mime = application / pdf&name = Attachment _ 13.08.15 .pdf .
+
 Study design
 A cross - sectional study using convenience sampling was conducted .
 The questionnaire was provided electronically ( Questback GmbH . Published 2015 . EFS survey , version 10.5 . , Cologne , Germany ) to be filled in online .
 All nurses and physicians at a large pediatric university hospital in Germany ( Center for Pediatrics Freiburg - ZKJ ) were invited to participate .
 Participants were able to fill in the questionnaire over a period of four weeks ( physicians July 1st , 2014 to July 31st , 2014 ; nurses November 4th , 2015 to December 5th , 2015 ) .
 A reminder email was sent after two weeks of initiation of the study .
+
 Study participants
 A total of 79 nurses ( response rate 37.3 % ) and 70 physicians ( response rate 58.4 % ) participated in the study .
 The physicians were part of a larger cohort reported before [10] .
 Table [1] shows the demographics of the study participants .
 Demographics of the study participants .
 N / A = not applicable , no = number
+
 Data protection and ethical considerations
 The study was conducted according to national data protection regulations .
 All data were collected anonymously .
 The employees ’ committee of the University of Freiburg , Germany , approved the study .
 In addition , the ethics committee of the University of Freiburg , Germany , waived the need for ethical approval for this study .
+
 Data analysis
 Descriptive statistics ( e.g. , mean and standard deviation ) were used to describe the demographics of the study participants and survey data .
 Inferential statistics ( e.g. , unpaired t - tests , Kruskal - Wallis - tests ) were used to determine differences and Bonferroni correction for multiple testing was applied as appropriate .
@@ -73,6 +82,7 @@ One open - ended question focused on the future of IPC , one question was used t
 Participants ’ answers to the open ended questions were analyzed using a deductive approach .
 Categories identified were structure / time , social skills / competences , interaction of different health care professionals , and conflict management / error culture for both IPC and IPE .
 The Figure was generated using GraphPad Prism version 7.01 , GraphPad Software , La Jolla California USA , www.graphpad.com.
+
 Results
 Interprofessional collaboration
 Overall , 94.9 % ( N = 75 ) of nurses and 100 % ( N = 70 ) of physicians either “ highly valued ” or “ very highly valued ” IPC .
@@ -81,6 +91,7 @@ There were no significant differences between nurses and physicians in working t
 Significant differences in frequencies of interactions of nurses and physicians with other health care professionals .
 Answers graded vom “ 1 = very frequently to 5 = never ” .
 * Therapeutical educationists support children with special needs and their families
+
 Concerning patient care , physicians reported more frequently to reach joint decisions with other physicians , psychologists , social workers , and therapeutical educationists than did nurses ( Table [2] ) .
 There were no significant differences between nurses and physicians in in the frequency of involvement in the decision making process with other nurses , physiotherapists and nursery school teachers .
 Both professional groups most frequently interacted with nurses and physicians .
@@ -88,6 +99,7 @@ The collaboration with other physicians for treatment success was deemed more im
 There were no differences in the appreciation for other health care professions regarding treatment success .
 Physicians ( M = 1.09 , SD ± .28 ) rated IPC more important than nurses ( M = 1.24 , SD ± .54 ) , t = 2.16 , p = .032 ) .
 There were no significant differences regarding additional qualifications , having a board of pediatrics certification , and participant - rated importance of IPC regarding the reported importance of IPC .
+
 IPE and acquisition of competences
 Nurses reported significantly more opportunities for IPE during undergraduate training [ ( M = 3.89 ; SD ± 1.22 ) rather than during work ( M = 4.28 ; SD ± 1.12 ) ; t = 2.16 , p < .001 ] .
 However , physicians experienced less IPE during medical school ( M = 4.73 ; SD ± 1.03 ) than during work ( M = 3.94 ; SD ± 1.19 , t = 4.17 , p < .001 ) .
@@ -96,6 +108,7 @@ Physicians reported to have acquired more interprofessional competences through 
 In contrast , nurses acquired interprofessional competences while they were studying ( Fig [1] . ) .
 Both professional groups reported equal opportunities for IPC and interprofessional competence acquisition while working ( t = 1.77 , p = .078 ) .
 Nurses ( M = 1.81 ; SD ± .68 ) in general valued IPE higher than physicians ( M = 2.27 ; SD ± .98 , t = 3.37 , p < .001 ) .
+
 Routine interprofessional collaboration
 Nurses reported both handlings of role conflicts and the appreciation of other professional groups more critically than did physicians .
 Nursing staff also stated that all relevant professional groups should be involved in the decision making process .
@@ -103,9 +116,11 @@ Physicians thought more frequently that a doctor should lead the interprofession
 Work experience did not have an influence on perceived IPC .
 Significant differences in attitudes toward IPC depending on profession .
 Answers graded “ 1 = totally agree to 5 = strongly disagree ”
+
 Requirements for IPC
 Nurses rated IPE ( M = 1.77 , SD ± .68 ) and communication skills ( M = 1.04 , SD ± .19 ) as more essential for IPC than did physicians ( M = 2.23 , SD ± .78 , t = 3.37 , p < .001 and M = 1.19 , t = 2.97 , SD ± .39 , p = .003 , respectively ) .
 Work experience had no influence on the perceived importance of different requirements for IPC .
+
 Qualitative evaluation
 Through content analysis based on Mayring [32] , we identified areas that participants deemed most important for future efficient interprofessional collaboration and interprofessional education .
 Qualitative evaluation - Interprofessional collaboration
@@ -116,6 +131,7 @@ This includes tolerance , “ to reduce prejudices ” , and patience , “ to b
 Furthermore many participants emphasized the importance “ to respect … ” “ other professional groups ” , “ for different educational levels and experiences ” as well “ in our dealing with each other and caring for the opinions of others ” .
 Conflict management and error culture : Participants stated to “ not settle conflicts at a personal level ” but “ to address problems and misunderstandings ” .
 A communication and error culture needs to be established as “ information about patients is often not disclosed ” and “ criticism is taken personally very quickly ” .
+
 Qualitative evaluation - Interprofessional education
 According to the participants ’ statements , we identified main categories concerning the wishes for the future of the interprofessional education .
 Structure and Time : Participants called for “ more structure for interprofessional education with other disciplines ” and “ more and better integration ” of IPE in the curriculum .
@@ -123,6 +139,7 @@ Providing more time resources for IPE during undergraduate studies of physicians
 Social skills , interaction and competences : Participants put a special focus on interaction including flat hierarchies .
 For the future of IPE the participants hoped for an efficient interprofessional collaboration both on the ward and during education .
 This included “ more and early contact of different disciplines ” , as well as “ interprofessional cooperation and communication during training ” .
+
 Discussion
 This study was designed to assess pediatric nurses ’ and physicians ’ frequency of interactions with other health care professionals , attitudes towards IPE and IPC and to investigate the self - reported acquisition of competences required for IPE and IPC .
 The majority of physicians and nurses , who participated in the study , valued the importance of IPC .
@@ -167,6 +184,7 @@ Despite the limitations we think the work presented here holds some interesting 
 The data underline that IPC is already part of day to day work in pediatrics but hint that more IPE could support an easier start for junior doctors in this communicative field of medicine .
 It would be worthwhile to follow - up medical students and nursing trainees prospectively to gain a more profound understanding of their acquisition of competences .
 Ideally competences should be measured after proposed standards [50-52] - which might be part of a prospective follow - up study .
+
 Conclusions
 Both pediatric nurses and physicians value the importance of IPC in routine clinical practice in pediatrics .
 Physicians acquire more interprofessional competences through work experience rather than through undergraduate studies .

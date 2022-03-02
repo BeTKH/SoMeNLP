@@ -17,23 +17,27 @@ No written records were available regarding the grandparents ’ speech developm
 Two of their four participating adult offspring ( A - 206 , A207 ) had received speech services for five or more years during their early elementary and middle school years .
 Of the 14 grandchildren , four ( A - 304 , A - 305 , A - 310 , A - 311 ) had previously been given a diagnosis of CAS and were currently receiving speech therapy or had completed their course of speech therapy , two ( A - 312 , A - 314 ) were diagnosed based on the speech testing conducted as part of this study , two ( A - 301 , A302 ) had been diagnosed with a mild speech delay not consistent with CAS as preschoolers , one was too young ( 15 months ) to be diagnosed unambiguously , and five had never received an SSD diagnosis of any type .
 Details regarding the behavioral findings have been reported previously [42] .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0153864.g001 Family diagram for Family A.Square shape = male , circle shape = female , black fill = affected , white fill = unaffected , ?
 = affectation status unknown , arrow = proband , HCS = Illumina HumanCytoSNP - 12v 2 , HCE / 1 - 0 = Illumina HumanCoreExome - 12v 1 - 0 _ B .
 Numbers underneath each symbol are individual IDs .
 Boxes around an ID identify individuals with SNP array data .
 Filled boxes indicate IDs that also have whole exome sequence data .
+
 Family B also has a history of familial CAS .
 The family consists of 39 members in five generations , all of European descent except for six individuals with an admixture of African American descent ( Fig 2 ) .
 DNA was available for 14 participants ( B - 202 , B - 204 , B - 205 , B - 206 , B - 301 , B - 302 , B - 303 , B - 308 , B - 311 , B - 404 , B - 405 , B409 , B - 410 , B - 505 ) .
 Questionnaire and interview information was available for these participants and also for B - 506 and B - 507 .
 All of these participants except B - 206 , B - 405 , and B - 410 participated in behavioral testing .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0153864.g002 Family diagram for Family B.Square shape = male , circle shape = female , black fill = affected , white fill = unaffected , ?
 = affectation status unknown , arrow = proband , HCE / 1 - 1 = Illumina HumanCoreExome - 12v 1 - 1 _ B .
 Numbers underneath each symbol are individual IDs .
 Boxes around an ID identify individuals with SNP array data .
 Filled boxes indicate IDs that also have whole exome sequence data .
+
 The proband , B - 403 , was 14 years old at the time of testing .
 He was born at term after an uncomplicated pregnancy and delivery and passed regularly scheduled health , vision , and hearing checks throughout the preschool years .
 He began receiving speech and expressive language services at age 2 ; 5 due to severe delays in these areas .
@@ -59,12 +63,14 @@ Fluorescence in situ hybridization ( FISH ) analysis using two BAC clones from t
 The same duplication was also found in the mother ’ s DNA using microarray analysis .
 The clinical significance of this abnormality could not be determined at the time of the clinical report .
 Family A provided more direct phenotypic observations and fewer missing samples , compared to Family B . Therefore , the main focus of this study was placed on Family A and data from Family B were used for purposes of comparison .
+
 Complementary genomic approaches were selected because the genetic etiologies of CAS cases in the literature to date include not only a point mutation [ 13 , 14 , 37 ] but also deletions and duplications [ 26 , 35 - 37 ] .
 To investigate the presence of single , relatively rare alleles in the families , we conducted linkage analysis .
 To detect duplications and / or deletions , we performed copy - number variation ( CNV ) analysis .
 Identity - by - descent ( IBD ) analysis was used to investigate more common segregating variants in Family A , where the grandfather had received speech therapy during childhood but the possibility of childhood speech difficulties in the grandmother could not be ruled out completely .
 Whole exome sequencing ( WES ) followed by variant filtering was performed in both families to identify candidate variants .
 Because of greater statistical power to detect linkage in Family A , compared to Family B , selected candidate variants were genotyped and checked for segregation in Family A only .
+
 DNA was extracted from peripheral blood using standard laboratory procedures .
 The samples passed quality control checks for sample swaps and incorrectly specified parentage .
 Because of the phenotypic overlaps with the previously described KE family where a point mutation in the FOXP 2 gene caused a severe speech and language disorder [ 13 , 14 ] , this gene was ruled out by exclusion mapping [57] prior to genome - wide analysis procedures .
@@ -77,6 +83,7 @@ Similarly , B - 202 , B - 311 , and B - 404 were selected for WES in Family B ( 
 Following methods previously described in detail [58] , the NimbleGen in - solution SeqCap EZ Exome Library v 2.0 ( Roche , Basel , Switzerland ) was used to capture the exome and adjoining regions , following the manufacturer ’ s instructions .
 Short - read sequencing was done on an Illumina HiSeq 2000 platform .
 For Family B , to evaluate whether the previously reported duplications on 15q 26.3 segregated with the disorder , one probe within each of the duplicated regions ( Hs 02820990 _ cn , located within FAM 169B at bp 98,981,473 , and Hs 01667266 _ cn , located within MEF2A at bp 100,250,891 ) , and two control probes ( Hs 03312008 _ cn at bp 97,806,447 and Hs 05387770 _ cn at bp 101,256,220 ) were typed in seven strategically selected samples .
+
 Prior to the SNP - based linkage analyses in the two families , power analysis with 1,000 simulations was conducted using the SLINK package [ 59 , 60 ] .
 Under the assumed model of autosomal dominant inheritance , there was one case of nonpenetrance in Family A ( A - 202 ) and one in Family B ( B - 308 ) .
 As in other genome - wide family - based studies with similar mode of inheritance and evidence for reduced penetrance [61] , we assumed parameters of penetrance = 0.50 in the two high - risk genotypes and 0.01 in the low - risk genotype .
@@ -123,6 +130,7 @@ Specifically , a region shared exclusively by the six affected grandchildren sel
 To determine IBD sharing with one of the grandparents , the region in question was required to be shared by the grandparent and all six selected grandchildren .
 Selected variants in Family A were tested for segregation using single - marker parametric linkage analysis based on the same parameters as the genome - wide multipoint linkage analysis , here using MERLIN [80] with customized bit size to accommodate the pedigree size .
 This step was repeated for two additional models , one with the grandfather but not the grandmother coded as affected , and one with the reverse affectation assignment .
+
 Exome Variant Annotation , Filtering , and Single - Variant Genotyping : Exome variants were annotated using ClinVar ( http://www.ncbi.nlm.nih.gov/clinvar ) and Seattle Seq 137 ( http://snp.gs.washington.edu/SeattleSeqAnnotation137/HelpHowToUse.jsp ) , Variant Effect Predictor , Release 76 [ 81 , 82 ] , and searched with GEMINI [83] .
 All DNA physical map locations reported in this study refer to the hg 19 reference genome .
 In the exome sequences , an important filtering criterion was position within regions implicated in linkage analysis .
@@ -137,4 +145,5 @@ In one case , ( NIPBL variant ) , ExoSAP - IT purified PCR products were submitt
 To obtain genotypes of two variants from C4orf 21 , ExoSAP - IT purified PCR products from all available Family B members were submitted to GenScript ( Piscataway , NJ ) for sequencing on 3730xl DNA Analyzers .
 For exome variant filtering and single - marker linkage analysis , we considered not only variants in the regions with positive evidence for linkage but also variants in previously reported candidate regions for CAS [ 13 - 15 , 18 - 24 , 26 , 35 - 38 ] including regions implied in reading / spelling disorders due to reported comorbidities with CAS [9-11] .
 For exome variant filtering , variants shared by all affected individuals in one or both families were considered most plausible .
+
 BEAGLE https://faculty.washington.edu/browning/beagle/b3.html#beaglev4 cnvHap http://www.imperial.ac.uk/people/l.coin CoNIFER http://conifer.sourceforge.net GEMINI http://faculty.washington.edu/wijsman/software.shtml MORGAN https://www.stat.washington.edu/thompson/Genepi/MORGAN/Morgan.shtml PBAP ( Pedigree Based Analysis Pipeline ) http://faculty.washington.edu/wijsman/software.shtml PEDSTATS http://csg.sph.umich.edu/abecasis/Pedstats/download/ PennCNV http://penncnv.openbioinformatics.org/en/latest/ PLINK http://pngu.mgh.harvard.edu/~purcell/plink/download.shtml

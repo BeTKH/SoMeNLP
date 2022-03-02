@@ -1,11 +1,13 @@
 We conducted this study as a population - based cohort study .
 The geographic area included two Danish regions ( North Denmark Region and Capital Region ) with a total population of 1.7 million persons .
 All hospitalized patients aged 30 to 65 years with first time bacteremia from 2000 through 2008 were included in the cohort .
+
 The Danish tax - funded welfare system provides free access to health care , education , and benefits such as pensions and unemployment coverage .
 All citizens are granted free services at general practitioners and public hospitals .
 Only 1 % of hospital beds are in the private sector .
 Since April 1 , 1968 , all citizens in Denmark have been registered in the Civil Registration System .
 A unique personal identification number ( civil registration number ) allows accurate linkage of information among national registries , including medical registries .
+
 Identification of Patients with Bacteremia : We obtained data from the Danish Collaborative Bacteremia Network ( DACOBAN ) .
 This network includes the Departments of Clinical Microbiology in the North Denmark Region ( Aalborg Hospital ) and the greater Copenhagen area ( Hvidovre Hospital and Herlev Hospital ) .
 DACOBAN was established to enable coordinated surveillance of all cases of bacteremia in the two regions and to study risk factors and prognostic factors for bacteremia [16] .
@@ -16,6 +18,7 @@ Coagulase - negative staphylococci , Corynebacterium spp . , Bacillus spp . and 
 We only included patients in the age group of 30 to 65 years because we assumed that most of them had completed their education and were of working age .
 The civil registration number , age , sex , the date on which the first positive blood culture was drawn ( date of bacteremia diagnosis ) , hospital and specialty , microbial agent , and place of acquisition of infection ( community - acquired or nosocomial ) were included in the database for all patients .
 Bacteremia was defined as community - acquired if the first positive blood culture was obtained within 48 hours after hospital admission and as nosocomial if it was drawn more than 48 hours after hospital admission .
+
 SES was based on patients ’ educational level and personal income .
 Although the two indicators are related they measure different aspects of socioeconomic stratification .
 Formal education is normally completed in young adulthood and will therefore to some extent measure early life SES .
@@ -34,6 +37,7 @@ We also obtained data on patients ’ employment status , nationality , cohabita
 Employment status was grouped into employed / self - employed , unemployed / employment subsidized by labor market arrangement and early retirement pensioners .
 We used cohabitation status and marital status as markers for social support .
 For all variables , we used data from the year preceding the index date of the bacteremia diagnosis .
+
 We obtained data from the Danish National Patient Registry for all diagnoses recorded from the start of the registry until the date of bacteremia diagnosis .
 The registry contains information for almost 100 % of all inpatient admissions to public and private non - psychiatric hospitals in Denmark since 1977 and from outpatient and emergency room visits since 1995 .
 Each record includes one primary diagnosis and up to 20 secondary diagnoses , which have been classified according to the International Classification of Diseases [24] .
@@ -43,15 +47,18 @@ The index consists of 19 disease groups and each disease group is assigned a spe
 Based on the Charlson index scores three levels of comorbidity were defined : 0 ( low ) , corresponding to patients with no recorded pre - existing comorbidity ; 1 - 2 ( medium ) , and > 2 ( high ) .
 Diagnoses related to substance abuse ( alcohol and drug abuse ) are not included in the Charlson index and may influence prognosis after bacteremia .
 Therefore , we also collected data on previous alcohol - and drug - abuse - related diagnoses from the National Patient Registry .
+
 Patients were treated in 1 of 16 public hospitals .
 We characterized these hospitals according to number of hospital beds , hospital volume , and medical school affiliation .
 We categorized hospital beds , setup and staffed for use , as less than 300 beds or 300 beds or more .
 Hospital volume was defined as the annual number of bacteremia patients treated at the institution and categorized as low - volume ( ≤ 99 bacteremia patients treated per year ) , medium - volume ( 100 - 299 per year ) , and high - volume ( ≥ 300 per year ) hospitals .
 Teaching hospitals were defined as hospitals directly affiliated with a medical school .
+
 Our outcome was all - cause mortality within 30 days after the bacteremia diagnosis .
 We obtained data on each patient ’ s vital status from the Danish Civil Registration System [28] .
 This registry contains daily updated information on all changes in vital status and migration for all Danish citizens .
 Patients were followed from the date of their diagnosis to the time of death , date of emigration , or completion of 30 days of follow - up , whichever occurred first .
+
 We first constructed contingency tables to provide information on baseline characteristics and crude outcomes according to SES , which were inferred on the basis of patients ’ educational level and personal income .
 Using Kaplan - Meier plots we examined mortality within 30 days after bacteremia according to SES .
 A Cox proportional hazards model was constructed to determine the association between SES and 30 - day mortality .

@@ -4,6 +4,7 @@ Our initial dataset contained all single - chain domains with representative str
 Using multiple sequence alignments provided by iPfam , we mapped all the binding sites of each domain onto its representative structure ( Table S1 ) .
 We selected only binding sites containing at least 80 % of their residues within the representative domain structures .
 All structure images were created using DS ViewerPro 6.0 [42] .
+
 Network analysis of domain structures .
 Residues i and j were considered to be in contact if at least one atom corresponding to residue i was at a distance of less than or equal to 5 A from an atom from residue j .
 This value approximates the upper limit for attractive London - van der Waals forces [43] .
@@ -30,6 +31,7 @@ We defined for each binding site j a vector mj representing its modular composit
 The modular composition similarity between two binding sites i and j is defined as the uncentered Pearson correlation coefficient between their respective vectors of modular composition : where , and are the Euclidean norms of vector i and j , respectively .
 M ( i , j ) varies from 0 to 1 .
 Values close to 0 show significant differences in the modular compositions of each binding site , whereas values close to 1 correspond to binding sites with almost identical modular compositions .
+
 Evaluation of performance .
 Random generation of binding sites .
 To test the statistical significance of our studies , we generated a list of random binding sites for each domain , keeping the same number and size of the original binding sites .

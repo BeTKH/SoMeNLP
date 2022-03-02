@@ -7,6 +7,7 @@ Importantly , the CCP was rolled out purely as a service program , with no rando
 Early assessments of CCP outcomes used individuals as their own historical controls ( i.e. , pre - post ) [ 8 , 14 , 22 ] .
 While these assessments offered preliminary evidence suggestive of program effectiveness , they could not distinguish program effects from secular improvements in VLS in NYC during the same time period [23] .
 Focusing on the last viral load ( VL ) in a 12 - month follow - up period , this study aimed to compare VLS proportions between CCP clients and demographically and clinically similar PLWH who , during the same time period , were eligible for but did not enroll in the CCP ( “ non - CCP PLWH ” ) .
+
 We retrospectively constructed an observational cohort of persons enrolled and not enrolled in the CCP by merging provider - reported programmatic data with data from the longitudinal population - based NYC HIV Surveillance Registry ( “ the Registry ” ) .
 Our approach to constructing an observational cohort using the Registry has previously been detailed [24] .
 The Registry contains demographic and laboratory information on all diagnoses of HIV ( since 2000 ) and AIDS ( since 1981 ) reported in NYC , with the addition of comprehensive and longitudinal HIV - related laboratory reporting ( including all CD 4 - lymphocyte [ CD 4 ] and VL test results ) starting in 2005 .
@@ -20,6 +21,7 @@ Using data reported to the Registry as of September 30 , 2014 , we identified al
 To ensure adequate outcome observation time , we excluded CCP clients who died within 12 months of program enrollment ( n = 279 ) .
 This study was approved by the institutional review boards at The City University of New York and the New York City Department of Health and Mental Hygiene .
 For these secondary analyses of de - identified data , we received a waiver for informed consent under 45 CFR 46.116 ( d ) ( 2 ) .
+
 We constructed a non - CCP comparison group of PLWH who were similar to CCP enrollees in four steps .
 First , through the NYC Registry match , we identified PLWH who were not enrolled in the CCP but met broad clinical eligibility criteria for CCP enrollment at one or more times ( CCP eligibility window ) during December 1 , 2009 to March 31 , 2013 .
 Second , we assigned eligible non - CCP PLWH pseudo - enrollment dates falling within their windows of CCP eligibility .
@@ -32,8 +34,10 @@ Persons could be assigned multiple eligibility windows based on qualifying for t
 To identify a start of follow - up for each member of the comparison group ( i.e. , time zero from which to prospectively assess outcomes in comparison to those in the CCP group ) , we randomly assigned each non - CCP PLWH a pseudo - enrollment date that fell within one of their eligibility windows .
 Further , to control for secular trends in VLS , pseudo - enrollment dates were assigned with probabilities such that their temporal distribution matched that of the enrollment dates among CCP enrollees ( i.e. , frequency matching ) .
 For persons who died , eligibility windows ended at least 12 months prior to the date of death , to ensure 12 months for outcome observation following the pseudo - enrollment date .
+
 Step 3 ) identify NYC medical care recipients in the non - CCP PLWH group : After pseudo - enrollment dates were assigned , we restricted the eligible pool to persons who had at least one valid CD 4 or VL test reported to the Registry in the 24 months after the pseudo - enrollment date .
 We required one laboratory test to identify persons accessing HIV medical care in NYC after the pseudo - enrollment date , as CCP enrollment and service initiation entails connection to NYC HIV medical care [28] .
+
 Step 4 ) propensity model and match : After constructing this eligible non - CCP - enrolled population , we prepared to match persons in the non - CCP PLWH comparison group to those in the CCP group using baseline treatment status , propensity scores , and enrollment / pseudo - enrollment dates .
 Given that 12 - month VLS outcomes would be expected to differ by baseline treatment status / engagement , we created four mutually exclusive baseline treatment status groups : 1 ) newly diagnosed ( in the 12 months prior to enrollment / pseudo - enrollment date ) , 2 ) consistently suppressed ( ≥ 2 VLs ≥ 90 days apart , and all VLs ≤ 200 copies / μ L , in the 12 months prior to enrollment / pseudo - enrollment date ) , 3 ) consistently unsuppressed ( all VLs reported > 200 copies / μ L or no VLs reported in the 12 months prior to enrollment / pseudo - enrollment ) , or 4 ) inconsistently suppressed ( at least 1 VL ≤ 200 copies / μ L , but not all VLs ≤ 200 copies / μ L , in the 12 months prior to enrollment / pseudo - enrollment ) .
 We used logistic regression to estimate the propensity for enrollment in the CCP within each of the above 4 groups .
@@ -48,6 +52,7 @@ Within each of the four baseline treatment status groups , we matched on propens
 We used a 1 : 1 ' greedy ' match technique , and the match algorithm proceeded sequentially from 8 to 1 decimal places of the propensity score [ 29 , 30 ] .
 We considered a standardized difference of ≥ 0 ∙ 1 to indicate an imbalance in the measured confounders between the CCP and non - CCP groups [31] .
 The final match included no imbalances ≥ 0 ∙ 1 .
+
 Outcome definition and Care Coordination Program effectiveness estimate : The VLS outcome was based on the last VL laboratory result reported to the Registry in the 12 months following the enrollment / pseudo - enrollment date , and was dichotomized as ≤ 200 or > 200 copies / μ L .
 Persons with no VL in the Registry for the entire 12 - month follow - up period were classified as not having VLS .
 While rare , 1 ∙ 3 % ( 87 / 6,812 ) of the CCP and 5 ∙ 4 % ( 353 / 6,812 ) of the non - CCP PLWH were missing a VL result .

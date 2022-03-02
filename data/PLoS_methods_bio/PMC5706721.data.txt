@@ -8,6 +8,7 @@ Animals received appropriate analgesics and antibiotics after all procedures .
 Throughout both behavioral and physiological recording sessions , the chamber was kept sterile with regular antibiotic washes and sealed with sterile caps .
 All recordings were performed during the animals ’ light cycle , between 8 AM and 5 PM .
 Some of the data for dACC recordings were previously published [42] ; all analyses presented here are new .
+
 We approached the dACC through a standard recording grid ( Crist Instruments ) .
 We defined the dACC according to the Paxinos atlas [72] .
 Roughly , we recorded from a region of interest lying within the coronal planes situated between 29.50 and 34.50 mm rostral to interaural plane , the horizontal planes situated between 4.12 and 7.52 mm from the brain ’ s dorsal surface , and the sagittal planes situated between 0 and 5.24 mm from medial wall .
@@ -16,6 +17,7 @@ Our recordings were made from a central region within this zone .
 We confirmed recording location before each recording session using our Brainsight system with structural magnetic resonance images taken before the experiment .
 Neuroimaging was performed at the Rochester Center for Brain Imaging on a Siemens 3T MAGNETOM Trio Tim using 0.5 - mm voxels .
 We confirmed recording locations by listening for characteristic sounds of white and gray matter during recording , which in all cases matched the loci indicated by the Brainsight system .
+
 Electrophysiological techniques , eye tracking , and reward delivery : All methods used were described in previous manuscripts [40] and largely reproduced here .
 Single electrodes ( Frederick Haer & Co . , impedance range 0.8 - 4 MU ) were lowered using a microdrive ( NAN Instruments ) until waveforms of between 1 and 3 neuron ( s ) were isolated .
 Individual action potentials were isolated on a Plexon system ( Plexon , Inc . ) .
@@ -26,6 +28,7 @@ Stimuli were controlled by a computer running Matlab ( Mathworks ) with Psychtoo
 Visual stimuli were colored rectangles on a computer monitor placed 57 cm from the animal and centered on its eyes ( Fig 2A ) .
 A standard solenoid valve controlled the duration of juice delivery .
 The relationship between solenoid open time and juice volume was established and confirmed before , during , and after recording .
+
 Monkeys performed a 2 - option gambling task .
 The task was similar to one we have used previously [40,41,75] , with 2 major differences : first , monkeys gambled for virtual tokens rather than liquid rewards , and second , outcomes could be losses as well as wins .
 Two offers were presented on each trial .
@@ -54,6 +57,7 @@ If 6 tokens were collected , a delay of 500 ms was followed by a large liquid re
 If 6 tokens were not collected , subjects proceeded immediately to the ITI .
 Each gamble included at least one positive or zero outcome .
 This decreased the number of trivial choices presented to subjects and maintained motivation .
+
 Subjective values for each gamble were estimated based on subjects ’ behavior performance in each test session , according to the following formula : formtok ( the same approach used by Yamada and colleagues [76] ) .
 Because our task includes both wins and losses , we fit a parameter α for wins and another parameter β for losses .
 A value for α greater than 1 and a value for β less than 1 both indicate risk seeking .
@@ -67,6 +71,7 @@ To ensure that subjects did , in fact , pay attention to both offers , we fit a 
 To determine whether subjects pay attention to all features of an offer , we use an extended model with the 3 variables characterizing each offer ( the 2 possible outcomes and the probability of the larger outcome ) included as predictors , controlling for the same variables mentioned above .
 We fit such a model for each behavioral session and obtained the regression weights associated with each of the variables of interest .
 We then tested the vector of these variables across all sessions using a 1 - sample t test to determine whether they differ significantly from zero .
+
 Peristimulus time histograms ( PSTHs ) were constructed by aligning spike rasters to the presentation of the first offer and averaging firing rates across multiple trials .
 Firing rates were calculated in 20 - ms bins but were generally analyzed in longer ( 500 - ms ) epochs .
 This method is standard in our lab and was described in a previous manuscript [40] .
@@ -77,6 +82,7 @@ The first and second offer epochs were defined as the 500 - ms epoch beginning 1
 These epochs were used in previous studies of choice behavior [40,41] .
 All fractions of modulated neurons were tested for significance using a 2 - sided binomial test .
 All binomial tests throughout the manuscript were 2 - sided .
+
 Format and population correlation analyses : We used beta correlation analyses to assess whether neurons represented 2 variables ( or the same variable at different time periods ) using similar / orthogonal / opposing formats , in overlapping / orthogonal / distinct populations .
 To do this , we first found the regression coefficient associated with the variable of interest ( controlling for other task variables , listed above ) per neuron .
 We then combined these regression coefficients into a vector of the same length as the number of neurons in our sample .

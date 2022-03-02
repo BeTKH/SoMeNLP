@@ -1,5 +1,6 @@
 The study protocol was approved by the Ethics Committee of the International Foundation for the Albert Schweitzer Hospital in Lambarene .
 Written informed consent was sought from the mother and the guardian accompanying the patient to the hospital .
+
 Study design , study site , participants : From May 2005 to September 2006 a cross - sectional study in women delivering at the obstetric departments of local hospitals in the cities of Libreville ( Centre Hospitalier de Libreville ) and Lambarene ( Hopital Regional de Lambarene and Albert Schweitzer Hospital ) was conducted in the Central African country Gabon .
 The region is characterized by perennial high transmission of Plasmodium falciparum malaria [17] , [18] .
 Intermittent preventive treatment in pregnancy with sulfadoxine - pyrimethamine and the use of insecticide treated bednets have been adopted as national policy for the prevention of malaria in pregnancy since 2005 .
@@ -11,6 +12,7 @@ A thick blood smear for the diagnosis of malaria was performed as well as matern
 All newborns were weighed immediately after birth and birth outcome was evaluated by the midwife in charge of the delivering women .
 Only women giving birth to live singletons were considered for analysis .
 Data were captured on paper record forms and reviewed manually before analysis .
+
 Outcome variables , definitions and statistical analysis : The aim of the statistical analysis was to evaluate differences in pregnancy characteristics and birth outcomes of adolescent versus adult women .
 Adolescent status was defined as an age of or below 16 years at delivery .
 The number of antenatal consultations , use of bednet during pregnancy , intake of sulfadoxine - pyrimethamine for intermittent preventive treatment of malaria , maternal haemoglobin at delivery , and peripheral parasitaemia at delivery were specified as main pregnancy characteristics .

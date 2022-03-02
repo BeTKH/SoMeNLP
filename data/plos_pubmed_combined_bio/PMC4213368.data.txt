@@ -10,6 +10,7 @@ Moreover , a number of proteins involved in arabinogalactan biosynthesis were sh
 These findings provide a useful recourse for understanding the biosynthesis and function of the mycobacterial cell wall , as well as providing new therapeutic targets .
 Electronic supplementary material
 The online version of this article ( doi : 10.1007 / s10719 - 014 - 9549 - 3 ) contains supplementary material , which is available to authorized users .
+
 Introduction
 Mycobacterium tuberculosis the causative agent of tuberculosis ( TB ) , remains a major cause of mortality and morbidity from a single infectious organism .
 In 2012 , approximately 8.6 million people developed TB and 1.3 million died from the disease [1] .
@@ -48,6 +49,7 @@ Importantly , BACTH is able to detect physical interactions between both cytopla
 Our data supports interactions between various proteins involved in AG biosynthesis .
 Moreover , we demonstrate a number of novel interactions between these proteins .
 Altogether , these results suggest that proteins involved in AG assembly are associated to one another through multiple interactions .
+
 Materials and methods
 Bacterial strains and growth conditions
 All cloning steps were performed in E . coli XL - 1 Blue cells ( Invitrogen ) .
@@ -57,11 +59,13 @@ Plasmids were maintained with ampicillin ( 100 μ g / ml ) or kanamycin ( 50 μ 
 LB agar reporter plates contained streptomycin ( 100 μ g / ml ) , ampicillin ( 100 μ g / ml ) , kanamycin ( 50 μ g / ml ) , 5 - bromo - 4 - chloro - 3 - indolyl - β - D - galactopyranoside ( X - gal ; 40 μ g / ml ) and isopropyl β - D - 1 - thiogalactopyranoside ( IPTG ; 0.5 mM ) .
 MacConkey plates ( Difco ) contained streptomycin ( 100 μ g / ml ) , ampicillin ( 100 μ g / ml ) , kanamycin ( 50 μ g / ml ) , IPTG ( 0.5 mM ) and maltose ( 1 % ) .
 M63 minimal media plates [44] were supplemented with streptomycin ( 50 μ g / ml ) , ampicillin ( 50 μ g / ml ) , kanamycin ( 25 μ g / ml ) , X - gal ( 40 μ g / ml ) , IPTG ( 0.5 mM ) and maltose ( 0.2 % ) .
+
 Plasmid construction
 All recombinant DNA methods were performed using standard protocols .
 Briefly , the genes involved in C . glutamicum AG biosynthesis were amplified from genomic DNA of C . glutamicum ATCC 13032 .
 The plasmids have been constructed by inserting gene sequences of interest in pKT 25 ( T25 fusion at N - terminus ) , pKNT 25 ( T25 fusion at C - terminus ) , pUT 18 ( T18 fusion at C - terminus ) and pUT 18c ( T18 fusion at N - terminus ) [38] , using oligonucleotides provided in Supplementary Table S1 .
 The bacterial BACTH system kit was obtained from Euromedex and contained empty vectors together with positive control plasmids pKT 25 - zip and pUT 18c - zip .
+
 Bacterial two - hybrid system
 Two plasmids expressing recombinant proteins bearing N - or C - terminal T25 and T18 fusions were co - transformed into E . coli BTH 101 cells ( Table S2 ) .
 Cells were spread on LB plates containing streptomycin ( 100 μ g / ml ) , ampicillin ( 100 μ g / ml ) , kanamycin ( 50 μ g / ml ) and incubated at 30 ° C for 48 h .
@@ -70,8 +74,10 @@ Cultures were grown overnight at 30 ° C with shaking .
 Overnight cultures were washed three times in minimal media and spotted ( 2 μ l ) onto LB , MacConkey or M63 minimal media agar plates supplemented with appropriate antibiotics and nutrients .
 The β - galactosidase assay was performed as described elsewhere [44] .
 The values presented are the mean of 3 independent activity assays .
+
 Statistical analysis
 The results are expressed as the means ± S.D . and were analyzed using a Student ’ s t - test to determine significant differences ( p < 0.01 ) between samples .
+
 Results and discussion
 Network analysis of AG biosynthetic proteins
 We initially aimed to identify whether any of the proteins involved in cell wall assembly have been predicted or demonstrated to make a functional network .
@@ -80,6 +86,7 @@ The interaction patterns of proteins had a high confidence score ( > 0.7 ) and s
 The generated network contained ABC family transporters ( RfbD and RfbE ) , GT - A type GalfTs GlfT 1 , and proteins involved in rhamnose sugar donor formation , all centered on GlfT 2 .
 Transmembrane ArafT Emb showed a strong evidence for interaction with AftA and AftB , as well as the uncharacterized protein NCgl 2596 .
 The network also contained a putative phospholipid phosphatase NCgl 2782 and proteins involved in DPA synthesis : DprE 1 , DprE 2 and UbiA .
+
 Bacterial two - hybrid analysis of AG proteins
 To characterize the physical interactions between components of the C . glutamicum cell wall biosynthetic machinery , the following full - length proteins WecA , WbbL , GlfT 1 , GlfT 2 , AftA , AftB , AftC , AftD , Emb , UbiA , DprE 1 , and DprE 2 , were tested systematically for pair - wise interactions using BACTH .
 The known or predicted function of proteins is shown in Table [1] .
@@ -89,6 +96,7 @@ The resulting cAMP forms a complex with the catabolite activator protein and bin
 The activation of these operons can be detected on selective agar plates or using a β - galactosidase assay .
 Importantly , this bacterial two - hybrid system was shown to be suitable to detect interactions between cytoplasmic , as well as transmembrane or membrane associated proteins [ 46 , 47 ] .
 Predicted topology and function of C . glutamicum proteins described in this study
+
 Despite several attempts , we did not succeed in constructing pKT 25 and pUT 18 derivatives expressing UbiA and AftD proteins , respectively .
 This is probably due to the toxicity of hybrid proteins to bacterial cells when expressed at high levels , which is especially true of membrane proteins .
 Moreover , the UbiA - T18 and UbiA - T18 hybrid proteins , when co - expressed with several other hybrid proteins , appeared to reduce down bacterial cell growth suggesting that overproduction of UbiA is toxic to E . coli cells .
@@ -102,6 +110,7 @@ Efficiency of the functional complementation between T25 and T18 domains was qua
 Ultimately , 50 pairs of hybrid proteins resulted in a positive signal representing 24 putative homotypic and heterotypic protein - protein interactions .
 The interaction results from the assays are summarized in Table [2] .Protein - protein interactions between C . glutamicum AG biosynthetic proteins determined by BACTH
 The positive interaction is indicated as ( ) , whereas the lack of interaction is marked as ( − )
+
 Self - association of C . glutamicum cell wall biosynthesis proteins
 Among all the tested proteins , dimerization or multimerization of WecA , GlfT 1 , GlfT 2 , AftA , AftB , AftC , DprE 1 , and DprE 2 have been demonstrated employing BACTH .
 Co - expression of transmembrane WecA - T25 and WecA - T18 hybrid proteins restored a cya phenotype and synthesis of cAMP in the E . coli cells , resulting in blue and red colonies on LB / M63 - Xgal and MacConkey media , respectively ( Fig . S1a - c ) .
@@ -121,6 +130,7 @@ Hence it is unsurprising that multimerization of AftC is observed with the fusio
 Interestingly , no evidence for homodimerization could be obtained for Emb and AftD .
 Finally , DprE 1 and DprE 2 , both involved in DPA synthesis , appeared positive for self - interaction .
 DprE 1 - T25 and DprE 1 - T18 , DprE 1 - T25 and DprE 1 - T18 fusions , as well as all four pairs of hybrid proteins co - expressing DprE 2 led to a strong lacZ induction ( ranged between 291 ± 33 and 1156 ± 54 Miller units ) , significantly exceeding the negative control ( Fig . S [3] ) .
+
 In vivo interaction network among AG proteins
 Next , we examined the interactions between different proteins involved in AG biosynthesis .
 Our results indicate that in addition to homodimerization , WecA is also able to interact with multiple partners of AG biosynthesis ( Table [2] ) .
@@ -139,6 +149,7 @@ DprE 1 - DprE 2 association has been identified with seven different plasmid com
 Previous studies reported that orthologues of DprE 1 and DprE 2 in M . tuberculosis were able to catalyze the epimerization reaction in vitro , however , neither protein alone was sufficient to support this activity [49] .
 Thus , strongly suggesting that DprE 1 and DprE 2 work in concert to catalyze the conversion of DPR to DPA .
 However , when the same M . tuberculosis orthologues were experimentally tested for interaction using BACTH , co - transformants yielded negative results [49] .
+
 Conclusions
 The majority of bacterial cell wall surface polysaccharides are built on a carrier lipid in the cytosolic side of the plasma membrane .
 Although it is not fully clear how and when these polymers are translocated to the periplasm , one could speculate that anchoring these macromolecules to the membrane positions them closely to the transporters and glycosyltransferases , therefore , promoting productive export across the plasma membrane .
@@ -168,4 +179,5 @@ These indirect associations , caused by a third protein , cannot be simply rejec
 In conclusion , our findings here suggest that enzymes involved in C . glutamicum cell wall assembly and precursor formation form complicated multi - protein complexes .
 We have identified 24 interactions in vivo between 12 proteins responsible for AG biosynthesis using BACTH .
 The challenge for the future will be to discover precisely how each of these multi - protein complexes form and function to synthesize and translocate AG .
+
 Electronic supplementary material ( PDF 2372 kb )

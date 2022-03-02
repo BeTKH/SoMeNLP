@@ -16,21 +16,26 @@ Participants were clearly informed about these procedures to avoid biased result
 The players were on average 23.15 ( SD = 4.47 ) years old .
 They had been playing volleyball or handball on average for 13.58 years ( SD = 4.91 ) , worked with the same coach for 2.48 years ( SD = 3.16 ) and trained 2.92 times ( SD = 0.91 ) per week .
 Those demographical variables did not differ between the female volleyball and the male handball players .
+
 Data were collected with two different questionnaires .
 The general questionnaire was used the first week of the study and gathered information about the players ’ demographics and the general coaching style .
 The game - specific questionnaire had to be completed after each game during six consecutive weeks and gathered information about athletes ’ perceived justice of the coach , decision justifications , players ’ status , and the game result .
 Items were answered on a 5 - point Likert scale ranging from 1 ( strongly disagree ) to 5 ( strongly agree ) .
+
 General questionnaire : Overall coaching style : Need support of the coach ( 9 items ) : In line with Deci and Ryan [12] we considered need support of the coach as a concept composed of three subscales : ( a ) autonomy - support , ( b ) competence - support and ( c ) relatedness - support .
 To assess the concept of need support we selected nine items from two different questionnaires which were already translated into Dutch and used in the sport setting by De Backer et al . [4,6] .
 An example of such an autonomy support item was : “ My coach let me partially decide on my own training program ” .
 An example of a competence support item is : “ I have the impression that my coach believes in my abilities ” .
 Finally , and example of a relatedness support item is : “ My coach shows that he / she cares about me as a person ” .
+
 Control of the coach ( 3 items ) : To assess athletes ’ experience of coaches ’ controlling coaching style we included items that tapped coaches ’ coercive behavior .
 Based on the study of Pelletier and colleagues [40] three items were back - translated into Dutch and adapted to fit the elite team sport context .
 An example item is : “ My coach makes me feel guilty when I do not meet his / her expectations ” .
+
 The 4 - item scale was based on research about the impact of decision justifications within business settings [13] .
 Greenberg ’ s items questioned the explanation , communication , and the clearness of the reasons of pay cuts .
 We transformed them to fit the team sport setting and queried the clarity and the communication of the tactical decisions and the player ’ s selection ( e.g. , “ My coach explained his / her tactical decisions ” ) .
+
 This section was based on research of Colquitt [41] and adapted to the sport context by De Backer et al . [4] .
 Justice was considered as a concept composed by four subcategories of three items : personal distributive justice , group distributive justice , personal procedural justice , and group procedural justice .
 The personal distributive justice category questioned the perceived justice of the individual playing time during the game ( e.g. , “ My coach rewarded me with a fair amount of playing time taking into account my contribution to the team ” ) .
@@ -41,6 +46,7 @@ Despite the fact that people can distinguish between these sources of justice , 
 Moreover , researchers have shown that individual ’ s justice perceptions may not be accurately evaluated when there is a focus on the various dimensions of justice [43] .
 Finally , De Backer et al . [4] indicated that the different justice subcomponents form a latent variable of overall justice , which was linked to identification and cohesion in a team sport context .
 Therefore , we combined the four subcomponents and shifted towards an overall justice judgment .
+
 Status of the athlete ( 1 item ) : With a single item , we questioned whether the player was a member of the starting team ( i.e. , “ During last game I was a starting player / a substitute ” ) .
 Result of the game ( 1 item ) : With a single item , we questioned the result of the game ( i.e. , “ Last game our team won / lost . ” ) .
 The head coaches of the teams were contacted and informed about the aim of the research .
@@ -57,6 +63,7 @@ As part of a bigger PhD project [44] , the current study was approved by The Leu
 More specific , by the Doctoral Committee of Kinesiology , Rehabilitation Sciences & Physiotherapy .
 The research conducted was in line with the ethical principles of the American Psychological Association ( APA ) .
 No rewards were given for participation , informed consent was obtained from all participants , and confidentiality was assured .
+
 First , we performed Confirmatory Factor Analysis ( CFA ) to test whether the back - translated and slightly adapted measurement instruments fitted the already validated structure of the original measurement models .
 The indices we used to evaluate overall model fit were : comparative fit index ( CFI ) , Tucker - Lewis Index ( TLI ) , and root mean square error of approximation ( RMSEA A CFI and TLI value higher than .90 [45] , and a value lower than .08 for the RMSEA [46] indicate an acceptable fit of the model .
 Consequently , internal consistencies of the different scales were calculated .
@@ -68,6 +75,7 @@ Furthermore , these multilevel models allowed us to model cross - level interact
 An overview of the models can be found in Table 1 .
 First , we compared a model with only level 1 variance to a model with both level 1 and level 2 variance and checked whether the addition of the second level significantly improved our model .
 We computed the Intraclass Correlation Coefficient ( ICC ) to examine the degree of variance underlying the within and the between - athlete level .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0205559.t001 The multilevel models aiming to address the different hypotheses of the study .
 In order to check Hypothesis 1a and 1b , we tested whether the coaching style ( i.e. , level 2 ) predicted athletes ’ game - to - game perceived justice of the coach .

@@ -2,6 +2,7 @@ This review provides perspectives on the utility of magnetic resonance imaging (
 These considerations were generated in a roundtable at a recent Wellcome Trust meeting that included experts from academia and industry .
 It was agreed that MRI , either structural or functional , could be used as a diagnostic , for assessing worsening of disease status , for monitoring vascular pathology , and for stratifying clinical trial populations .
 It was agreed also that MRI implementation is in its infancy , requiring more evidence of association with the disease states , test - retest data , better standardization across multiple clinical sites , and application in multimodal approaches which include other imaging technologies , such as positron emission tomography , electroencephalography , and magnetoencephalography .
+
 Introduction
 This article is the result of a roundtable held at the Wellcome Trust in the context of the meeting ' Biomarkers for Brain Disorders : Challenges and Opportunities ’ in February 2013 .
 The focus was on the relevance of neuroimaging biomarkers in the development of novel treatment in Alzheimer ’ s disease ( AD ) , with a particular focus on magnetic resonance imaging ( MRI ) .
@@ -10,6 +11,7 @@ Based on the experience of current precompetitive consortia such as the Alzheime
 As for other biomarkers , the current applications of neuroimaging include assistance in ( a ) the diagnosis of dementia , ( b ) the selection of subjects for enrollment in clinical trials or for stratification , ( c ) the tracking of disease progression , ( d ) providing evidence for target engagement for new therapeutic agents , and ( e ) providing evidence of disease - modifying effects ( that is , normalization of a pathologic signal in association with clinical improvement ( surrogate marker ) ) .
 The MRI literature is partially supportive for the first three applications , whereas the database for the last two applications is still growing [5-7] .
 The present article should not be seen as an exhaustive review of neuroimaging in AD research ( as shown in [8-10] ) but as an introduction to the uneven status of advancement of MRI technology for drug development .
+
 A practical question
 Developing a new drug is an evidence - based exercise .
 Collecting evidence relevant for decision - making to support the development of a novel chemical entity ( NCE ) requires investment in methodologies that are reliable , valid , and clinically relevant .
@@ -23,6 +25,7 @@ The most important are ( a ) the interpretation of the biological meaning of the
 Hence , one of the main goals of the scientific community should be to provide answers to these questions and contribute to the regulatory approval of the neuroimaging methods .
 Evidentiary table showing different imaging modalities implemented in AD research with relevant information
 AD , Alzheimer ’ s disease ; APP , amyloid precursor protein ; ARIA , amyloid - related imaging abnormality ; ASL , arterial spin labeling ; BOLD , brain oxygen level - dependent ; CAMD , coalition against major diseases ; DTI , diffusion tensor imaging ; EMA , European Medicines Agency ; FDA , US Food and Drug Administration ; FDG , fluoro - 2 - deoxy - D - glucose ; fMRI , functional magnetic resonance imaging ; IV , intravenous ; MCI , mild cognitive impairment ; MRI , magnetic resonance imaging ; PET , positron emission tomography ; SOP , standard operating procedure .
+
 Neuroimaging in Alzheimer ’ s disease : the legacy of positron emission tomography
 Different neuroimaging modalities are at different stages of maturity regarding implementation in AD research .
 For example , for more than two decades , molecular neuroimaging assessed with positron emission tomography ( PET ) , aimed to investigate key neurochemical processes at work in AD , has been used with a certain success to assist the diagnostic process in AD research [9,10] .
@@ -42,6 +45,7 @@ However , data available from large clinical trials indicate that changes of amy
 A final note : the implementation of PET requires exposure to radioactivity that limits the repeated use in the same individuals as well as specialized centers and significant investment .
 Therefore , while PET can provide unique and useful information , these limitations challenge use in large clinical trials and even in community - based health care .
 In fact , for these reasons , PET is often implemented in a sub - study of a larger multi - center clinical trial , targeting a sub - population of the whole study .
+
 Magnetic resonance imaging implementation in Alzheimer ’ s disease research
 MRI - related techniques are gaining increasing interest since their use does not require radioactivity exposure and they can be easily repeated in the same subjects with no harm , are relatively inexpensive , and can be operated with scanner machines available in almost any hospital [6,9,10] .
 In clinical trials , MRI is commonly used as a radiologic diagnostic aid to exclude individuals with incidental brain pathologies .
@@ -67,18 +71,21 @@ The EADC - ADNI standard operating procedures will be used to validate automated
 Other brain regions are under active investigation ; for example , the entorhinal cortex showed performance similar to hippocampus using the Quarc analysis software ( Quarc , Wedemark , Germany ) [45] .
 According to this study , when these markers were used as primary endpoints , a sample size of about 100 subjects with AD would be sufficient to detect a 25 % reduction of annual atrophy rate produced by a putative novel treatment [45] .
 This is at least threefold less than the sample size needed when using clinical scales such as the Alzheimer ’ s Disease Assessment Scale - cognitive subscale as endpoints .
+
 Vascular magnetic resonance imaging
 The modality of T2 - weighted / fluid inversion recovery is particularly useful to identify vasogenic edema and microhemorrhages , defined as the amyloid - related imaging abnormalities ( ARIAs ) in AD research [19,43] .
 Regulatory authorities require their use in clinical trials implementing the β - amyloid - lowering drugs for safety reasons .
 For example , in two bapimezumab phase II trials , ARIAs occurred in 17 % of patients with AD , 78 % of whom did not report clinical correlates [19] .
 The occurrence of ARIAs seems to depend on the dose of the β - amyloid - lowering drug and on the presence of the apolipoprotein E4 ϵ genotype , which is characterized by a significantly higher β - amyloid burden [19,41] .
 A rating scale was recently proposed [46] .
+
 Diffusion tensor imaging magnetic resonance imaging
 Through the assessment of the random motion of water molecules in the tissue , diffusion tensor imaging ( DTI ) has provided new tools to the study of white matter alterations in AD brain mostly by assessing two parameters : the fractal anisotropy ( FA ) and the mean diffusivity ( MD ) .
 FA is considered a marker of axonal integrity and myelinization , whereas MD represents the overall cellular integrity [47] .
 The combined use of DTI and volumetric MRI in the cingulated cortex was shown to increase the imaging - based classification of AD cases versus control with up to 91 % accuracy [21] .
 Initially , DTI has been perceived as a technique with poor reproducibility and site / scanner dependency .
 Recent multi - center trials in Huntington ’ s disease and AD seem to contradict this preoccupation , suggesting a low center - dependent bias and a real possible use as a surrogate endpoint [22,23] .
+
 Functional magnetic resonance imaging
 fMRI can be defined as a technology that provides statistical maps of brain activation [6,7] .
 Brain activation is indirectly obtained by measuring changes of regional microcirculation produced by local neural activity triggered by external stimuli , behavioral performance , or neuroactive drugs .
@@ -90,6 +97,7 @@ Intriguingly , increases were described in the early phase of the disease [32] a
 This hyper - activation was interpreted as a possible compensatory mechanism at work within the networks whose structures were impaired , a pathologic marker of impending neural failure [9] .
 Whereas data on longitudinal test - retest were provided in single - center studies [33] , fMRI activation tasks were very rarely used in multi - center studies , highlighting the need for further validation and standardization .
 Logistically , the typical fMRI activation task is quite complex , requiring audio / visual support for stimuli presentation ( for example , goggles ) and performance recording ( for example , joysticks ) , expert personnel , calibration procedures for each tasks , and proven invariance to repeated exposure ( often not studied ) , therefore making their implementation difficult in multi - center trials or in routine use as a diagnostic in the community .
+
 Task - free functional magnetic resonance imaging procedures
 More recently , resting - state fMRI ( rs - fMRI ) was introduced to collect signals while the subject is not performing any particular tasks [6,7] .
 This task - free approach is ideal in poorly collaborative subjects , such as severely demented patients , and does not require a specialized staff .
@@ -100,20 +108,24 @@ In AD , impaired DMN has been reported , including longitudinal data that showed
 Interestingly , rs - fMRI studies in non - demented adults carrying a familial AD gene mutation showed hyper - connectivity in the dorsolateral prefrontal cortex and decreased connectivity in the precuneus [26,27] .
 rs - fMRI is also a stronger classifier than memory task - associated fMRI when used in non - demented adults carrying a familial AD mutation [27] .
 Interestingly , changes of connectivity in the DMN of subjects with AD were observed following chronic treatment with memantine [49] and donepezil [25] .
+
 Arterial spin labeling
 In the last few years , ASL has attracted the attention of various research groups [7] .
 ASL MRI was validated versus perfusion PET showing convergent information about regional cerebral blood flow of diagnostic relevance , with higher resolution and no exposure to radioactive tracers [25,28] .
 Evidence of hypoperfusion in AD and prodromal AD / MCI conditions was confirmed and extended to a series of other brain areas , and the initial evidence is that ASL may have properties of diagnostics and markers of disease severity [20,25,50] .
 ASL measurements appear less variable than BOLD in test - retest trials in a single center .
 Unfortunately , to date , it cannot be easily implemented in multi - center trials since different vendors of MRI scanners have implemented different sequences of acquisition , therefore hindering comparison among sites with different MRI scanners .
+
 Conclusions and future directions
 There is a role for MRI as a biomarker in clinical trials aimed at the development of new treatment for AD .
 However , a series of challenges is still looming , in particular for fMRI .
 Among them , we have identified reliability and repeatability for specific tests , standardization across multiple sites , development of validated automated quantification tools , implementation of multiple modalities ( for example , merging PET and rs - fMRI ) , cost optimization , and selection of the most accurate and efficient diagnostic combination of markers , including fluid - based biomarker modalities .
 Most of these challenges are tackled in the context of large consortia involving collaborations between academia and industry as well as in some contract research organizations and technology - oriented academic centers .
 The delivery of this research is of relevance for building confidence in imaging biomarkers : at present , with the exception of safety assessment of ARIA signals , the implementation of MRI in pharmaceutical clinical trials is still seen as exploratory rather than decision - making .
+
 Abbreviations
 AD : Alzheimer ’ s disease ; ADNI : Alzheimer Disease Neuroimaging Initiative ; ARIA : Amyloid - related imaging abnormality ; ASL : Arterial spin labeling ; BOLD : Blood oxygen level - dependent ; DMN : Default mode network ; DTI : Diffusion tensor imaging ; EADC : European Alzheimer ’ s Disease Consortium ; EMA : European Medicines Agency ; FA : Fractal anisotropy ; FDG : Fluoro - 2 - deoxy - D - glucose ; fMRI : Functional magnetic resonance imaging ; MCI : Mild cognitive impairment ; MD : Mean diffusivity ; MRI : Magnetic resonance imaging ; NCE : Novel chemical entity ; NFT : Neurofibrillary tangle ; PET : Positron emission tomography ; rs - fMRI : Resting - state functional magnetic resonance imaging .
+
 Competing interests
 AL is an employee of GlaxoSmithKline ( Brentford , UK ) .
 MES is an employee of Janssen Pharmaceutica ( Beerse , Belgium ) .

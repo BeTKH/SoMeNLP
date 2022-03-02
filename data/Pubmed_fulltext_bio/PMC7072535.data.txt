@@ -6,6 +6,7 @@ Analyses carried out on two of our cohorts of patients treated or not with adjuv
 Moreover , investigating a dataset that includes gene profile data of tumors treated with neoadjuvant trastuzumab plus chemotherapy or chemotherapy alone , ECM 3 was associated with increased pathological complete response if treated with trastuzumab .
 In the in vivo experiments , increased diffusion and trastuzumab activity were found in tumors derived from injection of HER 2 - positive cells with Matrigel that creates an ECM - rich tumor environment .
 Taken together , these results indicate that HER 2 - positive BCs classified as ECM 3 have an aggressive phenotype but they are sensitive to trastuzumab treatment .
+
 1 .
 Introduction
 The extracellular matrix ( ECM ) of a tumor is composed of a complex mixture of proteins that , other than providing structural support to cells and tissues , influences tumor progression and response to therapy [1,2] .
@@ -20,6 +21,7 @@ Trastuzumab , a recombinant humanized monoclonal antibody that binds to the extr
 However , this antibody , administered per currently approved protocols , is effective in ~ 50 % of patients with this type of tumor .
 No predictive biomarkers are clinically available [10] , even if pathological and molecular characterization of tumor tissues has identified tumor - intrinsic features ( ER , PAM 50 and TRAR ) [10,11,12] and immune features [13] as predictive of trastuzumab efficacy .
 Since ECM is reportedly implicated in response to therapy of BCs [14] and ECM 3 contained 35 - 40 % of HER 2 - positive BCs [4] , herein , we tested the prognostic and predictive value of ECM 3 molecular classification in HER 2 - positive BCs .
+
 2 .
 Materials and Methods
 2.1 .
@@ -29,6 +31,7 @@ All selected samples contained at least 70 % tumor cells .
 All procedures were in accordance with the Helsinki Declaration .
 Biospecimens used for research consisted of leftover material of samples collected during standard surgical and medical approaches at INT .
 Samples were donated by patients to the Institutional BioBank for research purposes , and aliquots were allocated to this study after approval by the Institutional Review Board and a specific request to the Independent Ethical Committee of the institute .
+
 2.2 .
 Immunohistochemistry and Fluorescence In Situ Hybridization
 HER 2 , ER and PGR positivity of cases of the FIRB cohort were re - evaluated ( HER 2 : A0485 ; ER : clone 1D 5 , M7047 ; PGR : clone PgR 636 , M3569 , Dako , Santa Clara , CA , USA ) on formalin - fixed , paraffin - embedded ( FFPE ) tissue sections .
@@ -39,6 +42,7 @@ All HER 2 2 + cases were evaluated by FISH using the PathVysion HER - 2DNA Probe
 Briefly , 2 μ m FFPE sections were deparaffined in Hybrite ( Abbott ) and rehydrated .
 After pepsin treatment ( 0.01 N HCl + 0.4 % pepsin ) at 37 ° C for 6 min , samples were denatured at 85 ° C for 1 min and hybridized with probes overnight at 37 ° C .
 Samples were stained with 4 ′ , 6 - diamidino - 2 - phenylindole , cover - slipped and analyzed with a Zeiss Axioscop 2 microscope ( Carl Zeiss , Oberkochen , Germany ) .
+
 2.3 .
 RNA Isolation and cDNA Microarray Techniques
 Total RNA was extracted from snap - frozen samples using Trizol ( Thermo Fisher Scientific , Waltham , MA , USA ) following the manufacturer ’ s instructions .
@@ -50,6 +54,7 @@ The target cDNAs were synthesized from total RNA and directly labeled with Cy 3 
 Total RNA was reverse transcribed using 5 ′ end modified oligo - dT primers containing the specific Cy 3 or Cy 5 3DNA capture sequences .
 The P - labeled cDNAs with an estimated activity of about 100,000 counts per minute were annealed with 1.5 μ L of the specific DNA capture reagent for 16 h at 41 ° C .
 Hybridization was carried out in a hybridization station ( Genomic Solutions , Cridersville , GE , USA ) and slides were scanned using the GenePix 4000A microarray scanner ( Molecular Devices , Sunnyvale , CA , USA ) .
+
 2.4 .
 Data Analysis
 Dataset filtering and Lowess normalization were performed using J - Express ( Molmine , Hafrsfjord , Norway ) as described [16] .
@@ -57,6 +62,7 @@ Bioinformatic analyses were performed using R [17] , version 2.15 , and BioCondu
 Gene - set enrichment analyses were performed using gene set enrichment analysis GSEA v 5.0 [19] .
 Genes represented by more than one probe were collapsed to the probe with the maximum value using the Collapse Dataset tool .
 Gene - set permutation was applied 1000 times and gene - set enrichment was considered significant at FDR < 25 % .
+
 2.5 .
 External Datasets and Signatures
 ECM 3 was calculated in HER 2 - positive patients of the following public datasets : NKI ( Netherlands Cancer Institute ) ( untreated ) [20] ; ii ) EMC ( untreated ) [21] ; GSE 50948 ( NOAH trial , treated with neo - adjuvant chemotherapy alone or chemotherapy and trastuzumab ) [22] .
@@ -69,6 +75,7 @@ ECM 3 was identified using the Large Average Submatricies ( LAS ) biclustering m
 The research - based PAM 50 subtype predictor was applied to the GHEA and NOAH datasets using the publicly available algorithm as described [22] , after performing median centering of the PAM 50 genes .
 Immune metagenes were determined based on the method of Rody et al . [27] .
 The average log - transformed expression of the genes that belonged to each metagene was calculated .
+
 2.6 .
 In Vivo Study
 Experimental protocols were approved by the Ethics Committee for Animal Experimentation of Fondazione IRCCS - INT .
@@ -91,6 +98,7 @@ Trastuzumab was visualized using Alexafluor - conjugated anti human secondary an
 Nuclei were visualized by Sybr - green .
 Coverslips were mounted on glass slides using Prolong ( Calbiochem , San Diego , CA , USA ) and examined with a confocal microscope ( Microradiance 2000 , BioRad , Hercules , CA , USA ) equipped with Argon ( 488 nm ) , Green HeNe ( 543 nm ) and Red diode ( 633 nm ) lasers .
 Images were obtained using a × 60 oil immersion lens ( 512 × 512 or 1024 × 1024 pixels ) and analyzed using Image - Pro Plus v. 7.0.1 ( MediaCybenetics , Rockville , MD , USA ) software .
+
 2.7 .
 Statistical Analysis
 Relationships between categorical variables were assessed using Fisher ’ s exact test .
@@ -101,6 +109,7 @@ Kaplan - Meier survival plots and exact log - rank tests were used to assess dif
 Adjusted hazard ratios ( HRs ) of prognostic factors together with 95 % confidence intervals ( CIs ) were estimated by fitting multivariable Cox survival models .
 All the analyses were conducted using SAS software ( SAS Institute Inc . , Cary , NC , USA ) .
 Two - sided p - values < 0.05 were considered statistically significant .
+
 3 .
 Results
 3.1 .
@@ -114,6 +123,7 @@ To explore the possibility of providing biologically meaningful insights to this
 Comparison of gene expression in ECM 3 vs . non - ECM 3 tumors revealed significant enrichment for pathways we previously found associated with ECM 3 , such as EMT , cell and focal adhesion , TGF - beta pathway , tumor metastasis and hypoxia ( Figure 1 ) , confirming the biological characteristics of ECM 3 tumors also among HER 2 - positive tumors .
 Genes related to inflammation were found enriched in non - ECM 3 tumors ( Figure 1 ) , as previously observed [4] .
 Nevertheless , this enrichment was not observed in all analyzed datasets .
+
 3.2 .
 ECM 3 in HER 2 - Positive BCs Not Treated with Trastuzumab
 To test the prognostic significance of ECM classification in HER 2 - positive tumors the performance of ECM 3 was investigated in 49 and 52 untreated HER 2 - positive tumors from EMC and NKI datasets , respectively .
@@ -125,6 +135,7 @@ We next evaluated prognosis of patients with ECM 3 tumors treated with adjuvant 
 A total of 44 HER 2 - positive cases ( 35 samples 3 + and 9 samples 2 + / FISH positive ) treated with chemotherapy in our institute before the introduction of trastuzumab in the clinical practice were selected .
 The Kaplan - Meier curve showed a worse prognosis for patients with ECM 3 tumors ( p = 0.0494 , Figure 2 ) .
 ECM 3 was the variable more associated with DFS and OS both in univariate ( Table S1 ) and multivariate analyses ( Table 2 and Table S3 ) , indicating that ECM 3 cases have a worse prognosis even if treated with chemotherapy .
+
 3.3 .
 ECM 3 in HER 2 - Positive BC Treated with Trastuzumab
 To understand whether ECM 3 cases could benefit from trastuzumab treatment , we analyzed the ECM signature in a cohort of patients treated in our institute with adjuvant trastuzumab - based therapy .
@@ -141,6 +152,7 @@ Non - ECM 3 cases respond well both to chemotherapy ( 42 % of pCR ) and trastuzu
 To more deeply investigate the association between ECM 3 and immune signatures in relation to pCR , we calculated the value of the immune metagenes described to be associated with pCR in this dataset [28] .
 Hemopoietic cell kinase ( HCK ) metagene and MHC - II metagene , surrogate markers of cells belonging to the monocyte / myeloid lineage and of antigen - presenting cells , respectively , were found to be significantly higher expressed in ECM 3 tumors ( p < 0.001 ) , but not associated with response either in cases of the chemotherapy arm or in those receiving trastuzumab ( Figure S2 ) .
 On the contrary , lymphocyte specific kinase ( LCK ) and STAT 1 metagenes were found significantly more expressed in ECM 3 tumors of patients who achieved pCR vs . residual disease ( RD ) only if treated with trastuzumab ( Figure S2 ) , suggesting a possible combination of these markers to improve prediction of trastuzumab benefit .
+
 3.4 .
 Extracellular Matrix and Response to Trastuzumab in a Xenograft Model
 To test whether the presence of high amounts of extracellular matrix overexpressed in ECM 3 tumors could impact trastuzumab diffusion and antitumor activity , the HER 2 - amplified carcinoma cell line SKOV 3 was injected in nude mice with or without Matrigel and then treated with trastuzumab ( Figure 4a ) .
@@ -151,6 +163,7 @@ By using labelled I - trastuzumab , we investigated if the presence of Matrigel 
 As shown in Figure 4c , a major amount of trastuzumab was quantified in tumors grown in the presence of Matrigel .
 Moreover , confocal microscopy analysis confirmed higher uptake of trastuzumab in Matrigel - mixed tumors than in tumors derived without Matrigel ( Figure 4d , e ) , supporting the notion that increased drug delivery and efficacy is associated with collagen accumulation .
 These data suggested a clear influence of the cross - talk between tumor and ECM on trastuzumab efficacy .
+
 4 .
 Discussion
 ECM 3 is one group of BCs previously identified according to the expression of ECM genes [3] , that is characterized by overexpression of a peculiar pattern of genes mainly encoding structural ECM molecules [4] .
@@ -186,5 +199,6 @@ Thus , it is likely that a reduction in proliferation rate occurs mainly at the 
 The small number of patients and the heterogeneous group of tumors constitute the major limitation of the study .
 Further analysis of the predictive value of ECM 3 is warranted .
 Moreover , from a clinical point of view , understanding whether the addition of ECM 3 to the immune signatures increases the selection of patients who benefit from trastuzumab could represent an important issue for patient selection in the clinical practice .
+
 Frequency of clinico - pathological characteristics of patients according to the extracellular matrix gene expression pattern ( ECM 3 ) .
 Multivariate proportional hazard analyses of DFS .

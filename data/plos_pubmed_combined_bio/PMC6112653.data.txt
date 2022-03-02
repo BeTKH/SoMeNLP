@@ -27,6 +27,7 @@ About 40 % of participants in both countries acquired their PhD in natural scien
 There was no statistically meaningful difference between the two countries regarding academic fields , χ 2 ( 3 ) = 1.97 , p = .579 , Cramer ’ s V = .07 .
 A detailed description of the sample is shown in S1 Table .
 The data can be retrieved from https://osf.io/qk3em/ .
+
 The Ethics Commission of the Faculty of Behavioural and Cultural Studies at Heidelberg University considers studies conducted by students as part of their degree program as exempt from ethical approval and expects the supervisors ( in this case : Monika Sieverding , the first author ) of the students to control that the ethical guidelines are fulfilled .
 Therefore , in their guidelines it is stated that students ’ studies are only reviewed in in well - reasoned exemptions .
 The guidelines can be retrieved here ( unfortunately only in German ) : http://www.verkult.uni-heidelberg.de/Formulare/Ethikkommission-Fakultaet-VerKult-HD_Informationen-zum-Verfahrensablauf.pdf ) .
@@ -44,6 +45,7 @@ Informed consent was given by all participants .
 All data was treated anonymously .
 As the data were collected via Soscisurvey , there was no option to track individuals or see who they were .
 The IP addresses were not recorded .
+
 When clicking on the provided personalized link , informed consent was obtained .
 It was also possible to stop the survey at any given point and continue with the survey at a later point .
 A point of contact was also provided in case participants had questions .
@@ -69,6 +71,7 @@ Years since PhD was calculated from answers given to the question “ When did y
 Duration of PhD was assessed with the question “ In total , how long did it take you to finish your PhD ( in years ) ? ” and here it was possible to answer in decimals .
 Parenthood was assessed with the question “ Do you have children ? ” ( yes ; coded as 1 / no ; coded as 0 ) .
 Participants ’ country was coded as 0 ( Germany ) or 1 ( USA ) , respectively .
+
 We also examined whether the effects remained unchanged even after controlling for further variables .
 We note that in contrast to the covariates specified in the previous section , these variables were not chosen as independent variables in an a - priori fashion .
 Results involving these variables should therefore be interpreted as exploratory .
@@ -77,6 +80,7 @@ Perceived career attractiveness was measured using one item ( “ How attractive
 Distribution of work time was assessed as the percentage of work time devoted to research , teaching , and administration , respectively ( with the constraint that percentages needed to amount to 100 % ) .
 Further , we assessed whether the participants ’ current position was permanent ( coded as 1 ) or not ( coded as 0 ) .
 Results involving these variables will be presented at the end of the Results section .
+
 Descriptive statistics for the sample data are presented in the Supplementary S1 and S2 Tables .
 Three hundred and forty - seven participants ( 87 % of the sample ) had complete data on all study variables .
 Missing values were replaced using multiple imputation implemented via the mice package [36] in R .

@@ -26,6 +26,7 @@ As an assessment of confidence of that classification , we estimate the standard
 Furthermore , the user is provided with a graphical output ( see Fig 5 ) showing the average P0 for each pair , their 95 % confidence interval , and the cutoffs for classification together with their 95 % confidence interval .
 Relationship Estimation from Ancient DNA ( READ ) was implemented in Python 2.7 [73] and GNU R [74] .
 The input format is TPED / TFAM [8] and READ is publicly available from https://bitbucket.org/tguenther/read and as S1 File .
+
 Modern data with reported degrees of relationships : Autosomal Illumina Omni 2.5M chip genotype calls from 1,326 individuals from 15 different populations were obtained from the 1000 genomes project ( ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/supporting/hd_genotype_chip/ ) [48] .
 We used vcftools version 0.1.11 [75] to extract autosomal biallelic SNPs with a minor allele frequency of at least 10 % ( 1,156,468 SNPs in total - similar to the aDNA data set used for the empirical data analysis [35] ; see below ) and to convert the data to TPED / TFAM files .
 The data set contains pairs of individuals that were reported as related , 851 of them as first degree relationships and 74 as second degree .
@@ -40,6 +41,7 @@ To evaluate READ ’ s performance , we calculate false positive and false negat
 Unrelated individuals classified as related were considered as false positives , related individuals classified as unrelated or as related but not at the proper degree were considered false negatives .
 READ ’ s performance was similar for both normalization approaches ( median and cross - validation ) , so we present the results of using the median in the main text and the cross - validation approach results in Supplementary figures ( S1 and S2 Figs ) .
 The cross validation approach would require large sample sizes per population which are not reached in most ancient DNA studies ( see the empirical data set below for an example ) .
+
 In addition to the modern data , published ancient data was obtained from the study of Mathieson et al . ( 2015 ) [35] .
 The data set consisted of 230 ancient Europeans from a number of publications [ 28 , 30 - 33 , 76 ] as well as new individuals from various time periods during the last 8,500 years .
 The data set consisted of haploid data for up to 1,209,114 SNPs per individual .

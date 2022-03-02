@@ -14,6 +14,7 @@ In this version the display was not changeable to the left side .
 “ Fig 1 ” Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0157564.g001 Visual guided system .
 In the voice - guided condition , the operators used a wireless , wearable computer with a headset on both ears “ Fig 2 ” and were instructed via the headset .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0157564.g002 Voice guided system .
 Subjective dry eye and asthenopic symptoms as well as objective ocular surface and tear function parameters of the participants were measured in a baseline examination and at the end of the commissioning sessions on each of the two days .

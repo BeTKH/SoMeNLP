@@ -1,5 +1,6 @@
 Purpose
 To investigate the effects of laser photocoagulation ( LP ) - induced ocular hypertension ( OHT ) on the survival and retrograde axonal transport of retinal ganglion cells ( RGC ) , as well as on the function of retinal layers .
+
 Methods
 Adult albino Swiss mice ( 35 - 45 g ) received laser photocoagulation of limbal and episcleral veins in the left eye .
 Mice were sacrificed at 8 , 17 , 35 , and 63 days .
@@ -9,6 +10,7 @@ RGCs were labeled with 10 % hydroxystilbamidine methanesulfonate ( OHSt ) applie
 Retinas were immunostained for RT 97 or Brn 3a .
 Retinas were prepared as whole - mounts and photographed under a fluorescence microscope .
 Labeled RGCs were counted using image analysis software , and an isodensity contour plot was generated for each retina .
+
 Results
 IOP increased to twice its basal values by 24 h and was maintained until day 5 , after which IOP gradually declined to reach basal values by 1 wk .
 Similar IOP increases were observed in all groups .
@@ -18,10 +20,12 @@ OHT retinas showed an absence of OHSt and DTMR RGCs in both focal wedge - shaped
 By 1 wk , there was a discrepancy between the total number of surviving OHSt RGCs and Brn 3a RGCs , suggesting that a large proportion of RGCs had impaired retrograde axonal transport .
 In the retinal areas lacking backlabeled RGCs , neurofibrillar staining revealed aberrant expression of RT 97 within axons and RGC bodies characteristic of axotomy .
 Elevated IOP induced significant reductions in the registered ERG waves , including positive STR , a - and b - waves , that were observed by 24 h and remained throughout the period of study for the three groups analyzed .
+
 Conclusions
 LP of the perilimbal and episcleral veins resulted in OHT leading to a lack of retrograde axonal transport in approximately 75 % of the original RGC population .
 This lack did not progress further between 8 and 63 days , and it was both focal ( in sectors with the apex located in the optic disc ) and diffuse within the retina .
 In addition , severe amplitude diminutions of the STR and a - and b - waves of the ERG appeared as early as 24 h after lasering and did not recover throughout the period of study , indicating that increased IOP results in severe damage to the innermost , inner nuclear , and outer nuclear layers of the retina .
+
 Introduction
 The mammalian retina is a layered structure [1] that processes and sends to the brain the information obtained from light stimulation in the visual field .
 This is done with increasing complexity in each of the three main neuronal layers : the outer nuclear layer , where the cell bodies of the rod and cone photoreceptors lie ; the intermediate or inner nuclear layer , where the cell bodies of the bipolar , horizontal , interplexiform , and amacrine interneurons reside ; and the innermost retinal layer , also known as the retinal ganglion cell layer , where displaced amacrine interneurons and retinal ganglion cells ( RGCs ) , the sole output neurons of the retina , reside [2] .
@@ -46,6 +50,7 @@ Our studies show , for the first time in adult albino Swiss mice , that lasering
 Moreover , we show permanent significant diminution of the scotopic threshold response that is associated with the loss of the great majority of RGCs following elevated IOP ; this indicates the value of noninvasive functional ERG measurements to document RGC loss in adult rodents .
 Finally , we show permanent significant diminution of the major components of the ERG , the a - wave , and the b - wave , all of which imply severe alterations of the inner and outer nuclear layers of the retina .
 Short accounts of this work have been published in abstract form [62,63] .
+
 Methods
 Animals and anesthetics
 Experiments were performed on adult male albino Swiss mice ( 35 - 45 g ) , obtained from the breeding colony of the University of Murcia ( Murcia , Spain ) .
@@ -57,11 +62,13 @@ All surgical manipulations were performed under general anesthesia induced with 
 During recovery from anesthesia , rats were placed in their cages , and an ointment containing tobramycin ( Tobrex ™ ; Alcon Cusi S.A . , Barcelona , Spain ) was applied on the cornea to prevent corneal desiccation .
 Additional measures were taken to minimize discomfort and pain after surgery .
 Animals were sacrificed with an intraperitoneal injection of an overdose of pentobarbital ( Dolethal Vetoquinol ™ , Especialidades Veterinarias , S.A . , Alcobendas , Madrid , Spain ) .
+
 Induction of ocular hypertension
 To induce ocular hypertension , the left eyes of anesthetized mice were treated during a single session with a series of diode laser ( 532 nm , Quantel Medical , Clermont - Ferrand , France ) burns .
 The laser beam was delivered directly , without any lenses , aimed at the limbal and episcleral veins .
 The spot size , duration , and power were 50 - 100 μ m , 0.5 s , and 0.3 W , respectively .
 Four groups of 12 ( group I ) , 13 ( group II ) , 21 ( group III ) , and 13 ( group IV ) mice were prepared , each receiving approximately 72 spots in a single session .
+
 Measurement of intraocular pressure , experimental groups , and survival intervals
 To assess IOP in the treated mice , we obtained accurate and reliable readings using the rebound tonometer ( Tono - Lab ™ ; Tiolat , OY , Helsinki , Finland ) [64,65] .
 Both eyes of each animal were measured under anesthesia before laser treatment and 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 14 , 21 , 28 , 42 , or 56 days after treatment .
@@ -69,6 +76,7 @@ At each time point , 36 consecutive readings were performed for each eye , and t
 To avoid fluctuations due to the circadian rhythm of the mice [33] or to the elevated IOP itself [66] , we tested IOP always around the same time , preferentially in the morning and immediately after deep anesthesia .
 Moroever , because general anesthesia lowers IOP in rats , we measured both the IOP - treated eye and the contralateral intact fellow eye in all cases .
 Mice were divided into four groups that were sacrificed and analyzed 8 ( group I , n = 12 ) ; 17 ( group II , n = 13 ) , 35 ( group III , n = 21 ) , or 63 ( group IV , n = 13 ) days after lasering .
+
 Electroretinography recordings
 One of the purposes of this study was to evaluate the effects of OHT on the function of the retina .
 To this end , we analyzed animals from groups II - IV that were sacrificed at 17 , 35 , and 63 days , respectively .
@@ -97,21 +105,25 @@ Descriptive statistics were calculated and t - test was used in all studied grou
 We performed the same tests before surgery to demonstrate similar functionality in both eyes before the lesions .
 One - way ANOVA was applied for the comparison between different animal groups , as an attempt to estimate a possible interrelation between the progressions of response along studied times .
 The statistic significance was placed in a p < 0.05 for all tests and the statistic was always of two tails .
+
 Retrograde labeling of retinal ganglion cells with hydroxystilbamidine methanesulfonate
 To identify RGCs that retain their axoplasmic transport after lasering , hydroxystilbamidine methanesulfonate ( OHSt ) ( Molecular Probes , Leiden , The Netherlands ) , a small molecule ( 472.53 kDa Mw ) with similar fluorescent and tracer properties to Fluorogold ™ [67] , was applied to both superior colliculi ( SCi ) one week before animal sacrifice following previously described methods that are standard in our laboratory [51,68] .
 In brief , after exposing the midbrain , a small pledget of gelatin sponge ( Espongostan Film , Ferrosan A / S , Denmark ) soaked in saline containing 10 % OHSt in 0.9 % NaCl and 10 % dimethyl sulphoxide ( DMSO ) was applied over the entire surface of both SCi [68-71] .
 Previous studies in control mice indicate that OHSt application to both SCi , which are the main retinorecipient target regions in the brain , results in the labeling of 48,733 RGCs one week later ; these represent 98.5 % of the RGC population in albino Swiss mice [69] .
+
 Retrograde labeling of retinal ganglion cells with dextran tetramethylrhodamine
 To identify RGCs surviving retinal lasering with a competent axon at the level of the optic nerve ( ON ) head , the fluorescence tracer dextran tetramethylrhodamine ( DTMR ; 3,000 MW ; Molecular Probes , Inc . Eugene , OR ) was applied to the ocular stump of the intraorbitally transected left optic nerve 5 days after OHSt application and 2 days before sacrifice in groups II , III , and IV , following already described methods that are standard in our Laboratory [26,43,69,72-74] .
 In brief , small crystals of DMTR were applied to the ocular stump of the left ON , which had been intraorbitally sectioned approximately 0.5 mm from the eye .
 Care was taken not to damage the retinal vessels that run in the inferior aspect of the dural sheaths [75,76] .
 DTMR diffuses through the axon toward the cell soma at a rate of 2 mm / h without requiring active transport [77] producing an intense labeling [28,69] .
 In these animals , DTMR would label the surviving retinofugal RGC population with a competent axon at the level of the ON head , whereas OHSt would identify RGCs that retain their capability to transport the compound from the SCi back to their cell somas in the retina .
+
 Animal processing
 Mice were deeply anesthetized and perfused transcardially through the ascending aorta with saline and 4 % paraformaldehyde in 0.1 M phosphate buffer ( PB ; 1 : 1.087 sodium phosphate monobasic and sodium phosphate dibasic at pH 7.2 - 7.4 ) .
 The orientation of each eye was carefully maintained with a suture placed on the superior pole immediately after deep anesthesia and before perfusion fixation .
 Moreover , upon dissection of the eye , the insertion of the rectus muscle and the nasal caruncle were used as additional landmarks .
 Both retinas were dissected and prepared as flattened whole - mounts by making four radial cuts ( the deepest in the superior pole ) ; post - fixed for an additional hour ; rinsed in 0.1 M PB ; mounted vitreal side up on subbed slides ; and covered with antifading mounting media containing 50 % glycerol and 0.04 % p - phenylenediamine in 0.1 M sodium carbonate buffer ( pH 9 ) .
+
 Immunocytochemical studies
 Twelve animals from group I and nine animals from group III ( sacrificed 8 and 35 days after lasering , respectively ) were further processed for Brn 3a immunocytochemistry in whole - mounts following previously described methods [51] .
 Brn 3a is part of the Brn 3 family of POU - domain transcription factors , recently shown to be a reliable marker to quantify naive and axotomized RGCs in adult albino rats [51] .
@@ -130,6 +142,7 @@ In brief , whole - mount dissected retinas were incubated 1 h at RT in blocking 
 The following day , retinas were washed in PBS ( 3 × 15 min at RT ) , and secondary detection was performed by 2 h incubation at RT with goat antimouse FITC antibody ( F - 4018 ; Sigma - Aldrich , St . Louis , MO ) diluted 1 : 50 in blocking buffer .
 After that , retinas were washed in PBS , mounted vitreal side up on gelatin - coated slides , with antifading mounting media containing 50 % glycerol and 0 , 04 % p - phenylenediamine in 0.1 M sodium carbonate buffer ( pH 9 ) .
 We performed several negative controls for immunohistochemistry by incubating the retinas without the primary antibodies , and we did not obtain specific signals .
+
 Retinal analysis
 Retinas were examined and photographed under a fluorescence microscope ( Axioscop 2 Plus ; Zeiss Mikroskopie , Jena , Germany ) equipped with an ultraviolet ( BP 365 / 12 , LP 397 ) filter that allows the observation of the white - gold OHSt fluorescence , a rhodamine ( BP 546 / 12 , LP 590 ) filter that allows the observation of the orange - red DTMR fluorescence of the Alexa Fluor - 568 donkey antigoat IgG ( HL ) antibody , and a fluorescein ( BP 450 / 490 , LP 515 - 565 ) filter that allows the observation of the fluorescein conjugated antibodies .
 The microscope was also equipped with a digital high - resolution camera ( ProgResTM C10 ; Jenoptik , Jena , Germany ) and a computer - driven motorized stage ( ProScanTM ™ H128 Series ; Prior Scientific Instruments , Cambridge , UK ) , connected to an image analysis computer program ( Image - Pro Plus 5.1 for Windows ( IPP ) ; Media Cybernetics , Silver Spring , MD ) with a microscope controller module ( Scope - Pro 5.0 for Windows ; Media Cybernetics , Silver Spring , MD ) .
@@ -140,6 +153,7 @@ A scan area was defined to cover the whole retina , consisting of a matrix of m 
 Usually , 140 images , each measuring 0.2161 mm at a resolution of 300 dots per inch , were taken for each mouse retina .
 The images of each retina were saved in a folder as a set of 24 - bit color image pictures , and these images were later combined automatically into a single tiled high - resolution composite image of the whole retina using IPP .
 Reconstructed images were further processed using image - editing software ( Adobe ™ Photoshop ™ CS ver. 8.0.1 ; Adobe Systems Inc . , San Jose , CA ) when needed to produce printouts .
+
 Retinal ganglion cell counts and isodensity maps
 All images taken from the retinas were processed by specific macros written in IPP that apply a sequence of filters and transformations to each image of the stack in turn before finally counting the resulting cells and transferring the data to a spreadsheet for analysis .
 These subroutines were recently described in detail [68,69] .
@@ -154,10 +168,12 @@ This survival interval was chosen because it has been shown in rats that the lar
 Digitized retinal whole - mount reconstructions were examined frame by frame at high magnification , and every RT 97 RGC was marked with a colored dot to identify either faint or strong RT 97 immunoreactivity with the aid of Photoshop ™ software .
 A subroutine developed with the IPP image analysis program counted the number of dots ( RT 97 RGCs ) and their topological distribution within each analyzed retina [26,74] .
 The retinal distribution of RT 97 RGCs and OHSt RGCS within the same retina was examined by comparing their respective topological maps .
+
 Statistical analysis
 In quantitative morphological studies , data are presented as mean ± standard deviation ( SD ) while in quantitative electrophysiological studies , data are represented as mean ± standard error of the mean ( SEM ) .
 Statistical analysis of the differences between groups of retinas or groups of animals was conducted with non - parametric ANOVA tests using Satistix ™ V 1.0 for Windows ™ 95 ( Analytical Software , Tallahassee , FL ) software ; the Kruskal - Wallis test was used to compare more than two groups , and the Mann - Whitney test was used when comparing two groups only .
 Differences were considered significant when p < 0.05 .
+
 Results
 Laser - induced intraocular pressure values
 There was some variability among maximum IOP values in the lasered eyes within individuals and within groups processed at different survival intervals , but the results were generally consistent .
@@ -165,6 +181,7 @@ Individual IOP measurements in the groups sacrificed at 8 , 17 , 35 , and 63 day
 Overall , our data show a similar time course elevation of the IOP for all groups of mice .
 The statistical analysis showed that within animal groups , IOP values were comparable in the lasered eyes at 24 h ( Kruskal - Wallis test , p = 0.0891 ) and 48 h ( Kruskal - Wallis test , p = 0.9024 ) after lasering .
 In general , an important increase of the IOP was already evident and peaked at 24 h after lasering ( Kruskal - Wallis test , p < 0.0001 ) ; this was maintained for four days and returned gradually after the fifth day to the basal value , so that by one week after lasering , the IOP values in animals of different groups were comparable for both eyes ( Kruskal - Wallis test , p = 0.8191 ; Figure 1 ) .
+
 Electroretinography responses
 ERGs in control albino mice
 To study the effect of IOP elevation on the ERG waves in albino mice , simultaneous ERG recordings were performed on the right and left eyes of each animal before surgery .
@@ -175,6 +192,7 @@ The STR amplitude increased exponentially with the intensity of the light stimul
 No ERG a - wave was observed for light intensities below − 2.80 log cd · s · m .
 The b - wave elicited by light intensities beginning at − 3.96 cd · s · m also increased exponentially , reaching its maximum for 2.03 cd · s · m .
 The photopic ERG response was elicited by a light intensity of 2.03 log cd · s · m after 5 min of light adaptation ( Figure 2 ) .
+
 Electroretinography in experimental albino mice after elevated intraocular pressure
 ERG recordings were performed simultaneously for right untreated and left lasered eyes in albino Swiss mice at increasing survival intervals after lasering .
 Recordings from representative mice in groups III ( sacrificed at 35 days ) and IV ( sacrificed at 63 days ) are shown in Figure 2 and Figure 3 , respectively .
@@ -182,17 +200,21 @@ In addition , data are shown as percentages ( mean ± SEM ) of reduction in wave
 These figures illustrate that reductions in pSTR after lasering are maintained over time .
 Moreover , the changes observed in the a - and b - wave amplitudes of the scotopic and mixed ERG were obvious at short intervals ( 7 days and 4 weeks ) and were maintained for long periods after lasering ( 8 weeks ) .
 A reduction in the b - wave amplitude of the photopic response was also observed after eye lasering ( see photopic response in Figure 2 ) .
+
 Group II
 Mice from this group ( n = 13 ) showed pSTR reductions of approximately 87 % and 83 % , respectively , 1 and 7 days after lasering when compared to their baseline ( preoperative values ; t - test , p < 0.001 ) .
 Scotopic and mixed ERG recorded in these mice 1 and 7 days after lasering showed reduced a - wave amplitudes of 68 % and 67 % and reduced b - wave amplitudes of 72 % and 71 % , respectively ( t - test , p < 0.001 ; Figure 4A ) .
+
 Group III
 ERG traces from this group ( n = 18 ) were recorded before laser treatment and 1 , 7 , 14 , and 28 days after treatment .
 When compared to their baseline ( preoperative values ) , there were significant ( t - test , p < 0.001 ) reductions in pSTR of approximately 94 % , 83 % , 85 % , and 60 % , respectively , when analyzed at 1 , 8 , 14 , and 28 days .
 Similarly , significant reductions were seen in the a - and b - wave amplitudes over the same period : a - waves were 72 % , 69 % , 58 % , and 45 % of their baseline at 1 , 8 , 14 , and 28 days , and b - waves were 72 % 66 % , 66 % , and 55 % of their baseline at 1 , 8 , 14 , and 28 days , respectively ( t - test , p < 0.001 ) ( Figure 2 , Figure 4B ) .
+
 Group IV
 ERG traces from a representative mouse in group IV ( n = 13 ) , recorded before laser treatment and 1 , 7 , 14 , 28 , 42 , and 56 days after treatment , are shown in Figure 3 .
 When laser - treated eyes are compared to contralateral untreated fellow eyes , mice in this group showed significant ( t - test , p < 0.001 ) reductions in pSTR of approximately 81 % , 90 % , 72 % , 56 % , 77 % , and 74 % , respectively , at 1 , 7 , 14 , 28 , 42 , and 56 days .
 Similarly , there were significant reductions in the a - and b - wave amplitudes : Compared with the values recorded in their fellow eyes ( t - test , p < 0.001 ; Figure 4C ) the a - wave amplitudes of the treated eyes were observed at 64 % , 70 % , 58 % , 38 % , 44 % , and 54 % at 1 , 8 , 14 , 28 , 42 , and 56 days , respectively , while b - wave amplitudes were 54 % , 64 % , 60 % , 47 % , 49 % , and 59 % , respectively , for the same intervals .
+
 Time course of ocular hypertension - induced loss of retrograde - labeled retinal ganglion cells
 To determine the effects of elevated IOP on the retrograde axonal transport of OHSt , groups of mice were analyzed at increasing survival intervals of 8 , 17 , 35 , and 63 days after lasering .
 Some variability was observed among animals belonging to the same group , in that individual retinas exhibited variable numbers of OHSt - labeled RGCs ( Figure 5 ) and differed in corresponding areas of the retina without labeled RGCs ( Figures 6 and Figure 7 ) .
@@ -203,6 +225,7 @@ For group I , the treated eyes had approximately 28 % of the OHSt - labeled RGCs
 The mean number of OHSt - labeled RGCs in the left ( experimental ) retinas of the groups sacrificed 8 , 17 , 35 , and 63 days after lasering were 13,428 ± 6,295 ( n = 12 ) , 10,456 ± 14,301 ( n = 13 ) , 12,622 ± 14,174 ( n = 21 ) , and 10,451 ± 13,949 ( n = 13 ) , respectively , while the right ( untreated ) retinas presented mean total numbers of 47,223 ± 2,936 ( n = 12 ) , 46,321 ± 4,492 ( n = 13 ) , 49,101 ± 3,489 ( n = 21 ) and 47,748 ± 2,829 ( n = 13 ) , respectively ( Figure 5 ) .
 The mean total numbers of OHSt - labeled RGCs in the contralateral retinas from the four groups were comparable ( Kruskal - Wallis test , p = 0.1391 ) .
 Similarly , the mean total numbers of OHSt - labeled RGCs in the lasered retinas from the four groups were also comparable ( Kruskal - Wallis test , p = 0.2991 ) , indicating that in this experimental paradigm , the lack of OHSt - labeled RGCs is present by 8 days after lasering and does not progress beyond that point ( Figure 5 ) .
+
 Retinal distribution of retrograde - labeled retinal ganglion cells
 Microscopic examination of the control fellow retinas showed the typical distribution of RGCs throughout the retina ( Figure 7A - C ) , while the lasered retinas revealed large areas devoid of OHSt - labeled RGCs ( Figure 6A - L and Figure 7D - L ) .
 This absence was seen in approximately 91 % of the experimental retinas , in the form of a wedge - shaped space with an apical vertex toward the optic disc .
@@ -212,11 +235,13 @@ Representative examples that illustrate typical areas lacking OHSt - labeled RGC
 When analyzed 8 ( Figure 6A - C ) , 17 ( Figure 6D - F and Figure 7D - F ) , 35 ( Figure 6G - I and Figure 7G - I ) , and 63 ( Figure 6J - L and Figure 7J - L ) days after lasering , approximately 100 % , 92 % , 86 % , and 92 % of the retinas , respectively , showed areas lacking RGCs labeled with OHSt .
 These contour plot isodensity maps revealed that in addition to the retinal sectors that lacked backlabeled RGCs , there was also a diffuse absence of OHSt - labeled RGCs even within retinal areas where some labeled RGCs appeared ( Figure 6 and Figure 7 ) .
 Thus , the lack of OHSt - labeled RGCs within the OHT retinas was both focal and diffuse .
+
 Double labeling of retinal ganglion cells
 Animals from all groups were backlabeled with OHSt applied to both SCi one week before sacrifice .
 In addition , in groups II ( n = 13 ) , III ( n = 12 ) , and IV ( n = 13 ) , DTMR was applied to the ocular stump of the intraorbitally transected left optic nerve 5 days after OHSt application and 2 days before sacrifice .
 OHSt would identify RGCs that retained their retrograde axoplasmic transport capacities , while DTMR would identify RGCs with a competent axon at the level of the ON head .
 In general , there was a good correlation between the retinal areas lacking OHSt - labeled RGCs and the areas lacking DTMR - labeled RGCs ( Figure 7A - L ) .
+
 Immunocytofluorescence studies
 Brn 3a immunostaining of the retina
 To determine whether the absence of backlabeled RGCs represented actual RGC death or a functional impairment of axonal transport , retinal whole - mounts of mice analyzed 8 ( n = 12 ) or 35 ( n = 9 ) days after lasering were processed for Brn 3a immunohistochemistry to identify and count surviving RGCs .
@@ -229,6 +254,7 @@ The progressive diminution of the total number of Brn 3a - labeled RGCs in treat
 Total numbers of OHStRGcs or Brn 3aRGCs in control and injured retinas .
 Number ( mean ± SD ) of RGCs immunodetected for Brn 3a or labeled with OHSt applied to both superior colliculi one week before animal sacrifice , in contralateral ( RE ) or injured ( LE ) retinas of mice examined 8 or 35 days after laser photocoagulation of the left eyes .
 * Mann - Whitney test , p = 0.0007 ; * * Mann - Whitney test , p = 0.9397 ; # Mann - Whitney test , p = 0.004 ; † Kruskal - Wallis test , p = 0.0796 .
+
 RT 97 immunostaining of the retina
 Dissected retinas were stained with RT 97 , an antibody that recognizes phosphorylated neurofilament heavy chain ( pNFH ) and whose abnormal expression is an index of axonal injury [71,81-88] .
 This antibody has been recently studied after optic nerve axotomy , either by complete intraorbital optic nerve transection or crush [74] or after ocular hypertension in adult albino rats [26] .
@@ -250,6 +276,7 @@ In the retinas in which manual counts were performed , a comparison of the topol
 Two representative examples of this spatial analysis are provided in Figure 10 .
 In the wedge - shaped sectors devoid of OHSt RGCs and DTMR RGCs , normal - looking RT 97 stained axonal bundles were observed converging toward the optic disk throughout the retina .
 By 63 days after LP , there was a diminution in the density of RT 97 - labeled axonal bundles in the central and peripheral retina , and RT 97 - stained somas in RGCs were infrequently observed .
+
 Discussion
 The present study provides new information regarding the effects of elevated IOP on adult albino Swiss mice and extends our previous observations of the adult albino rat [26] .
 Lasering of the limbal and perilimbal veins resulted in an abrupt increase of IOP , already measurable at 24 h , that persisted until day 5 , when IOP started to decrease gradually , reaching preoperative baseline values by one week post - treatment .
@@ -271,6 +298,7 @@ While this may be seen as a disadvantage when compared to a more chronic model o
 Similar abrupt elevations of IOP have been observed for pigmented mice , in which the trabecular meshwork and the episcleral veins were photocoagulated with a laser [60] .
 The pigmented mice studied by Grozdanic and colleagues [12] showed persistent IOP increases for over 30 days , while in our study , the IOP elevation was restricted to the first week .
 Nevertheless , our results are somewhat comparable , in that they also show important alterations of the STR , a - waves , and b - waves of the ERG recordings , all of which imply severe retinal damage ( see below ) .
+
 Absence of retrograde - labeled retinal ganglion cells
 Evaluation of RGC survival was based on the use of specific markers and retrograde - transported tracers that allowed specific identification of RGCs over flattened mouse retina whole - mounts , along with the application of recently developed techniques to automatically count labeled RGCs and construct topological isodensity maps of their distribution within the retina .
 Quantitative analysis of the number of RGCs backlabeled with OHSt applied to both SCi showed substantial diminution of OHSt RGCs in lasered retinas when compared with their contralateral fellow retinas .
@@ -283,6 +311,7 @@ We ignore the exact reason for the preferential location of retinal damage in th
 The spatial distribution of OHSt RGCs in the lasered retinas suggests a diffuse lack of backlabeled RGCs in addition to the focal loss of the cells .
 Indeed , the isodensity maps constructed on the basis of the OHSt RGCs provided a vivid demonstration of the presence of retinal areas with lower than normal RGC densities ( Figure 6 , Figure 7 , and Figure 8 ) .
 A similar pattern of RGC loss has been reported in aged DBA / 2NNia mice [52] as well as in adult OHT rats [26] .
+
 Functional impairment of retrograde axonal transport
 The results for the experimental groups in which OHSt was used as a retrograde tracer to identify RGCs demonstrated large areas of the retina that lacked labeled RGCs .
 While the absence of backlabeled RGCs may reflect degeneration and death of RGCs , it might also be related to a functional impairment of axoplasmic flow , as has been previously shown for other retinal injuries in adult rats , such as transient ischemia [43] or ocular hypertension [26] .
@@ -296,6 +325,7 @@ It is possible that early after lasering , within 8 days of treatment , there is
 This is consistent both with a mechanical obstruction altering passive diffusion and retrograde transport of DTMR and also with retrograde cell loss of unlabeled RGCs .
 Indeed , the observation that the number of Brn 3a RGCs diminishes progressively from the control samples to retinas examined at 8 days and then retinas examined at 35 days provides evidence for the loss and death of RGCs .
 Thus , it seems that OHT induces not only a scarcity of labeled RGCs but also the death of RGCs .
+
 Axotomy - like injury post - ocular hypertension
 The topologic distribution of RGCs in the form of triangular sectors suggests a lesion inflicted at a point where optic axons are topographically grouped together ; this must occur at the level of the optic nerve head , where retinotopic arrangement is highest [91,92] .
 These wedge - shaped patterns of retinal damage are reminiscent of those observed in other types of inherited or acquired retinal degeneration , in which blood vessels ligate bundles of axons , thus producing an intense constriction that leads to axonal transport interruption , loss of retrograde tracing , and loss of RGCs [71,83-86] .
@@ -308,6 +338,7 @@ The degenerative events in the ganglion cell layer following optic nerve injury 
 There was no indication of further diminution in the numbers of OHSt RGCs between 8 and 63 days after lasering .
 By 63 days , the retinas showed total numbers of OHSt RGCs that were not significantly different from those observed in the similar groups of animals processed at 8 , 17 , and 35 days after lasering , implying that perhaps the numbers of backlabeled RGCs do not decrease further with increasing survival intervals .
 Progressive loss of RGCs was observed when these neurons were identified with Brn 3a immunofluorescence , which agrees with previous studies of RGC loss induced by an axotomy - like insult , such as ON transection [93] , ON crush [74,94] , or axon bundle ligation [71,83-86] .
+
 Functional impairment of the retina ( electroretinography )
 Our previous studies on OHT - induced retinal degeneration in adult rats [26] , together with the present studies , indicate that shortly after IOP elevation , severe pathology develops in the retina , affecting the RGC population .
 However , little is known about changes in retinal function in an OHT model induced by LP of episcleral and limbal veins in adult albino Swiss mice ; thus , ERG were recorded in this study to examine functionally the progression of retinal damage in living animals induced by OHT over time in this experimental paradigm .
@@ -326,6 +357,7 @@ Thus , taken together our present data shows that elevation of IOP in albino mic
 A similar effect has been observed in rat and monkey models of glaucoma [14,98] .
 To our knowledge , we report for the first time significant decreases in STR , a - wave , and b - wave ERG scotopic responses in adult albino Swiss mice with elevated IOP .
 Correspondence in physiologic measurements in this mouse OHT model indicates the value of noninvasive ERG measurements to document retinal pathophysiology in rodent glaucoma models .
+
 Concluding remarks
 Our data indicate that OHT in adult albino Swiss mice induces several severe degenerative events in the retina .
 The first event observed in our experiments is the loss of the capacity for active retrograde axonal transport from target territories in the brain back to cell soma in the retina .

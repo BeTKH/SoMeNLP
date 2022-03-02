@@ -5,12 +5,15 @@ Reports corresponding to the 1 January , 2012 - 31 April , 2012 period were sele
 All 15 police stations of the city of Bamako were provided with a carbon - copy registry in order to collect a copy of all recorded crash reports during the study period .
 Reports were then coded using a standardized form with variables related to the crash circumstances , to all vehicles and to all individuals involved in a crash in which at least one person was injured , irrespective of the injury severity .
 All potentially identifying data were collected for matching purposes .
+
 For every crash victim attending one of the selected health facilities , specific data were coded using a standardized form with variables related to the crash circumstances , vehicle , and injury location and severity .
 All potentially identifying data were collected for matching purposes .
+
 The matching procedure was designed to find records from both data sources corresponding to the same individual and to the same crash event .
 The procedure consisted of two steps .
 In a first step an automatic probabilistic linkage was computed attributing scores corresponding to the following weighted variables : crash date , crash time , age , sex , last name , first name , place of discharge , crash district , type of road user .
 All records that the automatic procedure deemed unmatched were tentatively matched manually .
+
 The number of victims and the number of fatalities were estimated by the capture - recapture method using the Chapman estimator [11] as it is less affected by low sample size .
 The estimates are given by : formtok N1 and N2 are the number of victims ( or fatalities ) registered in each respective source n is the number of victims ( or fatalities ) identified in both sources using the matching procedure .
 The variance of these estimates used to provide 95 % confidence intervals is given by : formtok A stratified capture - recapture analysis was performed to assess the impact of potential differential reporting probabilities according to injury severity , gender , age , vehicle involved , type of road user ( driver , passenger or pedestrian ) , place of discharge .

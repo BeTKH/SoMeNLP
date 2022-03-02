@@ -25,6 +25,7 @@ Labeled LDA ( LLDA ) [15] allows for multiple labels of documents and for the re
 Partially labeled LDA ( PLLDA ) [16] further extends LLDA to have latent topics missing from the given document labels .
 LDA has been widely used to process otherwise unmanageably large volumes of text , identify the most salient topic in a single document , investigate similarities between documents , and uncover topic prevalence over time [11,13,17] .
 We summarize some recent applications of LDA in scientific topic discovery in Table 1 .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0199510.t001 A non - exhaustive list of LDA applications in scientific topic discovery .
 We extracted article abstracts from the core collection of the Web of Science ( WoS ) database using the following criteria : articles published in English , whose topic terms ( i.e. titles , abstracts and keywords ) included “ social stratification ( s ) ” , “ social class ( es ) ” or “ social inequality ( ies ) ” in SSCI indexed journals over the period of 1956 to December 2017 .

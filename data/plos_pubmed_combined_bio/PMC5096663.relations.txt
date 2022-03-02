@@ -8,6 +8,8 @@
 
 
 
+
+
 Version_of	5.58	28	1	GoldWave	9	0;;Developer_of	GoldWave Inc.	35	2	GoldWave	9	0;;URL_of	www.goldwave.com	52	3	GoldWave	9	0;;
 
 
@@ -23,7 +25,10 @@ Version_of	5.58	28	1	GoldWave	9	0;;Developer_of	GoldWave Inc.	35	2	GoldWave	9	0;
 
 
 
+
 Version_of	1.2	54	1	E-Prime	44	0;;Developer_of	Psychology Software Tools, Inc.	60	2	E-Prime	44	0;;
+
+
 
 
 

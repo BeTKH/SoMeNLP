@@ -4,12 +4,14 @@ Our recruitment goal was to have racially homogenous groups with a balance of me
 Eligibility criteria included being an adult aged 18 and older , English - speaking , and a current resident of Lenoir County .
 Participants were recruited by key community members ( e.g. the Health Director ) , or through flyers posted in the community .
 Interested participants were screened by phone to determine eligibility .
+
 Since we were unaware of any previous genomic studies conducted in Lenoir County , we wanted to understand the thoughts , feelings , and concerns both about genomics and heart health from Lenoir residents .
 Co - investigators with experience in the Lenoir community and community member assistants worked together to develop a semi - structured discussion guide to explore the acceptability of genomic research in Lenoir County based on input from discussions with key community residents .
 The community member assistants were either referred by our Community Advisory Council or recruited through a job advertisement in the community .
 The two community member assistants reflected the racial makeup of each FG , either African - American or White .
 The community residents who helped develop the guide included Lenoir County Health and Human Services agency employees .
 Based on community input and existing literature , we constructed our guide with the hypothesis that there would be unfamiliarity and mistrust of genomic research in Lenoir County , and reluctance to participate in a genomics study ; furthermore , the mistrust and reluctance would be higher in African - Americans .
+
 The University of North Carolina Chapel Hill Institutional Review Board reviewed and approved the study protocol ( IRB # 10 - 0395 ) .
 The FGs were conducted in winter 2011 with each session lasting approximately 90 minutes .
 Groups were held in a private location at the community hospital .
@@ -21,6 +23,7 @@ The FG leader then provided an analogy that investigators and community research
 Next , participants were asked to verbally rate on a scale from 1 to 10 , with 10 being “ completely important , ” how important genomics is to their health .
 The discussion then commenced covering the following topics : ( 1 ) community concerns about genomics ; ( 2 ) thoughts and perceptions about genomics and heart health ; and ( 3 ) community concerns about participation in genomic research .
 Participants were each paid $ 25 upon completion of the session .
+
 FGs were digitally recorded and reviewed for quality and completeness .
 Files were transcribed verbatim then verified by listening to the original recordings .
 To analyze our data , we first created a coding scheme using both deductive and inductive methods [20,21] .

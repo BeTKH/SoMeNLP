@@ -2,29 +2,40 @@ Objectives
 Previous studies found that hospital and specialty have limited influence on patient experience scores , and patient level factors are more important .
 This could be due to heterogeneity of experience delivery across subunits within organisations .
 We aimed to determine whether organisation level factors have greater impact if scores for the same subspecialty microsystem are analysed in each hospital .
+
 Setting
 Acute medical admission units in all NHS Acute Trusts in England .
+
 Participants
 We analysed patient experience data from the English Adult Inpatient Survey which is administered to 850 patients annually in each acute NHS Trusts in England .
 We selected all 8753 patients who returned the survey and who were emergency medical admissions and stayed in their admission unit for 1 - 2 nights , so as to isolate the experience delivered during the acute admission process .
+
 Primary and secondary outcome measures
 We used multilevel logistic regression to determine the apportioned influence of host organisation and of organisation level factors ( size and teaching status ) , and patient level factors ( demographics , presence of long - term conditions and disabilities ) .
 We selected ‘ being treated with respect and dignity ’ and ‘ pain control ’ as primary outcome parameters .
 Other Picker Domain question scores were analysed as secondary parameters .
+
 Results
 The proportion of overall variance attributable at organisational level was small ; 0.5 % ( NS ) for respect and dignity , 0.4 % ( NS ) for pain control .
 Long - standing conditions and consequent disabilities were associated with low scores .
 Other item scores also showed that most influence was from patient level factors .
+
 Conclusions
 When a single microsystem , the acute medical admission process , is isolated , variance in experience scores is mainly explainable by patient level factors with limited organisational level influence .
 This has implications for the use of generic patient experience surveys for comparison between Trusts and should prompt further research to explore if more discriminant surveys can be developed .
+
 Strengths and limitations of this study
 This study analysed patient experience data for all acute hospitals in an entire country .
+
 The data included self - reported medical conditions and details of degree of disability that provide comprehensive patient level descriptors .
+
 The data are from a national survey administered with standardised methodology in all hospitals .
+
 It is possible that questions other than those in the Adult Inpatient Survey ( AIPS ) covering different aspects of care might reveal stronger hospital level effects .
 Further research is needed to determine whether more discriminant surveys can be designed around patient subpopulations .
+
 The AIPS questions were validated across the whole inpatient population and may neglect aspects of care that acute medical patients would prioritise .
+
 Introduction
 Patient experience is regarded as a key aspect of quality at macro ( policy ) , meso ( hospital management ) and micro ( clinical staff interacting with patients ) levels [1] .
 Surveys are used in several national programmes to collect data on patient experience and to compare hospitals and healthcare organisations , with the implicit assumption that interorganisational differences in scores reflect meaningful differences in local care delivery [2] .
@@ -42,6 +53,7 @@ The acute medical admission process could be regarded as more homogeneous than a
 We used data from the English national Adult Inpatient Survey ( AIPS ) .
 If the AIPS is able to demonstrate a meaningful degree of variation in experience during the acute admission process attributable to Trust level , it would be attractive for it to be administered in larger numbers in AMUs in a national scheme to drive improvement of the acute admission process through comparison and benchmarking .
 This is an important area for study as acute medical patients represent a substantial proportion of admissions to hospital and report worse experience than other inpatient groups [12] .
+
 Methods
 We used data from the AIPS for years 2008 , 2009 and 2010 for entire English National Health Service , which provides virtually all emergency care for a population of 53 million [13] .
 This period was selected because 2010 was the latest year that included information that can be used to identify acute medical admissions .
@@ -52,13 +64,21 @@ We included all Acute Trusts that receive unselected emergency medical admission
 We included acute patients coded to medicine who were at least 16 years old and had length of stay of one or two nights , did not move from their initial inpatient location and were not admitted to intensive care , high dependency or coronary care units .
 The English Adult Inpatient Survey
 Administered annually since 2002 [22] .
+
 Standardised methodology in all English NHS Acute Provider Trusts .
+
 Questionnaires are posted to the first 850 unselected consecutive inpatients discharged after a predetermined date in each acute provider trust .
+
 Followed by two reminders at 1 - 2 - week intervals .
+
 Results are publicly reported aggregated at whole trust level .
+
 Organisations are identified as within , above or below the statistical normal range .
+
 136 000 patients annually administered AIPS .
+
 Response rate 50.3 % .
+
 We concentrated on patient experience questions , which explore detailed specific events , emotions and impressions that a patient encounters during a healthcare episode , and we did not include satisfaction questions .
 This allowed analysis of the organisational impact on granular , discrete elements of care .
 Patient experience questions are particularly valuable for guiding improvement as the information they return is detailed and specific .
@@ -79,6 +99,7 @@ Hierarchical levels were trust and patient .
 Independent variables were included on the basis of previous studies that had shown significant effects : age , gender , length of stay and long - term conditions [8,21-25] .
 We also included presence and impact of disability which is reported in the AIPS .
 We included size and teaching status , as defined by the English Department of Health , as trust level characteristics [26,27] .
+
 Results
 In the three - year period of study , AIPS questionnaires were administered after discharge to 413 677 unselected hospital inpatients in 167 trusts and 208 280 surveys were returned and useable .
 There were 8753 short stay emergency medical admissions that met our criteria from 142 trusts .
@@ -107,6 +128,7 @@ Missingness analysis
 Several of the inclusion criteria depended on self - reported survey responses ( stay on initial ward , admission to enhanced care area , emergency vs elective admission ) so it is not possible to comment on the number of patients who met the inclusion criteria but did not return a questionnaire .
 Patients who returned forms and did meet inclusion criteria but did not complete the long - term conditions and disability section of the survey were excluded .
 Excluded patients were similar in terms of gender and length of stay , but there was a slight difference in age distribution , with slightly more patients over 66 years not completing the long - term condition and disability section ( table 1 ) .
+
 Discussion
 This is the first study to the best of our knowledge that has used multilevel hierarchical analysis to apportion the variation in patient experience scores between trust and patient levels for single , common , reproducible microsystem in each organisation and that has used data for all providers in an entire country .
 Previous multilevel analyses of inpatient experience scores for a range of items have shown the proportion of variance attributable at organisation level of only 0.8 - 5.3 % and 0.1 - 5.4 % in two studies in the Netherlands , and 2 - 6 % for 83 hospitals in Canada [6,8] .
@@ -143,6 +165,7 @@ Trusts are large organisations with thousands of employees and parallel authorit
 The structure of the oragnisational networks of influence in hospitals has not been mapped , it is not currently known whether the connections between trust strategy and patient facing staff are adequate to transmit consistent influence or even whether these connections exist at all .
 That is not to say that this must remain the case , and trust - wide quality initiatives may generate better networks and enhance links between senior leadership and microsystems .
 It is interesting to speculate that well - conducted improvement projects in a subset of trusts may lead to a situation where surveys are better able to discriminate between organisations because of a widening performance gap .
+
 Conclusion
 The AIPS , a generic patient experience survey developed for the use across the hospital inpatient population , reveals only limited organisational influence on scores when a stereotyped microsystem , the acute medical admission service , is isolated .
 This may be because a generic survey does not include questions that link to the specific needs of patients in a particular microsystem , or questions that are good at discriminating between trusts .

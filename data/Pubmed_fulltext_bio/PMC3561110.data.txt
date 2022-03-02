@@ -4,6 +4,7 @@ In this study the Health , Safety and Environment Excellence Instrument was repr
 In this article the development of the instrument overall structure , its parts , and its test results in three organizations are presented .
 According to the results , the scores ranking was the managership organization , the manufacturing company and the powerhouse construction project , respectively .
 The results of the instrument test in three organizations show that , on the whole , the instrument has the ability to measure the performance of health , safety and environment management systems in a wide range of organizations .
+
 Introduction
 Human resources are the key factor of sustainable development in modern management [1] .
 Different approaches have been considered for achieving industrial world and sustainable development , but regardless of human resources , no one would be successful and even the best designed systems will fall down [2] .
@@ -37,23 +38,27 @@ The study was done in three companies [4] .
 Mohammad Fam et al . , ( 2008 ) introduced an instrument designed to evaluate the effects of Health , Safety , and Environment Management Systems on organizations based on Balanced Score Card ( BSC ) .
 The present article describes an instrument designed to measure HSE - MS performance based on three input models .
 The main objectives of the instrument is : 1 ) making it possible for the organizations to identify their position comparing with other organizations and ranking them independent of their business nature , 2 ) providing a self - assessment tool , and 3 ) not being just an audit tool but also a managerial tool that identifies system problems and can help management to provide corrective actions .
+
 Materials and methods
 Input model selection
 Nine performance measurement models of Analytic Hierarchy Process ( AHP ) , Balanced Score Card ( BSC ) , Goal programming ( GP ) , Data Envelopment Analysis ( DEA ) , Re - Engineering ( REE ) , European Foundation for Quality Management ( EFQM ) , Malcolm Baldrige National Quality Award ( MBNQA ) , International Project Management Award ( IPMA ) , and The Safety Culture Improvement Matrix ( SCIM ) were reviewed in an effort to define the Health , Safety and Environment Excellence Instrument ( HSEEI ) .
 Three of these models were selected as instrument input models .
 These models are : 1 ) EFQM , 2 ) IPMA , and 3 ) SCIM because they are widely applicable , easy to administer and their outcome determinations is easy to interpret .
 The instrument first included 11 parts .
+
 Developing instrument structure
 The instrument in the form of a specific questionnaire was sent for 75 HSE specialists and experts .
 In this questionnaire , experts were asked to : 1 ) evaluate instrument parts in their point of view , 2 ) prioritize them , and 3 ) use paired comparisons method to determine score and the proportional coefficient of each part comparing to other parts .
 The instrument structure and the scores of its parts were determined by reviewing the completed collected questionnaires .
 Sub - parts and guidance points were determined through the experts ' opinions and using EFQM , IPMA , and SCIM models .
 The structures of three input models were reviewed and the HSE experts ’ opinions were taken in order to determine how the instrument can be used to measure the performance of Health , safety and environment management system .
+
 Instrument finalizing
 In order to calibrate the proposed instrument , it was first tested in a small organization and necessary modifications based on test findings were applied .
 Then , the proposed instrument was tested in three different sub sectors of a great industrial company in Iran .
 The goals of the tests were : 1 ) to evaluate the ability of the HSEEI in organizations with different types of business natures , 2 ) to evaluate and further develop of the HSEEI .
 For this purpose , the first organization was a powerhouse construction project , the second one was a manufacturing company and the third was a managership organization .
+
 Results
 The HSEEI was based on the principles of three input models ( EFQM , IPMA and SCIM ) and expert opinions .
 The HSEEI is basedon 9 parts to evaluate organizations and help them in the way to achieve HSE excellence .
@@ -86,6 +91,7 @@ The HSEEI was tested in three different sub sectors of a great industrial compan
 Table [2] illustrates results of the third party audit .
 Number of sub - parts and guidance points in HSEEI
 Results of the third party audit
+
 Discussion
 The most important strengths and weaknesses of the HSEEI revealed by its test in three different types of organizations .
 Contrary to Carder and Ragan ( 1991 - 2001 ) method that can be used only in chemical process industries [12] and Mohammad Fam et al . , ( 2008 ) study that was not tested in any organization .
@@ -115,11 +121,14 @@ Organization should provide effective training for all employees ( including emp
 Organization should assign appropriate resources for utilizing the HSEEI .
 Lack of practical experience of the HSEEI in organizations possibly will cause it to proceed slowly .
 To compare the performance of HSE - MS in different organizations and in order to encourage them to use this instrument , it is suggested to found and develop a HSE excellence award .
+
 Conclusion
 By testing the HSEEI in three organizations with different types of business natures revealed that the instrument was effective in collecting the necessary information and in performance measurement of different management systems with complex natures .
 The HSEEI provides a valid framework for organizations to follow their trend of Health , Safety and environment management system development .
+
 Competing interests
 The authors declare that they have no competing interests .
+
 Authors ’ contributions
 IM and AK were involved in wrote of the first draft of the manuscript and discussion of the results and edited the manuscript .
 GNS was involved in the discussion of the results and read the manuscript .

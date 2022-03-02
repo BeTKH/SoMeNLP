@@ -12,18 +12,21 @@ Follow - up in - person interviews at two - year intervals were conducted by tra
 Between the biennial follow - up visits , passive follow - up is conducted , as participants with health conditions would visit the field clinic which was established exclusively for the cohort participants to receive medical diagnoses and treatments [8] , and the relevant data are collected .
 Informed consent was obtained from study participants and the study procedures were approved by the Ethical Committee of the Bangladesh Medical Research Council and the Institutional Review Boards of Columbia University and the University of Chicago .
 The present study included follow up data from baseline to October 9 , 2011 .
+
 Details of the methods for the assessment of causes of death are described elsewhere [9] , [12] , [13] .
 Briefly , we adapted a validated verbal autopsy procedure , developed by the International Centre for Diarrhea Disease Research , Bangladesh , in collaboration with the WHO , to ascertain the causes of death .
 During the follow - up , upon receipt of a death reported by family or neighbors , a study physician and a trained social worker administered the verbal autopsy form to the next of kin .
 Medical records and death certificates were collected and reviewed monthly by an outcome assessment committee , consisting of physicians and consulting medical specialists .
 Causes of deaths were coded according to the WHO classification [14] and the International Classification of Diseases , 10th Revision ( ICD - 10 ) [15] .
 The International Centre for Diarrhea Disease Research , Bangladesh has used this method to ascertain causes of deaths since 1971 [16] , [17] and documented an overall 95 % specificity , with a 85 % sensitivity for cancer deaths and 85 % sensitivity for deaths due to CVD [18] .
+
 Assessment of Tobacco Smoking Variables : At baseline , detailed information on smoking of tobacco products was collected .
 Details of smoking cigarettes and bidis ( filterless locally produced cigarettes ) were asked together , including information on past or current use , duration of use , age at start , number of sticks per day , and age at quitting .
 A separate set of questions were asked for hookah smoking ( tobacco smoking using waterpipes ) .
 We observed a high correlation between hookah and cigarette / bidi smoking , such that 98 % of the 2,005 ever smokers of hookah were ever smokers of cigarette / bidi .
 Although cigarettes and bidis frequently are sold individually in Bangladesh , we calculated “ pack - years ” ( product of sticks of cigarette / bidi per day and years of smoking , divides by 20 ) for ease in comparison with other studies .
 Similarly , a “ time - years ” index ( product of times per day and years of smoking ) was calculated for hookah smoking .
+
 Person years of follow - up were calculated from baseline to the date of death from any cause ( for those who died ) or to October 9 , 2011 , the date of last death observed in the follow - up at the time of data analyses ( for those who were alive ) .
 Cox proportional hazards models were used to estimate hazard ratios ( HRs ) and their 95 % confidence intervals ( CIs ) for deaths from all - cause , cancer , CVD , ischemic heart disease ( IHD ) , and stroke , in relation to status , duration , and intensity of cigarette / bidi and hookah smoking .
 Survival curves for overall survival were graphed by cigarette / bidi smoking status among men and women .

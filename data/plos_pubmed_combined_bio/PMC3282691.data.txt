@@ -5,6 +5,7 @@ In addition , subjects whose first language was not German were excluded .
 All subjects completed the study and met the criteria .
 The study was approved by the ethics committee of the Faculty of Medicine of the University of Munich ( Ethikkommission der Medizinischen Fakultat der LMU ) .
 Subjects provided written informed consent and were reimbursed for their participation .
+
 Demographic data were collected using a questionnaire asking among other for age , gender , and years of education .
 Schizotypy was assessed using the German version of the schizotypal personality questionnaire ( SPQ ) [12] , [29] .
 The SPQ is a self - report scale based on DSM - III - R criteria for SPD [30] .
@@ -22,6 +23,7 @@ Verbal IQ was estimated using the MWT - B [32] .
 In this test subjects are required to identify a real word among four non - words in each row .
 A correct answer was coded as 1 , an incorrect answer as 0 .
 A maximal score of 37 could be obtained .
+
 The stimuli consisted of the German words “ ROT ” ( red ) , “ GRUN ” ( green ) or “ BLAU ” ( blue ) shown in either red , green or blue ink , on a notebook computer ( Dell Latitude , D430 ) with a 12.1 - inch screen .
 Trials were considered either congruent or incongruent depending on whether word and ink colour were the same ( e.g. , the word “ ROT ” in red ink ) or not ( e.g. , the word “ ROT ” in green ink ) .
 Subjects were instructed to name the ink colour as fast and accurately as possible by pressing the arrow keys “ left ” , “ down ” , “ right ” with their right ring finger , middle finger , and index finger , respectively .
@@ -33,6 +35,7 @@ In the beginning of each block 6 congruent trials were presented in succession t
 These 12 trials across both blocks were excluded from further analysis .
 All other trials were presented in a randomized order .
 The experiment took about 12 minutes .
+
 Statistical analysis was carried out using the Statistical Package for the Social Sciences , Release 17.0 ( SPSS Inc . , Chicago , IL ) .
 For the initial analysis of post - conflict adjustment the significance level was set at p < .05 and p - values between .05 and .1 were considered trends .
 For the subsequent correlation analyses of the SPQ scale and subscales the significance level was set at 0.005 to account for multiple comparisons using the Bonferroni correction ; p - values between .005 and .01 were considered trends .

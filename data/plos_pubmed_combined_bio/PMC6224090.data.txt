@@ -9,6 +9,7 @@ The recruitment of 614 cases was completed in March 2014 .
 Ethical approval was obtained from the Institutional Ethical Review Committee of Health Services Academy , Islamabad ( F . No . 107 / 2013 - IERC / HSA ) .
 Permission was also taken from the administration of the Gulab Devi Chest Hospital , Lahore , where data collection was undertaken .
 All patients gave written informed consent before recruitment in the study .
+
 At baseline cohort members ’ detailed contact information was obtained , which was refreshed at every follow up visit .
 Anthropometric data were collected .
 Respondents completed an interviewer - administered questionnaire , which collated data on socio - demographics , co - morbidities , lifestyle and behavioural characteristics , clinical presentation of TB , family history of diabetes , adherence to DOTS and glyceamic control among diabetics .
@@ -24,10 +25,12 @@ At this first follow up visit , contact details were also reviewed and sputum sm
 At the second follow up visit scheduled at fifth month , while on ATT in addition to the above , blood sample was drawn to determine glycosylated haemoglobin of diabetic patients .
 PTB cohort was followed up prospectively at second , fifth and sixth month while on ATT and also at six months after ATT completion to determine treatment outcomes .
 Standardized treatment outcome definitions of NTP and WHO were adhered to in the study ( before the 2013 revision ) [21,22] .
+
 We assessed diabetic status of PTB patients with treatment outcomes , which was coded as a dichotomous variable into favourable treatment outcome ( patients who were cured and who completed treatment ) and unfavourable treatment outcome ( patients who defaulted or died , were transferred out , who had treatment failure and who relapsed ) .
 In addition to our main exposure variable i.e. diabetic status , the co - variates that were studied included socio - demographic characteristics such as age , gender , education , occupation and income .
 Lifestyle and behavioural characteristics included smoking status , alcohol consumption status and drug abuse .
 BMI and history of co - morbidities were also included .
+
 Comparisons were made between socio - demographics , lifestyle and behavioural patterns , clinical presentation and co - morbidities in patients with and without diabetes using the Chi - square or Fisher ’ s exact tests .
 We performed logistic regression analysis to determine association between diabetic status , other independent variables and treatment outcome .
 Odds Ratios ( OR ) and 95 % Confidence Intervals ( CI ) were calculated .

@@ -4,6 +4,7 @@ The constituent conopeptides display a high level of chemical diversity and are 
 However , these peptides are known to contain a high frequency and variability of post - translational modifications - including sometimes O - glycosylation - which are of importance for biological activity .
 The potential application of specific conotoxins as neuropharmalogical agents and chemical probes requires a full characterization of the relevant peptides , including the structure of the carbohydrate part .
 In this review , the currently existing knowledge of O - glycosylation of conotoxins is described .
+
 1 .
 Introduction
 The marine predatory cone snails ( genus Conus , family Conidae ) comprise a large group of circa 800 different species , which are found predominantly in the West Atlantic , Caribbean , and Indo - Pacific tropical season or near coral reefs .
@@ -24,7 +25,9 @@ The conopeptides contain multiple disulfide bonds and are decorated with a high 
 The types of post - translational modifications found so far comprise : disulfide - bridge formation ; hydroxylation of proline at C - 4 , lysine at C - 5 and valine at γ - position ; γ - carboxylation of glutamic acid ( vitamin K - dependent ) ; bromination of tryptophan at C - 6 ; phosphorylation and sulfation of tyrosine ; epimerization of - to - amino acids , including tryptophan , leucine , phenylalanine and valine ; C - terminal amidation ; N - terminal pyroglutamylation ( cyclization ) ; and O - glycosylation of serine or threonine .
 Several comprehensive reviews have been published on the biology / biochemistry of conotoxins [36,37,38,39,40,41,42,43,44,45,46] .
 The review by Buczek et al . ( 2005 ) [42] included O - glycosylation data available up until 2005 .
-Here , we will review in detail the O - glycosylation data of conopeptides as known in 2012 . 2 .
+Here , we will review in detail the O - glycosylation data of conopeptides as known in 2012 .
+
+2 .
 The ConoServer Database
 A specialized database for conotoxins , called ConoServer , is available online [8,47,48] .
 The ConoServer provides up - to - date information on the sixteen known conopeptide gene superfamilies and currently contains data for over 3500 conopeptide sequences .
@@ -32,6 +35,7 @@ The ConoMass tool matches peptide masses predicted from transcripts with a list 
 Several post - translational modifications can be selected .
 However , it should be noted that glycosylation is not included in ConoMass because of the enormous number of possible structures glycosylation can present .
 Although the O - glycosylated conopeptides discussed in this review are included in the ConoServer , glycan information is available only for contulakin - G .
+
 3 .
 General Structural Data of Mucin - Type Glycoconjugate O - Glycans
 O - Glycosylation is a common type of post ( co ) - translational modification of proteins in nature , resulting in the attachment of carbohydrates to hydroxyl groups of certain hydroxyl amino acid residues in the peptide backbone .
@@ -43,6 +47,7 @@ In addition , inorganic sulfate has been found as a substituent of N - acetyl - 
 In the mucin - type O - glycans , three structural domains can be distinguished : the core structure , the backbone structure , and the peripheral structure .
 So far , besides α - - GalpNAc - ( 1 → O ) ( core - type 0 ) , nine different core types have been described ( Table 1 ) [49,50,51,52] .
 Known core structures of mucin - type O - linked glycans .
+
 4 .
 Glycosylated Conotoxins
 4.1 .
@@ -70,6 +75,7 @@ The primary structure of the conopeptide is included in Table 2 .
 In fact , both conotoxins mimic the biological effects of the completely injected venom on fish prey .
 κ A - SIVB was also reported to be glycosylated at Ser - 7 [53,56,57] .
 Based on MALDI - TOF - MS and LC / ESI - MS combined with ammonia treatment , the occurrence of HexHexNAc was suggested [53] , a similar type of glycosylation as found for κ A - SIVA ( s4a ) .
+
 4.2 .
 Conus geographus
 The major peptide in the venom of the fish - hunting C . geographus , which lives in the Philippine seas , is a 16 - amino acid glycopeptide called contulakin - G [59] .
@@ -109,6 +115,7 @@ The [ - Ser - 10 ] analog showed some activity at more than 100 times the dose .
 In another study , for direct comparison with contulakin - G comprising formtok at Thr - 10 , three analogs with different O - glycans at Thr - 10 , i.e. , β - - Galp - ( 1 → 3 ) - β - - GalpNAc - ( 1 → O ) - , α - - Galp - ( 1 → 3 ) - α - - GalpNAc - ( 1 → O ) - , and β - - Galp - ( 1 → 6 ) - α - - GalpNAc - ( 1 → O ) - , respectively , were synthesized [62] ( see Scheme 2 ) , but so far biological and conformational details are missing .
 A study focusing on the enzymatic glycosylation of the non - glycosylated form of contulakin - G showed that the mammalian UDP - - GalNAc : polypeptide : α - GalNAc - transferase T1 ( ppGalNAc - transferase T1 , EC 2.4.1.41 ) was able to transfer GalNAc from UDP - GalNAc to Thr - 10 of the peptide backbone , although Ser - 7 was also glycosylated to some extent [63] .
 It is not clear if this glycosylated product was tested for bioactivity .
+
 4.3 .
 Conus textile
 The glycosylated conotoxin ε - TxIX ( also called tx5a , Tx - 012 or TxVa ) , with a backbone of 13 amino acids , occurs as the most abundant peptide in the venom of the mollusc - hunting cone snail C . textile .
@@ -125,6 +132,7 @@ Note that the anomeric configuration of the terminal galactose residue ( α ) is
 The inability to split off terminal galactose using β - galactosidase inferred the presence of terminal α - galactose in tx5a .
 Likewise , the inability to split off the disaccharide moiety with endo - O - glycosidase ( endo - α - N - acetylgalactosaminidase ) inferred interglycosidic linkages distinct from those found in the T - antigen [66] .
 However , the absolute configuration ( ) of the monosaccharide constituents was not actually determined .
+
 4.4 .
 Conus magus
 κ A - conotoxin MIVA ( κ A - MIVA ) , the 36 - amino acid peptide from the venom of the fish - hunting species C . magus , causes the same spastic symptomatology as κ A - SIVA [57] .
@@ -132,11 +140,14 @@ The conopeptide contains three disulfide bonds and has ten post - translationall
 These include seven hydroxylated proline residues , including one C - terminal , a γ - carboxy - glutaminic acid and two modified threonine residues ( may be O - glycosylated ) , i.e. , Thr - 7 and Thr - 9 [57] .
 The amino acid sequence of the conopeptide is depicted in Table 2 .
 O - Glycan details were not included for κ A - MIVA , but we noted that the mass difference ( 1053.6 Da ) found in LSI - MS studies of the native glycopeptide as compared to the unglycosylated form agrees with a composition HexHexNAc shared between the two glycosylation sites .
+
 4.5 .
 Conus stercusmuscarum
 The 37 - amino acid κ A - conotoxins SmIVA and SmIVB from the venom of the Indo - Pacific fish - hunting species C . stercusmuscarum elicit a spastic paralysis upon injection of venom into the fish during prey capture [57] .
 Both compounds were suggested to be O - glycosylated at Ser - 7 and Thr - 8 , but details about the glycans present have not been published .
-The predicted mature toxin primary structure is included in Table 2 . 4.6 .
+The predicted mature toxin primary structure is included in Table 2 .
+
+4.6 .
 Conus consors
 The conotoxin CcTx , isolated from the venom of the Indo - Pacific fish - hunting cone snail C . consors ( Pionoconus clade ) produced a marked contraction and extension of the caudal and dorsal fins upon injection into fish [58] .
 When tested on isolated frog neuromuscular preparations , CcTx showed skeletal muscle contractions , indicating a potent excitotoxin that targets tetrodotoxin - sensitive voltage - gated sodium channels .
@@ -158,6 +169,7 @@ However , the most remarkable finding was the occurrence of terminal α - Galp -
 Analysis of the NMR solution structure of CcTx ( Figure 2 ) showed that the backbone of the C - terminal region was well defined with three disulfide bridges , a series of turns , including a Type I ’ β - turn for Cys - 12 - Tyr - 15 and a partially distorted Type I β - turn for Asn - 16 - Thr - 19 , preceding the short α - helix Ser - 23 - Thr - 27 .
 The N - terminal region Ala - 1 - Thr - 11 appears less well defined , but presents a kink in the backbone centered on the O - glycosylated Ser - 7 .
 Although the N - terminal region is more disordered , the pentasaccharide orients itself consistently on one side of the peptide , with the α - - GalpNAc and , to a lesser extent , the α - - GlcpNAc residue oriented towards the peptide chain [52] .
+
 5 .
 Peptide Sequence Comparison
 Unlike the Asn - Xxx - Ser / Thr consensus amino acid sequence for N - glycosylation , no consensus target sequence has been identified for O - glycosylation of proteins / peptides [70] , let alone that of conotoxins .
@@ -174,6 +186,7 @@ So far , structural details of the O - glycan are missing .
 The third group , known as short κ A - conotoxins , lacks the O - glycosylated N - terminal tail present in the other two groups .
 Contulakin - G ( C . geographus ) and ε - TxIX ( C . textile ) are the smallest conotoxins and contain no sequence similarity to other conopeptides as shown in Table 2 , except that they both have a glycosylated threonine residue at position 10 .
 However , their O - glycan disaccharides differ in the anomeric configuration ( β versus α , respectively ) of the non - reducing - Galp residue ( vide supra and Table 2 ) .
+
 6 .
 Biosynthesis and Roles of O - Glycosylation in Conotoxins
 Several recent reviews are available in the literature describing the current knowledge of the peptide biosynthesis of conotoxins [42,71,72,73,74] .
@@ -211,6 +224,7 @@ But the roles served by glycosylation and many other post - translational modifi
 In higher mammals , α - L - galactosidases have not been reported , which is of interest , considering the potential applications of these conotoxins in the treatment of human neurological disorders .
 It is clear that the study of the biological role of the glycan in conotoxins requires an unambiguous determination of the identity and quantity of the glycan species .
 Determining the 3D structure of the complete peptides , elucidated using NMR and molecular dynamics , is crucial to our understanding of the structure - activity relationship of these peptides [52,85,90,91] .
+
 7 .
 Concluding Remarks
 Cone snail venom will continue to attract a growing interest as a vast untapped biological resource [92,93] .

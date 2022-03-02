@@ -6,11 +6,13 @@ The CSF was also negative for cryptococcal antigen and VDRL .
 CSF culture did not grow microbes .
 CSF PCR assay was negative for HSV 1 and HSV 2 but was positive for JC virus ( 1,276 copies ) .
 The most likely diagnosis is granule cell neuronopathy ( GCN ) , which can only be definitively confirmed with biopsy and immunohistochemistry .
+
 1 .
 Introduction
 The most common manifestation of JC virus in HIV infected patients is progressive multifocal leukoencephalopathy ( PML ) but recent case reports and studies have shown another manifestation called granule cell neuronopathy [1-4] .
 In this debilitating condition , JC virus infects the granule cells of the cerebellum causing cerebellum degeneration [4] .
 We report a case featuring a HIV patient with possible granule cell neuronopathy showing the classical symptoms of cerebellar dysfunction .
+
 2 .
 Case Report
 A 50 - year - old Hispanic female presented with a three - day history of bilateral lower extremity and left - upper extremity weakness .
@@ -40,6 +42,7 @@ The CSF PCR assay was negative for HSV 1 and HSV 2 but positive for JC virus ( 1
 The clinical impression was for JC - virus CNS infection and granule cell neuronopathy .
 The patient was discharged on continued HAART therapy with a referral to outpatient physical rehabilitation .
 Few months later , the patient succumbed to her illness and passed away .
+
 3 .
 Discussion
 The JC virus is a small , circular , double - stranded - DNA polyomavirus .
@@ -62,4 +65,5 @@ The inflammatory reaction can be demonstrated by contrast enhancement on MRI , w
 A compilation of previous case reports found in the literature on JC virus granule cell neuronopathy including demographics , clinical findings , treatments , and the overall outcome is shown in Table 1 .
 The median survival of patients with granule cell neuronopathy is approximately 3 months without HAART therapy and up to 1.8 years in patients on HAART therapy or possibly more depending on CD 4 response .
 HAART therapy increases the T - cell counts in modest amount and is a reliable measure in controlling this disease [ 2 , 3 ] .
+
 Shows the demographic and clinical findings , treatment , and outcome of JC virus granule cell neuronopathy reported in the literature .

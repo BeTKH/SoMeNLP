@@ -11,6 +11,7 @@ The most obvious example of primary cost is gathering data in the field .
 For example , we did not include the costs of establishing , mapping , digitizing , and maintaining national databases of protected areas or the cost of surveying , classifying and mapping ecosystems for the Red List of Ecosystems ; rather we included the costs of aggregating these data centrally through workshops and direct contact with governmental protected area agencies , and subsequent quality checking and revision before making them available online .
 Similarly , for The IUCN Red List of Threatened Species , we did not include the costs of establishing , digitizing and maintaining specimen locality databases .
 We also excluded the costs of maintaining networks supporting data collection such as the IUCN Species Survival Commission ( IUCN SSC ) network of Specialist Groups and Red List Authorities which support The IUCN Red List of Threatened Species ; the network of BirdLife Partners worldwide who lead identification and monitoring of Important Bird and Biodiversity Areas ( the subset of KBAs identified using data for birds [26] ; or the IUCN World Commission on Protected Areas ( IUCN WCPA ) network supporting the development of the WDPA .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0160640.t002 Categories , subcategories and funding sources classification used to categorise costs .
 These processes are important for numerous reasons and applications above and beyond the delivery of biodiversity and conservation knowledge products , and so including their costs here would inflate our estimates inappropriately .
@@ -19,6 +20,7 @@ Therefore , the costs reported herein for knowledge product delivery represent a
 Similarly , we did not assess the costs or benefits that result from use of knowledge products which are typically incurred by end - users of the information ( e.g. , conservation actions such as protected area establishment and management , interventions for threatened species , changes to land use policies , etc . ) .
 Finally , we excluded the costs of national assessments which follow national standards , such as national red lists of species or designating and delineating new protected areas .
 Some national species assessments , for example , do contribute to the global IUCN Red Lists of Threatened Species and Ecosystems when a nationally endemic species or ecosystem type is assessed using the IUCN Categories and Criteria and the data are shared with IUCN [ 40 , 27 ] , but the processes and costs of generating a national red list usually occur and are borne independently of the global IUCN Red Lists [ 25 , 41 ] .
+
 Data collection for this review was undertaken from August 2013 to November 2014 .
 We obtained and collated costs of : 1 ) developing and maintaining knowledge products from the earliest year for which data on costs were available ( for each product ) up until December 2013 ; 2 ) annual costs of maintaining data , structures , and processes in 2013 ; and 3 ) projected future expenditure to achieve pre - defined baselines by 2020 .
 To compile the past , present and future costs in a standardised way we classified costs by knowledge product stage , cost type , and funding source ( Table 2 ) .
@@ -28,6 +30,7 @@ The spreadsheet included drop - down lists and free - text fields which allowed 
 Study data providers were requested to provide minimum and maximum estimates where precise values were not known , currency and year of currency , and minimum and maximum volunteer time invested .
 All files received were then merged into a single database which included all costs collected for each of the four knowledge products .
 Finally , to account for inflation and standardise estimates , all costs were converted to 2014 US $ ( see S1 Table ) .
+
 We anticipated that we would be unable to obtain complete data on all of the past costs for each knowledge product ( particularly for processes and components dating from further in the past ) .
 While the origins of The IUCN Red List of Threatened Species date back to the early 1960s [42] , very little information was available on the costs of development of The IUCN Red List of Threatened Species methodology and infrastructure prior to 1999 , except for the costs of assessing all birds globally , which date from 1985 .
 Similarly , we compiled the costs associated with the establishment of Protected Planet since 1981 , when the first digital version of the World Database on Protected Areas ( WDPA ) - the database underpinning Protected Planet since 2008 - was created .
@@ -37,17 +40,21 @@ To estimate the total funds invested in knowledge products until 2013 , we compa
 This assumes that the volume of available data for compilation , standards , methods and effort involved in assessments did not change through time .
 This is not the case especially for species assessments where the methods applied were different as the system used for assessing risk for extinction of species was updated in 1994 .
 It is therefore likely that this have led to some under - estimation of earlier costs due to changes in criteria and increasing rigour in standards of assessment and documentation .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0160640.t003 Summary of data collection for all four knowledge products .
 The table summarises which costs were collected for each of the four knowledge products and how much of the total number of assesments , available in December 2013 , these represent .
 In cases where 100 % of the costs were not collected , the total sum for each knowledge product was increased propotionally to reach 100 % .
+
 1The dataset assessed was all species published on www.iucnredlist.org by the end of 2013 including re - assessments .2The dataset assessed was the December 2013 version of World Database on Protected Areas .3The dataset assessed was the World Birds and Biodiversity Database .4The dataset assessed was all ecosystem assessments completed or about to be completed by end of 2013 .
+
 Our data comprised 875 cost records for all four knowledge products sourced from 11 study data providers ( Table 3 ) .
 As anticipated , this does not represent 100 % of the costs for each knowledge product ( Table 3 ) .
 However , we covered the costs for conducting 76,068 species assessments ( relating to 39,533 species , some of them assessed multiple times ) between 1985 and 2013 .
 This represented 68 % of species assessments on The IUCN Red List of Threatened Species as of December 2013 , hence we proportionately rescaled the cost to match 100 % of the species .
 Similarly , our data for KBAs from 1979 - 2013 accounted for 88 % of existing KBAs , and we rescaled the cost to represent 100 % of exisiting sites .
 Aside from the important exclusions outlined in these Methods - notably the exclusion of primary data generation and compilation costs by national agencies - all of the secondary known costs associated with producing Protected Planet and the global IUCN Red List of Ecosystems were collected , so these were not increased other than by adjusting all the costs to account for inflation .
+
 Voluntary time ( including time donated to knowledge product delivery that is paid for by other institutions , universities , museums , governments , departments and NGOs ) plays a crucial role in the production of biodiversity information .
 For example , more than ten thousand individuals through the IUCN Commissions and many more outside the Commissions , have provided voluntary input to the delivery of knowledge products [7] .
 These range from individuals compiling information to experts participating in workshops , reviewing assessments , providing data , and contributing to technical committees or governing bodies .
@@ -65,6 +72,7 @@ The lower estimate is US $ 23.07 per hour , a generic volunteer time estimate pr
 Two levels of uncertainty are incorporated through this approach .
 First , the uncertainty reflected in the maximun and minimum working days assigned in each estimate .
 Second , uncertainty on the monetary value assigned to those estimates .
+
 Reaching pre - defined baselines by 2020 : For each knowledge product we estimated : 1 ) annual maintenance costs for each year until 2020 , considering inflation and annual incremental costs ; 2 ) additional one - off costs required to reach stated target ‘ baselines ’ by 2020 ( e.g. , additional investment to improve infrastructure , new assessments to be undertaken , updating old assessments ) .
 We did this by drawing from information compiled from past and annual costs of knowledge products , plus additional future projections documented by the study data providers , specifically : The IUCN Red List of Threatened Species : we followed Stuart et al . [30] who propose the assessment of 160,000 species based on a “ subset of species broadly representative of biodiversity as a whole ” , including sampled assessments for selected groups [46] , to enable better conservation and policy decisions at a global level .
 Protected Planet : We assessed the costs of implementing the Protected Planet strategy by 2020 .

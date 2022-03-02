@@ -8,6 +8,7 @@ The chimpanzees had previous experience with cognitive tasks involving touch scr
 All procedures adhered to the Japanese Act on the Welfare and Management of Animals .
 The daily care and use of the chimpanzees adhered to the 2010 Guidelines for the Care and Use of Laboratory Primates of KUPRI .
 The research proposal was approved by the Animal Welfare and Animal Care Committee of KUPRI and also by the Animal Research Committee of Kyoto University .
+
 The participants sat in an experimental booth and performed tasks on a touch screen with a 15 - inch LCD display ( 1,024 × 768 pixels , 1 pixel = 0.297 mm ) .
 Chimpanzees faced the screen head - on ; screens were not tilted significantly in any direction ( Fig 1 ) .
 During the experiments , the chimpanzees could move freely , but they would always sit in front of the screen about 40 cm away .
@@ -17,6 +18,7 @@ When they made a wrong choice , an error buzzer sounded , and no food was provid
 The food reward was delivered by a universal feeder via a tube to a food tray placed at the bottom of the display .
 All experimental events were controlled by a computer .
 The experimental programs were written and operated with Microsoft ™ Visual Basic ™ 2010 software ( Microsoft Corp . ; Redmond , WA , USA ) .
+
 Each experiment contained two or more conditions ( e.g. intact body , house , etc . ) , and each condition was repeated for eight sessions .
 Each session included 40 trials : 20 were upright trials , in which all stimuli had the upright orientation , and the other 20 were inverted trials , in which all stimuli were inverted .
 The upright and inverted trials were mixed , and the order was randomly determined .
@@ -37,6 +39,7 @@ In Experiment 2b , there were four conditions : 1 ) the intact - body condition 
 In Experiment 3 , there were two conditions : 1 ) the face - without - contour condition and 2 ) the face - silhouette condition ( Fig 3D ) .
 In the face - without - contour condition , the outline of the face was replaced by an oval shape of 75 ( width ) * 110 ( height ) px , and only the face contents remained .
 Under the face - silhouette condition , the original contours remained but were filled with solid black .
+
 A zero - delayed matching - to - sample task ( Fig 2 ) was used .
 Experiment 1a offered two choices per trial ; the other experiments offered four choices per trial .
 In each trial , the start key ( a circle ) initially appeared at the bottom centre of the touch screen against a white background .
@@ -47,6 +50,7 @@ A correct choice was one in which the chimpanzees chose the image that was the s
 Correct choices were followed by a piece of food as a reward accompanied by a chime sound .
 Otherwise , a buzzer would sound and no food would be presented .
 The inter - trial - interval ( ITI ) was 1.5 s , and the timeout was 2 s .
+
 Accuracy and response - time data were recorded and analysed .
 We compared data to determine whether the error rate ( 100 % - accuracy ) and the response times differed between all upright trials and all inverted trials under each condition .
 According to previous studies ( e.g. [6] ) , if either the error rate or the response time were higher in the inverted trials than in the upright trials , an inversion effect would be deemed to be present .

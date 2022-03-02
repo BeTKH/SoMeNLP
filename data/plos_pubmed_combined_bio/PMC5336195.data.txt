@@ -14,8 +14,10 @@ To measure the traction force employed during vacuum extraction , we used an int
 The handle contains a load cell , a well established type of force sensor [10] .
 The intelligent handle also encapsulates the necessary instrumentation ( e.g. battery , signal conditioning , processor and Bluetooth transceiver ) to enable force measurements from the load cell to be wirelessly transmitted to a computer .
 The computer in turn , records the force measurements which are then retrieved and utilized to compute traction force variables .
+
 The force sensor ( load cell ) was calibrated using standard force - transfer methods [11] ( using a pre - calibrated material testing machine ( Instron E3000 ™ , Instron , Norwood , MA , US ) .
 Regular inspection , calibration and maintenance of the intelligent handle during the course of this study depicted no deviation in its performance and good accuracy of force measurements .
+
 In every vacuum extraction delivery , the highest momentary peak force ( Newton , N ) during each individual pull , as well as the total force ( Newton minutes , Nmin ) , area under the curve , during each pull was measured .
 One pull corresponds to one uterine contraction .
 The differences in peak and total force between the first and subsequent pulls within each extraction were also calculated .
@@ -31,6 +33,7 @@ Seven units ( cases ) were excluded by default because there was no documentatio
 However , not all eligible cases during the study period underwent extraction with the traction force measuring handle ; a total of 546 mid or low extractions were eligible .
 In 269 of these , the measurement device was not used .
 The most likely explanations for this unintended exclusion are : technical ( equipment not available due to maintenance ) or compliance factors ( assistant nurses or doctors not comfortable or sufficiently trained to use the equipment ) .
+
 The binary outcome variable was strong or non - strong extraction category , while the continuous predictor variables included in the analyses were the different traction force data described above .
 Descriptive statistics were computed with Statistica , and are presented as mean ± SD or median ( min - max ) as appropriate .
 The Student ’ s t - test was used to test mean values of normally distributed data and the Mann - Whitney U - test for data with a skewed distribution .

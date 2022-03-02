@@ -9,6 +9,7 @@ It is evident that the FKB skeleton is unique for anticancer agents , additional
 These findings could help to improve the future drug discovery process to treat breast cancer .
 A molecular dynamics study of active compounds revealed stable interactions within the active site of Janus kinase .
 The structures of all compounds were determined by H - NMR , EI - MS , IR and UV and X - ray crystallographic spectroscopy techniques .
+
 1 .
 Introduction
 Breast cancer ( BC ) is a complex disease , composed of several subtype receptors both at the molecular and clinical level .
@@ -21,6 +22,7 @@ Flavokawain B ( FKB ) ( 1 ) , is a main bioactive chalcone isolated from the roo
 In this study , we synthesized 1 - 23 FKB analogs by manipulating ring B with the various substituted benzaldehydes .
 The main purpose when designing this proposal was to observe the effects of ring B in the breast cancer cell lines and to establish the structure - activity relationship , to eventually help future drug discovery .
 Previously , we investigated the antinociceptive , cytotoxic and anti - inflammatory activities of FKB ( 1 ) in vitro and in vivo [32,33,34,35,36] .
+
 2 .
 Results and Discussion
 2.1 .
@@ -33,6 +35,7 @@ The structure of FKB derivatives ( 1 - 23 ) were characterized by detailed spect
 The presence of characteristic signals appeared in H - NMR at δ 7.66 - 7.84 ( J = 15 - 16 Hz ) and 7.86 - 8.0 ( J = 15 - 16 Hz ) were assigned to α and β protons , respectively .
 The presence of carbonyl groups was supported by the signals at δ 191 - 193.45 in C - NMR and 1625 - 1634 cm in the IR spectrum , respectively .
 The complete assignments and spectral data of compounds 8 , 13 and 23 are given in Table 1 , while the structure of compounds 7 and 9 was confirmed by the single X - ray crystallographic technique ( Figure 2 ) .
+
 2.2 .
 Structure - Activity Relationships
 FKB derivatives 1 - 23 were screened against two breast cancer cell lines MCF - 7 ( human estrogen receptor positive breast cancer cells ) and MDA - MB - 231 ( human estrogen receptor negative ) breast cancer cell lines ) .
@@ -52,6 +55,7 @@ In contrast , compounds with electron - withdrawing groups in ring B possessing 
 The presence of the electron - withdrawing group in ring B , especially at position 2 and 3 , as in 13 ( 2F ) , 15 ( 3Cl ) and 16 ( 2Cl ) , contributed more to the enhancement of cytotoxicity against breast cancer cell lines ( 38 , 39 ) .
 While the presence of electron - withdrawing groups in compounds 13 , 15 and 16 pulling the electrons from the α , β - unsaturated ketone make it more electrophilic , so the receptor ( nucleophile ) possibly creates a strong interaction with the compound .
 While the electrons with the donating group , such as methoxy groups - especially at position 3 , 4 or 3 , 5 and 2 , 4 , 6 , as in compounds 5 , 6 , 8 , 10 , 11 , cause rich in nucleophilicity and resonate the α , β - unsaturated carbonyl [41] , eventually , the structure become less effective and binding or the interaction with the Michael receptor ( nucleophile ) , and the compounds reduce the cytotoxic effects [38,39] .
+
 2.3 .
 Computational Studies
 The potential FKB derivatives 1 , 13 , 15 and 16 were subjected to rigid receptor docking , and the resulting poses were analyzed visually .
@@ -74,6 +78,7 @@ Analysis of the average duty cycle revealed that the most stable hydrogen bond p
 The binding profile of 13 - JAK 2 shows equally high expression of three different host - guest pairs , Gly 856 , Leu 855 and Lys 857 .
 Accurate characterization of protein - ligand interactions is indispensable for the drug design .
 Molecular dynamic simulation is a state - of - art technique that is used to characterize the time - dependent behavior for protein - ligand complex ( See Supplementary Material ) .
+
 3 .
 Materials and Methods
 3.1 .
@@ -90,6 +95,7 @@ The purity of compounds was checked by thin - layer chromatography ( TLC ) and H
 All the chemicals were purchased from Sigma - Aldrich ( Saint Louis , MO , USA ) .
 Other reagents were purchased from Sinopharm Chemical Reagent Co .
 Ltd . , ( Shanghai , China ) .
+
 3.2 .
 Docking Analysis Method
 To rationalize the anti - cancer potential of FKB derivatives , the online web Prediction of Activity Spectra for Substances ( PASS ) server was used to predict the biological activity of potential FKB derivatives [49,50] .
@@ -101,12 +107,14 @@ The derivatives with potential IC values ( Table 2 . ) for compound 1 , 13 , 15 
 All the graphics were rendered using MOE and Chimera [53] .
 To study the dynamic behavior of the proposed ligand - protein complex , we have performed in a short production run of 10 ns using AMBER 14 [54] .
 The resulting trajectories were analyzed using the CPPTRAJ module in AMBERTOOLS 16 [55,56] .
+
 3.3 .
 Synthesis of Flavokawain B derivatives
 KOH ( 20 % w / v aqueous solution ) was added to a stirred solution of the appropriate acetophenone ( 1.0 eq ) and a substituted benzaldehyde ( 1.25 eq . ) in ethanol , and the mixture was stirred at room temperature for 48 - 72 h .
 The reaction mixture was cooled to 0 ° C ( ice - water bath ) and acidified with HCl ( 10 % v / v aqueous solution ) .
 In most cases , yellow precipitate was formed , filtered and washed with 10 % aqueous HCl solution .
 In the cases where an orange - yellow layer was formed , the mixture was extracted with CHCl or ethyl acetate , the extracts was dried over NaSO anhydrous and the solvent was evaporated and crystalized with methanol or ethanol .
+
 3.4 .
 Characterization Data
 The data of flavokawain B ( 1 ) and flavokawain A ( 2 ) have been published previously by us [26,57] . ( E ) - 1 - ( 2 ′ - Hydroxy - 4 ′ , 6 ′ - dimethoxyphenyl ) - 3 - ( 4 - ( methylthio ) phenyl ) prop - 2 - en - 1 - one ( 3 ) .
@@ -123,6 +131,7 @@ Yellow flat crystal ( 80.5 % yield ) ; m.p . : 165.8 - 167.5 ° C ( lit [17] . 1
 Yellow cotton ( 82.6 % yield ) ; m.p . : 169 - 171 ° C ( lit [61] . 169 - 170 ° C ) ; UV - Vis ( MeOH ) λ : 336 nm ; IR ( KBr , cm ) : 3460 ( O - H ) , 2851 - 3092 ( Ar C - H stretch ) , 1638 ( C = O ) , 1583 ( C = C - C = O ) , 1427 - 1525 ( C = C ) , 1223 - 1225 ( C - O ) ; H - NMR ( 500 MHz , CDCl ) δ : 8.56 ( brs , 1H , H - 2 ) , 8.30 ( d , 1H , H - 4 , J = 8.20 Hz ) , 8.22 ( d , 1H , H - 6 , J = 7.75 Hz ) , 8.15 ( d , 1H , H - β , J = 15.70 Hz ) , 7.84 ( d , 1H , H - α , J = 15.70 Hz ) , 7.78 ( t , 1H , H - 5 , J = 7.95 , 8.00 Hz ) , 6.17 ( d , 1H , H - 3 ′ , J = 2.35 Hz ) , 6.14 ( d , 1H , H - 5 ′ , J = 2.35 Hz ) , 4.04 ( s , 3H , OCH , C - 6 ′ ) , 3.91 ( s , 3H , OCH , C - 4 ′ ) ; EI - MS : m / z = 329 ( 33 ) , 301 ( 5 ) , 281 ( 6 ) , 254 ( 5 ) , 207 ( 100 ) , 181 ( 25 ) , 152 ( 5 ) , 95 ( 5 ) , 73 ( 8 ) ; ( Molecular formula CHNO ) . ( E ) - 3 - ( 5 - Bromo - 2 - hydroxyphenyl ) - 1 - ( 2 ′ - hydroxy - 4 ′ , 6 ′ - dimethoxyphenyl ) prop - 2 - en - 1 - one ( 22 ) .
 Yellow crystal ( 76.2 % yield ) ; m.p . : 166 - 168 ° C ( lit [61] . 177 - 178 ° C ) ; UV - Vis ( MeOH ) λ : 359 nm ; IR ( KBr , cm ) : 3435 ( O - H ) , 2945 - 2994 ( Ar C - H stretch ) , 1623 ( C = O ) , 1419 - 1590 ( C = C ) , 1220 - 1221 ( C - O ) ; H - NMR ( 600 MHz , CDCl ) δ : 14.19 ( s , 1H , OH , C - 2 ′ ) , 8.12 ( d , 1H , H - β , J = 15.70 Hz ) , 8.01 ( d , 1H , H - α , J = 15.70 Hz ) , 7.78 ( brs , 1H , H - 6 ) , 7.39 ( d , 1H , H - 4 , J = 8.70 Hz ) , 6.97 ( d , 1H , H - 3 , J = 8.64 Hz ) , 6.13 ( brs , 1H , H - 3 ′ ) , 6.12 ( brs , 1H , H - 5 ′ ) , 3.98 ( s , 3H , OCH , C - 6 ′ ) , 3.88 ( s , 3H , OCH , C - 4 ′ ) ; EI - MS : m / z = 379 ( 1 ) , 364 ( 14 ) , 333 ( 5 ) , 305 ( 3 ) , 281 ( 9 ) , 251 ( 3 ) , 227 ( 9 ) , 214 ( 17 ) , 207 ( 60 ) , 191 ( 10 ) , 142 ( 13 ) , 115 ( 8 ) , 95 ( 10 ) , 73 ( 14 ) ; ( Molecular formula CHBrO ) . ( E ) - 3 - ( 2 - Bromo - 3 - hydroxy - 4 - methoxyphenyl ) - 1 - ( 2 ′ - hydroxy - 4 ′ , 6 ′ - dimethoxyphenyl ) prop - 2 - en - 1 - one ( 23 ) .
 Orange crystal ( 85.6 % yield ) ; m.p . : 201 - 203 ° C ; UV - Vis ( MeOH ) λ : 366 - 369 nm ; IR ( KBr , cm ) : 3425 ( O - H ) , 2838 - 3014 ( Ar C - H stretch ) , 1634 ( C = O ) , 1496 - 1596 ( C = C ) , 1213 - 1259 ( C - O ) ; EI - MS : m / z = 409 ( 4 ) , 408 ( 4 ) , 403 ( 3 ) , 229 ( 3 ) , 207 ( 3 ) , 202 ( 3 ) , 181 ( 2 ) , 165 ( 3 ) , 141 ( 4 ) , 112 ( 5 ) , 87 ( 4 ) , 59 ( 4 ) ; ( Molecular formula CHBrO ) .
+
 3.5 .
 X - ray Crystallographic Analysis
 X - ray analysis for all these samples was performed using Bruker APEX II DUO CCD diffractometer , employing MoK α radiation ( λ = 0.71073 A ) with φ and ω scans , at room temperature .
@@ -130,11 +139,14 @@ Data reduction and absorption correction were performed using the SAINT and SADA
 All structures were solved by direct methods and refined by full - matrix , least - squares techniques on F using the SHELXTL software package [63] .
 Crystallographic data for the reported structures have been deposited at the Cambridge Crystallographic Data Centre ( CCDC ) with the CCDC deposition numbers of 1548733 and 1548734 .
 Copies of available material can be obtained free of charge on application to the CCDC , 12 Union Road , Cambridge CB 2 1EZ , UK , ( Fax : + 44 - ( 0 ) 1223 - 336033 or e - mail : deposit @ ccdc.cam .ac .uk ) .
-The ORTEP ( Oak Ride Thermal Ellipsoid Plot Program ) of compound 7 and 9 are shown in Figure 2 and X - ray crystallographic data presented in Table 3 . 3.6 .
+The ORTEP ( Oak Ride Thermal Ellipsoid Plot Program ) of compound 7 and 9 are shown in Figure 2 and X - ray crystallographic data presented in Table 3 .
+
+3.6 .
 Anticancer Activity
 3.6.1 .
 Sample preparation
 Stock samples at 1 mg / mL of dimethyl sulfoxide ( DMSO ) ( Sigma - Aldrich ) were prepared and kept at 4 ° C .
+
 3.6.2 .
 MTT Cell Viability Assay
 Breast cancer MCF - 7 and MDA - MB - 231 cells were purchased from the American Type Culture Collection ( ATCC , Manassas , VA , USA ) and cultured at 37 ° C , 5 % CO and 90 % humidity using RPMI - 1640 medium ( Sigma - Aldrich ) supplemented with 10 % fetal bovine serum ( FBS ) ( Thermo Fisher Scientific , USA ) .
@@ -149,6 +161,7 @@ The absorbance was then recorded using an ELISA plate reader ( Biotek Instrument
 All samples were tested for triplicates .
 The percentage of cell viability was calculated using following formula : disp - formula Cell viability ( % ) = [ OD sample at 570 nm / OD negative control at 570 nm ] × 100 %
 The IC value ( concentration of compounds inhibited 50 % of cell viability ) was determined from the graph of cell viability vs absorbance .
+
 4 .
 Conclusions
 Twenty - three FKB derivatives were synthesized by Claisen - Schmidt condensation reaction .

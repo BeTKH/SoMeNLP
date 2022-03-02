@@ -10,7 +10,9 @@ This link stresses the importance of carry - over effects between life stages to
 Newly settled reef fishes tend to be site attached and are subject to an array of resident and transient predators [ see 9 , 37 ] .
 Predators can be seen striking at and occasionally capturing recently settled and juvenile reef fishes during the summer recruitment period .
 A previous study that undertook behavioural observations on 10 fish over 20 consecutive 1 min periods found that a 3 min observation period was sufficient to obtain a representative quantification of behaviour for P . amboinensis ( Mero and McCormick unpublished data ; also see [38] ) .
+
 This research was undertaken with approval of the James Cook University ( JCU ) animal ethics committee ( JCU ethics permit : A112 ) under the JCU animal ethics guidelines .
+
 The present study was conducted at the base of a shallow reef at Lizard Island ( 14 ° 38 ′ S , 145 ° 28 ′ E ) , northern Great Barrier Reef , Australia , during October to December 2008 .
 In overview , the study involved three separate experiments .
 The first experiment measured size - related mortality trajectories on three different habitats .
@@ -44,6 +46,7 @@ Survival of tagged fish was monitored 2 - 3 times per day ( morning , mid - day 
 When one or both individuals were missing the adjacent area ( within 3 m of the release site ) was searched to determine if the fish had simply migrated .
 During the study period , densities of up to six newly settled P . amboinensis were found to naturally occur on dead and live coral habitats of the size used in this study .
 Monitoring finished when both tagged individuals were lost from the sites , or was terminated due to the end of a field trip .
+
 Clusters of the three different habitat types were constructed to examine the importance of movement between patches and the social dynamics that may underlie mortality of individuals within a group .
 Clusters were composed of one small coral head ( 20 × 10 × 15 cm ) of each of three coral habitat types 0.4 m from one another : healthy Pocillopora damicornis , bleached P . damicornis , and dead P . damicornis .
 In a similar methodology to above , P . amboinensis caught in a light trap were kept for 24 h , measured with calipers , tagged with one of six different colours and size matched for a 0.8 - 1 mm difference in SL ( as above ) .
@@ -53,11 +56,13 @@ Patches were visually obscured from one another by plastic barriers during a 30 
 After the acclimation period the barriers and then the cages were removed .
 Fifteen minutes after release the behaviour of all fish within the set of three patches was quantified in detail ( 3 min each ; see below ) , and this was repeated over 48 h at ∼ 16 : 00 and ∼ 11 : 00 h .
 Mortality and movement between patches was also assessed at this time .
+
 Experiment 3 : Migration at high densities : To determine the likelihood of a fish migrating to a bleached or dead coral when the density of fish on a live coral patch is very high , fish were stocked in high density onto live coral patches and given the choice of dead or bleached coral patches nearby .
 The configuration and composition of patches was exactly the same as above ( experiment 2 ) , with the exception that only the healthy Pocillopora coral head was stocked with 6 newly settled P . amboinensis .
 Fish were once again tagged for individual recognition and they were measured as above prior to release .
 Acclimation procedure was the same as experiment 2 and the location of fish were monitored over 48 hours as above .
 Experiment 3 was conducted 2 weeks after experiment 2 and at the same location .
+
 In experiment 2 the behaviour of fish on the three patch types within each cluster was assessed over 3 min periods .
 Behaviour of the fish was assessed by a scuba diver positioned 1.5 m away from the patch .
 A magnifying glass ( 4x ) aided the assessment of bite rates and space use over the 3 min focal animal sampling period .
@@ -68,11 +73,13 @@ Relative height on the patch was summarized as a cumulative proportion of the ti
 An aggression index was also created by adding the number of displays to the product of three times the number of chases / bites and then subtracting the number of avoidance events .
 A weighting factor of three was used in conjunction with the chases / bites as the influence of this behaviour on the spatial distribution of the recipients appeared to be many times greater than their response to displays .
 In experiment 3 , the dominance status of the individuals within each pair was also categorised from the ∼ 10 min observation period as dominant or subordinate , based on the number of displays , chases and avoidances .
+
 Bleaching ( the loss of zooxanthellae ) was induced by placing Pocillopora damicornis colonies in 500 l seawater aquaria and raising the temperature incrementally over 48 h from ambient ( 28 ° C ) to a sustained maximum of 32 ° C for 9 to 10 days .
 Aquaria were constantly aerated , flow maintained using 2 1220 l.hr − 1 powerheads and heated with two 300 W aquarium baton heaters under very low light levels .
 After colonies were visibly bleached , water temperature was lowered to ambient incrementally over 48 h .
 This protocol resulted in a live coral with few or no zooxanthellae that would stay bleached in the field for up to 2 months .
 Many ended up regaining zooxanthellae over a 6 to 8 week period .
+
 To examine the differences in behaviour between large and small fish among the three habitat treatments repeated measures ANOVAs ( RMANOVAs ) were conducted .
 In these analyses fish size ( large or small ) was used as the variable on which the repeated measure was undertaken ( effectively pairing the observations ; [42] ) .
 As there are only two levels of size the assumption of sphericity was irrelevant .

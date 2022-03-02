@@ -4,6 +4,7 @@ The protocol included a detailed description of efforts to prevent unnecessary s
 Specifically , humane endpoints were reached when at least one parameter was scored as severe .
 Animals ’ health and welfare was checked twice daily ( morning and evening ) by a clinical veterinarian .
 Pigs were also monitored 24h / day by videocameras that were checked regularly during the day .
+
 The experiment lasted from 11 April 2015 ( day 1 ) to 3 May 2015 ( day 23 ) , during which eight Landrace Large White healthy pigs from an authorized breeding centre ( four months old and weighing approximately 40 kg ) arrived together one day before and were enclosed together in one indoor pen maintained at constant temperature and humidity , with ad libitum access to food and water .
 They were continuously monitored using one camera in a fixed position .
 At least twice per day , animals were evaluated by veterinarians and technicians who monitored animal internal temperature , recorded clinical signs [11] , kept the pen clean and controlled feed supplies .
@@ -15,24 +16,29 @@ Subsequently , some animals showed mild clinical signs but first evident clinica
 After this day , all animals spent increasing amounts of time lying down until ultimately dying from the disease .
 The last animal died on day 23 .
 Based on this time course of infection , the experimental period was divided into 4 phases for analysis ( Fig 1 ) : ( 1 ) pre - infection ( days 1 - 11 ) , when animals were free of infection ; ( 2 ) infection ( days 12 - 15 ) , after animals were inoculated with ASF virus but with no ASF virus detected ; ( 3 ) qPCR detection ( days 16 - 18 ) , during which ASF virus was qPCR - detected in at least one animal ; and ( 4 ) clinical detection ( days 19 - 23 ) , when clinical signs of ASF were evident in at least one animal , until the end of the experiment .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0183793.g001 Timeline showing the four analytical phases of the experiment .
 The experiment began on day 1 ( kick off ) , and animals were inoculated with ASF virus on day 11 .
 On day 15 , six of eight animals tested positive for the virus by quantitative PCR .
 On day 18 , clinical signs of ASF became evident in five of eight animals .
 The experiment ended on day 23 .
+
 A total of 541 hours of video footage were taken using a single camera equipped with night - vision capability at a fixed position in an upper corner of the pen ( Fig 2A ) .
 Video footage was collected continuously throughout the 23 - day experiment .
 The room was artificially illuminated from 7 a.m . to 9 p.m . , while the camera recorded under night conditions from 9 p.m . to 7 a.m .
 The ‘ U ’ - shape and the limited size of the pen as well as the tall metal enclosure did not allow individual tracking of the animals .
 Since the fixed camera filmed the same background throughout , and light intensity remained fairly constant within the day and night periods , it was easy to distinguish between animals in motion and static background , despite the standard definition ( SD ) resolution of the video which might make subsequent motion detection less sensitive .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0183793.g002 A ) Original video frame ( all RGB channels ) .
 B ) The same frame in the red channel .
 C ) Region of interest in the red - channel frame used for motion analysis .
+
 Video was recorded at 6 frames per second ( 704 x 576 pixels ) in RGB 24 format , providing 24 bits in red , green and blue channels ( RGB ) for broad range of colour .
 We used the red channel for all analyses since it provided the best contrast for animal recognition ( see Fig 2B ) .
 In addition , we analysed only a region of interest in which all animals were always observable ( see Fig 2C ) .
+
 Animal movements were recorded and digitally processed through the Optical flow algorithm based on the Horn - Schunck methodology [13] implemented in Matlab .
 This algorithm estimates the speed and direction of moving objects between consecutive images based on the movement of brightness patterns [14] .
 This estimation process is described below .
@@ -61,6 +67,7 @@ Henceforth , all motion works were carried out throughout the new time series m 
 Figure identifier and caption : 10.1371/journal.pone.0183793.g003 Global motion mk and the corresponding moving average m ^ k for a randomly selected 2h of video footage .
 The moving average was performed over a window of K = 90 frames .
 The interval of time series boxed in red on the left correspond to the video image on the right , in which the animals were in motion .
+
 Activity budgets relate to the use of an animal ’ s time including moving , standing or lying , feeding , drinking , social and aggressive behaviours [21] .
 In this work , three types of motion were proposed to classify animal activity during the experiment : ( 1 ) baseline , when all animals were lying or sleeping , such that motion was minimal or absent ; ( 2 ) animal motion , when animals were walking , feeding or playing ; and ( 3 ) human - related motion , when veterinary practices were carried out .
 Animal movements sometimes increased in the presence of humans , and also movements of the humans themselves contributed to overall motion when they entered the region of interest being recorded .
@@ -80,6 +87,7 @@ To do this , we built a support vector machine ( SVM ) pairwise classifier in Ma
 To build an accurate SVM classifier , half of the Mr records in the pre - infection phase were randomly assigned to the so - called training dataset and the other half of records to the so - called testing dataset .
 To train the SVM model , we used the svmtrain command with the training dataset ; then , we evaluated the accuracy of the model using the svmclassify command with the testing dataset .
 Once the accuracy of the model was verified , it was then used to classify the remaining Mr records of the experiment .
+
 Changes in animal motion as a result of infection : We expected that the daily activity budget ( i.e. time spent lying / sleeping and feeding / walking ) would change after infection with ASF virus .
 To measure this reliably , we used the Wald - Wolfowitz runs test ( runstest command in Matlab ) at significance levels of 90 % , 95 % and 99 % , corresponding to respective p - values of less than 0.1 , 0.05 or 0.01 , which evaluated whether consecutive daily motion values were randomly distributed around the average value of the considered period .
 First , runs tests were performed during the pre - infection phase ( days 1 - 11 ) to verify random distribution of motion values around the average value .

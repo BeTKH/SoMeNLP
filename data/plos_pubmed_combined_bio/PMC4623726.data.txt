@@ -1,6 +1,7 @@
 Streptococcus agalactiaeAbstract
 Objective : to validate the content of the prevention protocol for early sepsis caused by
 Streptococcus agalactiaein newborns .
+
 Method :
 a transversal , descriptive and methodological study , with a quantitative
 approach .
@@ -11,14 +12,17 @@ checklist - which contained 7 items that represent the requisites to be met by t
 protocol .
 The validation of the content was achieved by applying the Content
 Validity Index .
+
 Result : in the judging process , all the items that represented requirements considered by the protocol obtained concordance within the established level ( Content Validity Index > 0.75 ) .
 Of 7 items , 6 have obtained full concordance ( Content Validity Index 1.0 ) and the feasibility item obtained a Content Validity Index of 0.93 .
 The global assessment of the instruments obtained a Content Validity Index of 0.99 .
+
 Conclusion :
 the validation of content that was done was an efficient tool for the adjustment of the protocol , according to the judgment of experienced professionals , which demonstrates the importance of conducting a previous validation of the
 instruments .
 It is expected that this study will serve as an incentive for the adoption of universal tracking by other institutions through validated
 protocols .
+
 Introduction
 The neonatal infection by the B group β - hemolytic Streptococcus ( EGB ) . or Streptococcus agalactiae , is considered an important problem of public health , being the main cause of early neonatal sepsis , the generalized infection that occurs on the first 48 hours of life , having a direct relationship with the gestational or intra - partum period , according to the definition by the Brazilian
 Ministry of Health .
@@ -66,6 +70,7 @@ HC / UFPE .
 Taken into consideration the importance of the adequacy of the protocol regarding the semantic and content aspects , the validation of the content by judges emerge as a tool to meet this requirement , because it allows professionals that are experienced in this area to provide significant collaborations to the protocol .
 Provided what was mentioned previously , this study had the goal of validating the content of the prevention protocol of the early sepsis caused by
 theStreptococcus agalactiaein newborns .
+
 Method
 This is a transversal , descriptive and methodological study with a quantitative
 approach , conducted at the HC / UFPE , an institution specialized in the care of highrisk
@@ -108,6 +113,7 @@ All the judges were informed about the goals of the research , being included on
 The ethical aspects were observed . with respect to the Resolution 466 / 2012 of the Brazilian National Health Council ( CNS ) .
 The data collection started after the approval of the project by the Research Ethics
 Committee of the Center of Health Sciences at the Federal University of Pernambuco ( ruling 487.861 ) .
+
 Results
 Initially , the sample included 20 judges .
 However , there were 5 exclusions : 2 for refusal in participating in all phases , 1 for inadequate filling of the form , 1 for not returning the material and 1 that abandoned .
@@ -115,19 +121,24 @@ This way , the sample was made up by 15
 judges , 8 obstetricians and 7 pediatricians .
 Table
 1shows the characterization of the judges .
+
 Data related to the identification of the judges , according to gender . experience and titration .
 Recife , PE , Brazil , 2013 .
+
 It can be observed in Table 1that among the participants there was the prevalence of the feminine gender ( 9 = 60 % ) .
 The experience years varied from 10 to 38 years , and 14 ( 93.5 % ) of the judges had an experience time greater than 10 years .
 Regarding the titration , 5 ( 33.3 % ) had a Master ' s degree and 2 ( 13.3 % ) had a PhD .
 As it was demonstrated in Table 2 , in the process of judging the requisites related to the protocol of prevention of the neonatal sepsis caused by EGB , after the first assessment which was done by the judges no item was deemed as inadequate .
 However , only the item relevance had total approval ( CVI 1.0 ) and the others required changes .
 It was observed that the items vocabulary , clarity and feasibility had a CVI below the established level ( CVI < 0.75 ) .
+
 First step of judgment made by the judges about the items of the protocol of prevention of the early infection by theStreptococcus
 agalactiaein a newborn .
 Recife , PE , Brazil , 2013 .
+
 - Second step of the judgment of the items of the protocol of prevention of the early infection by Streptococcus agalactiaein newborns .
 Recife , PE , Brazil , 2013 .
+
 When the protocol was submitted for a new analysis after its correction , considering the suggestions of the judges , all the items obtained concordance within the established level ( CVI > 0.75 ) .
 Of the 7 items , 6 obtained full concordance ( CVI = 1.0 ) and the item Feasibility obtained a CVI of 0.93 .
 The global assessment of the instruments had a
@@ -135,6 +146,7 @@ CVI of 0.99 , demonstrating concordance within the established level ( Table 3 )
 The most important questionings highlighted by the judges considered to be necessary for adjustments were related to the structure of the flowcharts , the adequacy of the
 vocabulary , the lack of description of the evidence levels , repeated information , the need for the elaboration of sentences more clearly and the inclusion of the diagram in the description of the prenatal conduct .
 For other questionings , clarifications were provided by personal contact established with the judge .
+
 Discussion
 Considering the titration of the judges and the minimum experience time of 10 years in almost all cases , adding that the HC / UFPE is a hospital - school in which the activities are together with the learning , research and extension inseparably , it is possible to state that it is an experienced group and it is inserted in a context that provides the opportunity for constant updating , suggesting that the judges possess the desirable qualification for the judgment of the protocol .
 The obstetrics nurses are qualified to provide care for low - risk pregnancies during the prenatal period , for normal childbirth without dystocia and in the puerperium , in health facilities or at home .
@@ -185,6 +197,7 @@ Given that , the promotion of the rational use of the antibiotics becomes import
 In the present study the protocol that was developed limited the chemo - prophylaxis , provided that in the pregnant women with a positive result for the culture this should only be indicated for the women colonized by the EGB or in the presence of asymptomatic bacteriuria , intra - partum fever , or a history of newborns stricken by the infection by the Streptococcus agalactiaein previous births .
 It is worth highlighting that this study presented a limitation , provided that the validity of the content is a subjective process , being necessary a future validation through additional clinical application .
 This fact remits to the need for the conduction of future researches , with the intent of verifying the results of the application of the protocol in the neonatology and obstetrics sectors of the HC / UFPE .
+
 Conclusion
 The validation of the content done in this study was an effective tool to assess the adequacy of the protocol , in agreement with the judgment emitted by professionals with a
 wide experience in their area .

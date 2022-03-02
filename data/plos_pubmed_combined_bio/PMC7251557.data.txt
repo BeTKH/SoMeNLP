@@ -3,16 +3,20 @@ Detection of COVID - 19 cases ’ accuracy is posing a conundrum for scientists 
 As of April 23 , 2020 , 2.7 million cases have been confirmed , over 190,000 people are dead , and about 750,000 people are reported recovered .
 Yet , there is no publicly available data on tests that could be missing infections .
 Complicating matters and furthering anxiety are specific instances of false - negative tests .
+
 Methods
 We developed a deep learning model to improve accuracy of reported cases and to precisely predict the disease from chest X - ray scans .
 Our model relied on convolutional neural networks ( CNNs ) to detect structural abnormalities and disease categorization that were keys to uncovering hidden patterns .
 To do so , a transfer learning approach was deployed to perform detections from the chest anterior - posterior radiographs of patients .
 We used publicly available datasets to achieve this .
+
 Results
 Our results offer very high accuracy ( 96.3 % ) and loss ( 0.151 binary cross - entropy ) using the public dataset consisting of patients from different countries worldwide .
 As the confusion matrix indicates , our model is able to accurately identify true negatives ( 74 ) and true positives ( 32 ) ; this deep learning model identified three cases of false - positive and one false - negative finding from the healthy patient scans .
+
 Conclusions
 Our COVID - 19 detection model minimizes manual interaction dependent on radiologists as it automates identification of structural abnormalities in patient ’ s CXRs , and our deep learning model is likely to detect true positives and true negatives and weed out false positive and false negatives with > 96.3 % accuracy .
+
 Detection of COVID - 19 cases ’ accuracy is posing a conundrum for scientists , physicians , and policy - makers [ 1 , 2 ] .
 As of April 23 , 2020 , 2.7 million cases have been confirmed , over 190,000 people are dead , and about 750,000 people are reported recovered [3] .
 Yet , there is no publicly available data on tests that could be missing infections .
@@ -37,12 +41,14 @@ It is faster , simpler , cheaper , and less harmful than X - ray computed tomogr
 However , detection of the COVID - 19 disease requires manual interaction from expert radiologists and at times the structural abnormalities from the patient CXRs are not visible to the human eye [11] .
 Additionally , due to the growing number of patients and lack of clinical staff , accurate and automatic detection of the COVID - 19 disease from the patient CXRs may be of significant value .
 Therefore , in this study , we developed a CNN - based model to perform COVID - 19 detections from chest radiographs ( Fig [1] . ) .
+
 Network architecture
 One major limitation of training CNNs for COVID - 19 detection is the lack of publicly available and expert labeled images .
 Therefore , in this study , a transfer learning approach was deployed to design a CNN - based model to perform detections from the chest anterior - posterior radiographs of patients .
 Previous studies in the literature have reported that transfer learning , despite using a different dataset , is an effective low - level feature detector and it has the potential to reduce the risk of overfitting [ 12 , 13 ] .
 The proposed model was a modification of the VGG - 19 classifier previously trained on ImageNet , a very large dataset containing more than one million images [14] .
 A trainable multilayer perceptron was added on top of the pre - trained VGG - 19 model to train and perform detections on our datasets ( Fig [1] . )
+
 Datasets
 We use publicly available frontal chest X - ray images from 181 patients [ 7 , 8 ] .
 The dataset consisted of patient scans from Italy , Taiwan , China , Australia , Israel , among other locations and was labeled as positive COVID - 19 detection from expert radiologists .
@@ -50,6 +56,7 @@ The images were collected from a collection of recently published papers and art
 Images in this dataset contain additional information with regards to the patients ’ age , gender , survival , and location .
 Moreover , the healthy chest X - ray scans used for training in this study were extracted from the public chest X - ray database provided by the NIH clinical center [8] .
 We randomly selected 364 images from the pool of patient scans ( > 10,000 ) labeled as “ no finding ” to achieve an overall healthy - COVID - 19 ratio of approximately 1 : 2 .
+
 Network training
 To get results , first , we clone COVID - 19 and non - COVID - 19 X - ray scan data .
 The parameters of this data include patient ’ s ID , sex , age , diagnosis ( COVID - 19 or not ) , survival ( yes or no ) , scan view ( e.g. , posteroanterior , supine anteroposterior ) , timestamp , and location .
@@ -57,6 +64,7 @@ Next , we initialize the variables for training by setting initial learning to 0
 We split train , validation , and test data in the ratio of 80 : 20 : 20 ( number of healthy , COVID - 19 scans : train ( 233 , 115 ) , validation ( 56 , 32 ) , test ( 75 , 34 ) ) .
 Prior to training , the patient scans were normalized to range ( 0 , 1 ) and resized to 512 × 512 pixel dimensions .
 We trained the model on a Tesla K80 GPU ( Nvidia , Santa Clara , USA ) using early stopping and learning rate reduction on plateau .
+
 Results
 COVID - 19 patients ’ age ranged from 10 to 90 years ; offset , that is the number of days since the start of symptoms or hospitalization for each image , ranged from zero to 35 days ; just over 65 of the patients identified as male , and approximately 45 identified as female .
 While we acknowledge the limited sample size , readers may want to appreciate the challenges and sensitivity associated with accessing X - ray scans of COVID - 19 patients .
@@ -65,6 +73,7 @@ As the confusion matrix below ( Fig [2] . ) indicates , our model is able to acc
 Findings from the test set using predicted by the proposed deep learning model .
 Precision , true positives / ( true positives + false positives ) ; Recall , true positives / ( true positives + false negatives ) ; F - score , combination of precision and recall using the harmonic mean ( overall classification accuracy ) .
 Overall weighted average model accuracy , 96.3 % , binary cross - entropy loss 0.151
+
 Discussion
 Our research examines a method to improve accuracy in COVID - 19 detection .
 The authors deploy a transfer learning approach to design a CNN - based model to perform COVID - 19 detections from the chest anterior - posterior radiographs of patients .

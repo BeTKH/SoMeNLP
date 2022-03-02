@@ -5,6 +5,7 @@ X - ray photoelectron spectroscopy ( XPS ) data indicated an X - ray - induced s
 The cytotoxic activity was assessed in vitro on a panel of human cancer cell lines , also including oxaliplatin - resistant cancer cells , and compared with that of the reference compounds cisplatin and oxaliplatin ; all IC values were remarkably lower than those elicited by cisplatin and somewhat lower than those of oxaliplatin .
 Compared to the other Pt ( IV ) compounds of the series , the bis - benzoate derivative was by far ( 5 - 8 times ) the most cytotoxic showing that low reduction potential and high lipophilicity are essential for good cytotoxicity .
 Interestingly , all the complexes proved to be more active than cisplatin and oxaliplatin even in three - dimensional spheroids of A431 human cervical cancer cells .
+
 1 .
 Introduction
 The clinical efficacy demonstrated by the three platinum - based drugs currently approved by the U.S .
@@ -25,6 +26,7 @@ Many studies have shown that Pt ( IV ) complexes have better pharmacological eff
 In addition , the choice of the two additional axial ligands makes it possible to modulate the electrochemical properties of the complexes ( particularly the reduction potential from Pt ( IV ) to Pt ( II ) ) and , at the same time , to exploit the “ drug targeting and delivery ” concept through a careful selection of the ligands ’ functional groups [14,15] .
 Furthermore , Pt ( IV ) prodrugs can be amenable to oral administration thanks to their greater stability and solubility in water [16] .
 In this paper , we describe the synthesis , structural characterization , redox behavior , and cytotoxic activity towards a panel of human tumor cell lines of six Pt ( IV ) complexes with the racemic DACHEX ligand : cis , trans , cis - [ Pt ( OXA ) ( OH ) ( DACHEX ) ] ( 1 ) , cis , trans , cis - [ Pt ( OXA ) ( AcO ) ( DACHEX ) ] ( AcO = acetate ) ( 2 ) , cis , trans , cis - [ Pt ( OXA ) ( BzO ) ( DACHEX ) ] ( BzO = benzoate ) ( 3 ) , cis , trans , cis - [ Pt ( OXA ) Cl ( DACHEX ) ] ( 4 ) , cis , trans , cis - [ Pt ( OXA ) ( AcO ) Cl ( DACHEX ) ] ( 5 ) , and cis , trans , cis - [ Pt ( OXA ) ( OH ) Cl ( DACHEX ) ] ( 6 ) .
+
 2 .
 Results
 2.1 .
@@ -90,6 +92,7 @@ Moreover , the broad signal that resonates at 1.03 ppm was assigned to the hydro
 Table 2 reports the C chemical shift values also for compound 6 .
 The C NMR signals are influenced by the asymmetry of the complex with respect to the equatorial plane with two peaks at 125.4 and 125.2 ppm for the vinylic carbons , two signals at 60.2 and 59.3 ppm for the methynic carbons , and two signals at 33.1 and 32.6 ppm for the methylenic carbons ( Figure S10 ) .
 Similar to 4 and 5 , complex 6 also underwent reduction followed by solvation in DMSO .
+
 2.2 .
 Lipophilicity of the Complexes
 Platinum ( IV ) pro - drugs have the advantage that their physicochemical properties can be tuned by choosing appropriate axial ligands .
@@ -103,6 +106,7 @@ Given the high hydrophilicity of the DACHEX ligand , the logP values of all Pt (
 As expected , the symmetric Pt ( IV ) complexes have logP values that decreased in the order 3 > 4 > 2 > 1 ( − 0.26 , − 1.65 , − 2.69 , and − 3.05 , respectively ; Table 3 ) in accordance with the decreasing order of lipophilicity of the coordinated axial ligands ( benzoate > chloride > acetate > hydroxide , as simulated by the specific software Alogps 2.1 ; www.vcclab.org ) .
 The unsymmetrical complexes 5 and 6 had logP values of − 2.03 and − 2.39 , which are also in line with the average lipophilicity of the corresponding axial ligands .
 It should be noted that only compounds 3 , 4 , and 5 were more lipophilic than the Pt ( II ) precursor complex [ Pt ( OXA ) ( DACHEX ) ] , while compound 6 had nearly the same lipophilicity ( logP of − 2.39 to be compared with logP of − 2.43 for [ Pt ( OXA ) ( DACHEX ) ] ) and compounds 1 and 2 were less lipophilic than the Pt ( II ) precursor complex ( logP of − 3.05 and − 2.69 , respectively ) .
+
 2.3 .
 Cyclic Voltammetry
 The electrochemical characterization of compounds 1 - 6 , performed by using cyclic voltammetry ( CV ) , was carried out with the aim of determining the cathodic reduction potentials in aqueous solution ( E ) .
@@ -119,6 +123,7 @@ For the asymmetric complexes , the average value for the two axial ligands was c
 After excluding the hydroxido - chlorido complex 6 , the fitting showed a very good correlation ( adjusted R = 0.94698 ) with the value of the average total electronegativity χ ( Supplementary material Figure S11 ) .
 Indeed , unexpectedly , the asymmetric complex 6 , having one chlorido and one hydroxido substituent in the axial positions , had the highest reduction potential ( Ep = − 0.48 V ) , even greater than that of compound 4 .
 We are still investigating this unexpected result .
+
 2.4 .
 Characterization of the Surface Reduction
 The Pt ( IV ) complexes were also characterized by X - ray photoelectron spectroscopy ( XPS ) in order to obtain information on the surface chemical composition and on the platinum speciation .
@@ -130,6 +135,7 @@ The same behavior was observed for all compounds 1 - 6 ( overlays of the Pt4f XP
 The Pt ( IV ) / Pt ( II ) relative abundance varies from case to case ; moreover , if the X - ray degradation is monitored after 30 min exposure to the X - ray beam , an increase of the Pt ( II ) relative abundance is observed ( Figure 8b ) .
 These results clearly demonstrate the propensity of these Pt ( IV ) complexes to undergo reduction , and how the reduction occurring on the surface is dramatically enhanced by X - ray irradiation .
 Interestingly , both the initial Pt ( IV ) / Pt ( II ) relative abundance and the X - ray induced reduction were found to correlate with the reduction potentials obtained by cyclic voltammetry ( Table 4 ) .
+
 2.5 .
 Cytotoxicity Assays
 The in vitro cytotoxic activities of compounds 1 - 6 were assayed on a panel of human cancer cell lines containing examples of pancreatic ( PSN - 1 ) , colon ( HCT - 15 and LoVo ) , cervical ( A431 ) , and ovarian ( 2008 ) cancers .
@@ -167,6 +173,7 @@ Finally , the most cytotoxic bis - benzoate compound 3 was also the most effecti
 By comparing uptake results with cytotoxicity data , a direct and linear correlation was found between the cytotoxic activity and the cellular uptake ( plot a ’ in Figure 9 , R = 0.95 ) .
 Similarly , a linear correlation was found between cellular uptake and DNA platination levels ( plot b ’ in Figure 9 , R = 0.98 ) .
 However , no correlation was found between logP and cellular uptake or between logP and reduction potential ( Figure S12 ) .
+
 3 .
 Materials and Methods
 3.1 .
@@ -177,6 +184,7 @@ H and C chemical shifts were referenced using the internal residual peak of the 
 Electrospray ionisation mass spectrometry ( ESI - MS ) was performed with an electrospray interface and an ion trap mass spectrometer ( 1100 Series LC / MSD Trap system Agilent , Palo Alto , CA ) .
 Inductively Coupled Plasma Atomic Emission analyses were performed with an ICP - AES ThermoScientific iCap 6000 Series spectrometer ( ICAP 6300 with dual view , empowered by iTeva software ; Thermo Scientific , Waltham , MA , USA ) .
 [ Pt ( OXA ) ( DACHEX ) ] and PhICl [10] were synthesized according to previously reported procedures .
+
 3.2 .
 Synthesis and Characterization of Platinum Complexes
 3.2.1 . cis , trans , cis - [ Pt ( OXA ) ( OH ) ( DACHEX ) ] ( 1 )
@@ -191,7 +199,9 @@ ESI - MS : calculated for CHNOPtNa , [ 1 + Na ] : 452.0397 . found : / 452.0372 
 H - NMR ( DO ) : 5.53 ( 2H , CH ) , 3.23 ( 2H , CH ) , 2.81 ( 2H , CH ) , 2.51 ( 2H , CH ) ppm .
 H - NMR ( DMSO - d ) : 7.79 ( 2H , NH ; J = 56 Hz ) 6.91 ( 2H , NH ; J = 65 Hz ) 5.40 ( 2H , CH ) , 2.80 ( 2H , CH ) , 2.49 ( 2H , CH ) , 2.37 ( 2H , CH ) ppm .
 C - NMR ( DMSO - d ) : 164.7 , 124.3 , 57.1 , 30.9 ppm .
-The numbering of protons is reported in Figure 1 . 3.2.2 . cis , trans , cis - [ Pt ( OXA ) ( AcO ) ( DACHEX ) ] ( AcO = acetate = OOCCH ) ( 2 )
+The numbering of protons is reported in Figure 1 .
+
+3.2.2 . cis , trans , cis - [ Pt ( OXA ) ( AcO ) ( DACHEX ) ] ( AcO = acetate = OOCCH ) ( 2 )
 cis , trans , cis - [ Pt ( OXA ) ( OH ) ( DACHEX ) ] ( 40 mg , 0.0932 mmol ) was suspended in 6.7 mL of acetic anhydride and the reaction mixture , placed in a flask equipped with a condenser , was kept under magnetic stirring at 80 ° C for 16 h .
 The suspension was then dried under reduced pressure and the residue , treated with a cold mixture of water and acetone ( 0.50 mL ; 1 : 1 , v / v ) , was separated by filtration of the mother liquor , washed with ether and dried .
 Yield 54 % ( 26 mg , 0.051 mmol ) .
@@ -200,7 +210,9 @@ Found : / 536.0591 .
 H - NMR ( DO ) : 5.52 ( 2H , CH ) , 3.31 ( 2H , CH ) , 2.81 ( 2H , CH ) , 2.50 ( 2H , CH ) , 2.08 ( 6H , CH ) ppm .
 H - NMR ( DMSO - d ) : 8.53 ( 2H , NH ) 8.33 ( 2H , NH ) 5.43 ( 2H , CH ) , 2.92 ( 2H , CH ) , 2.61 ( 2H , CH ) , 2.34 ( 2H , CH ) , 1.95 ( 6H , CH ) .
 C - NMR ( DMSO - d ) : 178.3 , 163.3 , 124.3 , 57.8 , 31.5 , 22.9 .
-The numbering of protons is reported in Figure 2 . 3.2.3 . cis , trans , cis - [ Pt ( OXA ) ( BzO ) ( DACHEX ) ] ( BzO = benzoate = OOC - CH ) ( 3 )
+The numbering of protons is reported in Figure 2 .
+
+3.2.3 . cis , trans , cis - [ Pt ( OXA ) ( BzO ) ( DACHEX ) ] ( BzO = benzoate = OOC - CH ) ( 3 )
 cis , trans , cis - [ Pt ( OXA ) ( OH ) ( DACHEX ) ] ( 50 mg , 0.121 mmol ) was suspended in 4 mL of acetone .
 Pyridine was added to the suspension ( 0.403 mL , 5 mmol ) , followed by a solution of benzoylchloride ( 0.37 mL ) in 6 mL of acetone .
 The reaction was refluxed , in the dark and under magnetic stirring , for 4 h .
@@ -211,7 +223,9 @@ Found : / 660.0889 .
 H - NMR ( acetone - d ) : 9.08 ( 2H , NH ) , 8.29 ( 2H , NH ) , 7.92 ( 4H , CH ) , 7.55 ( 4H , CH ) , 7.43 ( 2H , CH ) , 5.55 ( 2H , CH ) , 3.55 ( 2H , CH ) , 2.99 ( 2H , CH ) , 2.65 ( 2H , CH ) ppm .
 H - NMR ( DMSO - d ) : 8.69 ( 2H , NH ) 8.32 ( 2H , NH ) , 7.87 ( 4H , CH ) , 7.56 ( 4H , CH ) , 7.45 ( 2H , CH ) , 5.47 ( 2H , CH ) , 3.13 ( 2H , CH ) , 2.68 ( 2H , CH ) ; CH overlaps with residual solvent peak and was not determined .
 C - NMR ( acetone - d ) : 176.0 , 163.6 , 133.4 , 133.3 , 130.6 , 129.1 , 125.3 , 60.1 , 33.4 ppm .
-The numbering of protons is reported in Figure 3 . 3.2.4 . cis , trans , cis - [ Pt ( OXA ) Cl ( DACHEX ) ] ( 4 )
+The numbering of protons is reported in Figure 3 .
+
+3.2.4 . cis , trans , cis - [ Pt ( OXA ) Cl ( DACHEX ) ] ( 4 )
 Complex 4 was prepared by dropwise addition of PhICl ( 23.1 mg , 0.084 mmol , previously dissolved in 2 mL of acetonitrile ) to a suspension of [ Pt ( OXA ) ( DACHEX ) ] ( 30 mg , 0.076 mmol ) in 3 mL of acetonitrile .
 The mixture , placed in a flask equipped with a condenser , was kept under magnetic stirring at 60 ° C for 1 h .
 The pale yellow precipitate that formed was filtered , washed with ether ( 3 × 0.2 mL ) , and dried under vacuum .
@@ -220,7 +234,9 @@ ESI - MS : calculated for CHNOClPtNa , [ 4 + Na ] : 488.9671 . found : / 488.968
 H - NMR ( acetone - d ) : 7.75 ( 2H , NH ) , 6.98 ( 2H , NH ) , 5.59 ( 2H , CH ) , 3.47 ( 2H , CH ) , 2.97 ( 2H , CH ) , 2.13 ( 2H , CH ) ppm .
 H - NMR ( DMSO - d ) : 8.40 ( 2H , NH ) 7.69 ( 2H , NH ) 5.39 ( 2H , CH ) , 2.87 ( 2H , CH ) , 2.55 ( 2H , CH ) , CH overlaps with the residual solvent signal and was not determined .
 C - NMR ( acetone - d ) : 163.4 , 125.0 , 60.0 , 32.8 ppm .
-The numbering of protons is reported in Figure S5 . 3.2.5 . cis , trans , cis - [ Pt ( OXA ) ( AcO ) Cl ( DACHEX ) ] ( 5 )
+The numbering of protons is reported in Figure S5 .
+
+3.2.5 . cis , trans , cis - [ Pt ( OXA ) ( AcO ) Cl ( DACHEX ) ] ( 5 )
 Complex 5 was prepared by a modification of oxidative chlorination reactions reported in the literature [33,34] .
 N - chloro - succinimide ( 18 mg , 0.133 mmol ) was dissolved in 2 mL of acetic acid , then added to a solution containing [ Pt ( OXA ) ( DACHEX ) ] ( 50 mg , 0.126 mmol ) previously dissolved in 2 mL of the same solvent .
 The reaction mixture was kept at room temperature , in the dark , for 4 h .
@@ -232,7 +248,9 @@ Found : / 513.0143 .
 H - NMR ( CDOD ) : 5.49 ( 2H , CH ) , 3.17 ( 1H , CH ) , 3.11 ( 1H , CH ) , 2.71 ( 2H , CH ) , 2.49 ( 1H , CH ) , 2.39 ( 1H , CH ) , 2.06 ( 3H , CH ) ppm .
 H - NMR ( DMSO - d ) : 8.52 ( 2H , NH ) 7.76 ( 2H , NH ) 5.41 ( 2H , CH ) , 2.89 ( 2H , CH ) , 2.59 ( 2H , CH ) , 2.13 ( 2H , CH ) , 1.97 ( 3H , CH ) .
 C - NMR ( CDOD ) : 182.1 ( acetate carboxylic carbon ) , 166.7 , 125.4 , 125.2 , 60.3 , 60.2 , 33.1 , 32.9 , 23.9 ( CH ) ppm .
-The numbering of protons is reported in Figure 4 . 3.2.6 . cis , trans , cis - [ Pt ( OXA ) ( OH ) Cl ( DACHEX ) ] ( 6 )
+The numbering of protons is reported in Figure 4 .
+
+3.2.6 . cis , trans , cis - [ Pt ( OXA ) ( OH ) Cl ( DACHEX ) ] ( 6 )
 Complex 6 was prepared with a synthetic procedure similar to that reported for complex 5 .
 Briefly , a suspension of [ Pt ( OXA ) ( DACHEX ) ] ( 50 mg , 0.126 mmol ) in 16 mL of water was treated with N - chloro - succinimide ( 18.6 mg , 0.139 mmol ) .
 The mixture was left under magnetic stirring for 3 h at room temperature in the dark and then filtered .
@@ -244,7 +262,9 @@ Found : m / z 471.0000 .
 H - NMR ( DMSO - d ) : 8.11 ( 1H , NH ) , 7.89 ( 1H , NH ) , 7.27 ( 1H , NH ) , 7.14 ( 1H , NH ) , 5.40 ( 2H , CH ) , 3.04 ( 2H , CH ) , 2.84 ( 2H , CH ) , 2.40 ( 2H , CH ) , ppm .
 H - NMR ( CDOD ) : 5.48 ( 2H , CH ) , 3.13 ( 1H , CH ) , 3.07 ( 1H , CH ) , 2.68 ( 2H , CH ) , 2.48 ( 1H , CH ) and 2.42 ( 1H , CH ) ppm .
 C - NMR ( CDOD ) : 167.1 , 125.4 , 125.2 , 60.2 , 59.3 , 33.1 ( J = 37.6 Hz ) , 32.6 ( J = 36.1 Hz ) ppm .
-The numbering of protons is reported in Figure 5 . 3.3 .
+The numbering of protons is reported in Figure 5 .
+
+3.3 .
 LogP Determination
 The hydrophobicity ( logP ) of the series of compounds was determined using the shake - flask method .
 Aqueous ( 0.15 M KCl in MilliQ water , 100 mL ) and organic ( n - octanol , 100 mL ) phases were mixed together for 72 h to allow saturation of both phases .
@@ -252,6 +272,7 @@ The Pt compounds ( ca . 1 mg ) were dissolved in the aqueous phase ( 1.0 mL ) at
 The two phases were mixed for 30 min using a magnetic stirrer set at 600 rpm .
 Samples were centrifuged ( 1500 g , 10 min ) to separate the two phases and the platinum contents of the organic and aqueous phases were determined by ICP - MS .
 The value of logP was calculated as the logarithm of the ratio between the Pt concentration in the organic phase and the aqueous phase .
+
 3.4 .
 Electrochemical Measurements
 Cyclic voltammetry ( CV ) measurements were carried out with a potentiostat CHI 1230B ( CH Instruments , Inc . , Austin , TX , USA ) in a standard three - electrode electrochemical cell .
@@ -261,6 +282,7 @@ All the measurements , conducted in triplicate , were carried out in buffered aq
 A blank solution ( without Pt ( IV ) complex ) was also tested .
 All the peak potentials were measured with a scan rate of 0.020 V s ; the initial potential was chosen equal to the open - circuit potential and the scan direction was negative .
 All the CV plots were acquired after an equilibration time of 2 min in order to make the GC surface reproducible .
+
 3.5 .
 Surface Chemical Characterization
 X - ray Photoelectron Spectroscopy ( XPS ) analyses were run on a PHI 5000 Versa Probe II Scanning XPS Microprobe spectrometer ( ULVAC PHI Inc . , Kanagawa , Japan ) .
@@ -269,7 +291,9 @@ Wide scan and detailed spectra ( Pt4f , C1s , Cl2p , N1s , O1s ) were acquired i
 An electron gun was used for charge compensation ( 1.0 V , 20.0 μ A ) .
 Due to the X - ray sensitivity of Pt ( IV ) complexes , the Pt4f spectral region was acquired first .
 X - ray degradation kinetics experiments were performed analyzing the same sample area after 30 min .
-Data processing was performed by using the MultiPak software v. 9.8.0.19 . 3.6 .
+Data processing was performed by using the MultiPak software v. 9.8.0.19 .
+
+3.6 .
 Cellular Cultures
 Human colon ( HCT - 15 and LoVo ) and pancreatic ( PSN - 1 ) carcinoma cell lines were obtained from the American Type Culture Collection ( ATCC , RocKville , MD ) .
 The 2008 human ovarian cancer cells were kindly provided by Prof .
@@ -288,13 +312,16 @@ After 24 h , the medium was removed and replaced with a fresh one containing the
 Triplicate cultures were established for each treatment .
 After 72 h , each well was treated with 10 μ L of a 5 mg · mL MTT ( 3 - ( 4 , 5 - dimethylthiazol - 2 - yl ) - 2 , 5 - diphenyltetrazolium bromide ) saline solution and , after 5 h of incubation , 100 μ L of a sodium dodecylsulfate ( SDS ) solution in HCl 0.01 M were added .
 Following an overnight incubation , the inhibition of cell growth induced by the tested complexes was evaluated by measuring the absorbance of each well at 570 nm using a Bio - Rad 680 microplate reader ( Bio - Rad Laboratories S.r .l . , Segrate ( MI ) , Italy ) .
+
 3.6.2 .
 Spheroid Cultures
 Spheroid cultures were obtained by seeding 2.5 × 10 A431 cancer cells / well in a round bottom non - treated tissue culture 96 well - plate ( Greiner Bio - one , Kremsmunster , Austria ) in phenol red free RPMI - 1640 medium ( Sigma Chemical Co . ) containing 10 % fetal calf serum ( FCS ) and supplemented with 20 % methyl cellulose stock solution .
+
 3.6.3 .
 Acid Phosphatase ( APH ) Assay
 An APH modified assay was used for determining cell viability in 3D spheroids , as previously described [36] .
 IC values were calculated with a four parameter logistic ( 4 - PL ) model .
+
 3.6.4 .
 Cellular Accumulation of Pt
 A431 cells ( 2 · 10 ) were seeded in 75 cm flasks in growth medium ( 20 mL ) .
@@ -305,6 +332,7 @@ The samples were treated with highly pure nitric acid ( 1 mL ; Pt ≤ 0.01 mg kg
 Subsequently , samples were submitted to standard mineralization procedures .
 Samples were analyzed for platinum by using a Varian AA Duo graphite furnace atomic absorption spectrometer ( Varian , Palo Alto , CA ; USA ) at a wavelength of 324.7 nm .
 The calibration curve was obtained using known concentrations of standard solutions purchased from Sigma Chemical Co .
+
 3.6.5 .
 DNA Platination
 A431 cells ( 5 ∙ 10 ) were seeded in 10 cm Petri dishes in 10 mL of culture medium .
@@ -312,6 +340,7 @@ Subsequently , cells were treated with tested complexes for 24 h .
 DNA was extracted and purified by a commercial spin column quantification kit ( Qiagen DNeasy Blood and Tissue Kit ) .
 Only highly purified samples ( A260 / A230 ≅ 1.8 and A280 / A260 ≅ 2.0 ) were included for analysis to avoid any artefacts .
 The samples were completely dried and re - dissolved in 200 μ L of Milli - Q water ( 18.2 M Ώ ) for at least 20 min at 65 ° C in a shaking thermo - mixer , then mineralized and analyzed for total Pt content by GF - AAS as described above .
+
 4 .
 Conclusions
 Based on the preliminary results obtained for the Pt ( II ) complex [ Pt ( OXA ) ( DACHEX ) ] ( an oxaliplatin - analogue possessing a double bond in the 4 - position of the 1 , 2 - diaminocyclohexane ring ) , which proved to have a cytotoxic activity better than that of cisplatin and comparable to or better than that of oxaliplatin and to be equally active against LoVo and LoVo - OXP cells , in this paper we have extended the investigation to corresponding Pt ( IV ) derivatives having different ligands in the axial positions .

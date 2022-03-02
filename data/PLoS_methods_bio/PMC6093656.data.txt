@@ -11,6 +11,7 @@ Therefore , we considered patients initiated on ART from January 1 , 2006 , when
 We extracted several variables including socio - demographic factors , clinical and laboratory data like CD 4 counts , viral load , BMI at initiation of ART , WHO clinical staging , ART start date and ART regimen .
 Patients in the IeDEA database were eligible for analysis if they were aged ≥ 18 years old , and had initiated ART on or before December 31 , 2012 .
 Laboratory biomarkers such as CD 4 counts , Complete Blood Count and Hemoglobin for patients at initiation of ART were collated with the patients ’ routine follow - up visits information .
+
 The data were cleaned to ensure consistency in the coding of variables and for missing data .
 Patients with missing age were excluded from the analysis .
 Patients who were missing other variables were included in the analysis but were automatically excluded in any analysis where the missing variable was involved .
@@ -28,6 +29,7 @@ Immunological response was a secondary outcome and was classified by dichotomizi
 The patients with CD 4 cell count less than 350 were classified as having a poor immunological outcome .
 A multi variable analysis was done using Poisson regression modeling with the predictor variables that were considered confounders entered into the model simultaneously , using a cut off of p < 0.1 in the bivariate analysis as consideration for inclusion in the multiple regression model .
 All analyses were completed using STATA version 11 ( College Station , TX ) .
+
 The study protocols were approved by the Department of Community Health , the HIV clinic data sharing committee , the Faculty of Medicine Research ethics committee and the Mbarara University of Science and Technology Research Ethics Committee .
 All the datasets extracted from the IeDEA database were kept under password lock .
 Data were de - identified and codes instead of names were used and all the information was kept confidential .
