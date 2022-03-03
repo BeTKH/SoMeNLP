@@ -395,7 +395,7 @@ class DataHandler():
                     text.append(clean_line)
                 elif read_empty:
                     text.append([])
-                    
+
         return contextWindow(text, bef, aft)
 
     def _read_feature_file(self, path):
@@ -584,7 +584,7 @@ class DataHandler():
         
         return input_ids, tags_ids, attention_masks, length
 
-    def load_input(self):
+    def load_input(self, bef, aft):
         for dataset, dataset_setup in self.data_config['sets'].items():
             for sub_dataset in dataset_setup:
 
@@ -605,9 +605,9 @@ class DataHandler():
                 sub_dataset['relations'] = []
                 for file_config in sub_dataset['all_files']:
                     if self.data_file_extension:
-                        sub_dataset['sentences'].extend(self._read_text_file(file_config[self.data_file_extension]))
+                        sub_dataset['sentences'].extend(self._read_text_file(file_config[self.data_file_extension], bef, aft))
                     if self.label_file_extension:
-                        sub_dataset['tags'].extend(self._read_text_file(file_config[self.label_file_extension]))
+                        sub_dataset['tags'].extend(self._read_text_file(file_config[self.label_file_extension], bef, aft))
                     if self.feature_file_extension:
                         sub_dataset['features'].extend(self._read_feature_file(file_config[self.feature_file_extension]))
                     if self.relation_file_extension:
