@@ -5,7 +5,7 @@
                 "data/plos_pubmed_combined/plos_pubmed_combined_bio_train"
             ],
             "name": "train_0",
-            "epochs": 150,
+            "epochs": 80,
             "optimizer": {
                 "reset": false,
                 "lr": 5e-6
