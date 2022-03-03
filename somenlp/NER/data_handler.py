@@ -274,7 +274,155 @@ class DataHandler():
         text_prepro = art.get_tokenized_sentences(text_in)
         return text_prepro
 
-    def _read_text_file(self, path, read_empty=False):
+    def _read_text_file(self, path, bef, aft, read_empty=False):
+
+        def add_neighbours(*sentcs):
+        
+            # unpack list of sentcs passed
+            lis_sents = list(sentcs)
+        
+            joined_tokens = []
+
+            for i in range(len(lis_sents)):
+            
+                joined_tokens.extend(lis_sents[i].split())
+            
+                joined_sent = ' '.join(joined_tokens)
+        
+            return joined_sent
+
+        def contextWindow(text, bef, aft):
+            # 0B, OA --- no change
+            if (bef == 0) and (aft == 0):
+                return text
+            
+            # 0B, 1A --- 2 conditions  
+            elif (bef == 0) and (aft == 1):
+                contxt_txt = []
+                for i in range(len(text)):
+                    # 0B, 1A
+                    if (i >= 0) and (i < len(text)-1):
+                        contxt_txt.append( add_neighbours(text[i], text[i+1])) 
+                        
+                    # 0B, 0A
+                    elif i == len(text)-1:
+                        contxt_txt.append(text[i]) 
+                        
+                return contxt_txt
+                
+            #OB, 2A --- 3 conditions
+            elif (bef == 0) and (aft == 2):
+                contxt_txt = []
+                for i in range(len(text)):
+                    #OB, 2A
+                    if (i >= 0) and (i <len(text)-2):
+                        contxt_txt.append( add_neighbours(text[i], text[i+1], text[i+2]))
+                        
+                    elif i == (len(text)-2):
+                        contxt_txt.append( add_neighbours(text[i], text[i+1] ))
+                        
+                    elif i == (len(text)-1):
+                        contxt_txt.append(text[i])
+                        
+                return contxt_txt
+            
+            
+            #1B, 0A --- 2 conditions
+            elif (bef == 1) and (aft == 0):
+                contxt_txt = []
+                for i in range(len(text)):
+                    #0B, 0A
+                    if (i == 0):
+                        contxt_txt.append(text[i])
+                        
+                    elif (i >0):
+                        contxt_txt.append(add_neighbours(text[i-1], text[i]))
+                        
+                return contxt_txt
+        
+            #1B, 1A --- 3 conditions 
+            elif ( bef == 1 ) and ( aft == 1):
+                contxt_txt = []
+                for i in range(len(text)):
+                    if i == 0:   # 0B, 1A
+                        contxt_txt.append(add_neighbours (text[i], text[i+1]))
+                        
+                    elif (i > 0) and ( i < len(text)-1):  # 1B ,1A
+                        contxt_txt.append(add_neighbours(text[i-1], text[i], text[i+1]))
+                        
+                    elif (i == len(text)-1):  #1B, 0A
+                        contxt_txt.append(add_neighbours(text[i-1], text[i]))
+                return contxt_txt
+        
+            #1B, 2A --- 4 conditions
+            elif (bef ==1 ) and (aft == 2):
+                contxt_txt = []
+                for i in range(len(text)):
+                    if i ==0:
+                        contxt_txt.append(add_neighbours(text[i], text[i+1], text[i+2]))  #0B, 2A
+                        
+                    elif (i > 0) and (i < len(text)-2):
+                        contxt_txt.append(add_neighbours(text[i-1], text[i], text[i+1],text[i+2]))     #1B, 2A
+                        
+                    elif (i == len(text)-2):
+                        contxt_txt.append(add_neighbours(text[i-1], text[i],text[i+1]))               #1B, 1A
+                        
+                    elif i == (len(text)-1):
+                        contxt_txt.append(add_neighbours(text[i-1], text[i]))                         #1B,0A
+                return contxt_txt
+        
+            #2B, 0A   -- 3 cases 
+            elif( bef ==2) and ( aft == 0):
+                contxt_txt = []
+                for i in range(len(text)):
+                    if i == 0:       
+                        contxt_txt.append(text[i])         #0B, 0A
+                    elif i == 1:
+                        contxt_txt.append(add_neighbours(text[i-1], text[i]))            #1B, 0A
+                    elif i > 1:
+                        contxt_txt.append(add_neighbours(text[i-2], text[i-1], text[i]))  #2B, 0A
+                return contxt_txt
+        
+            #2B, 1A -- 3 cases
+            elif ( bef == 2 ) and (aft == 1):
+                contxt_txt = []
+                for i in range(len(text)):
+                    if i ==0: 
+                        contxt_txt.append(add_neighbours(text[i], text[i+1]) )                     #0B, 1A
+                        
+                    elif i ==1:
+                        contxt_txt.append(add_neighbours(text[i-1], text[i], text[i+1]) )          #1B, 1A
+                        
+                    elif (i > 1) and (i < len(text)-1):
+                        contxt_txt.append(add_neighbours(text[i-2], text[i-1], text[i], text[i+1]))  # 2B, 1A
+                        
+                    elif i == len(text)-1:
+                        contxt_txt.append(add_neighbours(text[i-2], text[i-2], text[i]))           #2B, 0A
+                        
+                return contxt_txt
+                
+            #2B, 2A --- 5 conditions
+            elif (bef == 2) and (aft == 2):        
+                contxt_txt = []        
+                for i in range(len(text)):    
+            
+                    if i == 0:    # 0B, 2A
+                        contxt_txt.append(add_neighbours(text[i] , text[i+1] , text[i+2]))  
+                        
+                    elif i == 1:  # 1B, 2A
+                        contxt_txt.append(add_neighbours(text[i-1] , text[i] , text[i+1] , text[i+2]))
+                        
+                    elif (i >=2) and (i < len(text)-2):   # 2B , 2A 
+                        contxt_txt.append(add_neighbours(text[i-2], text[i-1], text[i], text[i+1], text[i+2]))
+                        
+                    elif (i == len(text)-2):             #2B, 1A
+                        contxt_txt.append(add_neighbours(text[i-2], text[i-1], text[i], text[i+1]))
+                        
+                    elif i == len(text)-1:                #2B, 0A  
+                        contxt_txt.append(add_neighbours(text[i-2], text[i-1], text[i]))      
+                        
+                return contxt_txt
+
         text = []
         with path.open(mode='r') as in_f:
             for line in in_f:
@@ -283,7 +431,7 @@ class DataHandler():
                     text.append(clean_line)
                 elif read_empty:
                     text.append([])
-        return text
+        return contextWindow(text, bef, aft)
 
     def _read_feature_file(self, path):
         features = np.load(str(path), allow_pickle=True)
@@ -471,7 +619,7 @@ class DataHandler():
         
         return input_ids, tags_ids, attention_masks, length
 
-    def load_input(self):
+    def load_input(self, bef, aft):
         for dataset, dataset_setup in self.data_config['sets'].items():
             for sub_dataset in dataset_setup:
 
@@ -492,9 +640,9 @@ class DataHandler():
                 sub_dataset['relations'] = []
                 for file_config in sub_dataset['all_files']:
                     if self.data_file_extension:
-                        sub_dataset['sentences'].extend(self._read_text_file(file_config[self.data_file_extension]))
+                        sub_dataset['sentences'].extend(self._read_text_file(file_config[self.data_file_extension], bef, aft))
                     if self.label_file_extension:
-                        sub_dataset['tags'].extend(self._read_text_file(file_config[self.label_file_extension]))
+                        sub_dataset['tags'].extend(self._read_text_file(file_config[self.label_file_extension], bef, aft))
                     if self.feature_file_extension:
                         sub_dataset['features'].extend(self._read_feature_file(file_config[self.feature_file_extension]))
                     if self.relation_file_extension:
