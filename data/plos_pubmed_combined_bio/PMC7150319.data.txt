@@ -50,6 +50,7 @@ Frequently they are exchanged between laboratories , which amplifies the risk of
 Breeding cessation strategies that have been reported to eliminate viruses from immunocompetent mouse colonies may prove to be costly and ineffective in genetically modified colonies of uncertain or incompetent immune status .
 It must also be expected that new agents will be detected , although only occasionally .
 Infections therefore remain a threat to biomedical research , and users of laboratory mice must be cognizant of infectious agents and the complications they can cause .
+
 DNA viruses
 Herpesviruses
 Two members of the family Herpesviridae can cause natural infections in mice ( Mus musculus ) .
@@ -105,6 +106,7 @@ Although MCMV - 1 does not play a significant role as a natural pathogen of labo
 These aspects have been discussed in detail by Shellam et al . [24] .
 MCMV - 1 has also been used as a vaccine vector aiming at a disseminating mouse control agent by inducing immunocontraception in mice [46] .
 The virus is known to influence immune reactions in infected mice [47] , [48] and may therefore have an impact on immunological research [6] , [8] .
+
 Mouse thymic virus ( MTV ) or murid herpesvirus 3 ( MuHV - 3 )
 MTV was detected during studies in which samples from mice were passaged in newborn mice .
 Unlike other herpesviruses , MTV is difficult to culture in vitro and is usually propagated by intraperitoneal infection of newborn mice .
@@ -145,6 +147,7 @@ There is very little experience of eradication methods for MTV because of its lo
 Methods that eliminate other herpesviruses will likely eliminate MTV .
 Procurement of animals of known negative MTV status is an appropriate strategy to prevent infection .
 Strict separation of laboratory mice from wild rodents is essential to avoid introduction of the virus into laboratory animal facilities .
+
 Other murid herpesviruses
 Murid herpesvirus 2 ( MuHV - 2 ) or rat cytomegalovirus infects rats and is also a member of the genus Muromegalovirus .
 Murid herpesvirus 4 ( MuHV - 4 ) is a member of the genus Rhadinovirus in the subfamily Gammaherpesvirinae and is also known as mouse herpesvirus strain 68 ( MHV - 68 ) .
@@ -162,6 +165,7 @@ There are , however , some differences as , e.g. higher virus levels are reached
 House mice develop an acute infection in the lungs after intranasal infection .
 A latent infection develops within 2 weeks and the virus persists lifelong in epithelial cells in the lungs and also spreads to the spleen and other organs ( e.g. bone marrow , peritoneal cells ) where it persists in different cells of the immune system .
 It behaves like a natural pathogen in inbred strains of mice and persists without causing disease .
+
 Mousepox ( ectromelia ) virus
 The mousepox ( ectromelia ) virus ( ECTV ) is a member of the genus Orthopoxvirus belonging to the family Poxviridae .
 It is antigenically and morphologically very similar to vaccinia virus and other orthopoxviruses .
@@ -259,6 +263,7 @@ Several studies indicate that mousepox is not highly contagious [75] , [84] , [9
 Therefore , strict quarantine procedures along with cessation of breeding ( to permit resolution of infection ) and frequent monitoring , with removal of clinically sick and seropositive animals , are a potential alternative .
 The period from the last births until the first matings after cessation of breeding should be at least 6 weeks [99] .
 Sequential testing of immunocompetent contact sentinels for seroconversion should be employed with this option .
+
 In the past , immunization with live vaccinia virus was used to suppress clinical expression of mousepox .
 Vaccination may substantially reduce the mortality rate , but it does not prevent virus transmission or eradicate the agent from a population [109] , [110] .
 After vaccination , typical pocks develop at the vaccination site , and infectious vaccinia virus is detectable in spleen , liver , lungs and thymus [111] .
@@ -270,6 +275,7 @@ The loss of time , animals and financial resources can be substantial .
 Experimental mousepox infections are frequently used as a model to study various aspects of smallpox infections of humans [112] , [113] , [114] .
 Mousepox shares many aspects of virus biology and pathology , and models the course of human smallpox .
 Experimental mousepox infections are used to study vaccination procedures [115] , [116] or anti - poxvirus therapies [117] .
+
 Murine adenoviruses
 Murine adenoviruses ( MAdV ) are non - enveloped , double - stranded DNA viruses of the family Adenoviridae .
 Two distinct strains have been isolated from mice .
@@ -318,6 +324,7 @@ However , there is some cross - reactivity between MAdV - 3 and both other mouse
 In addition to serological and antigenic differences it also shows a unique organotropism and infects predominantly the heart tissue of C57B L / 6N mice after experimental infection .
 Experimentally infected mice show no clinical signs .
 The virus is not easily transmitted from experimentally infected mice to contact sentinels [142] .
+
 Polyomaviruses
 Polyomaviridae are enveloped , double - stranded DNA viruses .
 Two different agents of this family exclusively infect mice ( Mus musculus ) , and both belong to the genus Polyomavirus .
@@ -341,11 +348,13 @@ Endothelial cells in other organs are also involved in virus replication [148] ,
 In older suckling mice , MPtV produces a more protracted infection , and the virus or viral antigen can be detected for as long as 4 months .
 In adult animals , the virus produces a transient asymptomatic infection .
 Even in immunodeficient Foxn 1 mice , experimental infection of adults is clinically asymptomatic , although virus is detectable for a period of several months [150] .
+
 In vitro cultivation of MPtV is difficult .
 No susceptible permanent cell line is known to support growth .
 It can be cultured in primary mouse embryonic cells , but viral titres are not sufficient for use in serological assays [151] .
 For this reason , the HI test using homogenates of livers and lungs of infected newborn mice is still frequently used , but IFA and ELISA tests are also available [152] .
 Furthermore , a PCR test for demonstration of MPtV in biological samples has also been published [153] .
+
 Murine polyomavirus ( MPyV )
 MPyV was first detected as a contaminant of murine leukaemia virus ( MuLV ) when sarcomas developed in mice after experimental inoculation of contaminated samples .
 It has later been shown to be a frequent contaminant of transplantable tumours [1] .
@@ -368,6 +377,7 @@ The most frequently used tests for health surveillance of mouse colonies are ELI
 Latent infections can be detected by intracerebral inoculation of neonate mice or by MAP testing , but direct demonstration of virus in biological samples is also possible by PCR testing [153] .
 While MPyV infections are of low importance for laboratory animal medicine , the virus is used in models of persistent virus infection [161] , [162] .
 Virus - like particles from both murine polyomaviruses have been used as a vector for gene therapy or vaccines [163] , [164] .
+
 Parvoviruses
 Parvoviruses are non - enveloped small viruses ( approximately 20 nm in diameter ) with a single - stranded DNA genome of approximately 5000 nucleotides .
 Murine parvoviruses are members of the family Parvoviridae , genus Parvovirus .
@@ -427,6 +437,7 @@ Eradication of infection is possible by elimination of infected animals and subs
 It should be noted that recent studies suggest a risk of virus transmission by embryo transfer , though successful sanitation of immunodeficient mice was achieved despite antibody response in recipients and progeny after embryo transfer [190] , [191] .
 Although there are few published reports of confounding effects of MPV on research , it is lymphocytotropic and may perturb immune responses in vitro and in vivo .
 Infections with MPV have been shown to influence rejection of skin and tumour grafts [192] .
+
 Minute virus of mice ( MVM )
 MVM is the type species of the genus Parvovirus .
 The virus was intermediately named mice minute virus ( MMV ) .
@@ -477,6 +488,7 @@ However , various effects on mouse - based research have been published [6] , [7
 Because of their predilection for replicating in mitotically active cells , they are frequently associated with tumour cells and have a marked oncosuppressive effect [212] .
 Special attention is also necessary for immunological research and other studies involving rapidly dividing cells ( embryology , teratology ) .
 In addition , MVM is a common contaminant of transplantable tumours , murine leukaemias and other cell lines [1] , [2] , [213] .
+
 RNA viruses
 Lactate dehydrogenase - elevating virus
 Lactate dehydrogenase - elevating virus ( LDV ) is a single - stranded RNA virus of the genus Arterivirus belonging to the family Arteriviridae .
@@ -539,6 +551,7 @@ Once present in an animal , the virus persists lifelong .
 The most obvious signs are increased levels of plasma LDH and several other enzymes .
 LDV may also exhibit numerous effects on the immune system ( thymus involution , depression of cellular immunity , enhanced or diminished humoral responses , NK cell activation , development of autoimmunity , and suppression of development of diabetes in NOD mice ) ; [218] , [219] , [224] , [240] , [241] , [242] , [243] , [244] and enhance or suppress tumour growth [6] , [7] , [226] .
 Interaction with other viruses has also been described [245] .
+
 Lymphocytic choriomeningitis virus ( LCMV )
 Lymphocytic choriomeningitis virus ( LCMV ) is an enveloped , segmented single - stranded RNA virus of the genus Arenavirus family , Arenaviridae .
 It can easily be propagated in several commonly used cell lines like BHK - 21 cells .
@@ -552,6 +565,7 @@ Thus , it is the only arenavirus with worldwide distribution .
 Infection with LCMV is rarely found in laboratory mice [248] .
 Seropositivity to LCMV in laboratory mice was reported to be low during the last decade [11] , [15] , [17] , [124] or negative [12] , [13] , [14] .
 In addition to laboratory mice and other vertebrate hosts , the virus has frequently been found in transplantable tumours and tissue culture cell lines from mice and hamsters [2] , [256] .
+
 Despite the low prevalence in laboratory mice , seropositivity to this zoonotic agent should raise serious concern for human health .
 LCMV is frequently transmitted to humans from wild mice and is also endemic to a varying degree in the human population [257] , [258] , [259] , [260] , [261] due to contact with wild mice .
 It has also been transmitted to humans by infected laboratory mice [262] and by pet and laboratory Syrian hamsters [263] , [264] , [265] , [266] .
@@ -625,6 +639,7 @@ Animal Biosafety Level ( ABSL ) 3 practices and facilities are generally recomme
 Appropriate precautions have been defined for different BSLs or ABSLs by CDC [285] .
 LCMV is frequently utilized as a model organism to study virus - host interactions , immunological tolerance , virus - induced immune complex disease , and a number of immunological mechanisms in vivo and in vitro [286] , [287] , [288] .
 Accidental transmission may have a severe impact on various kinds of experiments [6] , [7] , [248] , [251] and also affect infection with other agents [289] .
+
 Mammalian orthoreovirus serotype 3 ( MRV - 3 )
 Mammalian orthoreoviruses ( MRV ) are non - enveloped , segmented double - stranded RNA viruses of the family Reoviridae , genus Orthoreovirus .
 They have a wide host range and are ubiquitous throughout the world .
@@ -668,6 +683,7 @@ The virus may interfere with research involving transplantable tumours and cell 
 It has the potential to alter intestinal studies and multiple immune response functions in mice .
 In enzootically infected colonies , protection of neonates by maternal antibody could complicate or prevent experimental infections with reoviruses .
 It could further complicate experiments that require evaluation of liver , pancreas , CNS , heart , lymphoid organs and other tissues affected by the virus .
+
 Murine hepatitis virus ( MHV )
 The term murine hepatitis virus ( MHV ; commonly referred to as ‘ mouse hepatitis virus ’ ) designates a large group of antigenically and genetically related , single - stranded RNA viruses belonging to the family Coronaviridae , genus Coronavirus .
 They are surrounded by an envelope with a corona of surface projections ( spikes ) .
@@ -681,6 +697,7 @@ Based on their primary organotropism , MHV strains can be grouped into two bioty
 However , intermediate forms ( enterotropic strains with tropism to other organs ) also exist .
 Murine hepatitis virus is relatively resistant to repeated freezing and thawing , heating ( 56 ° C for 30 min ) and acid pH but is sensitive to drying and disinfectants , especially those with detergent activity [8] .
 Given the environmental conditions present in mouse rooms , MHV might remain infective for several days , at low humidity ( 20 % relative humidity ) or low temperatures ( 4 ° C ) even for weeks on surfaces [311] .
+
 Mus musculus is the natural host of MHV .
 It can be found in wild and laboratory mice throughout the world and is one of the most common viral pathogens in contemporary mouse colonies .
 While polytropic strains have historically been considered more common , this situation is thought to have reversed .
@@ -818,6 +835,7 @@ Careful testing with sentinel mice should be applied to evaluate the effectivene
 If transplantable tumours are contaminated with MHV , virus elimination can be achieved by passage of tumours in athymic Foxn 1 rats [362] .
 MHV is one of the most important viral pathogens of laboratory mice and has been intensively studied from a number of research perspectives ( e.g. as a model organism for studying coronavirus molecular biology or the pathogenesis of viral - induced demyelinating disease ) .
 Numerous reports document the effects of natural and experimental infections with MHV on host physiology and research , especially in the fields of immunology and tumour biology ( reviewed in [6] , [7] , [8] , [310] , [316] , [317] ) .
+
 Murine norovirus ( MNV )
 Noroviruses are non - enveloped , single - stranded RNA viruses with high environmental resistance and belong to the family Caliciviridae , genus Norovirus .
 They were first identified after an outbreak of acute gastroenteritis at a school in Norwalk ( Ohio , USA ) in 1968 and cause about 90 % of non - bacterial epidemic gastroenteritis in humans .
@@ -844,6 +862,7 @@ This transfer should ideally be performed within 24 h after birth .
 MNV is used as a surrogate to evaluate resistance of human noroviruses to disinfectants .
 The impact of MNV on animal experiments remains to be evaluated .
 Recent studies show that MNV is immunmodulatory and may alter disease phenotypes in mouse models of inflammatory bowel disease [373] , [374] , [375] and other experimental mouse models [376] , [377] .
+
 Murine pneumonia virus ( PVM )
 Murine pneumonia virus , commonly referred to as ‘ pneumonia virus of mice ’ ( PVM ) , is an enveloped , single - stranded RNA virus of the family Paramyxoviridae , genus Pneumovirus .
 It is closely related to human respiratory syncytial virus ( HRSV ) .
@@ -875,8 +894,10 @@ An RT - PCR assay to detect viral RNA in respiratory tract tissues has also been
 However , the use of direct methods requires good timing because the virus is present for only up to about 10 days in immunocompetent mice [381] .
 Embryo transfer or caesarean derivation followed by barrier maintenance can be used to rear mice that are free of PVM .
 Because active infection is present in the individual immunocompetent mouse for only a short period , strict isolation of a few ( preferably seropositive ) mice with the temporary cessation of breeding might also be successful in eliminating the virus [8] , [378] .
+
 PVM could interfere with studies involving the respiratory tract or immunological measurements in mice .
 In addition , PVM can have devastating effects on research using immunodeficient mice because they are particularly prone to develop fatal disease [383] , [384] or become more susceptible to the deleterious effects of other agents such as P . murina [389] .
+
 Murine rotavirus A or epizootic diarrhoea of infant mice virus ( MuRV - A / EDIM )
 MuRV - A / EDIM ( commonly referred to as ‘ mouse rotavirus ’ or ‘ epizootic diarrhoea of infant mice virus ’ ) is a non - enveloped , segmented double - stranded RNA virus of the family Reoviridae , genus Rotavirus .
 It is antigenically classified as a group A rotavirus , similar to rotaviruses of many other species that cause neonatal and infantile gastroenteritis [291] .
@@ -922,6 +943,7 @@ It may have a significant impact on studies where the intestinal tract of neonat
 The infection also poses a problem for infectious disease and immune response studies , particularly those involving enteropathogens in infant mice [405] .
 A disease - induced stress - related thymic necrosis may occur and alter immunology experiments [36] .
 In addition , runting could be interpreted erroneously as the effect of genetic manipulation or other experimental manipulation .
+
 Sendai virus ( SeV )
 Sendai virus ( SeV ) is an enveloped , single - stranded RNA virus of the family Paramyxoviridae , genus Respirovirus .
 It is antigenically related to human parainfluenza virus 1 .
@@ -981,6 +1003,7 @@ Reported effects include interference with early embryonic development and fetal
 Pulmonary changes during SeV infection can compromise interpretation of experimentally induced lesions and may lead to opportunistic infections by other agents .
 They could also affect the response to anaesthetics .
 In addition , natural SeV infection would interfere with studies using SeV as a gene vector .
+
 Theiler ’ s murine encephalomyelitis virus ( TMEV )
 Theiler ' s murine encephalomyelitis virus ( TMEV ) , or murine poliovirus , is a member of the genus Cardiovirus in the family Picornaviridae .
 Members of this genus are non - enveloped viruses with single - stranded RNA .

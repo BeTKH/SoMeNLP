@@ -27,10 +27,12 @@ Seventeen acupuncture points ( bilateral BL 2 , GB 14 , TE 23 , Ex 1 , ST 1 , GB
 The depths of inserted needles differed but were approximately 0.6 to 3 cm for the acupuncture points at the face and head ( BL 2 ∶ 1.5 to 3 cm ; GB 14 ∶ 0.9 to 1.5 cm ; TE 23 ∶ 1.5 to 3 cm ; Ex 1 ∶ 1.5 to 3 cm ; ST 1 ∶ 0.6 to 0.9 cm ; GV 16 ∶ 0.9 to 1.5 cm ) and 3 to 4.5 cm for points of hand ( LI 4 ) and arm ( LI 11 ) .
 Each acupuncture needle was twisted until patient felt a ‘ deqi ’ sensation and retained for 20 minutes before removal .
 Participants had acupuncture treatments three times per week for four weeks ( a total of 12 treatments ) .
+
 Preservative - free single - use artificial teardrops ( 0.5 % sodium carboxymethylcellulose ) were provided , and participants were advised to use them as needed ( at least once per day ) for four weeks .
 A diary of both the frequency and quantity of drops used was collected at every visit .
 In both groups , other treatments for dry eyes were forbidden during the four weeks of treatment .
 However , during the follow - up period , participants were allowed to use any kind of treatment for dry eyes , and participant reports on treatment usage were requested at every visit .
+
 Outcome assessment included two aspects , subjective ophthalmologic tests and objective questionnaires for both ocular symptoms and quality of life related to dry eyes .
 The primary outcome was the difference in OSDI changes between the two groups .
 The secondary outcomes were the differences in 100 mm VAS for the ocular discomfort , quality of life questionnaire using the Measure Yourself Medical Outcome Profile - 2 ( MYMOP - 2 ) , TFBUT , Schirmer Ι test ( with anaesthesia ) score and adverse event rate of acupuncture treatment and artificial tears usage .
@@ -60,6 +62,7 @@ The type and frequency of adverse events were reported for each group .
 According to the criteria of the WHO Toxicity Grading Scale for Determining The Severity of Adverse Events , the severity of the adverse event was evaluated by practitioners as grade 1 ( mild ) to grade 4 ( life threatening ) [25] .
 OSDI , VAS and quality of life were assessed by separate outcome assessors who did not perform acupuncture treatment .
 TFBUT and Schrmir Ι test were evaluated by ophthalmologists .
+
 To determine the differences between the acupuncture and artificial tears groups , the changes in values from baseline were compared at each visit on an intention - to - treat basis at a 95 % significant level .
 Missing data of dropped - out participants were assigned by the last observation carried forward ( LOCF ) method .
 Participant expectations of acupuncture treatment for dry eye symptoms were collected with a nine - point Likert scale and were compared between the two groups [26] .

@@ -9,6 +9,7 @@ None had any history of medical , neurological or psychiatric illnesses or brain
 All subjects had normal or corrected to normal vision .
 Each gave informed written consent prior to participation .
 The study conformed with the Declaration of Helsinki and was approved by the local ethics committee of the Medical Faculty of the University of Marburg .
+
 In study 1 , subjects performed three different tasks , which are well established for testing hemispheric lateralization during spatial processing ( see below for a detailed description of each task ) : “ dots - in - space ” task , adapted from [21] , mental rotation task [24] , and Landmark task [11] .
 The order of these tasks was pseudorandomized and counterbalanced across subjects .
 The aim of study 1 was to identify which of these paradigms evoked robust right - hemispheric lateralization both at the group and single - subject level .
@@ -25,6 +26,7 @@ Each target stimulus was shown three times in a pseudorandomized order .
 Ten of the target stimuli consisted of 17 white and 9 red dots ( “ difficult condition ” ) , whereas the remaining target stimuli consisted of 23 white and 3 red dots ( “ easy condition ” ) .
 During the encoding phase , each stimulus was presented for 5 s and then followed by a blank screen with an inter - stimulus interval ( ISI ) of 1 s .
 Subjects were instructed to memorize the location of the red dots .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0186344.g001 fMRI - Stimuli.a ) “ Dots - in - space ” task : Activation ( left , middle ) and control - condition ( right ) of the “ dots - in - space ” task .
 In the activation condition subjects were asked whether they have seen the same arrangement of red dots during the encoding part .
@@ -42,6 +44,7 @@ Version C was characterized by smaller distance variations .
 Distances to the middle of the horizontal line were 12 , 25 and 37 pixels , resulting in 0.809 , 1,685 and 2.493 cm and visual angles of 0.193 ° , 0.402 ° and 0.505 ° respectively .
 In the control condition of version A ( middle ) subjects were asked to decide , whether a transecting line was present , whereas in the control condition of version B and C , subjects had to decide whether the vertical line transected the horizontal one or not ( right figure ) .
 Answers were indicated with the index - and middle finger of the right hand ( version A ) or of both hands ( version B and C ) .
+
 Functional images were acquired only during the retrieval phase , which consisted of 18 blocks ( Fig 2A ) .
 Six blocks belonged to the difficult condition , six blocks to the easy condition ( i.e. , test conditions ) , and six blocks to a control condition ( see below ) .
 Again , the order of conditions was pseudorandomized .
@@ -54,6 +57,7 @@ Subjects responded by pressing a button with the index finger ( yes ) or middle 
 During the control condition , subjects were instructed to decide whether a stimulus contained exactly one red circle or not .
 Stimuli in this condition consisted of either only white dots or white dots and exactly one red dot randomly located on the black background ( Fig 1A ) .
 The total length of the paradigm was 9 minutes 10 seconds .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0186344.g002 Schematic representation of the experimental procedure.a ) “ Dots - in - space ” task : Each experimental trial began with an introduction screen ( 5 s ) indicating the following condition ( easy , hard , control ) .
 Participants were asked , whether they have seen the same arrangement of dots during the encoding part or not ( easy , hard ) , or whether the arrangement contained a red dot ( control ) by pressing a button with the index - or middle finger of their right hand , respectively .
@@ -75,6 +79,7 @@ Answers were indicated by pressing a respective button with their right hand .
 In version B and C participants were asked to decide whether the horizontal line was bisected correctly or not .
 In the control condition , they were asked to indicate , whether the horizontal line was transected by the vertical one or not .
 Answers were indicated by pressing the respective button with both hands , simultaneously .
+
 Mental rotation task : The mental rotation task used in the present study was based on a spatial orientation task that had also been originally introduced for fTCD [24,25] .
 Subjects were presented with pairs of three - dimensional images of transparent cubes with 1 , 2 or 3 cables inside showing the same object from two different perspectives ( Fig 1B ) .
 During the activation condition ( high spatial processing load ) , subjects were presented with pairs of identical cubes , however , the right - sided cube was always seen from different perspectives .
@@ -116,6 +121,7 @@ Subjects had to decide whether the vertical line crossed the horizontal line or 
 In the activation condition , subjects had to decide whether the horizontal line was correctly bisected or not .
 For both conditions , subjects reported their decision using both hands .
 Specifically , they indicated their answer by pressing both index ( “ correctly bisected ” or “ vertical line transects ” ) or middle fingers ( “ not correctly bisected ” or “ vertical line does not transect ” ) simultaneously .
+
 Subjects were scanned on a 3 - Tesla TIM - Trio MR Scanner ( Siemens Medical Systems ) with a 12 - channel head matrix receive coil at the Department of Psychiatry and Psychotherapy , University of Marburg .
 Functional images were acquired using a T2 * - weighted echo planar imaging ( EPI ) sequence sensitive to the Blood Oxygen Level Dependent ( BOLD ) contrast .
 Slices covered the whole brain and were positioned transaxially parallel to the anterior - posterior commissural line ( AC - PC ) .
@@ -127,6 +133,7 @@ In study 2 , we aimed to optimize the acquisition sequence for the Landmark task
 Specifically , we used a sequence that had previously been shown to provide high BOLD sensitivity and - more importantly for the goal of study 2 - excellent test - retest reliability of BOLD activation for a face perception paradigm [17] .
 The following scanning parameters were used : matrix size 64 × 64 voxels , FoV = 192 mm , 30 slices ( descending ) , slice thickness 4 mm ( 15 % gap ) , TR = 1450 ms , TE = 25 ms , flip angle 90 ° .
 In total , 222 functional images were collected for each subject .
+
 All fMRI data were analyzed using the standard routines and templates from the software package SPM 8 ( v 4290 ; www.fil.ion.ucl.ac.uk/spm ) in MATLAB 7.7.0.471 ( R 2008b ) ( The MathWorks , Inc . ) .
 Functional images were realigned , normalized ( using the standard SPM EPI - Template ) , resampled to a voxel size of 2 × 2 × 2 mm 3 , smoothed with a 5 - mm isotropic Gaussian kernel , and high - pass filtered ( cut - off period 128 s ) .
 After pre - processing , statistical analysis was performed in a two - stage , mixed - effects procedure .
@@ -163,11 +170,13 @@ For each paradigm , parietal ROIs were defined by creating masks of the group le
 The specific thresholds were chosen to ensure that masks were roughly similar in size for the different paradigms .
 Note that , in study 2 , the conjunction of the group level activation patterns of session 1 and 2 was used to define frontal and parietal ROIs ( Fig 3 ) .
 In total , we created 10 masks - that is , a frontal and a parietal one for each paradigm .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0186344.g003 Landmark task ROIs .
 Frontal ( red ) and parietal ( green ) ROIs are shown for Landmark task version B ( a ) and C ( b ) .
 Frontal and parietal ROIs were defined by creating a mask , resembling the conjunction of the group level activation patterns of session 1 and 2 within the frontal lobe and parietal lobe , respectively , as given by the WFU - Pickatlas ( p < 0.01 uncorrected , k = 20 ) .
 RH = right hemisphere , LH = left hemisphere .
+
 The degree of hemispheric lateralization was quantified by the lateralization index ( LI ) , which is given by the formula LI = AL − ARAL + AR , where AL and AR refer to measures of fMRI - activity for equal ROIs within the left ( L ) and right ( R ) hemisphere , respectively .
 Several approaches have been established to calculate the LI ( for a discussion , see [14] ) .
 We here applied the bootstrapping approach implemented in the SPM 8 LI - toolbox , which is the current gold standard [36] .
@@ -183,6 +192,7 @@ LIs for the group level BOLD patterns were calculated from the activation in the
 Analysis 2 : Brain activation in single subjects : The ROIs resulting from each paradigm ’ s group analysis were used to investigate the activation strength in individual subjects .
 Therefore , single - subject activation maps were screened for activation in the respective ROIs at a fixed significance threshold ( p < 0.001 uncorrected , cluster threshold k = 20 ) .
 Individual LIs were also calculated in these ROIs , resulting in two indices ( one frontal and one parietal LI ) per subject for each paradigm .
+
 2.4.2 Study 2 : Test - retest reliability : In study 2 , we assessed the test - retest reliability of both the activation patterns and the lateralization of the spatial processing network .
 Notably , we restricted our analyses to the Landmark task since this was the only task that fulfilled all criteria of robustness described above ( see Results ) .
 First , we quantified the reliability of the activation patterns by computing intra - class correlation coefficients ( ICCs ) for each voxel using the ICC toolbox extension within SPM [42] .

@@ -10,6 +10,7 @@ Before recovery from surgery , topical antibiotic ( bacitracin - neomycin - poly
 For alleviation of pain , mice were given ketoprofen ( 2 - 5mg / kg sub - cutaneous ) immediately before recovery from anesthesia and twice daily for two days after surgery .
 Mice recovered for 7 - 10 days before starting water scheduling .
 Once experiments were complete , mice were euthanized by cervical dislocation under anesthesia ( 2 - 4 % isoflurane , inhaled ) or , usually , by transcardial perfusion under anesthesia ( 2 - 4 % isoflurane , inhaled ) .
+
 The start of water scheduling ( 1 - 1.5 ml per day ) coincided with 5 - 7 days of habituation , during which mice were handled , allowed to explore the behavioral apparatus ( unrestrained ) for ≤ 10 minutes per day and conditioned to head restraint in the behavioral box for ≤ 10 minutes per day .
 After habituation mice began training .
 Behavioral training and testing was performed in a custom - made light - and sound - attenuating chamber during the dark - cycle .
@@ -31,16 +32,19 @@ Mice were eliminated from further study if , after 6 weeks of training , they ro
 After mice learned to select the rewarded object ( 3 - 6 weeks ) , an unrewarded object ( a novel orientation of the grating ) was introduced randomly at a 1 : 1 ratio with the rewarded object .
 Mice learned to discriminate between the two objects within several sessions .
 Once a mouse learned to discriminate two high - contrast objects ( criterion : d ’ > 1.0 in 60 % of sessions ) additional low - contrast ( 0 % , 25 % , 38 % ) objects were added , but 0 % contrast objects were not rewarded .
+
 Data analysis was performed using custom routines written in Python .
 Psychometric functions were fit to a Weibull distribution : formtok
 Where α is the midpoint of the curve ; β is slope at the midpoint ; γ and λ are the lower and upper limits , respectively .
 Error bars for single - session behavioral data denote the 95 % confidence - interval [16] implemented in the Python SciPy package .
 The discriminability index ( d ’ ) was calculated as d ’ = z ( stop probability for rewarded objects ) − z ( stop probability for unrewarded objects ) where z is the inverse of the cumulative Gaussian distribution .
+
 Optogenetic illumination was provided via diode - pumped solid - state ( DPSS ) lasers ( Opto - Engine : MGL - III - 589 yellow - orange laser , MRL - III - 640 red laser , MBL - III - 473 blue laser ) .
 Illumination was delivered with a 300 μ m diameter optical fiber ( ThorLabs FT 300UMT ) , inserted into the guide cannula so that the tip of the fiber extended just beyond the end of the cannula .
 Illumination was provided on 50 % of trials and began as the leading edge of the object first appeared on the left side of the monitor and lasted until the object completely exited the screen ( 1 - 5 seconds depending on running speed ) .
 The inter - trial interval ( time between the start of consecutive trials ) was 4.6 ± 1.4 seconds ( 42 behavioral sessions , 11 mice ) .
 Hence fiber illumination , which occurred on 1 of every 2 trials on average , occurred for approximately 3 in every 9 seconds .
+
 ERG recordings were performed under anesthesia ( 1 - 2.5 % isoflurane ) with periorbital silver wire electrodes placed in contact with the cornea .
 Two reference electrodes were inserted beneath the skin near the eyes .
 Amplifier headstages were positioned ~ 4 cm from each eye .

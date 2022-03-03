@@ -3,6 +3,7 @@ Given its rising incidence among adults , it is important to recognize its varia
 These include onychomadesis , a complication of hand , foot , and mouth disease that is well described in children , with limited reports in adults .
 We present the unique case of a pregnant woman who developed onychomadesis following hand , foot , and mouth disease , with no adverse pregnancy outcomes .
 This case illustrates that ( 1 ) onychomadesis can occur in pregnant women with hand , foot , and mouth disease ; ( 2 ) onychomadesis is typically a benign change that can occur following hand , foot , and mouth disease ; and ( 3 ) onychomadesis is not necessarily associated with more severe disease or adverse pregnancy outcomes .
+
 Introduction
 Hand , foot , and mouth disease ( HFMD ) is a self - limiting enteroviral infection most commonly caused by coxsackievirus A16 or enterovirus 71 .
 It is characterized by vesicles on the hands , feet , and oral mucosa .
@@ -12,6 +13,7 @@ Overall , HFMD remains relatively rare in adults and little is known about its s
 A complication of HFMD is onychomadesis , or nail shedding from the proximal nail matrix .
 Although it has been well documented in children [5,6] reports of onychomadesis following HFMD in adults have been limited to case studies [7,8] .
 Here , we describe the unique case of a pregnant woman who developed onychomadesis following HFMD .
+
 Case report
 A 30 - year - old primigravida woman with an unremarkable past medical history presented at 21 weeks of gestation with fingernail changes that began 3 weeks prior .
 Initially , nail vesicles appeared on the proximal nail fold of both thumb nails , and then , a new nail plate began to grow underneath the desquamating nail plate , consistent with onychomadesis .
@@ -25,6 +27,7 @@ The eruption resolved spontaneously .
 Routine pregnancy investigations , including a complete blood count and repeat ultrasound , were unremarkable .
 A TORCH screen was positive for herpes simplex virus ( previous exposure ) , with no clinical history .
 The remainder of her pregnancy was unremarkable .
+
 Discussion
 The increasing incidence of HFMD in adults highlights the importance of recognizing its various presentations , including onychomadesis .
 Although only few reports of onychomadesis exist in adults , and none in pregnant women , this finding may be underreported .

@@ -19,6 +19,7 @@ In the last phase ( feedback phase , 1 second ) , the response was revealed to t
 At the end of each game , the earnings each player had made in the game were revealed .
 After the set of games concluded , the experimenter interviewed each participant individually in order to check whether they had understood the game correctly .
 The amount of money each participant received depended on his / her performance in one of the 32 games chosen randomly , and ranged from 6,000 to 12,000 Chilean pesos , 12 to 24 USD approximately .
+
 Simulations used in the tasks were based on a mixed logistic modeling of 33 people playing as receptors with other people ( for more details see [13] ) .
 Using this model , we were able to create different virtual players .
 All participants played with the same simulated partners .
@@ -29,6 +30,7 @@ The simulation and experimental setting generated a credible human interaction f
 ( 2 ) During post hoc interviews , experimenters asked participants whether they believed that they had played against a human counterpart .
 All participants indicated that they actually believed that they had played against another human and that they felt the human games different from the computer games .
 We used the to the quantification of the risk per each offer made .
+
 Continuous EEG recordings were obtained with a 40 - electrode NuAmps EEG System ( Compumedics Neuroscan ) .
 All impedances were kept below 5 k Ω .
 Electrode impedance was retested during pauses to ensure stable values throughout the experiment .
@@ -36,6 +38,7 @@ All electrodes were referenced to averaged mastoids during acquisition and the s
 Electro - oculogram was obtained with four electrodes with both vertical and horizontal bipolar derivation .
 All recordings were acquired using Scan 4.3 ( Compumedics Neuroscan ) and stored for off - line treatment .
 At the end of each session , electrode position and head points were digitalized using a 3D tracking system ( Polhemus Isotrak ) .
+
 EEG signals were preprocessed using a 0.1 - 100 Hz band - pass Butterworth filter ( third - order , forward and reverse filtering ) .
 Eye blinks were identified by a threshold criterion of ± 100 μ V , and their contribution was removed from each dataset using principal component analysis by singular value decomposition and spatial filter transform using Scan 4.3 ( Compumedics Neuroscan ) .
 Other remaining artifacts ( e.g. , muscular artifacts ) were detected by visual inspection of the signal and the trials that contained them were removed .
@@ -48,6 +51,7 @@ TF contents was represented as the energy of the convolved signal : .
 Thus , we obtained the phase and amplitude per each temporal bin ( in steps of 10 ms ) and frequency ( from 4 to 30 Hz in step of 1 Hz ) .
 We used for analysis only the 90 riskiest and the 90 safest offers per subject and condition , in order to ensure equal number of trials for statistical comparison .
 For all power spectrum analysis , we used the dB of power related to a baseline during the fixation phase ( ten seconds at the beginning of each game , Figure 1 ) .
+
 The neural current density time series at each elementary brain location was estimated by applying a weighted minimum norm estimate inverse solution [16] with unconstrained dipole orientations in single - trials .
 A tessellated cortical mesh template surface derived from the default anatomy of the Montreal Neurological Institute ( MNI / Colin 27 ) wrapped to the individual head shape ( using ∼ 300 headpoints per subject ) was used as a brain model to estimate the current source distribution .
 We defined 3 × 390 sources constrained to the segmented cortical surface ( 3 orthogonal sources at each spatial location , avoiding deep and basal structures since the sensitivity of the EEG signal to the activity of those structures is poor ) , and computed a three - layer ( scalp , inner skull , outer skull ) boundary element conductivity model and the physical forward model [17] .
@@ -62,6 +66,7 @@ To this end , we applied a principal component analysis to covariance matrix obt
 This resulted in a single filter for each spatial location that was then applied to the complex valued data to derive frequency specific single trial source estimates .
 Since we used a small number of electrodes ( 40 ) and no individual anatomy for head model calculation , the spatial precision of the source estimations are limited .
 In order to minimize the possibility of erroneous results we only present source estimations if there are both statistically significant differences at the electrode level and the differences at the source levels survive a multiple comparison correction .
+
 We consider the functional links in brain signals defined via the phase - locking value ( PLV ) computed between all pairs of electrodes or brain sources [19] .
 The PLV measures the inter - site - phase - clustering .
 To compute the PLVs , we used a complex Morlet ’ s wavelet function of 7 cycles .
@@ -74,6 +79,7 @@ According to this test , the significance of a PLV determined from Ntr can be ca
 To correct for multiple testing , the False Discovery Rate ( FDR , q < 0.05 ) method was applied to each matrix of PLVs .
 In the construction of the networks , a functional connection between two brain sites was assumed as an undirected and weighted edge ( functional connectivity strength between node wij = PLVij , for significant links and wij = 0 otherwise ) .
 We calculated the strength of inter - site - phase - clustering for each node ( electrode or source ) as the sum of all significant PLVs of that node .
+
 To partition the functional networks in modules , we used a random walk - based algorithm [21] .
 This data - driven approach is based on the intuition that a random walker on a graph tends to remain into densely connected subsets corresponding to modules .
 To find the modular structure , the algorithm starts with a partition in which each node in the network is the sole member of a module .
@@ -85,6 +91,7 @@ Further details can be found in [22] , [23] .
 To evaluate the agreement between community structures we use the Rand index [24] , which is a traditional criterion for comparison of different results provided by classifiers and clustering algorithms , including partitions with different numbers of classes or clusters .
 For two partitions P and P ’ , the Rand index is defined as ; where is the number of pairs of data objects belonging to the same class in P and to the same class in P ’ , is the number of pairs of data objects belonging to the same class in P and to different classes in P ’ , is the number of pairs of data objects belonging to different classes in P and to the same class in P ’ , and is number of pairs of data objects belonging to different classes in P and to different classes in P ’ .
 The Rand index has a straightforward interpretation as a percentage of agreement between the two partitions and it yields values between 0 ( if the two partitions are randomly drawn ) and 1 ( for identical partition structures ) .
+
 For pair comparison and correlation , we used non - parametric tests ( Wilcoxon and Spearman correlation ) .
 For multiple regressions , we used robust linear regression .
 To correct for multiple comparisons in time - frequency chart and sources , we used the Cluster - based permutation test for the EEG data [25] .
@@ -94,6 +101,7 @@ We evaluated the cluster - level significance under the permutation distribution
 The permutation distribution was obtained by randomly permuting the original data .
 After each permutation , the original statistical test was computed ( e.g. , Wilcoxon ) , and the cluster - level statistics of the largest cluster resulting was used for the permutation distribution .
 After 1,000 permutations , the cluster - level significance for each observed cluster was estimated as the proportion of elements of the permutation distribution greater than the cluster - level statistics of the corresponding cluster .
+
 All behavioral statistical analyses were performed in R .
 The EEG signal processing was implemented in MATLAB using in - house scripts ( LAN toolbox , available online at http://lantoolbox.wikispaces.com/ , e.g. [26] ) .
 For the source estimation and head model , we used the BrainStorm [27] and openMEEG toolboxes [28] .

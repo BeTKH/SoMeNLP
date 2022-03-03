@@ -20,6 +20,7 @@ Systolic and Diastolic BP were measured by the arm blood pressure oscillometric 
 The OMRON ™ M3 ( HEM 742 ) has been clinically and epidemiologically validated for adolescents by the Brazilian Research Group [15] .
 The OMRON ™ M6 ( HEM 70001 ) has been approved by the British Hypertension Society [16] .
 These data collection procedures have been described in an earlier study [17] .
+
 The PA and SB levels were considered independent variables and measured by means of questionnaires in both studies .
 The questionnaire model used for PA measurements in both studies was developed to assess PA levels ( moderate - to - vigorous levels ) in adolescents [18] .
 In the HELENA study , PA was also measured with accelerometers ( Actigraph MTI , model GT1M , Manufacturing Technology Inc . , Fort Walton Beach , FL , USA ) for seven consecutive days , with a minimum of 8 hours recording / day for at least 3 days [19] .
@@ -33,6 +34,7 @@ Sedentary behavior was totaled and classified into the following categories : 0 
 The same questions were asked for weekend days and this questionnaire was used with adolescents from both studies as a realiability , validity and translated tool [25] - [27] .
 We also established six clusters of PA according to PA recommendations [22] , [23] and SB according to Dunstan et al . [24] for use with both measurement methods , which are described below .
 < 60 min / d of PA + > 4 h / d of SB ; < 60 min / d of PA + 2 - 4 h / d of SB ; < 60 min / d of PA + < 2 h / d of SB ; ≥ 60 min / d of PA + > 4 h / d of SB ; ≥ 60 min / d of PA + 2 - 4 h / d of SB ; ≥ 60 min / d of PA + < 2 h / d of SB ; Accelerometer ( using PA recommendations and tertiles of sedentary time ) : < 60 min / d of PA of PA + 3rd tertile of SB ; < 60 min / d of PA + 2nd tertile of SB ; < 60 min / d of PA + 1st tertile of SB ; ≥ 60 min / d of PA + 3rd tertile of SB ; ≥ 60 min / d of PA + 2nd tertile of SB ; ≥ 60 min / d of PA + 1st tertile of SB ;
+
 The potential confounders for this study were : Country ( HELENA only ) : Age ( years ) : Socioeconomic status : based on the family ' s household goods .
 In the HELENA study , the same definitions were used in previous HELENA studies [28] , [29] .
 In the BRACAH study , the Brazil Criterion of Economic Classification [30] was employed .
@@ -42,6 +44,7 @@ Regular tobacco smoking : defined as the regular consumption of at least one cig
 BMI was used as a continuous variable in the analysis .
 Wearing light clothes and no shoes , the adolescents ' height was measured to the nearest 0.1 cm with a wood stadiometer and their body mass to the nearest 0.1 kg with a calibrated portable digital scale .
 Waist circumference : measured in both studies at the midpoint between the lowest point of the rib cage and the top of the iliac crest next to skin with a non - elastic measuring tape to the nearest 0.1 cm .
+
 The descriptive analyses were presented as means ( quantitative variables ) , percentages ( qualitative variables ) and 95 % confidence intervals ( CI 95 % ) .
 Multilevel linear regression models using fixed effects intercept were fitted to analyze the relationship between each BP level and independent variables [32] , [33] , considering two levels of data organization : ( i ) individual behaviors and ( ii ) potential confounders ( not shown ) [34] .
 The context variable used was the school .

@@ -17,10 +17,12 @@ OSCC was diagnosed by histopathological evaluation .
 Treatment was started based on positive histology result and was not influenced by saliva sample collection and evaluation .
 Periodontal condition was evaluated by a periodontist from Department of Periodontology ; none of the patients and healthy volunteers had diabetes mellitus , human papilloma virus infection or any autoimmune diseases .
 The study population was a consecutive series of patients and volunteers according to the above presented criteria .
+
 In this prospective study we did not compare two laboratory methods rather we wanted to apply the methodology of proteomics to determine proteins with high sensitivity and specificity in saliva samples from patients with OSCC .
 Data collection was planned before sampling and performing the examinations .
 Three types of examinations were applied according to the Fig 1 .
 During study design the CPTAC guidelines were followed : first ; SRM - based biomarker verification was carried out followed by the ELISA analysis of the three selected potential biomarkers on larger patient cohort .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0177282.g001 Study design .
 The samples for the Luminex assay and SRM - based assay were randomly selected from the test set of samples , and the samples for validation by ELISA were also randomly selected from the reference set of samples ( S1 Table ) .
@@ -29,11 +31,13 @@ The laboratory examinations were done by well - trained , graduated molecular bi
 This was a non - interventional study and the results of the performed methods did not influence in any means the treatment of patients .
 The sampling procedure was non - invasive and completely harmless to the study subjects .
 Therefore , no adverse events were related to performing the laboratory examinations .
+
 The multiplex immunobead Luminex x - MAP - based cytokine assay was carried out on a Custom 6plex Milliplex kit ( Merck - Millipore ) containing antibodies against IL - 1 α , IL - 1 β , IL - 6 , IL - 8 , TNF - α and VEGF .
 25 μ l of the saliva samples of patients with OSCC and age - matched controls were analyzed in duplicates .
 The assay was carried out based on the protocol provided by the manufacturer and the data acquisition was done on BioPlex 2.0 Workstation ( Bio - Rad ) operated by the Bioplex Manager 4.0 software .
 The level of IL - 1 α , IL - 1 β , IL - 6 , IL - 8 , TNF - α and VEGF was calculated by the Bioplex Manager software based on the recorded 7 - point calibration curve .
 For curve fitting a logistic regression model was used .
+
 Design of SRM - based targeted proteomics method : The amino acid sequences of the examined proteins were utilized from the UniProt database ( www.uniprot.org ) and were subjected to in silico trypsin digestion .
 In order to determine the unique protein - specific tryptic sequences BLASTp analysis ( http://blast.ncbi.nlm.nih.gov ) was carried out searching the NCBI non - redundant protein sequence database .
 SRM transition design was performed by the Skyline software [18] ( www.brendanx-uw1.gs.washington.edu ) on the protein - specific tryptic peptide sequences .
@@ -41,6 +45,7 @@ All possible transitions of singly charged “ y ” ions were tested on digeste
 Peptides which gave reproducible SRM spectra with good peak shape were chosen for further analyses and their stable isotope - labeled synthetic forms were obtained from the JPT Peptide Technologies GmbH , Germany .
 The quality of the synthetic peptides was assessed in our laboratory by mass spectrometry analyzes .
 The SRM spectra of all fragment ions were recorded and the two best transitions were selected for further analyzes .
+
 Sample preparation for mass spectrometry : 200 μ l filtered saliva was dried in speedvac and redissolved in 50 mM ammonium bicarbonate buffer .
 Protein concentration of the samples was determined using the Bradford method [19] .
 Sample blocking was carried out before trypsin digestion ; one randomly selected OSCC sample was grouped with one randomly selected age - matched and one young control sample and the groups were processed together on the same day .
@@ -49,6 +54,7 @@ The samples were alkylated with 20 mM iodo - acetamide and diluted with 25 mM am
 Trypsin digestion was performed at 37 ° C overnight using MS grade modified trypsin ( ABSciex ) in 1 : 25 enzyme to protein ratio .
 The digested samples were dried in speedvac and redissolved in 1 % formic acid .
 The samples were desalted using Pierce C18 Tips ( Thermo Scientific ) and the eluates were dried and dissolved in 1 % formic acid .
+
 SRM - based analysis of saliva samples were carried out on a 4000 QTRAP ( ABSciex ) mass spectrometer using a NanoSpray II MicroIon Source and controlled by the Analyst 1.4.2 software ( ABSciex ) .
 The spray voltage was 2800V , the ion source gas was 50 psi , the curtain gas was 20 psi and the source temperature was 70 ° C .
 The dwell time was 20 msec and the cycle time was 1.7 sec allowing the collection of approximately 15 data points / chromatographic peak .
@@ -56,9 +62,11 @@ The chromatographic separation was done on an EasynLC II system ( Bruker ) and t
 Solvent A was 0.1 % formic acid in LC water , solvent B was LC acetonitrile containing 0.1 % formic acid .
 For SRM analysis 20 μ g digested protein spiked with the stable isotope - labeled reference peptides was introduced to the mass spectrometer .
 All SRM analyses were carried out in duplicates .
+
 Each saliva sample from patients with OSCC , matched control and young control subjects were analyzed in duplicate by ELISA using Human ELISA Kit .
 The concentration of IL - 6 and thioredoxin ( EK 0410 and EK 1254 , respectively , Boster Biological Technology Co . , Pleasanton , USA ) and S100A 9 ( E - EL - H1290 , Elabscience Biotechnology Co . , Wuhan , China ) in saliva were determined by sandwich enzyme - linked immune - sorbent assay technique according to manufacturer ’ s protocol .
 Absorbance was measured at 450 nm and concentrations were calculated based on the recorded 6 - point ( thioredoxin and S100A 9 ) and 7 - point ( IL - 6 ) calibration curves , respectively .
+
 The SRM data were analyzed using the Skyline software [18] .
 All data where the AUC value was less than 10 were excluded from further analyses .
 The Skyline data are publicly available through the Panorama [20] web site : ( https://panoramaweb.org/labkey/project/University%20of%20Debrecen/OSCC%20saliva/begin.view? ) The primary data were transformed into appropriate format of MSstats R - package [21-23] by an in - house developed software .

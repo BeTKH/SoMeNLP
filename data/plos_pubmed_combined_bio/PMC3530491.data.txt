@@ -1,5 +1,6 @@
 The Medical Ethical Committee of Maastricht University Hospital / Maastricht University ( azM / UM ) gave ethical clearance for this study .
 All participants , and for minors also both parents / caregivers , gave written informed consent .
+
 Twenty - four adolescent patients with galactosemia and twenty - one healthy controls participated in this study .
 Classic galactosemia was diagnosed by GALT enzyme activity assay and / or GALT - gene mutation analysis .
 Two participants ( both patients ) were excluded because of difficulties executing the ERP task .
@@ -8,13 +9,16 @@ Of the remaining 22 patients , 15 were female and 7 male , mean age 14.9 years (
 The control group consisted of 14 females and 7 males mean age 14.2 years ( SD 1.8 y , range 11.4 - 17.0 y ) .
 Neither gender nor age differed significantly between the groups [ F ( 1 , 41 ) = .01 , p = .92 and F ( 1 , 41 ) = 1.07 , p = .31 , respectively ] .
 Participants had no other relevant health conditions , all had normal or corrected to normal vision , and were native Dutch speakers .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0052826.t001 Galactosemia patient characteristics .
 GALT enzyme activities indicate that all patients have the classic galactosemia type .
 Urine galactose and galactitol levels indicate adequate dietary compliance .1GALT activity was measured at diagnosis ; 2In case the GALT activity is not reported , it was confirmed by the treating physician to be severely decreased ; 3ND = not detected ; 4Urine levels were measured within three months of testing ; 5At some point in life ; 6Q 188R / L195P ( n = 4 ) or Q188R / S135W ( n = 1 ) ; 7L 195P / K229N ( n = 3 ) or 400Tdel / unknown ( n = 2 ) .
+
 The Rey Osterreith Complex Figure was used to assess visuo - motor skills ( Copy subtest ) , short term visual memory ( Immediate Recall ) and long term visual memory ( Delayed Recall and Recognition ) [44] .
 The Bourdon - Vos test was used to measure sustained attention skills ( mean reaction time [ RT ] ) [45] .
 The Digit Span ( Forward and Backward ) addressed verbal working memory skills [46] .
+
 Language paradigm during EEG recording : Visually animated scenes were presented to the participants .
 Each scene consisted of three geometrical shapes ( square , triangle , or circle ) having one of three different colours ( red , blue or green ) .
 In each trial , one of the three geometrical figures performed an action upon another figure ( one figure moves towards or bumps into another figure ; described by either ‘ to fly towards ’ or ‘ to bump into ’ ) .
@@ -23,6 +27,7 @@ Participants were asked to keep the naming format of the phrases constant over t
 In the word ‘ W ’ naming format , lexical access of words is required , but virtually no syntactic encoding .
 In the sentence ‘ S ’ naming format , in contrast , syntactic encoding is required on local noun phrase level ( e.g. , inflection of adjectives ) and on sentence level ( e.g. , inflection of the verb , determination of the word order , constructing and filling in of the syntactic frame ) .
 The control ( ‘ C ’ ) condition was added in this study to receive relevant information for the required non - linguistic resources ( e.g. , visual processes , attention ) .
+
 The study was conducted in two sessions .
 In the first session , the neuropsychological tests were conducted in all participants after explanation and written informed consents were given ( by the participant and both parents / caregiver ) .
 In the second session , the language paradigm and EEG recordings took place .
@@ -40,12 +45,14 @@ Note that the movements in the scenes are visually identical until they diverge 
 Participants were instructed to start the description as fast and accurate as possible .
 The next trials started via a self - paced button push ( USB - keyboard key ) , except for the control trials which had a fixed 2000 ms interval between trials .
 Control trials had approximately the same duration as the linguistic trials .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0052826.g001 Overview of the sequences of events within trials .
 Timing of events within an experimental trial , separated for the two action formats ( ‘ to fly towards ’ and ‘ to bump into ’ ) .
 Time is displayed upwards .
 The block started with the instruction cue ( ‘ WORD ’ or ‘ SENTENCE ’ ) , a fixation cross , a ready sign , and a randomized sequence of trials .
 For each trial type screenshots are displayed to illustrate the actual moving time period of the objects along with the moments of expected response of the participant , and the corresponding ERP epochs of interest ( time - locked to scene onset and the bump event , respectively ) .
+
 The EEG recording was done using an elastic cap in which 32 tin electrodes were mounted ( Electro - Cap International ( ECI ) , Inc . ) , positioned according to the international 10 - 20 system [47] .
 Twenty electrodes - F3 , Fz , F4 , FC 3 , FCz , FC 4 , C3 , Cz , C4 , CP 3 , CPz , CP 4 , P3 , Pz , P4 , O1 , Oz , O2 , T3 and T4 - were measured as active leads , AFz was used as the ground electrode .
 The left mastoid ( A1 ) was used as online reference .
@@ -56,6 +63,7 @@ The impedance of all electrodes was kept below 5 k Ω .
 Data acquisition was done using Brain Vision Recorder software ( Brain Vision , MedCaT B.V . ) and the signal was amplified using a 0.05 - 50 Hz band pass and sampled at a 500 Hz interval .
 The scene onset as well as the voice onset triggered a TTL pulse directly into the EEG recordings .
 The voice onset pulse was initiated whenever the sound pressure level reached a certain threshold ( individually adjusted to each subject ) and was transferred via a microphone .
+
 The number of errors and self - corrections were computed using the recorded audio data and manual ( online ) scores .
 Errors were defined as any deviation from the expected utterance ( i.e. , incorrect figure , colour , action , naming format or ordering ) .
 Self - corrections were defined as any overt corrective effort during the response utterance .

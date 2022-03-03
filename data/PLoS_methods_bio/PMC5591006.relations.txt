@@ -5,7 +5,12 @@
 
 
 
+
 Developer_of	SPSS Inc.	165	2	SigmaStat	136	1;;Developer_of	SPSS Inc.	165	2	SigmaPlot	124	0;;
+
+
+
+
 
 
 
@@ -29,6 +34,7 @@ Abbreviation_of	RAST	132	1	Rapid Annotation using Subsystem Technology	86	0;;URL
 URL_of	http://linux1.softberry.com/berry.phtml	89	1	FGENESB	79	0;;
 
 URL_of	http://www.ebi.ac.uk/interpro/	232	2	InterPro	209	1;;
+
 
 
 

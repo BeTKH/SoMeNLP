@@ -35,6 +35,7 @@ Due to post - workout dehydration , the values of biochemical indicators determi
 The correction was performed by establishing % Δ PV using the appropriate formula : % Δ PV = - 100x [ ( Bk - Bp ) / ( Bk ) ] , where : Bp - baseline protein level determined prior to the exercise ; Bk - endpoint protein level determined after exercise [20] .
 The Kraemer and Brown [21] formula was used to calculate the corrected values .
 Wsk = ( % Δ PV .0.01 .Wpo ) + Wpo , where : Wsk − corrected value , Wpo − post - exercise value .
+
 The physiological indicators were assessed at the beginning of the preparatory period ( baseline ) .
 For the assessment of maximal oxygen uptake ( VO 2max ) and the level of the second ventilatory threshold ( VT 2 ) , a graded , treadmill test was applied ( Saturn 250 / 100R , h / p / Cosmos , Germany ) .
 The effort started with a 4 - minute warm - up at the speed of 8 km · h - 1 , with the surface inclination angle of 1 ° .
@@ -45,13 +46,16 @@ Heart rate ( HR ) during the test was measured with a sports watch ( Suunto Ambi
 For the determination of VT 2 , changes were analysed in respiratory indicators occurring along with the increase in work intensity .
 The criteria for VT 2 assessment were the following : ( a ) the percentage of CO 2 in the exhaled air reached its maximal value and then decreased ; ( b ) the CO 2 respiratory equivalent was at its minimal value and then increased ; ( c ) when VT 2 was exceeded , a non - linear , large increase in respiratory ventilation was observed [ 22 , 23 ] .
 The highest registered quantity was considered the VO 2max value .
+
 Before the tests , the participating competitors underwent nutritional consultations in order to rationalise and standardise their diets .
 The dietary assumptions were developed in accordance with the qualitative recommendations for rational nutrition of athletes [24] and the quantitative recommendations for endurance sports competitors [ 25 , 26 ] .
 Energy demand was set at the level of 3,500 - 5,000 kcal , carbohydrate supply of 6 - 10 g / kg body mass , protein supply of 1.2 - 1.7 g / kg body mass and fat supply of 1.0 - 1.5 g / kg body mass .
 The athletes were acquainted with the assumptions of the peri - workout nutrition strategy [ 27 , 28 ] .
 They were instructed on the necessity to preserve the dietary model during the whole follow - up period ( 16 weeks ) , and to eliminate supplements that could influencebiochemical tests .
+
 Characteristics of the studied competitors : The study involved 15 triathlon - training athletes , aged 32.8 ± 3.1 years , with the average training experience of 10 ± 4.2 years .
 The sports level of the participants corresponded to sports classes I and II ( national - level competitors ) .
+
 Methods of statistical analysis and presentation of results : The results of the study are presented as arithmetic means and standard deviations .
 The consistency of distribution of the evaluated indicators with normal distribution was checked using the Shapiro - Wilk test .
 Changes in somatic and physiological indices were evaluated with the Wilcoxon test .

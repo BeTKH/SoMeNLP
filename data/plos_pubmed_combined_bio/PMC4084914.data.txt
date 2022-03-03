@@ -11,6 +11,7 @@ The level of competence was self - assessed by the survey participants , using t
 First , the participants were asked to rank ( on a scale of 1 to 9 ) each task , according to its importance in the exercise of their surveillance duties .
 Second , the same 33 tasks were presented again and participants were asked to assess their own level of competence to perform each of them , also on a scale of 1 to 9 .
 This scale was visually presented in three progressive stages : “ weak ” ( values 1 - 3 ) , “ medium ” ( values 4 - 6 ) , and “ strong ” ( values 7 - 9 ) .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0101594.t001 List of 33 tasks surveyed ( original text in French ) , and their grouping in 10 domains .
 Because both parameters were measured with the same scale and by the same person , the calculation of the difference between the two figures provided a direct measurement of the gap between the importance attached to a given function and the perceived level of competence for that same function .
@@ -18,6 +19,7 @@ The magnitude of this gap helped identify where a lack of competence was felt as
 The analysis consisted of quantitative description of data , stratifying by area of expertise , basic qualification ( degree or diploma giving a professional status pertinent to the job ) , type of structure ( ORS or CPE ) , and by administrative divisions ( region and province / prefecture ) .
 Mapping ( not shown in this manuscript ) was used to present the geographical distribution of certain characteristics .
 Responses to the 33 tasks related to surveillance were synthesized for analysis by grouping them into 10 domains , as shown in Table 1 and Figures 1 , 2 and 3 .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0101594.g001 Importance attributed to surveillance tasks ( grouped in 10 domains ) , by basic qualification , Morocco 2011 .
 Figure data removed from full text .
@@ -26,6 +28,7 @@ Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0101594.g003 Competence gap ( self - rated ) , by basic qualification .
 Gap between the importance given to surveillance tasks ( grouped in 10 broad areas ) and the self - estimated competence ( rated by each participant using a scale of 1 to 9 ) , by basic qualification categories .
 Data analysis was performed with EpiInfo 3.5.4 and Stata 10 software .
+
 Interviews and field visits were organized with the objectives of ( 1 ) gathering information and opinions of key players on broader issues such as motivators and barriers , and on training needs from the local perspective ; and ( 2 ) directly observing and discussing the methods and tools used for the surveillance activities .
 At central level , the interviewees included relevant officials of the Ministry of Health ' s directorates which are involved in public health surveillance and the health information system , as well as epidemiology training providers .
 In each region visited we interviewed the Regional Health Director as well as the technical personnel conducting surveillance tasks at the ORS and at least at one CPE .

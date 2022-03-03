@@ -1,13 +1,16 @@
 The study was approved by Bioethics Committee of the Nicolaus Copernicus University in Torun , The Ludwik Rydygier Collegium in Bydoszcz , Poland ( statements no . KB / 32 / 2002 and KB / 414 / 2008 from 28 January , 2002 and 17 September , 2008 , respectively ) .
 All subjects provided written informed consent for the collection of samples and subsequent analysis .
+
 Sampling , HVS 1 Sequencing and RFLP Typing : Blood samples from 149 unrelated Barghuts were collected in different localities of Hulun Buir Aimak , Inner Mongolia , China .
 Hair samples from 98 unrelated Altaian Kazakhs were collected in different localities of Kosh - Agach district of Altai Republic .
 Total DNA was extracted by the standard phenol / chloroform method .
 The hypervariable segments ( HVS 1 ) ( from positions 15999 to 16400 ) and HVS 2 ( from positions 30 to 407 ) were sequenced in all samples followed by RFLP screening to resolve haplogroup status in a hierarchical scheme as described earlier [8] .
+
 For complete mtDNA sequencing we have choose the mtDNA lineages which are specific for populations of northern Asia but which are still underrepresented in the published data sets on complete mtDNA variation ( haplogroup B ) as well as other eastern Eurasian mtDNA haplogroups which are rarely found in populations of northern Asia ( R 11 , F2 , M9 , M10 , M11 , M13 , N9a and R 9c 1 ) being much more frequent in other regions of Asia .
 Out of about 5000 samples of northern and eastern Asians ( including 247 samples presented here ) as well as Europeans that had been screened previously for haplogroup - diagnostic RFLP markers and subjected to control region sequencing [8] , [38] - [40] , [49] , [61] - [67] ( Table S5 ) a total of 55 samples representing haplogroups B ( n = 23 ) , F2 ( n = 1 ) , M9 ( n = 9 ) , M10 ( n = 5 ) , M11 ( n = 3 ) , M13 ( n = 2 ) , N9a ( n = 10 ) , R 9c ( n = 1 ) and R 11 ( n = 1 ) were selected ( Table S4 ) .
 Complete mtDNA sequencing was performed using the methodology described in detail by Torroni et al . [68] .
 DNA sequence data were analyzed using SeqScape v. 2.5 software ( Applied Biosystems ) and compared with the revised Cambridge reference sequence ( rCRS ) [69] .
+
 Descriptive statistical indexes , the Tajima ' s D [70] and Fu ' s FS [71] neutrality tests ( for HVS 1 sequence data ) were calculated using Arlequin software , version 3.01 [72] .
 Principal Component ( PC ) analysis was performed using mtDNA haplogroup frequencies as input vectors by STATISTICA 6.0 software ( StatSoft , Inc . , USA ) .
 Nonparametric multidimensional scaling ( MDS ) analysis based on FST statistics calculated from HVS 1 sequences was also performed using STATISTICA 6.0 software ( StatSoft , Inc . , USA ) to visualize relationships between Altaian Kazakhs and Barghuts studied and other Asian populations around .

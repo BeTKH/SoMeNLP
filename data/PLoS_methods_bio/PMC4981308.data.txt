@@ -1,5 +1,6 @@
 The current study was approved by the ‘ Institutional Committee for Ethics and Review of Research ’ of the Indian Institute of Health Management Research ( www.iihmr.org ) , Jaipur , India .
 Informed consent ( including signature or left thumb impression of the respondent ) was obtained from each agreeing participant before the interview .
+
 CARE India , a non - governmental organization , in association with the State Government of Bihar and under financial patronage of the Bill and Melinda Gates Foundation , initiated a multifaceted project named Integrated Family Health Initiative ( IFHI ) in 2011 with the principal objective of reducing the mortality and malnutrition among the infants and women of reproductive age in Bihar , a resource - poor state [27] .
 As part of the pilot phase of IFHI , multiple population based cross - sectional surveys were conducted to ascertain various health and developmental indicators in the state .
 In total , five rounds of such survey , using Lot Quality Assurance Sampling ( LQAS ) technique ( a small sample survey design based on binomial distribution ) [28-31] , were conducted in eight randomly selected districts ( from total 38 ) of Bihar .
@@ -18,9 +19,11 @@ Consenting and eligible mothers responded to a detailed one - to - one interview
 In the current analysis , we used information on infants belonging to three age groups - 0 - 2 , 3 - 5 and 6 - 8 completed months .
 The data obtained during Round - II to Round - V of LQAS survey were used .
 Information collected during Round - I of LQAS were excluded because of methodological shortcomings and changes in questionnaire pattern between the first and the subsequent rounds of survey .
+
 Our objective was to ensure adequate sample size for evaluation of various health indicators in each block ( district sub - divisions ) .
 According to LQAS methodology , the suggested minimum sample size for each decision - making unit is 19 ( resulting in < 10 % α and β errors ) [32] .
 Thus , based on the LQAS decision - making rule , 19 respondents per block for every age - group was selected .
+
 During the interview , mothers of 0 - 2 and 3 - 5 completed months old infants were asked , inter alia , about the edible ( or drinkable ) items given to their child during the previous 24 hours ( previous day ’ s morning to current day ’ s morning ) .
 Children of the mothers who reported giving only breastmilk were considered to be breastfed exclusively and vice versa [33] .
 Children who received other food or drinks including tea or other water - like substitutes ( except for ORS or medicines ) were regarded as non - exclusively breastfed .
@@ -28,6 +31,7 @@ Thus , for less than 6 month old children , EBF status was determined by a surro
 Regarding feeding practice , if the mother was not available for some reason and some other lactating woman provided breastfeeding , it was still considered as breastfeeding .
 For the children aged 6 - 8 completed months , the mothers were inquired about the age at which weaning was done i.e. the age from which they started giving liquid / semi - solid food ( other than breastmilk ) to their child .
 Children who were reportedly weaned at or after sixth month were assumed to be exclusively breastfed .
+
 In order to assess the effect of seasonal variation on breastfeeding among children aged 0 - 2 and 3 - 5 completed months , we first sought out the month during which the interview was conducted .
 Based on the prevailing weather pattern in Bihar , we classified the interviews conducted during November to February as those conducted in ‘ winter ’ season , April to August as ‘ summer ’ and rest of the months as ‘ autumn / spring ’ .
 For 6 - 8 month old children , we tried to determine the approximate calendar months during which an infant was supposed to be exclusively breastfed ( as per WHO recommendation ) .
@@ -39,6 +43,7 @@ As part of LQAS survey , mothers of children aged 0 - 5 months were asked if the
 The mothers who reported receiving such advice following birth of the concerned child , were considered exposed to EBF counselling and vice versa .
 The mothers of older infants ( 6 - 8 completed months ) were not inquired about EBF advice but they were asked about counselling on complementary feeding .
 The mothers who reported receiving advice on starting semi - solid food along with breast milk after their child reached a certain age ( 6 months ) were classified as exposed to complementary feeding advice .
+
 We included several demographic and socio - economic parameters in our analyses to control for potential confounding .
 These include gender of the child , caste , religion , economic status of the household ( asset index ) , and parental education level .
 Caste - wise , the families were dichotomized into marginalized caste [ scheduled castes ( SC ) / scheduled tribes ( ST ) / other backward castes ( OBC ) ] and other / general caste .

@@ -17,7 +17,15 @@
 
 
 
+
 Version_of	1.9	160	1	cellSens Dimension	141	0;;
+
+
+
+
+
+
+
 
 
 
@@ -72,7 +80,10 @@ Developer_of	BD Biosciences	106	1	FACSuite	86	0;;
 
 
 
+
+
 Developer_of	Kibbe	109	1	Oligo Calc	96	0;;
+
 
 
 
@@ -86,6 +97,7 @@ Version_of	3.5	88	1	RT2 Profiler PCR Array Data analysis	50	0;;Developer_of	Qiag
 Developer_of	Systems Inc.	77	2	Ingenuity Pathway Analysis	42	0;;Abbreviation_of	IPA	71	1	Ingenuity Pathway Analysis	42	0;;
 
 Developer_of	Kibbe	61	1	Oligo Calc	48	0;;
+
 
 
 

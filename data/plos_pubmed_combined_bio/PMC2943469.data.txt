@@ -19,6 +19,7 @@ The number N of these modes depends on the level of details that we wish to desc
 Emotional activity can be represented in the same way - , where Bj ( t ) are dynamical variables and Vj ( l ) is a function that characterizes the structure of the j - th emotional mode .
 The ensemble of emotional modes includes both positive and negative emotions in our model .
 Resources are represented in a similar manner .
+
 A Canonical Model of the Mental Dynamics : In the last few years , the nonlinear dynamical theory has formulated the concept of stable transients that are robust against noise , yet sensitive to the external signal [12] , [24] .
 The mathematical object that corresponds to such stable transients is a sequence of the metastable states that are connected by special trajectories named separatrices ( see Fig . 1 ) .
 Under proper conditions ( as outlined in the Appendix ) , all trajectories in the neighborhood of the metastable states that form the chain remain in their vicinity , ensuring robustness and reproducibility in a wide range of the control parameters .
@@ -52,6 +53,7 @@ The vectors RA and RB are the collections of these items that gate the increment
 The characteristic times θ of the different resources may vary .
 The coefficients φ A and φ B determine the level of competition between cognition and emotion for these resources .
 Each process is open to the multiplicative noise denoted by η and d terms in the equations .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0012547.t001 Model parameters and their values used the simulations .
 The values of the increments σ i and ζ i depend on the stimuli and / or the intensity of the emotional and cognitive modes , respectively .

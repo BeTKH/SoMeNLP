@@ -7,6 +7,7 @@ AG , DG and GH levels were significantly lower in the autism group than in the c
 However , TT , FT and leptin levels were significantly higher in the autism group than in the control group ( p ≤ 0.05 , p ≤ 0.001 and p ≤ 0.01 , respectively ) .
 Our results for the first time demonstrate low AG and DG levels in autistic children .
 Considering the capacity of ghrelin to affect neuroinflammatory and apoptotic processes that are linked to autism , this study suggests a potential role for the hormone ghrelin in the pathogenesis of autism .
+
 Autism spectrum disorders ( ASDs ) are a group of heterogeneous neurodevelopmental disorders that are classified as pervasive developmental disorders .
 ASDs are usually characterised by clinical manifestations of delayed or abnormal language development , deficits in social interaction , repetitive behaviours and restricted interest [1] .
 The pathogenesis of autism is not completely understood ; however , a genetic origin has been recognised , and potential roles for both environmental factors and immune dysfunction have also been reported [1] .
@@ -47,10 +48,12 @@ The patients included in this study had no associated neurological diseases ( su
 None of the patients have intellectual disability .
 Written consent was obtained from the parents according to the guidelines of the Institutional Review Board ( IRB ) of the College of Medicine , King Saud University , Riyadh , Saudi Arabia .
 The IRB approved the study protocol ( approval no . E - 10 - 341 ) .
+
 Anthropometric measurements
 The height and weight of individuals in the autism and control groups were measured using an electronic scale .
 The occipito - frontal head circumference , waist circumference and hip circumference were measured using a meter .
 The body mass index ( BMI ) and waist to hip ratio ( W / H ) were calculated .
+
 Biochemical assays
 Venous blood samples ( 7 mL ) were collected between 8 : 00 and 9 : 00 am after an overnight fast and were divided immediately as follows : a 3 mL aliquot of blood was dispensed into an EDTA tube containing 30 μ L of p - hydroxymercuribenzoic acid ( PHMBA ) to prevent the degradation of acyl ghrelin ( AG ) .
 This sample was used to measure both AG and DG .
@@ -61,12 +64,14 @@ Plasma levels of AG and DG were measured using SPI - BIO enzyme - linked immunos
 Baseline serum levels of GH were measured using LIAISON ™ hGH chemiluminescence immunoassay kits obtained from Diasorin , USA .
 Serum leptin , TT , FT and SHBG levels were measured using DIAsource ELISA kits ( Nivelles , Belgium ) .
 All sample measurements were performed in duplicate ; thus , two kits per hormone were used .
+
 Statistical analysis
 The data were analysed using SPSS Pc + statistical software ( version 18.0 ) .
 Normality was tested , and the normal distribution of the data was confirmed .
 The independent samples t test was used to compare means between the autism and control groups .
 The correlation between different variables was determined using the Karl Pearson correlation coefficient .
 Statistical significance was defined as p ≤ 0.05 .
+
 Results
 Data for the anthropometric measurements and hormonal analysis are presented in Table 1 , Table 2 and Table 3 as the mean values ± standard deviation .
 As Table 1 shows , the only significant difference between the autistic group and the controls occurred in body weight , which was 18 % higher in the autistic group than in the controls ( 22.7 ± 7.9 vs . 19.3 ± 4.1 kg ; p ≤ 0.05 ) .
@@ -88,6 +93,7 @@ Correlations of DG with different variables : DG had significant negative correl
 Correlations of TT and FT with different variables : TT had significant positive correlations with FT ( r = + 0.7 , p ≤ 0.001 ) , age ( r = + 0.44 , p ≤ 0.05 ) , waist circumference ( r = + 0.37 , p ≤ 0.05 ) and hip circumference ( r = + 0.37 , p ≤ 0.05 ) .
 FT had significant positive correlations with height ( r = + 0.49 , p ≤ 0.01 ) , weight ( r = + 0.54 , p ≤ 0.01 ) , BMI ( r = + 0.40 , p ≤ 0.05 ) , waist circumference ( r = + 0.59 , p ≤ 0.001 ) , hip circumference ( r = + 0.52 , p ≤ 0.01 ) and leptin level ( r = + 0.42 , p ≤ 0.01 ) .
 Correlations of leptin with different variables : Leptin level had significant positive correlations with height ( r = + 0.53 , p ≤ 0.01 ) , weight ( r = + 0.67 , p ≤ 0.001 ) , BMI ( r = + 0.56 , p ≤ 0.001 ) , waist circumference ( r = + 0.61 , p ≤ 0.001 ) , hip circumference ( r = + 0.72 , p ≤ 0.001 ) and head circumference ( r = + 0.43 , p ≤ 0.02 ) .
+
 Discussion
 Numerous hormone studies have been undertaken in children with autism ; however , to our knowledge , this study is the first in which ghrelin was measured .
 Plasma levels of both AG and DG were significantly reduced in the autism group compared with healthy controls .
@@ -149,11 +155,13 @@ Investigations of the genetic bases for these phenomena should be conducted in f
 The main limitation of this study is the lack of female subjects with autism ; thus , the study was limited to only the male sex .
 Additionally , the number of subjects included in the study was not large and was also limited by the availability of both autism patients and controls .
 However , in the opinion of the authors , this study contributes significantly to the understanding of hormonal dysregulation in the pathophysiology of autism , as it provides baseline data regarding hormonal profiles in autism and substantiates potential clinical interventions .
+
 Author Contributions
 F.A . - Z . and A.A . contributed equally to the study design , methodology and statistics .
 F.A . - Z . wrote the main manuscript text and prepared the figures ( 1 , 2 ) .
 L.A . - A . reviewed the study design and methodology .
 All authors reviewed the manuscript .
+
 Clinical characteristics of normal controls and subjects with autism
 Mean values of measured hormones and SHBG levels in control and autism groups
 Mean values of AG , DG and leptin measured in weight - , sex - and age - matched control and autism groups

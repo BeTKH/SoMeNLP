@@ -12,12 +12,14 @@ The latest version also has more detailed questions on ‘ bold ’ behavior .
 Several background questions regarding early life experiences , such as socialization and the puppy period , were included , as well as more general questions concerning daily routines and diet , with food types and extra nutrients .
 Instead of trying to capture the entire spectrum of phenotypic variation in fearfulness , we aimed to structure the questionnaire so that it would find the most fearful individuals as ' cases ' , and those with no marked fear reactions as ' controls ' .
 We derived several behavioral variables from the questionnaire data ( Table 1 ) , which were used as response variables in analyzing the associated environmental factors .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0141907.t001 Behavioral and environmental variables derived from questionnaire data .
 We advertised the questionnaire to owners of all breeds , but especially Great Danes , German Shepherds , Belgium Shepherds , Staffordshire Bull terriers , Lagotto Romagnolos and Salukis .
 This is because we aimed for large sample sizes from breeds with a large number of existing blood samples already in our Dog DNA bank .
 The questionnaire was advertised via breed clubs and Facebook .
 Both shy and bold individuals , as well as dogs with fearful reactions to loud noises , and also dogs with no marked behavioral reactions to loud noises were invited to participate .
+
 Statistical analysis and used behavioral variables : We analyzed the possible association of environmental factors with several anxieties using the generalized linear mixed model ( GLMMs ) with binomial distribution ( PROC GLIMMIX , SAS version 9.3 ) , using breed and the questionnaire - version ( 1 - 4 ) as a random variable ( all breeds were pooled ) .
 The GLIMMIX procedure allows the analysis of fixed and random variables in the same model , and it also allows non - normal data and correlation among the variables .
 The response variable for fearfulness was Fear - status , for noise sensitivity - Noise sensitivity - status and for separation anxiety we used Separation anxiety - status ( referred hereafter as A analysis ) ( Table 1 ) .
@@ -38,6 +40,7 @@ Multicolinearity was assessed in all our final generalized linear mixed models u
 Factor place of birth ( at the dog ’ s permanent home / breeder ’ s place ) was not included into the generalized linear mixed model , as although included in all versions of the questionnaire , it included many missing values or “ don ’ t know ” answers and therefore including this variable into the model would have reduced the sample size significantly .
 We therefore analyzed the place of birth - variable separately using Wilcoxon rank sum test , comparing the Shyness and Noise reactivity - scores ( see Table 1 ) between dogs that were born at their permanent home or at the breeder ’ s place .
 Kruskall - Wallis test and Spearman correlation were used to investigate the association between daily exercise and other variables .
+
 The data in this study is collected using an online questionnaire .
 Before completing the questionnaire , owners were informed of the following : “ all filled questionnaires are included in the study , which focuses on the phenotypic characteristics of fear and noise phobia , and possible associated environmental factors .
 All information submitted is kept strictly confidential .

@@ -1,6 +1,7 @@
 Systematic reviews of reviews have been particularly advocated to inform policy , clinical , and research deliberations by providing an evidence - based summary of inter - related technologies [9] .
 Our approach involved drawing on established systematic review methodology ( i.e. , those developed by The Cochrane Collaboration ) to ensure rigour by minimising the risk of bias [10] ; we also drew on more novel methods of evidence synthesis ( i.e. , those developed by the UK National Health Service [ NHS ] Service Delivery and Organisation Programme ) with the aim of producing an overview that we hoped would prove useful to decision makers [11] .
 We present here a summary of the methods used .
+
 Inherent difficulties associated with systematic reviews of health care organisation and delivery intervention include the considerable effort required at the outset to facilitate their conduct [9] .
 Accordingly , we began with an in - depth exploration of the fields of health care quality and safety , as well as eHealth functionalities used in health care delivery .
 This exploration entailed conceptually mapping the fields to understand various processes involved as well as how these relate to each other .
@@ -11,12 +12,14 @@ We characterised eHealth technologies as having three main overlapping functions
 Given the strategic focus of the English National Programme for Information Technology ( NPfIT ) ( and other similar large - scale programmes ) on electronic record and professional decision support systems [1] , the first two functions were prioritised in this initial phase of our work .
 The current reported work thus concerns the related areas of EHRs , PACS , CPOEs , ePrescribing , and computerised systems for supporting clinical decision making .
 Remote care and consumer health informatics are the subjects of a subsequent 3 - y research enquiry , which is currently in progress .
+
 We drew on established Cochrane - based systematic review principles to search for relevant systematic reviews .
 An inclusive string of MeSH and free terms ( Text S1 ) was developed to query PubMed / MEDLINE , EMBASE , and the Cochrane Library contents for secondary research reports published from 1997 up to 2007 with no restrictions placed on language .
 The bibliographies of reports identified as potentially relevant were reviewed as was a catalogue of secondary research amassed through various contributions by team members .
 Additional searches of key health informatics resources , namely the conference proceedings and publication databases of the American Medical Informatics Association and the Agency of Healthcare Research and Quality , were also undertaken .
 Finally , the Internet was searched using the Google and Google Scholar search engines .
 Searches were periodically updated to ensure that the most recent publications were included with the last update occurring at the end of April 2010 .
+
 Selection and Critical Appraisal of Systematic Reviews : On the basis of the areas identified for prioritisation , we developed a detailed list of interventions that were to be included / excluded ( Text S2 ) .
 End users of applicable interventions were limited to health care professionals ; any findings relating to patient - focused interventions were therefore excluded .
 Of interest were systematic reviews that focused on the assessment of patient , practitioner , or organisational outcomes .
@@ -28,6 +31,7 @@ These supplementary systematic reviews ( henceforth referred to as “ supplemen
 Critical appraisal was undertaken using an adapted version of the Critical Appraisal Skills Programme ( CASP ) tool for systematic reviews [14] .
 These modifications were informed by the growing literature regarding both the methodological and reporting issues with primary research in health informatics ( Table S1 ) .
 The details of this process and the tool ' s associated properties will be the subject of a separate publication in due course .
+
 A standard approach was taken for each of the eHealth technologies of interest .
 Definitions were first clarified and then the individual use and broader scope for deployment conceptualised .
 Juxtaposing this with the aforementioned conceptual maps of the fields of eHealth , quality and safety provided a literature - based framework for delineating the principal theorised benefits and risks associated with each intervention .

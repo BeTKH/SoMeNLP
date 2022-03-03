@@ -3,25 +3,33 @@ Impact of disability is deleterious , affecting an individual ' s every aspect .
 Majority of disabled reside in rural areas of developing countries .
 Moreover , different types of disability add to its wide spectrum .
 All these make it a major health issue .
+
 Aims :
 The aim of this study was to note the prevalence rate and pattern of locomotor disability in a rural population of Jodhpur District and to observe its impact on mobility , self - care , and interpersonal skills of disabled .
+
 Settings :
 This study was carried out in rural field practice area of the Community and Family Medicine Department of tertiary care setup .
+
 Design :
 This was a cross - sectional study .
+
 Materials and Methods :
 House - to - house survey for a sample size of 1656 was conducted by a team of trained doctors , therapists , and anganwadi workers for identification of locomotor disability applying a pretested survey questionnaire .
+
 Statistical Analysis :
 SPSS version 22 was used for descriptive analysis of variables ( frequency distribution ) , and the Chi - squared test was used for the association of sociodemographic factors with performance qualifier score .
+
 Results :
 The prevalence rate of 2.08 % for locomotor disability ( male = 57 % and female = 43 % ) was noted , with 31 % from 40 to 60 years , 49 % were illiterate , and 60 % were from lower class .
 The main etiologies were cerebrovascular accident ( 25 % ) and cerebral palsy ( 23 % ) .
 About 80 % faced some difficulties in mobility domain , 57 % in self - care , and 63 % in interpersonal skills .
 Statistically significant association was seen for self - care domain with education level ( P = 0.04 ) and for interpersonal skill domain with age groups and diagnosis ( P = 0.022 and P = 0.035 , respectively ) .
+
 Conclusion :
 The overall prevalence of locomotor disability in rural Jodhpur was 2.08 % , higher for males and higher from 40 to 60 years .
 Most disabled were illiterate and were from low socioeconomic status .
 Self - care , mobility , and interpersonal skills were primarily affected and require proper intervention .
+
 I
 Disability is an important public health issue [1] .
 It is defined as any restriction or lack of ability to perform an activity in a manner or within the range considered normal for human beings , resulting from impairment of an organ [1] .
@@ -38,6 +46,7 @@ Both early detection of disability and early rehabilitative intervention are ess
 However , only 2 % of the disabled persons have access to rehabilitative services in India [2,6] .
 Moreover , the awareness of rehabilitation services is equally limited , especially in rural areas [6] .
 Thus , the present study was designed to note the prevalence pattern of locomotor disability in rural population of Jodhpur District and its impact on activity and participation of these disabled individuals .
+
 M M
 A descriptive study ( cross - sectional observational type ) was carried out in rural field practice area of the Department of Community Medicine and Family Medicine , namely Center for Rural Health AIIMS ( CRHA ) at Keru and Dhundhara from October 1 , 2016 , to December 31 , 2016 .
 Ethical clearance was obtained beforehand from the Institutional Ethical Committee at All India Institute of Medical Sciences , Jodhpur .
@@ -59,6 +68,7 @@ Performance qualifier indicates the extent of participation restriction by descr
 Statistical analysis was done using IBM SPSS Statistics for Windows Version 22.0 , Armonk , NY , IBM Corp . Released 2013 .
 Frequency and percentage distribution was calculated for demographic variables and performance qualifier score was attained for the disabled study population .
 The association of sociodemographic factors with performance qualifier score for domain of mobility , self - care , and interpersonal skill was calculated using the Chi - squared test .
+
 R
 Of 280 houses ( 140 in each center ) , a total of 35 cases of disability were observed with a prevalence rate of 2083 / 100,000 ( 2.08 % ) .
 Of these , 20 were male and 15 were female .
@@ -80,6 +90,7 @@ The self - care domain showed statistically significant association with educati
 For interpersonal skill domain , age group and diagnosis were statistically significant with P value as 0.022 and 0.035 , respectively .
 Mobility domain did not show any statistically significant association with any of the factors .
 Association of mobility , self - care and interpersonal skill domain with demographic factors for locomotor disabled persons
+
 D
 The current study reported a prevalence rate of 2.08 % for locomotor disability in Jodhpur District .
 The previous studies by Ganesh et al . , Borker et al . , Padhyegurjar et al . , Suganthi and Kandaswamy , and Mahmood et al . have shown a varied range of prevalence rate of 1.8 % in rural Karnataka , 0.92 % in rural Goa , 5.57 % in Mumbai slums , 0.91 % in rural Puducherry , and 3.7 % in rural Uttar Pradesh for locomotor disability , respectively [7] .
@@ -142,6 +153,7 @@ Only then , the challenges brought by a disability can be combated at large .
 The study had its limitations of exploring locomotor disability in rural regions of the district and not including the urban regions which may have a different pattern and impact of the disability on individuals .
 Furthermore , it was focused to a specific region leading to difficulty in generalization of the findings to other populations in India , due to vast difference in living conditions and variations in accessibility to health facilities across the country .
 The impact of disability was noted in only three domains of the ICF checklist , and other components such as domestic life , employment , and social / civic life were not studied .
+
 C R
 The prevalence of locomotor disability in rural Jodhpur was noted as 2.08 % , higher for males and higher from 40 to 60 years .
 Most disabled were illiterate and were from low socioeconomic status .
@@ -152,5 +164,6 @@ Moreover , the primary health - care system can play a major role in these outre
 Studies observing the prevalence pattern in urban areas in the given region , impact of disability on remaining domains of ICF checklist , and effectiveness of outreach programs in the rural region can be explored in future .
 Financial support and sponsorship
 Nil .
+
 Conflicts of interest
 There are no conflicts of interest .

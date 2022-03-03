@@ -6,19 +6,23 @@ This image was assessed by the CNS using a standard wound care assessment sheet 
 Immediately following this the CNS physically assessed the patients wound and again scored the wound using the same scoring system .
 The scores were recorded and statistically assessed at the end of the study .
 The result demonstrated that a clinical assessment can be reliably made based on digital images with an overall concordance of 96 % between phyiscal and digital images .
+
 Having established consistency between digital images and clinical assessment , an iPhone application ( app ) was developed , entitled ReMIT Client .
 The ReMIT Client app was designed to be used by medical professionals without specialist training .
 The app presents a simple interface in which the user can select an image , either by capturing from the camera or selecting an existing image .
 The image along with a patient identifier and any notes are sent to the remote server when the user selects the “ Send ” button , or the user can save the image for later use by selecting the “ Save ” button ( all illustrated in Figure 1 ) .
 The user is then informed if the transfer to the server is successful .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0078786.g001 Images are captured on the iPhone as shown ( A ) .
 The user then chooses the option to “ send ” in the lower left corner of the screen and is presented with the opportunity to add free - text notes prior to selecting the patient ’ s name from the list stored on the “ app ” ( B ) .
 Once the correct name is chosen , the user presses “ send ” again in the lower left corner and the image and accompanying notes are sent to the tertiary centre database .
+
 The ReMIT project is built around the dcm4che collection of open source applications , in particular its DICOM Image Manager / Image Archive server , dcm4chee .
 The dcm4chee server coupled with the image processing application OsiriX , implements a picture archiving and communications system ( PACS ) .
 The client iPhone application ( ReMITclient ) is integrated with the PACS through the use of a web - based interface .
 The workflow between the ReMIT Client app , the web - based interface and the PACS server is shown in Figure 2 .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0078786.g002 Workflow in the ReMIT system .
 In the ReMIT project we created a DICOM study and series for each patient .
@@ -34,6 +38,7 @@ The user can also access various measurement and annotation tools in the plugin 
 Across the bottom of the window is a text entry field where the consultant can make comments on the particular image or image set .
 When the review is completed the changes and annotations are merged into a new version of the image ( s ) , thus preserving the original images .
 Using this approach the consultant is able to review the case as a longitudinal study of images .
+
 Following the initial pilot study and application development , 8 patients attending a University teaching hospital with chronic ulcers for more than sixteen weeks were recruited , along with their five PHNs , in a geographical area extending to 120 km from the specialist centre .
 PHNs in a range of geographical areas , with various levels of experience and different patient demographics were chosen to achieve a maximum variation sample .
 Unselected PHNs with patients regularly attending the vascular clinic were approached to consider participation and no nurse declined participation .
@@ -54,6 +59,7 @@ The proforma required the assessor to select the best of four or five options to
 Concordance of the assessment based on observation of the photograph versus viewing the ulcer in person was recorded ; concordance was measured as agreement between both of the assessors as to which of the options best fit for each of the individual characteristics of the ulcer .
 Ethical Approval for this study was granted by the Cork Teaching Hospitals Research Ethics Committee .
 Written informed consent was required from all patients , on the ethics committee approved consent form .
+
 Qualitative data were collected from the PHN ’ s using a combination of a focus group and semi structured interviews , where attitudes towards , satisfaction and difficulties with , and suggestions for improvement of the service were explored .
 Data was collected from PHNs until theoretical saturation , by virtue of recurring themes , was reached .
 Discussions were digitally recorded and transcribed for analysis .

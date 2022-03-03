@@ -15,6 +15,7 @@ The data used in the analysis were collected by researchers using different inst
 Strict criteria for study selection were applied to ensure methodological rigor and representativeness [17-19] .
 There were , nonetheless , differences among studies in a number of dimensions : sample size , national ( versus sub - national ) representativeness , year of the study , and age groups included .
 When restricted to only large - scale , nationally representative studies , the analysis resulted in associations very similar to those presented using the entire dataset ; heterogeneity decreased after excluding all countries that did not fulfill these more stringent criteria .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pmed.0020133.t001 Risk and Socioeconomic Variables Used in the Analysis a International dollar ( Int $ ) is adjusted for purchasing power , and for inflation because the years of data for BMI , SBP , and cholesterol varied across countries .
 A local regression model was used to estimate the income - risk relationships [20] .

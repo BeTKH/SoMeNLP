@@ -1,13 +1,16 @@
 While microfluidics enables chemical stimuli application with high spatio - temporal precision , light - sheet microscopy allows rapid imaging of entire zebrafish brains with cellular resolution .
 Both techniques , however , have not been combined to monitor whole - brain neural activity yet .
 Unlike conventional microfluidics , we report here an all - glass device ( NeuroExaminer ) that is compatible with whole - brain in vivo imaging using light - sheet microscopy and can thus provide insights into brain function in health and disease .
+
 Kai Mattern , Jakob W . von Trotha , et al . develop NeuroExaminer , an all glass device for whole - brain in vivo imaging in zebrafish .
 The method is based on light - sheet microscopy and microfluidics and provides insights on brain function in live zebrafish .
+
 Introduction
 The zebrafish was the first vertebrate organism in which the neural activity of nearly the entire brain could be observed in vivo at single cell resolution approximately every second [1] .
 More recently , microfluidics has discovered this small vertebrate as a suitable model system to investigate brain function and to screen for new drugs to alleviate psychiatric diseases [2,6] .
 The ability of microfluidics to deliver chemical stimuli with millisecond precision , together with the zebrafish ’ s optical translucency during its larval stages thus provide an outstanding opportunity to investigate the dynamics and interactions of neural circuits in a non - invasive manner in an intact living organism .
 Here , we report an all - glass microfluidic device that , in contrast to the more commonly used polydimethylsiloxane ( PDMS ) , does not exhibit solvent permeability [7] or autofluorescence [8] , and is therefore compatible with whole - brain in vivo imaging via light - sheet microscopy .
+
 Results
 Microfluidic chip design and simulations
 For computational fluid dynamics simulations ( CFD software 18.0 from Ansys , Canonsburg , USA ) three - dimensional models of the microfluidic system with the enclosed larva were created using computer - aided design ( CAD software from SolidWorks , Velizy - Villacoublay , France ) .
@@ -40,6 +43,7 @@ The microfluidic chip ( NeuroExaminer ) is part of a larger ensemble and embedde
 Next , we constructed the two variants of NeuroExaminer chips solely made from glass using femtosecond laser processing and subsequent thermal and chemical surface quality enhancement .
 Multi - photon - absorption in glass allows iterative ablation used for creating three - dimensional microfluidic structures ( see “ Methods ” section for details ) .
 After structuring , the two system halves are bonded to obtain closed microfluidic chips ( Fig . 1m , n ) .
+
 Light sheet imaging in the microfluidic chip
 To test the imaging properties of the microfluidic devices , 6 days post fertilization ( dpf ) zebrafish larvae expressing the genetically encoded Ca - indicator GCaMP6s under the control of the pan - neuronal elavl 3 ( formerly HuC ) promoter [9] in the crystal background [10] were injected into the NeuroExaminer and oriented manually ( Fig . 2a , e ; Supplementary Movie [8] ) .
 After an experiment the larva could easily be flushed out of the device to image another larva .
@@ -51,6 +55,7 @@ Faster volumetric imaging at about 1 Hz , however , is limited to about five opt
 In the open system , single - cell resolution could be obtained throughout all layers ( Fig . 2c , d ) enabling whole - brain 4D reconstruction of Ca - signals at a temporal resolution of 1 brain volume nearly every 3 s ( Supplementary Movies [3] and [4] ) .
 The closed system provided this resolution for volume layers of about half of the brain ( 100 μ m ) ( Fig . 2g , h ) with Ca - signals emanating from further ventral structures still being detectable but appearing weaker and spatially less well resolved ( compare z - planes at 120 and 180 μ m in Fig . 2c , d with Fig . 2g and h ) .
 Clearly , individual neurons throughout the brain could be allocated to distinct brain regions and neural clusters and their resting activity could be resolved ( Fig . 2i - m ; Supplementary Fig [2] . ; Supplementary Movies [7] and [10] ) .
+
 Discussion
 Future versions of the NeuroExaminer will be used to investigate the response of the whole brain and the interaction of neural circuits within it to specific stimuli .
 Although we have tested our microfluidic chip thus far only with a single commercial light sheet microscope ( Leica SP 8 DLS ) , it is worth noting that it should be compatible with a variety of different commercial and non - commercial light sheet setups that allow for even faster volumetric imaging ( several brain volumes per second ) .
@@ -59,6 +64,7 @@ This may be especially useful to see how neural circuits are modified or adapt t
 Furthermore , the NeuroExaminer can thus be equipped with automation for larva loading and ejection that will allow for moderate compound throughput in whole - brain physiological analysis at cellular resolution in the scale of seconds .
 High - throughput sequential imaging of several larva with an upscaled device will be of significant interest to screening studies .
 Together , our microfluidic chip will provide a unique and strong tool for neuromodulatory compound characterization , connectome analysis , as well as drug validation and quality control .
+
 Methods
 Microdevice fabrication
 The structuring of glass ( 700 μ m - thick BOROFLOAT substrates from Schott AG , Mainz , Germany ) was carried out in a laser workstation ( Microstruct - C from 3D - Micromac , Germany ) equipped with femtosecond YB : KGW laser ( Pharos from Light Conversion , Vilnius , Lithuania ) operated at the fundamental wavelength of 1030 nm .
@@ -74,10 +80,12 @@ After separation with a wafer saw ( DAD 320 , Disco Corporation , Tokyo , Japan 
 Chips were dehydrated on a hotplate at 120 ° C for 5 min before they underwent a heat treatment at 740 ° C for 1 h in the muffle furnace .
 This heat treatment was performed twice to establish smooth glass surfaces in the microchannels ( Fig . 1n illustrates the improvement in optical transparency ) .
 Finally , the chips were cleaned in an ultrasonic bath .
+
 Zebrafish maintenance
 Zebrafish ( Danio rerio ) were maintained at 28.5 ° C on a 14 - h light / 10 h dark cycle and bred following standard procedures [11] .
 Transgenic zebrafish larvae Tg ( elavl 3 : H2B - GCaMP6s ) [9] in the crystal ( albb 4 / b4 ; nacrew 2 / w2 ; roya 9 / a9 ) background [10] were raised in modified Danieau solution ( 29 mM NaCl , 0.7 mM KCl , 0.6 mM Ca ( NO ) , 0.4 mM MgSO , 5.0 mM HEPES , pH 7.0 ) .
 All animal procedures and experiments were conducted in accordance with the European Union Directive 2010 / 63 / EU to reduce and minimize animal suffering and were approved by the Lower Saxony State Office for Consumer Protection and Food Safety ( 33.19 - 42502 - 04 - 17 / 2533 ) .
+
 Imaging acquisition and data processing
 Open and closed microfluidic devices ( NeuroExaminer ) were placed into a custom - made aluminum imaging chamber filled with ~ 8 ml of Danieau solution .
 6 dpf Tg ( elavl 3 : H2B - GCaMP6s ) ; crystal larvae were briefly ( ~ 1 min ) anaesthetized in a volume of 100 μ l Danieau solution containing 0.5 mg / ml Mivacurium chloride [12] ( Santa Cruz Biotechnology , Dallas , TX , USA ; sc - 204809A ) .
@@ -92,6 +100,7 @@ Imaris was used to visualize and process the 4D datasets and to create movies ( 
 Bright field images ( Fig . 2a , e and Supplementary Movie [8] ) were recorded with an iPhone SE ( first generation ) attached to LabCam Pro ( iDu Optics , Detroit , MI , USA ) on a Leica MZ 12.5 or Leica MZ 6 stereomicroscope , or Leica SP 8 DLS .
 Images were processed and assembled using Adobe Photoshop CC ( 19.1.8 ) and Illustrator CC ( 22.1 ) , respectively .
 Pictures of the imaging setup ( Supplementary Fig . 1b - d ) were acquired with a Nikon D7100 digital single lens reflex camera ( DSLR ) and a 40 mm 1 : 2.8 G micro - Nikkor objective .
+
 Calcium signal analysis
 Calcium signals in the closed NeuroExaminer were extracted from individual neurons on a single optical section ( z - plane 8 ( 70 μ m ) ) and analyzed in five major brain areas ( telencephalon ; habenula ; optic tectum ; cerebellum ; hind brain ) using Fiji .
 Regions of interest ( ROI ) were manually drawn over clearly identifiable neurons using the oval selection tool and their mean gray values were measured between frame 21 and 50 ( ~ 101 s ) .
@@ -99,26 +108,45 @@ The values from the first five frames ( 21 - 25 ) were averaged and defined as F
 To extract calcium traces from single neurons recorded at 1 Hz ( Supplementary Fig [2] . ; Supplementary Movies [9,10] ) we restricted imaging to five optical planes with an exposure time of 17 ms .
 ROIs were manually drawn and analyzed on a single optical ( z plane 2 ( 10 μ m ) ) as described above for 115 frames ( ~ 103 s ; Supplementary Data [2] ) .
 Graphs for calcium traces were created with Prism 8.2.1 ( GraphPad , La Jolla , CA , USA ) and Adobe Illustrator CC ( 22.1 ) .
+
 Statistics and reproducibility
 Two to four 6 dpf elavl 3 : H2B - GCaMP6s larvae in the crystal background were imaged between 10 a.m . and 8 p.m . on a single day in the final versions of the closed or the open microfluidic chip .
 The imaging was repeated on several days .
 A total of 11 and 15 larvae were imaged in the open and closed microfluidic chip , respectively .
+
 Reporting summary
 Further information on research design is available in the Nature Research Reporting Summary linked to this article .
+
 Supplementary information
+
 Reporting Summary
+
 Supplementary Data 1
+
 Supplementary Data 2
+
 Supplementary Movie 1
+
 Supplementary Movie 2
+
 Supplementary Movie 3
+
 Supplementary Movie 4
+
 Supplementary Movie 5
+
 Supplementary Movie 6
+
 Supplementary Movie 7
+
 Supplementary Movie 8
+
 Supplementary Movie 9
+
 Supplementary Movie 10
+
 Supplementary Information
+
 Peer Review File
+
 Description of Additional Supplementary Files

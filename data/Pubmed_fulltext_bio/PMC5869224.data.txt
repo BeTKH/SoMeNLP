@@ -1,6 +1,7 @@
 The problem of having offspring with inherited diseases can be resolved in some cases through preimplantation genetic diagnosis ( PGD ) .
 Spinal Muscular Atrophy ( SMA ) is one of these diseases .
 In my short term visit to Guy ’ s Hospital in London , I set up a panel of markers which can be used for preimplantion genetic haplotyping in affected families with this pathology .
+
 Introduction
 Preimplantation genetic diagnosis and preimplantation genetic haplotyping
 Preimplantation genetic diagnosis ( PGD ) is an option for couples at risk of transmitting inherited diseases to their offspring who wish to avoid an affected child , recurrent miscarriages , termination of pregnancy or having to adopt children ( 1 - 3 ) .
@@ -24,11 +25,14 @@ A minimum of two alleles is required for confident assignment of a haplotype .
 If you use sufficient markers you will overcome the difficulties associated with particular markers being uninformative for a given family , problems of ADO and potential problems that might result from undetected recombination between a mutation and a linked markers , since the large number of loci tested will increase the likelihood of identifying such recombinants and identify the location of recombination with great precision .
 Family members must be tested to deduce the high - risk haplotype ( s ) that have been inherited by the affected individual ( s ) and the low - risk haplotypes .
 Once the high and low risk haplotypes within a family have been established they can be used to determine the genetic status of embryos for that family ( [21,23] ) .
+
 Aim of study
 To expand the PGH ( preimplantation genetic haplotyping ) service by establishing new panels of linked markers for further monogenic disorders as required by the Preimplantation Genetic Diagnosis Centre .
+
 Patients and Methods
 Using on - line genome databases and published literature to select a panel of polymorphic markers , designing primers and multiplex PCR assays .
 Assessment of the suitability of the chosen markers by looking at their results in a panel of 30 individuals ( 60 chromosomes ) , several families and MDA products from a panel of single blastomeres .
+
 Results
 The main disease studied was Spinal Muscular Atrophy ( SMA ) .
 The spinal muscular atrophies are a clinically and genetically heterogeneous group of neuromuscular disorder caused by degeneration of anterior horn cells .
@@ -42,6 +46,7 @@ Some of them had been used diagnostically before were found in the European Best
 Fluorescent Multiplex PCR assays were performed to determine the het value ( heterozygosity value ) of each marker , to know the level of ADO in blastomere panel , and to know the suitability of these markers in families affected by SMA .
 In particular , the use of a marker has been assessed , known to be present in multiple copies on chromosome 5 for inclusion in the marker panel as it is located in the promoter region of the SMN 1 gene .
 Also designed a panel of markers for chromosome 21 has been designed .
+
 Discussion and Conclusions
 The assay developed to test for SMA by PGH was completed and used in a clinical PGD case and an unaffected embryo was identified and replaced .
 The panel of markers for chromosome 21 , hopefully , will be assessed and introduced in the future as a test for trisomy 21 which will be offered to women undergoing PGD for single gene defects who are at increased risk of Down Syndrome due to raised maternal age .

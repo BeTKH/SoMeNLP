@@ -2,6 +2,7 @@ Participants were 23 undergraduate psychology students from the University of Le
 They received course credits for their participation .
 All had normal or corrected - to - normal vision , had provided informed written consent , and were naive with respect to the purpose of the study .
 The study was approved by the Ethical Committee of the Faculty of Psychology of the University of Leuven and was conducted in accordance with the ethical standards laid down in the 1964 Declaration of Helsinki .
+
 Stimuli consisted of two point - light figures , each consisting of 13 markers indicating the centre of the major joints of the actor ( head , shoulders , elbows , wrists , hips , knees , and feet ) .
 Ten point - light stimuli were employed , five belonging to the communicative condition , five belonging to the individual condition .
 Stimuli for the communicative condition displayed a communicative interaction between two agents , with agent A performing a communicative gesture towards a second agent ( B ) , who responded accordingly ( e.g. , A asks B to squat down , B squats down ) .
@@ -25,6 +26,7 @@ The percentage of participants who also correctly identified the specific commun
 Control individual stimuli included in the present study were rarely classified as communicative .
 The percentage of participants who erroneously classified the individual stimuli as communicative varied from 23 % ( ‘ Sneeze ’ ) to 0 % ( ‘ Jump ’ ) .
 The percentage of participants who correctly identified the specific individual gesture ranged from 72 % ( ‘ Sneeze ’ ) to 98 % ( ‘ Jump ’ ) .
+
 Stimuli were displayed on a 21 inch CRT monitor ( refresh rate = 120 Hz ) using MatLab ( 7.1 version ) software .
 Viewing distance was 57 cm .
 Dots ( subtending approximately 0.14 deg each ) were black against a grey background and were rendered from a three - quarter view ( corresponding to the 125 ° reference orientation used in the CID ) .
@@ -41,12 +43,14 @@ Six signal dots per frame were shown .
 Dot appearance and disappearance were asynchronous across frames in order to avoid motion transients from simultaneous transitions of all sampling dots .
 Noise dots had the same trajectories , size , and duration as the signal dots , but were temporally and spatially scrambled ( they appeared in an area subtending approximately a 8.6 ° × 14.3 ° region ) .
 The number of noise dots was adjusted individually for each participant during a training session ( see below ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0014594.g001 Example of a communicative signal trial .
 Agent A points to an object to be picked up ; agent B bends down and picks it up .
 B was presented using limited - lifetime technique ( 6 signal dots ) and masked with temporally scrambled noise dots .
 The noise level displayed is the minimum allowed in the experiment ( 5 noise dots ) .
 To provide a static depiction of the animated sequence , dots extracted from 3 different frames are superimposed and simultaneously represented ; the silhouette depicting the human form was not visible in the stimulus display .
+
 In the nontarget interval , agent B was substituted by limited lifetime scrambled dots obtained by temporally scrambling the corresponding signal action .
 Noise dots were also added so as to obtain the same number of dots as displayed in the signal interval .
 On average , positions and motions of the dots in the nontarget interval equaled those of the target interval ( see also [1] ) .

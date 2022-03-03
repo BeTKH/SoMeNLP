@@ -4,7 +4,9 @@ Mice were housed using a 14 : 10 light : dark cycle with lights on at 06 : 00 h 
 Rodent chow ( Harlan 7912 ) and water were available ad libitum throughout the study and shredded paper was available for nest building .
 All animal experiments were approved by the University of Illinois at Chicago or Ohio State University Institutional Animal Care and Use Committee and carried out in accordance with the National Institutes of Health Guide for the Care and Use of Laboratory Animals ( Institute for Laboratory Animal Resources , 1996 ) .
 All efforts were made to minimize animal suffering and to reduce the number of mice used .
+
 The murine oral cancer cell line AT - 84 , originating from C3H mice [30] , was generously provided by Dr . Shulin Li at MD Anderson ( Houston , TX , USA ) and grown in RPMI - 1640 with 10 % FBS , 2 mM L - glutamine , 0.1 mM non - essential amino acids , 10 mM N - 2 - HEPES buffer , 100 units penicillin / ml , and 100 μ g streptomycin / ml at 37 ° C with 5 % CO 2 .
+
 Between 8 - 10 weeks of age , 100 mice were separated equally into cancer and control treatment groups .
 Mice were acclimated to handling three times in the preceding two weeks .
 They were anesthetized ( 100 mg / kg ketamine mixed with 10 mg / kg xylazine , i.p . ) and then injected in the flank ( s.c . ) with either a 150 μ l suspension of 1.5 x 106 AT - 84 cells ( n = 50 ) or PBS vehicle ( n = 50 ) .
@@ -12,6 +14,7 @@ Ear notches were made at this time for identification purposes .
 This procedure results in oral squamous cell carcinomas [30-32] , the most common type of oral cancer in humans [33] , that do not metastasize ( Lou 2003 ) .
 This is a validated syngeneic model , allowing for the immune system to remain intact .
 Body mass was measured twice / week until wounding , at which time body mass was measured daily .
+
 Dermal Wounding Procedure and Analysis : When average tumor dimensions were ~ 0.5 x 0.5 cm ( 16 d post - tumor induction ) , mice were wounded .
 All mice were anesthetized again ( 100 mg / kg ketamine mixed with 10 mg / kg xylazine , i.p . ) , the dorsal skin was shaved , cleaned with alcohol , and wounded by placing two full - thickness excisional wounds through the dorsal skin using 3.5 mm sterile biopsy punches ( Miltex Instrument Company , Plainsboro , NJ , USA ) just below the shoulder blades to prevent mice from licking their own wounds .
 Wound closure was assessed via daily pictures of the wounds ( through Day 5 post - wounding ) and images were analyzed by a single investigator ( L.P or Y.H . ) .
@@ -21,6 +24,7 @@ Wounds from half of the mice in all treatment groups were harvested using steril
 Wounds were either flash frozen for genomic comparison of factors known to regulate wound healing using quantitative RT - PCR ( qRT - PCR ; n = 9 - 12 / group ) or processed for flow cytometric analyses ( n = 2 - 3 / group ) .
 Cardiac whole blood was collected in heparin - lined syringes for complete blood count ( CBC ) analysis of circulating myeloid cells by the Biological Resources Laboratory at UIC .
 Additional groups of unwounded tumor - bearing and control mice ( n = 8 - 10 / group ) sampled at the same time relative to tumor induction were added for these blood tests .
+
 Total RNA was extracted from wound tissue as described in detail elsewhere [35] .
 RNA concentrations were measured and 260 / 280 ratios were determined ( NanoDrop , DE , USA ) .
 Total RNA was reverse transcribed using SuperScript First - Strand kits ( Invitrogen , NY , USA ) according to the manufacturer ’ s protocol .
@@ -30,6 +34,7 @@ Mouse TaqMan Gene Expression Assays were purchased from Applied Biosystems ( Car
 The universal two - step RT - PCR cycling conditions used on the 7000 Sequence Detection System ( Applied Biosystems ) were : 50 ° C ( 2 min ) , 95 ° C ( 10 min ) , 40 cycles of 95 ° C ( 15 s ) and 60 ° C ( 1 min ) .
 Relative gene expression of individual samples run in duplicate was calculated by the comparative CT method ( 2 - Δ CT ) .
 Genes of interest that were below detectability were considered zero if their endogenous control value was within the normal range .
+
 In a subset of mice ( n = 5 / cancer treatment ) , tumor tissue was collected on Day 1 or 5 post - wounding and processed for myeloid cell quantification using flow cytometry .
 Briefly , both wounds were collected from each mouse using a 6.5 mm biopsy punch immediately following CO 2 asphyxiation and collected in an enzymatic digestion solution ( 3.3 mg / ml each of collagenase I , collagenase XI , hyaluronidase ) until further processing [36] .
 Wounds were then minced and rotated at 37 ° C for 1 h .
@@ -40,6 +45,7 @@ Cells were washed and then resuspended in FACS buffer for analysis .
 Nonspecific binding was assessed using isotype - matched antibodies .
 Antigen expression was determined using a Becton - Dickinson FACSCalibur four - color cytometer ( BD Biosciences ) .
 Data were analyzed using FlowJo software ( Tree Star , Ashland , OR , USA ) and positive labeling for each antibody was determined based on isotype stained controls .
+
 In vitro “ wound ” scratch assay : This assay is used as a simplified system by which to study healing - relevant cell migration and proliferation [ 39 , 40 ] .
 In under 4 passages , adult murine primary dermal fibroblasts ( Cell Biologics , Chicago , IL , USA ) were grown in 6 - well plates to ~ 100 % confluence using the manufacturer ’ s fibroblast medium ( M2267 ) .
 Media was removed , cells were rinsed with PBS , and then the monolayer was artificially wounded by scratching across each well with a 200 μ l pipette tip ( approximately 1 mm diameter ) .

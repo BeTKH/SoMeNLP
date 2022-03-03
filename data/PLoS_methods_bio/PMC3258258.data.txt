@@ -13,6 +13,7 @@ We considered that it was very unlikely that lizards would switch frequently bet
 We recorded microhabitat structure to ensure that experimental and control plots were homogeneous .
 We noted the presence and types of vegetation and different substrates at different heights on four 1 m transects [46] , [47] .
 Results of General Linear Models ( GLMs ) showed that there were no significant differences for any habitat variable ( dependent variables ) between the control and experimental plots ( paired within each area as a repeated measures factor ) ( 0.14 < F1 , 11 < 0.71 , formtok for all variables ) .
+
 We made the experimental supplementation during four separate days ( 27th May , 2nd June , 3rd June and 11th June ) with sun and temperature conditions that allowed lizards to be fully active .
 We initially intended to perform the experiment on alternate days , but bad weather conditions at the high mountain altitude limited the activity of lizards entirely or to a great amount , which meant we could only perform the experiment during these four days .
 We prepared two liquid solutions ( experimental and control ) on the same days as the tests .
@@ -28,6 +29,7 @@ We intended to simulate the scent marks of males , by using a small brush to imp
 We selected these areas because lizards are known to deposit fecal pellets and scent marks in these particular locations [18] , [48] , and this is where chemosensory exploration of substrates by tongue - flicking seems to be more intense ( pers . observ . ) .
 Immediately after setting out the experimental solution , the DCM readily evaporated leaving the ergosterol deposited on the rocks .
 The control solution evaporated entirely without leaving any solid residue .
+
 To estimate the density of lizards we made seven counts of lizards observed in the control and experimental plots every day , and calculated average numbers of lizards observed in each plot per census in each day .
 We made five estimates of lizard densities in five different days : the first estimate was made three days before starting the experiment ( to obtain initial densities ) , with a subsequent estimate being made on each of the four days immediately after we manipulated rocks .
 Although this method only provided estimations of relative densities , we preferred this non - invasive method to a mark - recapture study , which may have affected the normal behavior of lizards .
@@ -49,6 +51,7 @@ For each plot , we first calculated the daily average number of lizards observed
 We used GLMs to examine variations in the daily average number of lizards observed in a census per plot ( square root transformed because this was a count variable ) between treatments ( control vs . experimental plots paired within each area ) and days ( one initial day before starting the experiments , and the four days of the manipulation ) , both as repeated measures factors .
 We included the interaction in the model to test whether differences between the control and experimental plots varied between days .
 Post hoc pairwise comparisons were based on Tukey ' s honestly significant difference ( HSD ) tests [49] .
+
 Association of females with males : To assess the effect of the manipulation on potential mating opportunities for males , during the censuses we noted the number of females that were observed associated in close proximity ( less than 50 cm ) to a male [50] .
 In this and other lizard species , a male close to a female could obtain a copulation with that female because even if the female would not accept it , the male might try to obtain a forced mating .
 However , under the mate attraction hypothesis , because we manipulated the characteristics of the territories , but not the characteristics of the males found there , we did not expect that females accepted matings from any male found in the plot , but only if the male was “ congruent ” with that expected by females based on their sexual chemical signals in scent marks ( i.e. , visual signals would confirm the honesty of the chemical signal ) .

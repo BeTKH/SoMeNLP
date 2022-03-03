@@ -3,6 +3,7 @@ TB care and medicines are provided free of charge .
 TB diagnosis , treatment initiation , and follow - up occur at regional public pulmonary clinics ( CDTMR ) .
 Patients are given TB medications via Directly Observed Therapy ( DOT ) at local primary care clinics or dispensaries .
 Study sites included nine CDTMR and one referral hospital in cities with TB “ hot spots ” ( TB incidence of ≥ 400 / 100 K ) : Tangier , Rabat , Sale , Casablanca , Kenitra , and Fez .
+
 We conducted a questionnaire - based , case - control study between June , 2010 , and October , 2011 .
 Adult patients with definite or probable pulmonary or extrapulmonary TB who either defaulted from TB treatment ( cases ) or successfully completed it ( controls ) were enrolled .
 Treatment default was defined as an interruption in TB treatment for ≥ 2 consecutive months .
@@ -19,6 +20,7 @@ Drug susceptibility testing ( DST ) for isoniazid ( H ) , rifampin ( R ) , etham
 Culture data from one city did not meet quality control standards and were excluded from final analyses .
 Study participants provided written informed consent .
 This study was approved by the Ethics Committee of the Mohammed V University Faculty of Medicine and Pharmacy of Rabat and by the institutional review board of Johns Hopkins University School of Medicine .
+
 Using data from a previous retrospective study [14] , we estimated that 80 cases and 160 controls would give us 90 % power to detect a difference of 20 % or more in the most important risk factors for default .
 To compare characteristics of cases and controls , we used Pearson ’ s χ 2 or Fisher ’ s exact tests for categorical variables and student ’ s t tests for continuous variables .
 Multivariable logistic regression that included significant risk factors identified in univariate analyses was performed and used to develop a predictive model for treatment default .

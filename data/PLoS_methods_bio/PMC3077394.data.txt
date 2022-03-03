@@ -7,6 +7,7 @@ The cloacal gland , an androgen - dependent structure [51] , [52] , was measured
 The body mass was also recorded at the same times .
 Throughout their life , birds were exposed to a photoperiod simulating long days ( 16 h light and 8 h dark per day ) and had food and tap water available ad libitum .
 All experimental procedures were in agreement with the Belgian laws on the “ Protection and Welfare of Animals ” and on the “ Protection of experimental animals ” and were approved by the Ethics Committee for the Use of Animals at the University of Liege .
+
 Behavioral testing and brain collection : The subjects were tested daily , alternatively for copulatory behavior ( consummatory sexual behavior ) or for rhythmic cloacal sphincter movements ( appetitive sexual behavior ) starting three days after the beginning of the treatments .
 The behavioral tests started approximately 2 h after the daily injection .
 To assess consummatory sexual behavior , the experimental bird was introduced into a test arena ( 60 × 40 × 50 cm ) that contained a sexually mature female with which the male could freely interact .
@@ -25,6 +26,7 @@ Twenty - four hours after the last behavioral test and the last injection , bird
 All birds were found to exhibit complete castrations and all subjects in the CX and CX + T groups still possessed their hormone implants .
 Brains were dissected from the skull , fixed in 5 % acroleine in phosphate buffered saline ( PBS , 90 min ) , rinsed twice in buffer and cryoprotected in 30 % sucrose for 48 h .
 They were then rapidly frozen on dry ice and kept at − 80 ° C until used .
+
 The brains were cut with a cryostat in the coronal plane from the level of the tractus septopallio - mesencephalicus to the caudal end of the tuberal hypothalamus .
 30 μ m - thick free - floating sections were collected in four series .
 Two series were stained by immunohistochemistry respectively for aromatase ( ARO ) and vasotocin ( VT ) as previously described and validated for quail ( ARO : [11] , [57] ; VT : [16] , [58] ) with slight modifications .
@@ -34,6 +36,7 @@ Sections were then left for 2 h in secondary biotinylated goat anti - rabbit ant
 All reagents were in Phosphate - buffered saline 0.05 M containing 0.1 % triton X - 100 ( PBST ) and several rinses were performed between each step .
 The peroxidase enzymatic activity was then visualized with 3 , 3 ′ diaminobenzidine tetrahydrochloride ( DAB , 2 % ) , 0.012 % hydrogen peroxide in PBS ( aromatase , ARO ) or with DAB ( 2 % ) , Nickel sulphate ( 25 mg / ml ) , 0.012 % hydrogen peroxide in Sodium Acetate ( 0.175 M ) ( vasotocin , VT ) .
 Reaction was terminated by several rinses in PBS and the sections were mounted in an aqueous gelatin medium ( aromatase ) or in Eukitt ™ quick - hardening mounting medium ( Sigma , vasotocin ) and coverslipped .
+
 Image acquisitions were performed by an observer blind to the treatment groups using a CCD camera ( Model CFW - 1612C , Scion Corporation , MD , USA ) attached to an Olympus microscope and connected to a MacIntosh computer ( Software : ImageJ , Wayne Rasband , NIH , Bethesda , MD , USA ) .
 We first calculated the volume of the medial preoptic nucleus ( POM ) , defined by aromatase - immunoreactive - cells ( See figure 1A . ) .
 The area of the nucleus was measured in all sections containing the nucleus throughout its rostro - caudal extent ( objective 10X ) .
@@ -42,6 +45,7 @@ In addition , we analyzed the vasotocinergic innervation of the POM by calculati
 The quantification field ( 460 × 0.350 μ m = 0.161 mm 2 at 20X ) was placed in the corner formed by the ventral edge of the anterior commissure and the lateral edge of the third ventricle at the level where the anterior commissure reaches its largest extension .
 The field was then moved one field ventrally ( 350 μ m ) and the optical density of the entire computer field at this location was quantified ( see figure 1B - C ) .
 The relative optical density ( ROD ) was defined as the difference between of the optical density ( gray levels ) measured ( after calibration ) within the POM and in an equivalent area located in a vasotocin - free location in the telencephalon on the same section ( background ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0018627.g001 Photomicrographs illustrating the aromatase - immunoreactive perikarya ( A ) and the vasotocin - immunoreactive fibers ( B , C ) present within the medial preoptic nucleus ( POM ) that were quantified in the present study .
 Panel A illustrates the dense group of aromatase - immunoreactive neurons that outline the entire POM .
@@ -52,6 +56,7 @@ The dotted rectangle indicates how the camera field was originally placed before
 Note that quantification of fibers concerned the steroid - sensitive network located in the POM , not the denser network located more ventrally that originates from the magnocellular neurons .
 CA : commissural anterior , LFB : latera forebrain bundle .
 Magnification bar = 500 μ m in A - B , 100 μ m in C .
+
 Preliminary analyses indicated that there was , as expected , no significant difference between the two control groups ( CX and PG ) for all variables considered .
 Results from these two groups were thus pooled ( CX / PG ) in all statistical analyses presented here to increase their power .
 The effects of treatments on the proportion of subjects displaying a specific behavior at least once during the six copulatory tests ( NG , MA , M , CCM ) or one the four RCSM tests was assessed by Chi square tests .

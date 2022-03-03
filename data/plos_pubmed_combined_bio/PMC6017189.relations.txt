@@ -92,6 +92,12 @@
 
 
 
+
+
+
+
+
+
 Abbreviation_of	PASS	127	1	Prediction of Activity Spectra for Substances	79	0;;Citation_of	[49,50]	214	2	Prediction of Activity Spectra for Substances	79	0;;
 
 
@@ -126,11 +132,18 @@ Version_of	16	80	2	AMBERTOOLS	69	1;;Citation_of	[55,56]	83	3	AMBERTOOLS	69	1;;Pl
 
 
 
+
+
+
 Citation_of	[62]	92	2	SAINT	66	0;;
 Citation_of	[63]	143	1	SHELXTL	118	0;;
 
 
 AlternativeName_of	Oak Ride Thermal Ellipsoid Plot Program	12	1	ORTEP	4	0;;
+
+
+
+
 
 
 

@@ -7,12 +7,14 @@ The two surface cores were taken within < 1 m of each other , both contained an 
 The Livingstone piston core sequence was collected from the same core hole as the WS 02 surface core ; the first drive of the Livingstone core sequence was set to commence at the base of the WS 02 surface core section .
 Livingstone core sections were extruded in the field into PVC tubing , and wrapped in plastic wrap and then aluminum foil .
 The surface cores ( WS 02 and WS 04 ) were immediately extruded in 1 - cm increments .
+
 An age - depth model was produced from the combination of 210Pb activity , the rise in Ambrosia pollen , and radiocarbon dating .
 210Pb dating was performed by drying sediments at 60 ° C and grinding samples at 1 - cm increments .
 Samples from the surface of the core to depth of 70 cm ( WS 04 / WS 03 sequences ) were submitted for measurement of 210Pb activity by alpha spectroscopy at Flett Research Laboratory ( Winnipeg , Manitoba ) ( Table 2 ) .
 Five 14C dates were selected between the depths of 150 - 700 cm in the WS 03 core sequence ; the selected sediment samples were washed with distilled water through a 90 - μ m mesh .
 Plant material was selected using a stereomicroscope , and submitted to Beta Analytic Inc . ( Miami , USA ) for Accelerator Mass Spectrometry ( AMS ) dating ( Table 3 ) .
 Dates were calibrated using the IntCal 09 calibration curve [46] and the program CALIB [47] .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0159937.t002 Po - 210 activities used to model ages in Wishart Lake core WS 04 / WS 03.Po - 210 is assumed to be in secular equilibrium with Pb - 210 .
 Table data removed from full text .
@@ -29,11 +31,13 @@ An age - depth model was developed using the date of core collection as an upper
 The model was based on linear interpolation between dating points , with calculations at 95 % confidence ranges and 1000 iterations .
 Ages were calculated every 1 cm from 0 to 697 cm ( Fig 2 ) .
 Ages for the pre - industrial Holocene are discussed as calibrated calendar years before 1950 AD ( cal yr BP ) ; more recent ages are discussed using calendar date ( ie . 1950 AD ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0159937.g002 Age - depth model for the Wishart Lake sediment record .
 The model was developed using a linear regression model fit to calibrated radiocarbon dates , recent chronological data points derived from the Ambrosia pollen rise ( depth 40 cm ) and activity of 210Pb ( lower boundary used , depth 50 cm ) .
 Radiocarbon dates ( the five lowermost points ) are shown with histograms corresponding to the probability distribution of calibrated dates [53] .
 Figure generated using clam for R [53] .
+
 Point samples from the Wishart Lake core were taken at 10 - cm intervals for diatom and chrysophyte cyst and scale analysis , providing an inter - sample resolution of ~ 100 years .
 Higher resolution sampling at 1 - cm intervals was performed for the upper - most 100 years of the core for an inter - sample resolution of ~ 4 - 5 years .
 Diatoms , chrysophyte cysts and scales , were concentrated using 10 % HCl , followed by 30 % hydrogen peroxide [54] .

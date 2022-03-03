@@ -3,17 +3,21 @@ There are a number of susceptible factors for an increased risk of gastric cance
 Nitric oxide ( NO ) is considered to be associated with the development of a range of cancers .
 In particular , inducible nitric oxide synthase ( iNOS ) and endothelial nitric oxide synthase ( eNOS ) are known to play a central role in the production of NO .
 Published studies relating to the association between eNOS rs 1799983 , rs 2070744 , and iNOS rs 2297518 polymorphisms and the risk of gastric cancer risk are conflicting and inconclusive and require further analysis .
+
 Materials and methods
 This study involved a meta - analysis of case - control studies relating to eNOS rs 1799983 , rs 2070744 , and iNOS rs 2297518 polymorphisms published prior to January 2018 .
 Literature searches were carried out in PubMed , Embase , Web of Science , the Cochrane Library databases , and the Chinese National Knowledge Infrastructure .
 Pooled odds ratios ( ORs ) and 95 % confidence intervals ( CIs ) were used to evaluate the strength of association based on genotype data .
+
 Results
 A total of 1,356 cases and 1,791 controls were included from nine case - control studies involving eNOS rs 1799983 ( G894T ) , rs 2070744 ( T - 786C ) , and iNOS rs 2297518 ( C150T ) polymorphisms .
 Data analysis indicated that iNOS rs 2297518 was a risk factor for Helicobacter pylorus - positive gastric cancer when compared with H . pylorus - negative gastric cancer ( p = 0.003 , OR [ 95 % CI ] = 2.19 [ 1.31 - 3.66 ] ) .
 In addition , the allelic , dominant , and recessive models of eNOS rs 2070744 were significantly associated with a risk of gastric cancer ( allelic model : p < 0.00001 , OR [ 95 % CI ] = 0.23 [ 0.16 - 0.34 ] ; dominant model : p < 0.00001 , OR [ 95 % CI ] = 0.25 [ 0.15 - 0.42 ] ; recessive model : p < 0.00001 , OR [ 95 % CI ] = 0.16 [ 0.08 - 0.30 ] ) .
 No association was identified between eNOS rs 1799983 and the risk of gastric cancer ( p > 0.05 ) .
+
 Conclusion
 iNOS rs 2297518 and eNOS rs 2070744 polymorphisms may represent susceptible factors for gastric cancer .
+
 Introduction
 Gastric cancer is one of the leading causes of mortality worldwide [1,2] .
 Multiple factors contribute to the pathogenesis of gastric cancer including genetic parameters , epigenetic predisposition , and environmental risk factors [3-5] .
@@ -35,6 +39,7 @@ However , no genetic association was observed between eNOS rs 1799983 and the ri
 In terms of the iNOS gene , the rs 2297518 polymorphism in exon 16 results in an amino acid substitute , Ser 608Leu , and has been reported to be associated with cigarette - and alcohol - induced gastric cancer in the Chinese population [28] and H . pylorus - related gastric cancer in Iran [29] .
 However , these results were inconsistent and inconclusive .
 Considering the limited number of subjects included in previous studies and the inconsistent results arising from different populations , we performed this meta - analysis in order to combine all pertinent published studies and investigate the precise association between eNOS rs 2070744 , rs 1799983 , and iNOS rs 2297518 and the pathogenesis of gastric cancer .
+
 Materials and methods
 Publication searches and selection criteria
 This meta - analysis followed the Cochrane collaboration definition and PRISMA 2009 guidelines for meta - analyses and systematic reviews [30] .
@@ -43,15 +48,19 @@ We searched for all relevant publications exploring the relationship between iNO
 The following were used as search terms : “ iNOS ” or “ Inducible nitric oxide synthase ” and “ eNOS ” or “ endothelial nitric oxide synthase ” or “ NOS 3 ” or “ nitric oxide synthase 3 ” and “ polymorphism ” or “ variation ” and “ gastric cancer ” or “ stomach cancer ” or “ gastric adenocarcinoma . ”
 Our search was not limited by language .
 In addition , other potentially relevant items of literature were identified by cross - reference within eligible studies .
+
 Inclusion criteria
 Studies were included if 1 ) they had a case - control design ; 2 ) they contained sufficient data to calculate an odds ratio ( OR ) with a 95 % CI ; 3 ) they referred to the association between iNOS and eNOS polymorphisms and the risk of gastric cancer ; and 4 ) the genotypic distributions in control groups were in Hardy - Weinberg equilibrium ( HWE ) .
+
 Exclusion criteria
 Studies were excluded if 1 ) they were duplicated studies , abstracts , letters , reviews , or papers presented in a meeting ; 2 ) if they were unrelated to the genetic association between iNOS and eNOS polymorphisms and gastric cancer ; 3 ) if there was insufficient genotype data ; and 4 ) if the control group was not in HWE .
+
 Data extraction and quality assessment
 Two authors ( Jiang and Chen ) extracted the data independently .
 Information arising from each individual study were summarized as follows : first author , year of publication , ethnicity , case and control , mean ages , gender ( proportion of males ) , genotyping methods , sample source , HWE for control groups , state of H . pylorus , and the number of patients who smoked or suffered from alcoholism .
 All included studies were independently evaluated by using the Newcastle - Ottawa Scale [31] by two authors ( Lu and Li ) .
 Any discrepancies in the assessment were resolved by another author ( Peng ) .
+
 Statistical analysis
 The strength of the association between iNOS ( rs 2297518 ) and eNOS ( rs 2070744 , rs 1799983 ) polymorphisms and the risk of gastric cancer were evaluated by calculating pooled ORs and their corresponding 95 % CIs by using RevMan 5.1 ( Copenhagen , Denmark ) and Stata 12.0 ( StataCorp LP , College Station , TX , USA ) .
 Heterogeneity was tested using χ - based Q test and I statistics .
@@ -60,6 +69,7 @@ Otherwise , the random effects model ( the DerSimonian and Laird method ) was us
 Sensitivity analysis was then performed to assess the stability of the results .
 Publication bias was detected using Begg ’ s test and Egger ’ s test .
 P < 0.05 was considered to be statistically significant .
+
 Results
 Study selection and characteristics
 As shown in Figure 1 , a total of 354 relevant publications were retrieved from the selected databases .
@@ -69,21 +79,25 @@ Two studies referred to the specific associations between eNOS rs 2070744 [24,26
 The basic characteristics of the enrolled patients are shown in Table 1 .
 The NOS quality assessment of the studies included in this meta - analysis is included in Tables 1 and S1 .
 Only studies with NOS scores > 6 were selected for this meta - analysis .
+
 Results of the meta - analysis
 The distributions of iNOS rs 2297518 in allelic , dominant , and recessive models in the case group were not significantly different from that in the control group ( allelic model : p = 0.73 , OR [ 95 % CI ] = 1.09 [ 0.67 - 1.75 ] ; dominant model : p = 0.87 , OR [ 95 % CI ] = 1.03 [ 0.72 - 1.48 ] ; recessive model : p = 0.83 , OR [ 95 % CI ] = 1.16 [ 0.31 - 4.32 ] ) ( Figure 2 ; Table 2 ) .
 Subgroup analysis , stratified by tests involving an anti - H . pylorus immunoglobulin G ( IgG ) antibody showed that the dominant model of iNOS rs 2297518 was significantly associated with the risk of gastric cancer in H . pylorus CagA - positive cases ( p = 0.003 , OR [ 95 % CI ] = 2.19 [ 1.31 - 3.66 ] ) , but not in gastric cancer patients who were H . pylorus CagA - negative ( p = 0.82 , OR [ 95 % CI ] = 0.96 [ 0.65 - 1.41 ] ) ( Table 2 ) .
 For eNOS rs 2070744 , significant associations were detected between the allelic , dominant , and recessive models of eNOS rs 2070744 ( allelic model : p < 0.00001 , OR [ 95 % CI ] = 0.23 [ 0.16 - 0.34 ] ; dominant model : p < 0.00001 , OR [ 95 % CI ] = 0.25 [ 0.15 - 0.42 ] ; recessive model : p < 0.00001 , OR [ 95 % CI ] = 0.16 [ 0.08 - 0.30 ] ) ( Figure 3 ; Table 2 ) .
 However , the frequencies of allelic , dominant , and recessive models for eNOS rs 1799983 were not significantly different when compared between case and control groups ( p > 0.05 ) , which showed no significant correlation between eNOS rs 1799983 and the risk of gastric cancer ( Figure 4 ; Table 2 ) .
 Because of a lack of data , it was not possible to perform subgroup analyses based on ethnicity , anti - H . pylorus IgG antibody status , smoking , and alcoholism .
+
 Sources of heterogeneity
 Significant heterogeneity was observed for allelic , dominant , and recessive models of iNOS rs 2297518 ( allelic model : I ( % ) = 83 , dominant : I ( % ) = 60 , and recessive model : I ( % ) = 76 ) ( Table 2 ) .
 This level of heterogeneity was contributed predominantly by two studies [28,33] .
 Removal of these two studies from our meta - analysis resulted in 0 % ( p = 0.90 ) heterogeneity , thus showing that this had the highest effect on association between iNOS rs 2297518 and the risk of gastric cancer .
+
 Sensitivity analysis and publication bias
 Sensitivity analysis was performed to assess the influence of an individual study on the overall OR .
 Analyses showed that ORs were not significantly altered for iNOS rs 2297518 , eNOS rs 2070744 , or rs 1799983 ( Figure 5 ) .
 This evidence indicated that the present results were statistically stable and reliable .
 Funnel plots , Begg ’ s test , and Egger ’ s test were additionally performed to assess publication bias ; results revealed that there was no obvious publication bias in our overall analysis for iNOS rs 2297518 ( p = 0.564 ; p = 0.327 ) and eNOS rs 1799983 ( p = 0.511 ; p = 0.602 ) ( Figure 6 ; Table 3 ) .
+
 Discussion
 In the present meta - analysis , we investigated the genetic associations between iNOS rs 2297518 , eNOS rs 2070744 , and rs 1799983 and the risk of gastric cancer .
 Our combined results showed that the dominant model of iNOS rs 2297518 was significantly associated with H . pylorus - positive gastric cancer risk .
@@ -122,12 +136,15 @@ Second , the subjects in the present study were mostly of Asian origin .
 The prevalence of gastric cancer in Europeans and Latin Americans cannot be ignored .
 However , due to the lack of genetic association studies in Europeans and Latin Americans , we were not able to carry out subgroup analysis stratified by ethnicity .
 Third , apart from H . pylorus infection , smoking , diet , and alcohol abuse were also considered to be risk factors for gastric cancer , although we could not analyze the influence of these factors in regard to the risk of gastric cancer because of insufficient data .
+
 Conclusion
 Our meta - analysis showed that the dominant model of iNOS rs 2297518 may represent a risk factor for H . pylorus - positive gastric cancer , while eNOS rs 2070744 , but not rs 1799983 , represents a protective factor for the risk of gastric cancer .
 To confirm these results , a larger number of cohorts should be investigated , using a case - control design .
+
 Supplementary material
 Newcastle - Ottawa scale for quality assessment of included studies
 References
+
 The characteristics of individual studies
 The main results of the association between eNOS 894G > T , − 786T > C , and iNOS C150T polymorphisms and gastric cancer
 Egger ’ s test and Begg ’ s test for funnel plot asymmetries of iNOS and eNOS polymorphisms

@@ -6,6 +6,7 @@ The difference in child head motion between tasks is noteworthy considering that
 Anecdotally , children seemed calmer and more engaged by the natural viewing task than the traditional task and this observation is empirically supported by the motion data .
 All participants were screened for neurological abnormalities .
 All procedures were approved by the Research Subjects Review Board .
+
 Prior to the MR scanning session , children were given a 30 - min training session in a mock scanner to practice the experimental task , and remaining motionless during scanning .
 In the actual MR scanner , headphones , foam padding , and medical tape were used to secure the children ' s heads .
 Adults received verbal instructions and a brief session of task practice .
@@ -15,6 +16,7 @@ Individual clips ranged from 12 to 176 s in length and were edited into one cont
 The content of the video included letters , numbers , and other subjects ( e.g. , planets , shapes , Egypt ) .
 Participants were instructed to remain motionless while watching the movie but were given no instructions to fixate or restrict eye movement .
 A short quiz was administered at the end of the scanning session to ensure that participants attended to the movie .
+
 In the traditional fMRI paradigm , subjects compared pairs of stimuli presented on a computer monitor and reported whether the stimuli were the same or different .
 The stimuli consisted of pairs of isolated images ( faces , numbers , words , or shapes ) presented to the left and right of a central crosshair .
 Participants were instructed to fixate on the central crosshair throughout the scanning session .
@@ -34,6 +36,7 @@ Each trial was presented for 2 s , followed by a 2 - s inter - trial interval .
 8 s of fixation followed each block .
 Blocks were semi - randomly presented .
 Children were tested on two standardized IQ tests after the scanning session : the Test of Early Mathematics Ability , 3rd Edition TEMA - 3 [28] and Kauffman Brief Intelligence Test , 2nd Edition KBIT - 2 [29] .
+
 Whole brain BOLD imaging was conducted on a 3 - Tesla Siemens MAGNETOM Trio scanner with a 12 - channel head coil at the Rochester Center for Brain Imaging .
 High - resolution structural T1 contrast images were acquired using a magnetization prepared rapid gradient echo ( MP - RAGE ) pulse sequence at the start of each session ( TR = 2,530 ms , TE = 3.44 ms flip angle = 7 degrees , FOV = 256 mm , matrix = 256 × 256 , 160 or 176 [ depending on head size ] 1 × 1 × 1 mm sagittal left - to - right slices ) .
 An echo - planar imaging pulse sequence with online motion correction was used for T2 * contrast ( TR = 2000 ms , TE = 30 ms , flip angle = 90 degrees , FOV = 256 mm , matrix 64 × 64 , 30 sagittal left - to - right slices , voxel size = 4 × 4 × 4 mm ) .
@@ -41,6 +44,7 @@ The first six TRs of each run were discarded to allow for signal equilibration .
 The “ movie ” run of the natural viewing paradigm was one functional run of 610 volumes .
 The traditional fMRI paradigm was distributed over two to four functional runs of 132 volumes each .
 Total scanning time was approximately 40 min .
+
 fMRI data were analyzed with the BrainVoyager 2.1 software package and in - house scripts drawing on the BVQX toolbox in MATLAB .
 Preprocessing of the functional data included , in the following order , slice scan time correction ( sinc interpolation ) , motion correction with respect to the first ( remaining ) volume in the run , and linear trend removal in the temporal domain ( cutoff : two cycles within the run ) .
 Functional data were then registered ( after contrast inversion of the first remaining volume ) to high - resolution de - skulled anatomy on a participant - by - participant basis in native space .

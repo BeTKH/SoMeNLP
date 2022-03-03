@@ -5,11 +5,13 @@ Participants were eligible if they were euthymic as defined by the Young Mania R
 Exclusion criteria included the following : ( a ) patients were in affective episodes , ( b ) shift worker , ( c ) ongoing alcohol or substance abuse , ( d ) suicidal risk , ( e ) hospitalized in the previous 8 weeks , or ( f ) had visual impairments , who were all more likely to have CRSWD [23,24] .
 Twelve patients refused to participate in the study and 11 patients met the exclusion criteria .
 As a result , 104 euthymic BD patients were included in the present study .
+
 The subjects were asked to answer questionnaires , including demographic variables , clinical descriptive variables of bipolar disorder and circadian rhythm - related sleep problems , and family history of either psychiatric disorders or suicide .
 The current mood status was assessed using the MADRS [25] and YMRS [26] .
 Assessment of subjective sleep disturbance was conducted by using the Pittsburgh Sleep Quality Index ( PSQI ) [27,28] .
 The diagnoses of CRSWD were made with clinical interview by a board - certified sleep specialist physician together with the results of sleep logs for more than 4 weeks according to the International Classification of Sleep Disorders , third edition ( ICSD - 3 ) [18] .
 The subjects who met the criteria for CRSWD were additionally divided into sub - categories of CRSWD according to the ICSD - 3 [18] .
+
 The Mann - Whitney U test and chi - square test were used for the comparison of descriptive variables between the subjects who met the criteria for CRSWD ( CRSWD group ) and those who did not meet the criteria for CRSWD ( non - CRSWD group ) .
 The chi - square test or Fisher ’ s exact test was used for the comparison of kinds of medications for the treatment of mood disorders ( mood stabilizers , antipsychotics , antidepressants , and benzodiazepines ) between the two groups .
 The Mann - Whitney U test was also used for the comparison of the PSQI score , YMRS score , and MADRS score between the two groups .

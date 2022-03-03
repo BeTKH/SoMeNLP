@@ -1,6 +1,7 @@
 We develop a method for quantifying , mapping and comparing the supply of and demand for carbon storage and sequestration by urban trees .
 We implement this method in our study area , a portion of the Twin Cities Metropolitan Area ( TCMA ) of Minnesota , USA ( Fig 1 ) .
 Our basic approach involves four steps : ( 1 ) estimating and mapping the supply of carbon storage using LiDAR technology and allometric models , ( 2 ) estimating and mapping the annual supply of carbon sequestration based on carbon gains from biomass growth and carbon loss from tree mortality and decay , ( 3 ) estimating and mapping demand for carbon sequestration based on the intensity of CO 2 emissions by a set of human activities under the assumption that demand for carbon sequestration service increases with anthropogenic carbon emissions , and ( 4 ) analyzing the relationship between the supply of this service ( carbon sequestration ) and the demand for it ( Fig 2 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0136392.g001 Location of the study area , urbanized areas of Dakota and Ramsey County , MN , including tree canopy coverage , parks and water body locations .
 This study area is divided into four regions ( i.e. , northern Dakota , southern Dakota , northern Ramsey , St . Paul Ramsey ) to coincide with the regions for which tree abundance data used in the study were collected [47] .
@@ -14,6 +15,7 @@ For the 2010 Census , an urban area comprises densely settled census tracts that
 In this study area , Dakota County is characterized by a mixture of urbanized land and forest reserves with dense tree coverage in the north , while southern portions of the county are dominated by agriculture with sparse trees .
 Similarly , northern Ramsey is mainly characterized by natural landscapes with dense tree coverage , while southern Ramsey is dominated by dense developed areas with sparser , street trees .
 Because urbanization patterns in this study area are typical of those in most of the US , this location provides a representative location for quantifying and mapping supply and demand for urban carbon storage and sequestration from urban trees , given both the high number of urban trees and beneficiaries who receive their services in this location .
+
 B .
 Tree extraction with LiDAR data : We retrieved 1175 tiles containing LiDAR point - cloud data collected in November , 2011 , with a vertical accuracy of 5 cm for Ramsey County and 10.8 cm for Dakota County from the Minnesota Geospatial Information Office ( MnGeo ) [49] .
 This high - density dataset contains 8 points / m2 for Ramsey and northern Dakota County and 2 points / m2 for southern Dakota County .
@@ -43,6 +45,7 @@ Tree records from the MNDNR Minnesota Native Big Tree registry [53] were used to
 To assess tree - extraction accuracy , we collected tree attribute measurements from the orthophotograph mentioned above , then selected 50 trees distributed evenly across the study area , and measured their crown width using ArcGIS 10.1 .
 These trees had clear crown shapes to minimize measurement error .
 We fitted a linear regression model using the resulting dataset and calculated root mean squared error ( RMSE ) using our measured values and the LiDAR Analyst results to determine the accuracy of the LiDAR metric in predicting tree attributes .
+
 C .
 Estimation of carbon storage : Estimation of tree dry - weight biomass is of great interest since such information indicates carbon storage and could enable policy makers to track carbon dynamics in biomass [54] .
 We used taxon - specific biomass equations to estimate above - ground biomass following the work of Jenkins et al . ( 2004 ) which used allometric equations and conversion factors to transfer above - ground biomass to dry - weight biomass based on dbh [37,54] .
@@ -52,10 +55,12 @@ The tree species groupings for this analysis present a possible limitation as di
 Nevertheless , this is the most specific grouping system possible given data and model limitations and is sufficient to illustrate the application of our methodology .
 Additionally , although calibrating allometric models for specific species is of interest , our current understanding of the relationship between tree biophysical attributes and biomass at a single - species level is insufficient to support such calibrations [46] .
 Moreover , allometric models for different species have very similar shapes , thus causing minimal differences in biomass predictions among species .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0136392.t001 Relative abundance of tree species groups by region and land use and parameter values for biomass estimation in Dakota and Ramsey urban areas , MN .
 1 percent of total trees represented by each species group 2 soft maple / birch 3 aspen / alder / cottonwood / willow 4 hard maple / oak / hickory / beech 5 other hardwood 6 cedar / larch 7 spruce 8 pine , β 0 and β 1 are parameters used in biomass equations for estimating total aboveground biomass for hardwood and softwood species in the United States .
 Table was produced based upon previous studies [47,54,71] .
+
 Since LiDAR processing does not provide species information , we identified likely tree species for the trees characterized by LiDAR processing based upon the relative abundances of common species estimated for the study area in previous studies ( Table 1 ) [47] .
 In so doing , we first classified trees as occurring on developed or undeveloped land and by location .
 Then , for each group and location , we randomly sampled a percentage of trees corresponding to the relative abundance estimated by the field studies for that group and location and assigned them to the specified species group .
@@ -63,6 +68,7 @@ We repeated this for each species group and location until all trees were assign
 Once tree species were assigned , we applied the following equation to calculate above - ground biomass for each tree : B = Exp ( β 0 + β 1 * ln ( dbh ) )
 ( 1 ) Where β 0 , β 1 is based on species type ( Table 1 ) B = total aboveground biomass ( kg ) for trees 2.5 cm and larger in dbhAlthough the root - to - shoot ratio varies somewhat from species to species , we assumed a fixed root - to - shoot ratio of 0.26 for all species groups and converted above - ground biomass to whole - tree , dry - weight biomass following past studies [35,55] .
 Total tree dry - weight biomass was multiplied by 0.5 to calculate the total stored carbon in trees which approximates the proportional mass of carbon in trees [37,56-58] .
+
 D .
 Estimation of carbon sequestration : Our estimates of carbon sequestration firstly consider the probability of tree mortality .
 To generate a subset of trees surviving to the next year , we used tree mortality rates by dbh from a study of Chicago ' s urban forest ecosystem [34] .
@@ -100,6 +106,7 @@ We used a conservative 10 % replanting rate for developed land in other jurisdic
 Lastly , estimates of the supply of carbon storage and sequestration were aggregated from the individual plant level to the census tract level in order to facilitate comparisons with subsequent demand assessments .
 The final equations for calculating annual net carbon sequestration are as follows : formtok formtok formtok formtok
 Where Cs = net annual carbon sequestration per census tract ( kgC ) Cg = total carbon gained from tree growth in year x + 1 ( kgC ) Cl = total carbon lost from tree decomposition in year x + 1 ( kgC ) Cp = total carbon gain from tree replanting in year x + 1 ( kgC ) i = identifier for a single living tree for year x + 1Bi , x = total biomass for tree i in year x ( kgC ) Bi , x + 1 = total biomass for tree i in year x + 1 ( kgC ) u = identifier for a single tree that died in a year in St . Paulv = identifier for a single tree that died in a year outside St . Paul on forest , agricultural or undeveloped landw = identifier for a single tree that died in a year on undeveloped land usesBu = total biomass for tree u ( kgC ) Babove , v = aboveground biomass for tree v ( kgC ) Bbelow , v = belowground biomass for tree v ( kgC ) Bw = total biomass for tree w ( kgC ) j = identifier for a single tree planted in year x + 1Bj = total biomass for tree j ( kgC )
+
 E .
 Estimating demand for carbon sequestration : Demand for carbon storage and sequestration service is expressed based on local anthropogenic CO 2 emissions .
 Our fundamental assumption in measuring demand is that increasing CO 2 emissions are associated with a greater need for carbon storage and sequestration service to mitigate climate change and that this need is an indicator of demand for this service .
@@ -110,6 +117,7 @@ We estimated CO 2 emissions by sector .
 The Minnesota Pollution Control Agency ( MPCA ) groups emissions of carbon dioxide in Minnesota into seven sectors : agricultural , commercial , electric utility , industrial , residential , transportation and waste [72] .
 Average emissions intensity and energy consumption values for Minnesota were used in this estimation due to a lack of local - level data [72] .
 Estimated values were combined with information on population , number of vehicles , number of employees in industrial and commercial occupations and areas of agricultural land to calculate final demand by census tract ( Table 2 ) .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0136392.t002 Symbols and parameters used in carbon sequestration demand calculation ( after MPCA , 2012 [72] ) .
 Our estimates of carbon emissions from the electric utility sector exclusively account for the combustion of nonrenewable energy sources , given that renewable energy sources , such as geothermal , hydro , wind and solar , emit nearly zero carbon .

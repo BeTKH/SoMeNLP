@@ -8,6 +8,7 @@ In case of doubt abstracts or full text articles were retrieved for closer readi
 Thereafter , two independent reviewers made a selection based on abstracts ( GK and WH ) ; further winnowing was performed by two reviewers ( GK and CB ) based on full text articles .
 In case of inconsistencies , articles were evaluated again until consensus was reached .
 The kappa statistic for inter - observer variability was reported for the abstract and full - text selection .
+
 In line with the APA [6] and NICE [4] , [5] treatment guidelines we limited the search to chronic somatic illnesses .
 The chronic somatic illnesses chosen for this systematic review were : heart diseases , gastrointestinal diseases , diabetes mellitus , rheumatoid arthritis , asthma , Human Immunodeficiency Virus ( HIV ) and neoplasms .
 The choice of these chronic somatic illnesses was based on them being mentioned in the clinical practice guidelines of the APA [6] and NICE [4] and their high prevalence rates brought up in additional literature [18] , [19] .
@@ -17,9 +18,11 @@ The terms ‘ depression or depressive disorder or major depression were combine
 The key words regarding depression outcomes were based on Altman [20] ( box 2 ) and modified by adding relaps * , recur * and remis * to fit our research purpose .
 Since not all studies might explicitly mention recurrence , even though they studied the impact on for example chronicity , including recurrence , we decided on the above mentioned broad search terms .
 Additionally , reference lists from included articles , earlier reviews and NICE [4] , [5] and APA [6] clinical treatment guidelines were screened for other potentially eligible papers and experts were consulted to identify additional important papers .
+
 The following data were extracted from the included articles : study site , number of participants , their age and gender distribution , information about depression assessment ( method and measurement intervals ) , characteristics of the chronic somatic illnesses ( type and assessment method ) and the outcome measure ( recurrence ) .
 Outcomes consisted of the differences in percentages or mean numbers of recurrence during follow - up , if applicable for multiple time intervals , between patients with and without co - morbid chronic somatic illness .
 Risk ratios ( RR ) and 95 % Confidence Intervals ( CI ) were calculated by using Review Manager 5.1 .
+
 To allow for judgments on the quality of the included articles regarding their selection process , design , analyses and outcome measures , a modified version of the Newcastle - Ottowa Quality Assessment Scale for cohort studies was used [21] .
 This instrument was reviewed by Deeks et al . [22] and described as one of the most usable methods for this type of study [22] , [23] .
 All articles were judged by two reviewers ( GK and WH ) .

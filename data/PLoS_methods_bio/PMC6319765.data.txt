@@ -5,6 +5,7 @@ All animals were housed under natural photoperiod and temperature conditions in 
 These birds were raised as part of the INIA ’ s genetic resources conservation program [ 28 , 29 ] .
 All birds were fed a commercial feed containing 16 % CP , 2700 kcal of ME / kg , 3.5 % Ca and 0.5 % available P over the entire experimental period .
 Animals were handled according to procedures approved by the INIA Ethics Committee ( Organo Regulador de los Comites de Etica de Experimentacion Animal , reference number ORCEEA 2016 / 001 ) and were performed in accordance with the Spanish Policy for Animal Protection ( RD 53 / 2013 ) , which conforms to European Union Directive 86 / 609 regarding the protection of animals used in scientific experiments .
+
 The amino acid profile and total proteins in seminal plasma were studied within each breed .
 A pool of seminal plasma for each breed was obtained every month , from August to November , and amino acid and total protein analysed in them ( n = 48 ; 4 per breed ) .
 Mean sperm concentrations were also evaluated within each breed .
@@ -13,6 +14,7 @@ One aliquot was frozen with presence of seminal plasma , and the other one was f
 Sperm variables were analysed before and after freezing - thawing .
 The fertilization capacity of frozen semen from one ‘ good freezer ’ and one ‘ bad freezer ’ breed , as judged from the obtained in vitro post - thaw sperm assessments , was estimated in an artificial insemination ( AI ) experiment from the percentage fertile eggs resulting from two consecutive intravaginal AI , three days apart , of a total of 60 hens ( 30 per breed ) .
 Hens of each breed were used for testing fertilizing ability of frozen - thawed semen of the two mentioned breeds ; i.e. 15 hens belonging to good freezer breed were inseminated with semen of good freezer , and the remaining 15 with semen of bad freezer ; the same criterion was used for the hens of bad freezer breed .
+
 Semen collection , management and freezing : Semen was collected twice weekly over the study period , in 15 - mL graduated centrifuge tubes ( Sterilin ) using the massage technique described by Burrows and Quinn [30] .
 Pools of semen for each breed were made on each occasion .
 Samples were managed differently , depending on whether they were used for seminal plasma amino acid analysis , or for freezing .
@@ -33,6 +35,7 @@ After equilibration , the samples were loaded into 0.25 mL French straws and the
 Freezing was performed using a Computer Freezer - Icetube 1810 freezer unit ( Minitub , Tiefenbach , Germany ) .
 The frozen straws were then plunged into and maintained in liquid nitrogen ( at - 196 ° C ) until thawing .
 For thawing , the straws were warmed for 3 min in a water bath at 5 ° C .
+
 Amino acid and total protein assay : Seminal plasma obtained for amino acid assay ( see above ) was immediately stored at - 20 ° C until determination of the seminal plasma free amino acid composition .
 Separation and determination of amino acid was made by ion exchange column chromatography [33,34] .
 Briefly , the samples were initially precipitated with three volumes of ice - cold acetone and incubated for 2h at - 20 ° C .
@@ -43,6 +46,7 @@ Total protein was assessed by the Coomassie ( Bradford ) Protein Assay Kit ( The
 The seminal plasma was diluted 10 times with Milli - Q water , then , 0.03 mL of the diluted plasma was mixed with 1.5 mL of the Coomassie reagent .
 The samples were incubated 10 min at room temperature and were analysed by measuring the absorbance at 595 nm ( Agilent 8453 Spectrophotometer ) .
 The protein concentration was determined by a BSA standard curve with a linear working range of 25 - 500 μ g / mL .
+
 Sperm concentration and motility were assayed using a computer - aided sperm analyses ( CASA ) system coupled to a phase contrast microscope ( Nikon Eclipse model 50i ; Nikon Instruments Europe B.V . , Izasa S.A . ; negative contrast ) and employing Sperm Class Analyzer ( SCA , Barcelona , Spain ) v. 4.0 . software ( Microptic S.L . , Barcelona , Spain ) [35] .
 For motility analysis , sperm samples were diluted to a concentration of approximately 40 million sperm / ml and loaded onto warmed ( 38 ° C ) 20 μ m Leja 8 - chamber slides ( Leja Products B.V . , Nieuw - Vennep , The Netherlands ) .
 The percentage of motile spermatozoa and the percentage showing progressive motility were recorded .
@@ -61,6 +65,7 @@ The reaction was conducted incubating the slides in a humid box for 1 h at 37 °
 After a wash with PBS the nucleus were counterstained with Hoechst at 0.1mg / mL in PBS for 5 min in the dark .
 Following an additional wash with PBS the slides were mounted using Fluoromount ( Sigma - Aldrich , MO , USA ) and observed under fluorescent microscopy ( Eclipse E200 , Nikon , Japan ) .
 Percentages of positive TUNEL spermatozoa ( TUNEL + ) per sample were recorded by counting a minimum of 200 spermatozoa per microscopy preparation , using an epifluorescence microscope at 400 × ( wavelength : 510 - 560 nm ) .
+
 Cryoprotectant removal and artificial insemination : White Prat and Black - Red Andaluza breeds were chosen for the insemination trial as examples of ‘ good freezers ’ and ‘ bad freezers ’ , respectively on the basis of the post - thaw in vitro sperm assessments .
 Glycerol was removed prior to AI .
 Straws of semen frozen were thawed , and the thawed semen was progressively diluted with four volume parts of Lake Centri medium at 5 ° C by successively adding 0.07 , 0.18 , 0.33 , 0.6 , 1.24 , and 1.58 volumes of medium to one volume of semen ( 2 min intervals ) .
@@ -69,6 +74,7 @@ All inseminations ( see above ) were performed between 12 : 00 h and 14 : 00 h .
 AI procedures involved 300 million sperm / female at each insemination .
 Eggs were collected from day two after the first AI until 3 days after the second AI .
 Fertility ( % fertile / incubated eggs ) was determined by candling the eggs ( n = 144 ) on day 7 of incubation .
+
 Clustering by the amino acid content in seminal plasma of each breed was performed using the iterative k - technique to classify the amino acids into three clusters .
 Statistica software ( TIBCO Software Inc . Palo Alto , CA , USA ) specifically uses Lloyd ' s method to implement the k - Means algorithm [38] .
 The right number of clusters was determined by a v - fold cross - validation algorithm included in the Statistica package .

@@ -1,10 +1,12 @@
 No specific permissions were required for the 23 sample plots in this study .
 We confirmed that the field studies did not involve endangered or protected species .
 The specific location of the sample plots is provided in the manuscript ( Fig 1 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0168249.g001 Location of study site and spatial distributions of sample plots .
 The figure in the left bottom corner of Fig 1 is similar to Figure 1 in the reference [43] but not identical to the Figure 1 in the reference [43] .
 The box in the left bottom corner refers to the South China Sea islands .
+
 The field experiment was conducted at Xiaotangshan Precision Agriculture Experimental Base , Changping District , Beijing , North China ( 40 ° 10.6 ′ N , 116 ° 26.3 ′ E ) .
 This experimental base has been operational since 2001 and is used for precision agriculture research .
 This site is located in a warm temperate zone with a mean annual rainfall of 507.7 mm and a mean annual temperature of 13 ° C [44] .
@@ -14,6 +16,7 @@ Winter wheat is usually sowed in October and harvested in June of the following 
 Approximately 10 cm - high wheat residuals are left on the field surface after harvest .
 Summer maize is sowed in June without tillage and then harvested in October .
 When precipitation is scarce , crops are irrigated depending on soil water status .
+
 A very flat sample area was established at this site with slopes less than 1 ° and a size of 140 m × 100 m .
 Land leveling was conducted in this sample area about 2 years ago ( November 2013 ) .
 A single crop cultivar was then planted in this area , which is under uniform water and fertilizer management .
@@ -32,6 +35,7 @@ In each plot , we measured the variables that might explain the spatial variatio
 It is noteworthy that we only measured soil property factors during the winter wheat experiment because of the short interval between the winter wheat and summer maize experiment ( 3 months ) .
 We assumed that the soil properties in such a short time could be considered constant .
 Therefore , the measurement data for soil properties were used to analyze the spatial variation of Rs in the winter wheat and summer maize .
+
 Measurements of soil respiration and environmental factors : In each sample plot , Rs was measured using a Rs chamber ( 6400 - 09 ; LiCor , Lincoln , Nebraska , USA ) connected to a portable photosynthesis system ( LI - 6400 ; LiCor , Lincoln , Nebraska , USA ) .
 The Rs chamber was mounted on a PVC soil collar that was sharpened at the bottom .
 Four soil collars were randomly distributed in each plot for the winter wheat experiment .
@@ -40,26 +44,32 @@ Each Rs measurement was performed between 09 : 00 h and 12 : 00 h ( local time )
 Rs measurement procedures , soil collar placement , and Rs data processing were described in previous studies [18] , [43] .
 After the Rs measurement on the PVC soil collar in each plot ( S1 Table ) , the soil temperature at 10 cm depth ( Ts 10 ) and soil moisture at 0 - 20 cm ( SM 20 ) were measured in the collar to minimize sample difference .
 Detailed procedures for soil temperature and soil moisture measurements were previously described by Huang et al . [43] .
+
 Canopy reflectance measurements and vegetation index calculation : Canopy reflectance was measured after the installation of soil collars .
 A portable spectroradiometer ( FS - FR 2500 , ASD , USA ) was used to measure winter wheat and summer maize canopy radiance between 350 and 2500 nm with a 1 nm waveband width .
 The procedures for canopy reflectance measurements were described in detail by Huang et al . [18] .
+
 Based on the measured canopy reflectance data , three VIs , namely , normalized difference vegetation index ( NDVI ) , red edge chlorophyll index ( CIred edge ) , and enhanced vegetation index ( EVI ) , were calculated to analyze their relationships to the biotic factors of winter wheat and summer maize .
 Three formulas used for the calculation of these VIs were described by Huang et al . [18] .
+
 LAI was measured with a LAI - 2000 plant canopy analyzer ( LI - COR Inc . , Lincoln , Nebraska , USA ) .
 In each plot , five representative positions were selected for LAI measurement , and two repeated measurements were performed at each position .
 Chlleaf was obtained with a portable chlorophyll meter ( SPAD - 502 , New Jersey , USA ) .
 The Chlleaf measurement procedures and Chlcanopy calculation were described in detail by Huang et al . [18] .
+
 AGB was measured by randomly harvesting the aboveground fresh winter wheat plants in three subplots ( 0.2 m × 0.2 m ) and three maize plants in each plot .
 The fresh samples were oven dried at 65 ° C until the mass of the sample became constant .
 AGB measurement damaged the samples .
 Thus , we conducted this measurement when all the other measurements were finished .
 To reduce spatial sampling and measurement errors , we averaged the LAI , Chlleaf , and AGB derived from each plot for both winter wheat and summer maize for further analysis .
+
 Soil inside the four PVC collars in each plot was destructively sampled after measuring Rs , soil temperature , and soil moisture in the winter wheat experiment .
 The collected soil samples were stored at room temperature and rapidly transported to the nearby laboratory ( approximately 200 meters from the sampling site ) for analysis .
 Soil sampling procedures and soil sample processing were described elsewhere [43] .
 SOC content was estimated by the standard Mebius method [47] .
 STN and STC content were measured by an elemental analyzer ( Isoprime - EuroEA 3000 , Milan Italy ) .
 Soil C / N was calculated from the ratio of the STC and STN content .
+
 Correlation analysis was employed to examine the relationships among Rs , biotic factors , environmental factors , and soil properties .
 The coefficient of variation ( CV ) was used to represent the spatial variation of Rs and its various affecting factors .
 The relationships between biotic factors ( i.e. LAI , AGB , and Chlcanopy ) and VIs ( i.e. , NDVI , CIred edge , and EVI ) were examined using regression analysis .
@@ -77,6 +87,7 @@ Before cluster analysis , the variables were standardized using the methods of J
 Based on the results of the cluster analysis , linear regression between Rs and optimal VI was used to detect the possible relationship between Rs and the photosynthesis proxy factor derived from remote sensing data in each cluster .
 One - way ANOVA with the least significant difference ( LSD ) multiple comparison test was used to analyze differences in Rs , biotic factors , environmental factors , and soil properties among different clusters .
 All the statistical analyses were performed with the Statistical Package for the Social Sciences ( SPSS , Chicago , Illinois , USA ) .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0168249.t001 Correlation coefficients among soil respiration ( Rs ) , leaf area index ( LAI ) , aboveground biomass ( AGB ) , canopy chlorophyll content ( Chlcanopy ) , soil water content at 0 - 20 cm depth ( SWC 20 ) , soil temperature at 10 cm depth ( Ts 10 , ° C ) , soil total nitrogen ( STN ) content , soil total carbon ( STC ) content , soil carbon / nitrogen ( C / N ) ratio , and soil organic carbon ( SOC ) content at the late jointing stage of winter wheat and summer maize in North China plain .
 Significance levels * * * p < 0.001Bold signal means the correlation analysis results for winter wheat , and the no mark values describe the results for summer maize .

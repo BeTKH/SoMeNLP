@@ -12,12 +12,14 @@ All radiocarbon ages were converted to calibrated calendar ages BP ( before - pr
 All calendar age errors quoted in this paper are given as 2 standard deviation errors ( 2 σ ) .
 Table 1 provides radiocarbon ages and calibrated calendar ages for each charcoal sample measured by AMA .
 Table S1 provides ancillary information pertaining to sample pretreatment , graphite AMS mass and δ 13C values used to correct AMS radiocarbon data from Maludong .
+
 Detailed theories and methods related to the use of magnetic measurements for reconstructing palaeoclimate and anthropogenic alteration are outlined in [63] - [65] .
 Bulk sediment samples were taken from every single excavated stratigraphic unit during excavation .
 These bulk samples were divided into sub - samples , air dried and sieved to remove any large non - magnetic particles ( i.e. limestone clasts ) .
 The sieved bulk sub - samples were then subjected to a range of mineral magnetic measurements .
 Low temperature and room temperature dual frequency magnetic susceptibility measurements were undertaken on a Bartington MS 2 system .
 Isothermal remanent magnetisation ( IRM ) acquisition and backfield curves , hysteresis loops and thermomagnetic curves were run on a Magnetic Measurements Variable field Translation Balance ( MM - VFTB ) .
+
 Endocast rendering and volume estimation : A virtual endocast of MLDG 1704 was generated from computed tomography ( CT ) data in Mimics ( Ver. 13.02 ) by : Segmenting out extraneous material and generating a mask for MLDG 1704 , Generating a cutting plane and converting this mask into a 3D object , Positioning the 3D object such that it closed the open region of the cranium , Generating a mask from the repositioned 3D of the cutting plane , Combining the mask of MLDG 1704 with that of the cutting plane , Using the ‘ cavity fill ’ tool to create a partial endocast from this combined mask , A 3D surface mesh was then generated from this mask of the endocast and imported into Strand 7 ( ver. 2.4 ) , andA solid mesh of the partial endocast was then created in Strand 7 and the volume taken from the model summary .
 Six endocasts and their respective volumes were generated from CT scans of complete Holocene age southern African San crania using this same general approach ( Figure S1 ) .
 In these instances ‘ holes ’ in the masks of the crania representing nerves and blood vessels were filled before applying the ‘ cavity fill ’ tool to produce the endocasts .

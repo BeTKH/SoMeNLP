@@ -13,6 +13,7 @@ We have noted very few instances of aggression within crane families but familie
 Density of birds in red - crowned cranes was quite low and families were often spread out in the habitat .
 In common cranes , density in agricultural fields can be quite high .
 To control for density effects , we focused on families that were foraging apart from the others minimising any potential influence of the rest of the flock .
+
 We focused on discrete family flocks consisting of two adult cranes and between 0 - 2 juveniles .
 In the winter , juvenile cranes are almost adult size but can still be identified through plumage characteristics .
 We could not distinguish between males and females because they have similar body size and plumage .
@@ -27,6 +28,7 @@ We could keep track of the identity of each bird during sampling given that indi
 Typically , observations were carried 100 - 300 m away to reduce potential disturbances by observers .
 We carried out observations during periods where birds were not disturbed by people .
 In family flocks , an adult bird typically scans once every minute for about 20 s [28] , which makes the timing of our sampling procedure reasonable .
+
 The percentage of scans with vigilance served as our metric of vigilance and was arcsine square - root transformed prior to statistical analyses .
 First , we established whether individual vigilance in red - crowned cranes varied as a function of age , zone and family size .
 In common cranes , zone was not included since most birds foraged in the buffer zone .

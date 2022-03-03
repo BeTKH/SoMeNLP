@@ -5,13 +5,16 @@ The precise location of all surveyed occurrence were checked using the software 
 In order to reduce spatial autocorrelation , these records were submitted to a spatial filtering , delimiting a minimum distance of 10km between each locality data [12,13] .
 This is greater than the maximum dispersal distance of ≅ 5km reported for Bactrocera species , with the majority of individuals recaptured within 1 km from the release point [ 14 , 15 ] .
 This procedure was performed using SDMtoolbox [16] , resulting in a total of 44 unique occurrence records .
+
 Current climate data were obtained from the Worldclim database at the resolution of 2.5 arc - min ( available at http://www.worldclim.org ) [17] .
 The Worldclim dataset is derived from measurements of monthly temperature and precipitation values collected from weather stations across the world between 1950 and 2000 [17] .
 The predictor variables employed to assess current climate conditions were selected among nineteen bioclimatic variables that are widely used in studies of ecological niche modelling because they capture annual climatic ranges and limiting factors that are known to influence species geographic distribution [18] .
+
 Climate space occupied by native and introduced populations : Projection of models onto another region relies on the assumption that invasive species conserve their climatic niche in the invaded regions [19] .
 However , recent studies have demonstrated that species can change their realized climatic niche during invasion [19-21] .
 A principal component analysis ( PCA ) was run using all environmental variables to compare the climate space occupied by native and invasive populations of B . carambolae .
 A thousand random points from the native and invasive background were added to the PCA analysis ( see background selection below ) , and the first two components were plotted as a biplot , clustering the native and invasive populations with convex hulls to investigate niche overlap within the environmental space [22] .
+
 ENMs were developed using a maximum entropy algorithm implemented in the software MaxEnt version 3.3.3k [23] .
 MaxEnt is a general - purpose machine learning software that uses presence - only data [23] .
 It has been widely used to predict species distribution , including tephritid species [4,22] and in addition to its robust statistical properties , MaxEnt shows a high performance across several niche modelling methods for presence - only data [24] .
@@ -32,10 +35,12 @@ While some studies used a minimum convex polygon around the occurrence points as
 Here , bioclimatic methods of background selection were adopted given their simplicity and practicality and because they have proved to be effective for other fruit fly species [22] .
 The distribution records were intersected with Koppen - Geiger climate zones obtained from CliMond ( http://www.climond.org ) at the spatial resolution of 2.5 arc - minutes .
 The climate zones containing one or more distribution records were used to restrict background during model training ( Fig 1 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0166142.g001 Background and occurrence points of native ( b ) and invasive ( a ) populations of Bactrocera carambolae used in the modeling process .
 Colours refer to Koppen - Geiger classifications in the native and invaded range , while the grey area represents areas not used as background .
 Af = extremely hot and moist ; Am = extremely hot and xeric ; Aw = extremely hot and arid .
+
 MaxEnt allows users to select a variety of “ feature classes ” that can be used to build very complex and highly nonlinear response curves [26] .
 A feature is a function of an environmental variable , and in MaxEnt it can be a combination of six classes : linear ( L ) , quadratic ( Q ) , product ( P ) , hinge ( H ) and threshold ( T ) .
 Because parsimonious models can be generated using different combinations of feature classes [36-38] , five of these combinations were tested in this study : L ; H ; LQ ; LQH and LQHPT .
@@ -43,6 +48,7 @@ While users can specify the feature to be used , MaxEnt automatically selects in
 The regularization coefficient can be tuned by multiplying it by a user - specified constant ( Regularization multiplier ) , altering the overall level of regularization rather than changing the β parameter individually [26,27] .
 Studies have demonstrated that less complex and transferable models can be built by tuning the regularization multiplier to values higher than the default of MaxEnt [ 26 , 27 , 38 ] .
 Therefore , in addition to MaxEnt default , regularization multiplier values of 3 and 5 were also tested in the development of the models .
+
 The performance of the models was assessed using threshold - independent and threshold - dependent metrics .
 As threshold - independent evaluation , the Area Under the Curve ( AUC ) and the Bayesian Information Criterion were used ( BIC ) .
 For presence - background evaluations , AUC assess the discriminatory ability of the model , quantifying the probability that the model correctly ranks a random presence locality higher than a random background pixel [27] .
@@ -53,6 +59,7 @@ Two threshold - dependent metrics were used to evaluate model performance : omis
 The expected value of OR at MTP is 0 and 0.10 at TP 10 .
 Values higher than the expected indicate over - fitting and poor performance of the models [13,28] .
 In order to select models with high performance and low complexity , the following criteria was adopted : OR at MTP and TP 10 closer to 0 and 0.10 , respectively , low BIC values and AUC values higher than 0.8 .
+
 Once the best model was selected , it was projected onto other regions of the world to access the global potential distribution of B . carambolae .
 Because models are calibrated based on the relationship between occurrence records and climate in the study area , projecting it onto other regions with non - analogous climatic conditions can be problematic , since the models are not informed about how species would respond to climatic novelty [39,40] .
 To assess climate novelty in the transferred regions , a Multivariate Environmental Similarity Surface test ( MESS ) implemented in MaxEnt was performed .
@@ -61,6 +68,7 @@ Negative values discriminate areas where at least one variable has a value that 
 Additionally , we restricted model projections to climate conditions encountered during training by disabling extrapolate options in MaxEnt .
 The final model was run with the logistic output and then binary maps displaying unsuitable and suitable environments were built using the thresholds MTP and TP 10 .
 Areas above the MTP were referred as suitable , whereas areas above TP 10 were considered optimal for B . carambolae [41] .
+
 A survey in the CABI database ( www.cabi.org/isc/datasheet/8700 ) was conducted to assess the plants used as host by B . carambolae .
 Based on this survey , the acreages of the following economically important fruit species were obtained for each Brazilian municipality in 2014 from the database of the Brazilian Institute of Geography and Statistics ( IBGE , available at www.ibge.gov.br ) : avocado , cashew , guava , orange , lemon , papaya , mango and tangerine ( S1 Fig ) .
 In order to quantify the production areas at risk of attack , the suitability map of B . carambola were intersected against maps of fruit acreage in Brazil .

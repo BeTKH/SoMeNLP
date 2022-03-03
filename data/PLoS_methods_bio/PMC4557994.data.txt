@@ -4,13 +4,16 @@ First the T1 image is segmented into a set of regions using FreeSurfer [17] , af
 The connectivity maps of each subject are compared uni - and bi - modally for their utility in group - wise analysis as well as identification of connections that contribute to group differences and similarities .
 The methods are applied to two proof - of - concept studies , one that compares groups of middle - age and elderly subjects , and the second that compares patients with schizophrenia to controls .
 More details of these steps are provided below .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0137484.g001 Schematic of method .
 Networks are extracted for each individual ( upper panel ) by extracting brain regions from the T1 image using FreeSurfer , and extracting structural and functional connectivity between these regions from preprocessed DWI and fMRI , respectively .
 Subsequently , integrated analysis of group differences in structural and functional connectivity is performed ( lower panel ) .
 Group differences are visualized on a global level using bi - modal distribution plots , on an individual connection level using connectograms and on a mid - level using worm plots , where connections are grouped by location in the brain .
+
 Cortical reconstruction and volumetric segmentation of each subject ’ s T1 image to produce an ROI atlas was performed using the FreeSurfer image analysis suite [17] , available online at http://surfer.nmr.mgh.harvard.edu .
 The atlas was registered with 12 degrees of freedom to both the DWI ’ s b0 image and a mean fMRI , also using FSL ’ s FLIRT algorithm .
+
 The DWI ' s were preprocessed using AFNI and FSL tools [18] .
 First they were corrected for motion and Eddy currents and the brain extraction tool was used for skull stripping of the Eddy - corrected DWI .
 Duplicate b0 volumes were merged into a single volume by taking the median across duplicate images at each voxel .
@@ -22,6 +25,7 @@ A second metric of structural connectivity , the average fractional anisotropy (
 SAMSCo produces two values per connection , one from the seed to target region and the other from the target to seed region .
 Therefore , the SAMSCo networks were symmetrized by choosing the minimum of the two costs ( and corresponding DFA values ) to represent the edge between each pair of regions .
 It is important to note that SAMSCo is a less traditional choice of structural connectivity measure , an aspect which is discussed in more detail in the “ Image preprocessing and network generation ” subsection of the Discussion section .
+
 Preprocessing of the fMRI ' s was accomplished using ANFI and FSL tools [18,19] .
 The fMRI images were slice - timing and motion - corrected , both using AFNI tools .
 The first four TRs were removed to allow for equilibration and a temporal 0.01Hz high pass filter was applied to remove low frequency signals .
@@ -36,6 +40,7 @@ This reduced the effects of structural variability .
 The average time series for each ROI was calculated .
 For the first network type , connectivity between two ROIs was defined as the Pearson correlation coefficient between each ROI ' s mean time series ( fMT ) .
 For the other type of connectivity we used partial correlation ( fPC ) , which was calculated for every ROI pair with the influence of all other ROI ’ s removed according to the formula formtok [21] , where pij is the ( i , j ) th element of the inverted covariance matrix from the mean time - series data of all ROIs .
+
 Integrated analysis and visualization of structural and functional networks : An ordinary least squares linear regression model was estimated for each connection including group membership , modeled as a single variable containing zeros and ones , and covariates as variables , along with a constant term to model the mean of the data .
 The t - statistic and p - values associated with group membership were used to determine whether a connection ’ s weight differs significantly between groups .
 The group mean of each connection was also computed for each group of subjects .
@@ -85,6 +90,7 @@ To address this , we used a method proposed by Li et al ( 2012 ) [23] , where an
 Meff , G replaces MG in the traditional methods .
 Meff , G was applied to the Bonferroni correction to calculate an adjusted p - value threshold , α Meff , G = α / Meff , G .
 We used α = 0.05 as the uncorrected threshold .
+
 Two proof - of - concept studies were performed using the analysis described above .
 The first compared middle - age and elderly subjects from the Rotterdam Scan Study ( RSS ) [24,25] .
 The second compared patients with schizophrenia to healthy controls from the Massachusetts General Hospital ( MGH ) in the MIND Clinical Imaging Consortium data collection [26] , which is an open - access multi - site collaborative study of patients with schizophrenia .
@@ -111,6 +117,7 @@ Years of education is defined as the total number of years that a subject pursue
 In both studies , subjects with more than 4mm of head movement were excluded .
 All participants gave written informed consent and the original studies were approved by the medical ethics committee of the Erasmus MC , University Medical Center Rotterdam ( for the RSS study ) and the institutional review board of the Massachusetts General Hospital ( for the MGH study ) .
 Table 1 describes the demographics of each group for the subjects that were included .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0137484.t001 Subject demographics .
 * One subject was missing this information , statistics computed over the remaining subjectst Calculated using Welch ’ s t - test χ Calculated using χ 2 test All subjects from the RSS were scanned on the same 1.5 Tesla GE scanner with an 8 - channel head coil .
@@ -131,6 +138,7 @@ The fMRI parameters were TR = 2000 ms , TE = 30 ms , flip angle = 90 ° , FOV = 
 Three runs of the Sternberg item recognition paradigm ( SIRP ) [29] were collected .
 SIRP is a task - based fMRI sequence with a block design that measures working memory .
 The run with the least amount of motion was selected for connectivity analysis .
+
 Covariates were included in the regression model to control for their influence .
 In the RSS study covariates included MMSE and gender .
 In the MGH study covariates included age and gender .

@@ -14,6 +14,7 @@ Five of the patients were currently treated with corticosteroids ( Deflazacort o
 The dosages were lower than current international standards due to individual clinical conditions like development of obesity or loss of ambulatory ability .
 No other medication was applied .
 Further clinical and genetic characteristics of the patients are summarized in Table 1 .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0126528.t001 Clinical characteristics and X - chromosomal genetic findings in DMD patients .
 Examination of limb coordination , balance and gait and the use of ataxia scales to determine the severity of cerebellar signs was not meaningful in case of muscle weakness .
@@ -24,6 +25,7 @@ Abbr .
 = Disorder ; n.a .
 = not applicable in case of muscle weakness .
 See Methodsfor further details .
+
 At the beginning of the experiment hearing thresholds were determined in each subject using 1 KHz , the frequency of the CS .
 Thresholds of both ears ( dB SPL ) were within normal age limits in all participants , there was no significant difference between patients and controls .
 None of the participants suffered from eye diseases .
@@ -49,6 +51,7 @@ As a measure of extinction the CR incidence within the last block of paired tria
 All subjects exhibited at least one CR during extinction ensuring a sufficient ability of learning in the paired trials [42] .
 The frequency of spontaneous blinks was measured in each session within one minute both at the beginning and in the end of the experiment .
 The rate of alpha - blinks was analysed within the 150 ms interval after CS onset of 100 paired trials .
+
 Analysis of variance with repeated measures ( ANOVA ) was calculated in paired trials with percentage CR incidence as dependent variable , block ( 1 - 10 : ten blocks of ten paired trials ) as within subject factor and group ( controls vs . DMD patients ) as between subject factor .
 Level of significance was set at p < 0.05 .
 For all effects , the degrees of freedom were adjusted , if appropriate , according to Greenhouse - Geisser [44] .

@@ -4,6 +4,7 @@ Two groups of laboratory - confirmed dengue cases were considered : ( i ) had po
 Patients who were diagnosed with severe dengue at the time of hospital presentation were excluded from further analysis ; patients without SD but with warning signs were included ( Figure 1 ) .
 SD cases fulfill at least one of three criteria : ( 1 ) severe plasma leakage : associated with shock ( tachycardia > 100 or narrow pulse pressure < 20 or blood pressure < 90 mmHg ) or respiratory distress , ( 2 ) severe hemorrhage : gastrointestinal tract bleeding such as haemetemesis or melaena or bleeding per rectum , pack cell transfusion or blood transfusion requirement or menorrhagia ( 3 ) severe organ impairment : defined as aspartate or alanine transaminase ≥ 1000units / l , acute renal impairment ( creatinine × 2 upper limit of normal for age and sex ( based on modification of diet in renal disease equation for Glomerular filtration rate = 75 ml / min ) or baseline estimated from minimum creatinine recorded ) , encephalopathy and myocarditis [14] .
 In addition , the WHO proposed warning signs suggestive of high risk for SD were recorded : abdominal pain or tenderness , persistent vomiting ( vomiting during two or more consecutive days ) , clinical fluid accumulation , mucosal bleed , lethargy or restlessness , hepatomegaly and concurrent increase in hematocrit and rapid decrease in platelet count ( hematocrit change > = 20 % concurrent with platelet < 50 × 109 / l occurring in the same day ) [14] .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pntd.0002972.g001 Study inclusion criteria.PCR : polymerase chain reaction , WHO : world health organization , DHF : dengue hemorrhagic fever , SD : severe dengue .
 Variables presenting missing data in a proportion greater than 10 % were removed from the analysis .
@@ -34,6 +35,7 @@ The 5 - fold validation process was repeated 1000 times and the mean of the root
 The estimation of RMSPE was also subjected to optimism correction .
 Lower RMSPE indicated a better performance in the prediction of new cases and robustness of the model to potential associations found by chance alone .
 The R statistical environment was used for all analyses [34] .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pntd.0002972.g002 Comparison of the receiver operator characteristic curve in resourced and resource - limited settings for the GLM models fitted to predict SD in PCR confirmed cases ( A ) and PCR and serology confirmed cases ( B ) .
 This study received ethical approval from the Domain Specific Review Board , National Healthcare Group , Singapore ( DSRB - E / 08 / 567 ) and all data analyzed were anonymized .

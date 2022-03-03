@@ -10,16 +10,19 @@ The molecular basis of von Hippel - Lindau disease is the loss of function of th
 Organs affected by VHL disease may develop frank tumors .
 More characteristically , however , they reveal multiple separate microscopic foci of neoplastic cell proliferation .
 The exact mechanisms of tumorigenesis in VHL disease are , however , still not entirely understood and knowledge on biomarkers and targeted therapy is scarce .
+
 Overview of VHL Disease
 Von Hippel - Lindau ( VHL ) disease is an autosomal dominantly inherited tumor syndrome .
 The disease usually manifests in young adulthood and predisposes affected patients to the development of benign and malignant tumors of different organ systems , mainly including nervous system and internal organs .
 The incidence of VHL disease has been assessed as one in 36,000 [1,2] and the penetrance is higher than 90 % [3] .
 Example of a Routine Surveillance Protocol for Von Hippel - Lindau Disease
+
 VHL disease is named after German ophthalmologist Eugen von Hippel , who identified and described retinal hemangioblastomas [4] , and Arvid Lindau , a Swedish Pathologist , who discovered the coincidental occurrence of retinal and cerebellar hemangioblastoma with tumors and cysts in internal organs .
 He published the clinical spectrum of VHL disease [5,6] .
 Clinically , the patients are divided into different groups : Patients with VHL type 1 predominantly without pheochromocytoma , and VHL type 2 predominantly with pheochromocytoma [7] .
 VHL type 2 is further subdivided into type 2A ( with renal cancer ) and type 2B ( without renal cancer ) .
 In type 2C , affected patients develop solely pheochromocytomas [8] .
+
 Molecular and Histomorphological Basis of VHL Disease
 VHL inactivation has a variety of different effects on human tissue on molecular as well as on histomorphological levels .
 Since there is no animal model available to date , which has the full VHL phenotype , most knowledge is based on restricted knockout models or on observations in human tissues .
@@ -45,6 +48,7 @@ MMP 1 and lysyl oxidase ( encoded by LOX ) are implicated in ECM breakdown and t
 Finally , dysregulation of TWIST and activation of HGFR ( encoded by c - MET ) are involved in epithelial - to - mesenchymal transition ( EMT ) .
 Deciphering of the molecular mechanisms of VHL functioning has had a large impact on the understanding of oxygen sensation in mammalian cells and the development of neoplasia in general [24] .
 The Nobel Prize in Physiology or Medicine 2019 was awarded jointly to William G . Kaelin , Peter J . Ratcliffe and Gregg L . Semenza “ for their discoveries of how cells sense and adapt to oxygen availability . ”
+
 HIF - Independent Effects
 In addition to HIF degradation , the VHL protein is involved in HIF - independent cellular processes , which may be connected with tumorigenesis .
 It regulates the proper deposition of fibronectin and collagen IV within the extracellular matrix [25] .
@@ -58,6 +62,7 @@ The different HIF dependent and HIF - independent molecular functions imply seve
 Despite the broad understanding of VHL functioning , it remains largely unclear , how a “ normal ” cell of a VHL patient which carries one mutated VHL allele is transformed into a tumor cell .
 Simple inactivation of the second VHL allele seems insufficient for tumor growth [27-29] and does also not explain the peculiar organ distribution of the disease with mainly CNS and internal organs involved .
 Some keys to these unsolved questions are discussed in the next section on histomorphological tumorigenesis .
+
 Histomorphological Basis of VHL Disease
 Organs affected by VHL disease may develop frank tumors .
 More characteristically , however , they reveal multiple separate microscopic foci of neoplastic cell proliferation .
@@ -101,12 +106,14 @@ While in the earliest stages of tumorigenesis VHL - deficient tumor cells show -
 The retina develops from extensions of the neural tube , providing justification to include retinal hemangioblastomas among the craniospinal hemangioblastomas .
 Furthermore , histologic features of small and larger retinal tumors are identical to those of nerve root and cerebellar hemangioblastomas .
 Analogous to CNS tumors , retinal hemangioblastomas are composed of VHL - inactivated tumor cells with intense reactive vascularization [40,41] and unrelated to capillary hemangiomas occurring elsewhere in the body .
+
 Endolymphatic Sac Tumors
 Endolymphatic sac tumors were originally described by Heffner as adenocarcinomas of probable endolymphatic sac origin [42] .
 Endolymphatic sac tumors in VHL disease are extensively vascularized tumors forming prominent papillary structures , the papillae being lined by a single row of cuboidal epithelial cells .
 Cysts lined by single rows of cuboidal cells are frequently present , and epitheloid clear cell proliferation is occasionally detected [27] .
 Tumors larger than 10 mm in size usually present with bony erosion , while the exact border between endolymphatic duct and sac is not clearly defined , it is of clinical relevance that tumors appear to originate most frequently from intraosseous portions of endolymphatic sac / duct epithelium [27] .
 Studies on clinically uninvolved endolymphatic sac and duct of VHL patients showed evidence for VHL - inactivated cells lining cysts or papillary projections ; in analogy to studies in other tissues these microscopically small cystic or papillary structures may represent early stages of endolymphatic sac tumors [27] .
+
 Visceral Tumors
 Renal Cell Carcinoma
 The diseased VHL kidney is characterized by renal cysts and clear cell carcinoma .
@@ -117,6 +124,7 @@ Numerically , by far the most pathogenic events in the kidney are represented by
 VHL gene function is inactivated in the smallest foci of microscopic neoplasia [46,47] .
 All clear cell tumors in the kidney are designated renal cell carcinoma , although they need to reach at least 3 cm size to acquire the capacity to metastasize .
 Histologically , larger renal clear cell tumors may develop frankly malignant features including tumor necrosis and cytologic anaplasia with mitotic activity .
+
 Epididymis Cystadenoma
 Epididymal cystadenomas are component tumors of VHL disease composed of cuboidal epithelial cells , with papillary , tubular and cystic architecture , and prominent angiogenicity .
 Numerous tumor precursor elements were detected by a thorough analysis of nontumorous epididymides obtained at autopsy ( Figure 4 ) .
@@ -124,16 +132,20 @@ Topographically , precursor structures were confined to the efferent ductules of
 Precursor structures were characterized by the formation of epithelial cysts and prominent epithelial proliferation into the lumina of cysts and efferent ductules [48] .
 A 3dimensional reconstruction of intraductular papillary neoplastic growth revealed the complex intermingling of pre - existent anatomic structure and slow neoplastic growth creating a hamartomatous appearance [49] .
 Since epididymal cystadenomas are rare neoplasms , the occurrence of bilateral tumors is highly associated with VHL disease [50] .
+
 Papillary Cystadenoma of the Broad Ligament
 Papillary cystadenoma of the broad ligament occurs less frequently than epididymal cystadenoma .
 Morphological and immunohistochemical features strongly overlap .
 Morphologic and genetic studies have established this tumor as a VHL component tumor , and it is considered as female counterpart tumor of epididymal cystadenoma [51] .
+
 Pancreatic Microcystic Adenoma
 Microcystic adenomas of the pancreas ( serous cystadenomas ) are tumors composed of small cysts lined by flattened or cuboidal glycogen - rich cells [52] .
 After the initial demonstration of VHL gene deletion and mutation in microcystic adenomas [53] , a more detailed analysis of the VHL pancreas revealed the presence of numerous small microcystic adenomas as well as VHL gene - inactivated pancreatic cysts ; most cysts were of microscopic size suggesting a continuum of development from the pancreatic cyst ( s ) to microcystic adenoma [54] .
+
 Pancreatic Neuroendocrine Tumor
 Pancreatic neuroendocrine tumors were established as VHL component tumors in 1998 [55] .
 Compared to sporadic neuroendocrine tumors , VHL - associated neuroendocrine tumors more frequently exhibit clear cell morphology which may be challenging to differentiate from metastatic renal cell carcinoma or pancreatic microcystic adenoma which may occur in the same pancreas [55] .
+
 Adrenal Pheochromocytoma and Extra - Adrenal Paraganglioma
 Pheochromocytomas and paragangliomas are associated with multiple hereditary disorders .
 The histologic features are distinguished from other VHL disease - associated clear cell neoplasms by more variable , frequently polyhedral cytology , basophilic and finely granulated cytoplasm and cytoplasmic bodies in both familial and nonfamilial cases [56] .
@@ -142,6 +154,7 @@ In conclusion , the characterization of precursor structures has provided more p
 In all anatomic structures investigated so far , precursor structures were far more numerous than frank tumors .
 Therefore , VHL inactivation ( “ second hit ” ) is necessary , but insufficient for the development of a frank tumor .
 In the future , comparative molecular analysis of frank tumor and precursor structures may be helpful to identify a “ third hit ” promoting tumorigenesis from precursor material .
+
 VHL Disease Manifestations and Treatment
 Patients affected by VHL disease develop specific types of heavily vascularized tumors in a highly selective subset of organs .
 Multiple and bilateral tumors occur frequently .
@@ -156,6 +169,7 @@ Larger tumors can be treated by vitrectomy [64] .
 Optic disc hemangioblastomas should be monitored without treatment .
 With regular screening and early treatment of detected lesions , visual prognosis for VHL patients is in general good : In one major study approximately 8 % of the eyes of VHL patients had poor visual acuity of 20 / 200 or worse with approx . 8 % of these eyes requiring enucleation [65] .
 Pharmacological treatments are in experimental stages and are discussed in the section on targeted therapies .
+
 Craniospinal Hemangioblastomas
 Hemangioblastomas are benign slow - growing highly vascularized tumors .
 They are frequently the first manifestation of VHL disease .
@@ -169,6 +183,7 @@ Removal of the largest hemangioblastoma usually resolves polyglobulia [69] .
 Treatment is primarily surgical and is recommended for all symptomatic tumors and for all tumors causing CSF obstruction [66,70,71] .
 If surgery is not possible , radiation therapy may be an alternative , however , its effectiveness remains controversial [72-74] .
 Pharmacotherapy of CNS hemangioblastoma is at an experimental stage and is discussed in the section on targeted therapy .
+
 Endolymphatic Sac Tumors
 These histologically benign tumors originate in the vestibular aqueduct and grow locally invasive into the petrous bone .
 Patients will typically present with hypoakusis or hearing loss ( 100 % ) , tinnitus ( 77 % ) , dysequilibrium ( 62 % ) , and facial paresis ( 8 % ) [75] .
@@ -178,6 +193,7 @@ In general , early surgical resection is recommended to enhance the possibility 
 The timing of surgery depends on the severity of symptoms , the slow but variable growth of the tumors , the possibility of injury to the 7th and 8th cranial nerves and possible bilateral occurrence .
 The role of radiation in the treatment of these tumors remains controversial [78] .
 Description of pharmacological therapies is scarce and is discussed in the section on targeted therapy .
+
 Renal Manifestations
 Patients with VHL disease may develop renal cysts and renal cell carcinomas ( RCCs ) [46,79-83] .
 VHL - disease - associated RCCs tend to be low grade and minimally invasive [84] , their rate of growth varies widely [85,86] .
@@ -188,6 +204,7 @@ Other authors suggest that a diameter of 4 cm is also acceptable [89] .
 The “ 3 cm rule ” takes into account the overall survival and quality of life ( considering potential premature renal failure and need for dialysis ) .
 Although the gold standard for treating renal tumors is open and minimally invasive partial nephrectomy , alternative therapies including cryotherapy and radiofrequency ablation are also presently utilized [90] .
 Pharmacological therapy is used for metastatic disease and is discussed in the section on targeted therapy .
+
 Pheochromocytoma
 In more than 33 % of patients , pheochromocytomas can occur in a familial syndrome such as the VHL syndrome [91,92] .
 The presence of pheochromocytomas defines VHL disease type 2 ( A , B , C ) .
@@ -212,6 +229,7 @@ Bausch and colleagues found a 38 % risk of developing a second paraganglioma in 
 There is no consensus on whether hormonally inactive pheochromocytomas require treatment .
 The decision will depend on tumor growth , symptoms , and possible metastasis [106,122] .
 Mutation - adjusted surveillance aims to increase life expectancy [123] .
+
 Epididymal Cystadenoma
 About 50 % of male VHL patients develop these non - malignant tumors [124] .
 Epididymal cystadenomas typically arise in the head of the epididymis and contain cystic as well as adenomatous areas and .
@@ -223,6 +241,7 @@ The female counterparts are cystadenomas of the broad ligaments .
 They play no major clinical role .
 “ Adnexal papillary cystadenoma ” are rare , but may require surgery .
 They are of probable mesonephric origin .
+
 Pancreatic Manifestations
 Pancreatic manifestations in VHL disease include cystadenomas , cysts and pancreatic neuroendocrine tumors [125] .
 A recent series of 48 patients with VHL disease at the Mayo Clinic also revealed 5 patients with branch duct intraductal papillary neoplasm [126] .
@@ -243,6 +262,7 @@ Resection of pancreatic tumors may be combined with laparotomy for other VHL ass
 Biliary obstruction with pancreatic insufficiency can be treated by placing biliary stents or replacing pancreatic enzymes .
 A new option is organ - sparing minimally invasive resection which can be applied to tumors in the tail and the body of the pancreas [135] .
 Chemotherapy is currently under investigation and discussed in the section on targeted therapy .
+
 VHL Screening and Prognosis
 A careful family history and screening for other lesions associated with VHL should be performed in all patients with hemangioblastoma , the index tumor of VHL disease .
 Genetic testing for VHL disease is recommended for all patients with hemangioblastoma [136,137] .
@@ -260,6 +280,7 @@ A shortened 35 - mins whole - body MRI protocol with only one Gd injection has b
 The overall life expectancy of VHL patients used to be limited with a median survival of around 50 years [2,60] .
 However , the introduction of clinical screening enabled timely diagnosis and prophylactic treatment of VHL lesions leading to significantly improved life expectancy [140] .
 Modern management of VHL disease - associated lesions has achieved a life expectancy of additional 10 years [141] .
+
 Biomarkers in VHL Disease
 Timely screening for and preventive treatment of lesions is key to the successful management of VHL patients .
 Recent developments in oncology are biomarkers including tumor markers , disease activity markers , liquid biopsy and others .
@@ -287,6 +308,7 @@ However , the size of the solid tumor component correlates with polyglobulia .
 Therefore , polyglobulia is a biomarker for tumor growth in a subset of hemangioblastomas .
 Polycythemia has also been reported in patients with VHL disease and renal cancer [149] and pheochromocytoma [150] .
 In general , the knowledge on biomarkers in VHL disease is scarce and this should be addressed in future clinical studies on VHL disease .
+
 Targeted Therapy in VHL Disease
 Targeted cancer therapy aims to block specific molecular pathways of cancer cells .
 Targeted drugs can be subdivided into compounds that inhibit the growth of the primary tumor , prevent invasion in nearby tissue ; or drugs that block angiogenesis , metastasis and consequent development of secondary tumors .
@@ -328,6 +350,7 @@ Three patients had adverse events that necessitated treatment withdrawal ; such 
 Pegaptanib did not reduce retinal hemangioblastoma volumes and was therefore considered as a palliative treatment modality only [160] .
 We conclude that monoclonal antibodies directed against VEGF are mainly applied as adjunctive treatment to reduce macular exudation ; in VHL patients with advanced juxtapapillary or peripheral retinal hemangioblastomas , which are ineligible for conventional treatment .
 However , because of mixed results , larger prospective randomized trials may be needed to evaluate their efficacy and safety .
+
 Tyrosine Kinase Inhibitors
 Tyrosine kinase inhibitors are targeted drugs that block cellular signal transduction cascades .
 As for monoclonal antibodies , pharmacologic VHL trials have mainly focused on the VEGF tumor pathway .
@@ -402,6 +425,7 @@ Sorafenib is a multiple tyrosine kinase inhibitor of VEGFR 2 / 3 and PDGFR β , 
 In 2017 , Choi et al report partial response to sorafenib of multiple small renal cell carcinomas and pancreatic cysts in 2 VHL patients .
 Retinal and spinal hemangioblastomas did not respond .
 Manageable diarrhea was reported as a side effect [187] .
+
 Biological Response Modifiers
 Biological response modifiers are drugs that boost or modulate the host ’ s autologous immune response to neoplasia .
 Some of these modifiers have been tested in vitro and in small VHL patient groups : roquinimex , thalidomide , IFN - α - 2a , HIF 2 α inhibitors , octreotide , clarithromycin and immunotherapy .
@@ -440,6 +464,7 @@ No side - effects were observed [197] .
 Only little data are available on immunotherapy in VHL disease .
 In 1993 , Weidmann et al established in vitro sensitization of lymphocytes to autologous renal cell carcinoma tumor cells in two VHL patients .
 Combined with the injection of interleukin - 2 , the sensitized lymphocytes caused volume reduction of pulmonary metastasis , without affecting renal cell carcinoma volume [198] .
+
 Miscellaneous
 Based on its previous success rates with infantile hemangiomas , in 2015 Albinana et al investigated the effect of propranolol on hemangioblastomas in VHL disease .
 Acting as a nonselective β 1 and β 2 - adrenergic antagonist , propranolol caused apoptosis and inhibition of downstream HIF targets in hemangioblastoma cell cultures ( such as VEGF and FGF ) .
@@ -461,6 +486,7 @@ There was no tumor regression .
 The authors suggested the future investigation of its applicability as a chemotherapeutic in the early stages of highly vascular VHL tumors [202] .
 Little is known about radiopharmacological treatment .
 In 1995 , Pujol et al report near - complete regression of a metastatic pheochromocytoma in a VHL patient treated with Iodine - 131 metaiodobenzylguanidine ( [ 131I ] MIBG ) [203] .
+
 Conclusion
 Even though randomized prospective trials are needed , intravitreal bevacizumab injections may be considered for refractory and exudative retinal hemangioblastomas .
 The effects and safety profile of ranibizumab and pegaptanib are less well studied , neither are the effects of bevacizumab on other VHL - related tumors .

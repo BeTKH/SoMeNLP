@@ -20,6 +20,7 @@ Finally the samples were mounted on glass slides using Prolong Gold antifaded wi
 In few single reporter mice , we performed immunostaining and histochemical staining using the above methods as well .
 Tamoxifen treatment was also given in few wild type mice before staining with nNOS and ChAT antibodies to determine if it had any effect on the myenteric neurons .
 The ChAT and nNOS positive neurons were analyzed using maximum projection images , a volume rendering method for 3D data that projects in the visualized plane the voxels with maximum intensity that fall in the way of parallel rays traced from the viewpoint to plane of projection .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0171239.t001 Primary and secondary antibodies ( made with 1 % BSA / PBS ) used for staining .
 NADPH - diaphorase activity was detected histochemically , as described previously [13] .
@@ -37,6 +38,7 @@ The detection pinhole was set for use with different objectives accordingly .
 Offset and gain settings were determined at the start of each experiment and kept constant throughout the image capturing time .
 The neurons were counted from these images manually using LAS AF software 4.3 .
 Different magnification views were captured to visualize the neuronal process and cell interaction .
+
 Overall quantitative evaluation of neurons ( ChAT / nNOS ) : Neuron counting was performed manually on images taken under 20X magnification using Leica Application Suite Advanced Fluorescence Version 4.3 .
 A 20x dry and / or water objective lens ( numerical aperture 0.7 to 1 ) was used ; the zoom factor was set at 1.72 in all scanning sessions .
 The neuron counts for only nNOS positive , only ChAT positive , both nNOS and ChAT positive and both nNOS and ChAT negative were obtained .

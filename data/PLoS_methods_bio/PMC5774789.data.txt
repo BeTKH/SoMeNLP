@@ -23,12 +23,15 @@ Next , cases with abnormal conotruncal anatomy ( including specific subtypes of 
 Then , cases with atrioventricular canal abnormalities with normally related great arteries were categorized as AVSD and cases with left or right sided obstructive lesions with normally related great arteries and normal atrioventricular canals were assigned to LVOT or RVOT , respectively .
 Finally , cases with an isolated secundum or sinus venosus type atrial septal defect were assigned to ASD .
 Cases with any other CHD diagnosis were assigned to the other group .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0191319.t001 Diagnostic types of congenital heart defect in the Pediatric Cardiac Genetic Consortium Cohort .
 a Does not include variants of hypoplastic left heart syndrome such as malaligned atrioventricular canal defect or double outlet right ventricle with mitral atresia .
+
 Based on data from the interviews and medical records , cases were classified as either having 1 ) an identified genetic diagnosis ( i.e. a syndrome or genetic alteration thought to explain the associated CHD ) , or 2 ) no genetic diagnosis .
 For simplicity , we refer to such cases as “ syndromic ” and “ nonsyndromic ” , respectively .
 Cases classified as nonsyndromic by this scheme may have had additional non - cardiac anomalies or reported neurodevelopmental deficits .
+
 For syndromic cases , we reported counts and frequencies for each specific diagnosis .
 Given the clinical heterogeneity within this group , we excluded syndromic cases from subsequent analyses .
 For nonsyndromic cases , parental characteristics , case characteristics , and parent - reported neurodevelopmental outcomes were described using counts and frequencies for discrete variables , and means and standard deviations or median and range for continuous variables .

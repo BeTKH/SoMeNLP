@@ -11,6 +11,7 @@ The current analysis included ACT participants aged 65 - 89 years old who were f
 The sample was restricted to participants with complete data on SRH , PPF , and covariates at one or more visits .
 For this study , we defined the baseline visit as the first visit with non - missing SRH , PPF , and covariate information .
 Follow - up of participants ended at time of dementia diagnosis , death or drop - out ; and did not include the visit at which a participant was diagnosed with dementia due to concern that dementia may influence SRH and PPF measures .
+
 SRH was assessed with a single - item question in the ACT study .
 This item is similar to SRH questions used in other questionnaires , particularly in the U.S [1] . , such as the first question in the SF - 36 health survey [31] .
 Participants were asked at each evaluation “ In general , how would you rate your health at this time ” with response options of excellent , very good , good , fair , and poor .
@@ -19,6 +20,7 @@ Although prior studies have used a variety of different wording and response opt
 Prior studies have found dose - response relationships between original levels of SRH and adverse health outcomes , indicating the validity of SRH [7] , [9] .
 In analyses when SRH was the primary exposure , we used SRH at baseline retaining the original five categories .
 In analyses where SRH was the outcome , responses were dichotomized into excellent , very good , or good ( “ healthy ” ) SRH vs . fair or poor ( “ unhealthy ” ) [33] , [34] .
+
 The PPF score was created following methods developed by Wang and colleagues ( 2002 ) [28] for the ACT study population .
 The PPF score consisted of four performance measures that evaluate upper and lower extremity function : 10 - foot timed walks ( walking speed ) , five repeated chair stand time ( chair rises ) , standing balance , and grip strength ( in kilograms ) .
 These tests were chosen based on previously published research [35] - [37] and study logistics .
@@ -38,6 +40,7 @@ For all tests a score of 0 was given if the participant could not complete the t
 Scores of 1 - 4 for walking speed , chair rises , and grip strength tests were based on previously published sex - specific cutoffs , which corresponded to sex - specific quartiles in the ACT population [28] .
 Scores of 1 - 4 for standing balance were categorized based on ability to maintain standing in each position for at least 10 seconds .
 Score cutoffs are summarized in Table 1 .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0111761.t001 Sex - specific Cutoffs for Scores ( 0 to 4 ) for Walking Speed , Chair Rises , Standing Balance , and Grip Strength Tests Based on Previously Published Scoring .
 The sum of the four test scores determined an individual ' s PPF score ( range : 0 - 16 ) ; higher scores corresponded to better performance .
@@ -45,6 +48,7 @@ In analyses with PPF as the outcome , we used the total PPF score at each visit 
 In analyses where PPF was the primary exposure , we categorized the baseline PPF score based on the study sample quartiles .
 We used baseline PPF quartiles because the relationship between baseline PPF and change in SRH may not be linear .
 In exploratory analyses , individual PPF components were dichotomized based on study sample quartiles into scores of 3 - 4 ( “ better ” function ) , which generally corresponded to 75 % of the participants vs . scores of 0 - 2 ; except balance , which had a highly skewed distribution , and “ better ” function was limited to a score of 4 .
+
 At study baseline and follow - up visits , information was collected on demographics , health status , and chronic health conditions .
 Demographic factors measured included age , sex , self - reported race , and years of education .
 Health status - related covariates included cognitive functioning , functional status , depression , and body mass index , exercise ( total number of occasions per week on which at least 15 minutes were performed for 8 activities ) , smoking ( never , past , current ) , and alcohol use ( never , past , current ) .
@@ -58,6 +62,7 @@ Height and weight were measured at each study visit .
 Body mass index was calculated from weight and height ( kg / m2 ) and categorized as underweight ( < 18.5 ) , normal ( 18.5 to 24.9 ) , overweight ( 25 - 29.9 ) , and obese ( 30 + ) .
 Participants were asked whether a doctor had ever told them they had cancer , cardiovascular disease , cerebrovascular disease , diabetes , hypertension , or rheumatoid or osteoarthritis .
 We did not obtain information on number of medications .
+
 We used descriptive statistics to characterize the study population according to SRH .
 We described trends in PPF and SRH via their association with age .
 First , we estimated associations between baseline SRH and age - related change in PPF using linear mixed models with random intercepts to account for within - subject correlation .

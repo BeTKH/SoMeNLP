@@ -24,6 +24,7 @@ Weights of items for the SLI developed by the International Institute of Populat
 Analyses of IMS data to date have shown large differences in chronic disease profile .
 For example , BMI in rural , migrant and urban men was 21.9 , 24.0 and 24.3 respectively ( p < 0.0001 ) and in women 22.5 , 25.2 , and 25.9 respectively ( p < 0.0001 ) [14] .
 Initial analyses of the dietary data also showed that consumption was mainly of traditional foods in rural , migrant , and urban groups , and that there were low levels of western foods consumption [38] .
+
 Rural - urban migrants , their rural siblings , and urban non - migrants and their urban siblings were included in analyses .
 Distributions of macronutrient intake were checked for outliers .
 Median values and lower and upper quartiles were calculated ( because of the skewed distribution of some variables ) for energy intake , macronutrient intake ( protein , fat , saturated fat , and carbohydrate , and percent energy from each of these ) , and energy - density , by sex and migration status .

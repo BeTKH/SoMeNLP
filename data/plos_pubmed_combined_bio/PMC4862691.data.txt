@@ -6,6 +6,7 @@ The diagnosis was confirmed histopathologically according to the World Health Or
 Two experienced pathologists independently diagnosed each case .
 In cases that were difficult to diagnose , the pathologists reviewed and discussed the cases carefully and reached a consensus .
 Written informed consent was obtained from all patients for participation in this study , and this study was approved by the Ethics Committee of School of Medicine , Niigata University .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0154680.t001 List of histological types and numbers of clinical specimens .
 First , total RNA was extracted from frozen samples using ISOGEN ( Nippon Gene , Tokyo , Japan ) .
@@ -17,6 +18,7 @@ The gene copy numbers for RANKL , RANK and OPG were calculated using a standard 
 Moreover , quantitative mRNA expression levels were calculated by normalizing against RPMI 8226 , a human multiple myeloma cell line that expresses RANKL .
 We compared the median of the relative expression level in all histological types of tumors by using a box plot for expression of RANKL , RANK , and OPG .
 For histological types in which only one case was sampled , we used only a dot plot .
+
 RANKL expression was valued by using immunohistochemistry .
 Among 135 patients , 66 specimens were evaluable for RANKL expression .
 Histological types determined in these expreriments are shown in Table 2 .
@@ -25,6 +27,7 @@ The sections were heated with an autoclave ( 121 ° C for 20 minutes ) in histof
 Tissue sections were incubated overnight at 4 ° C with rabbit anti - human RANKL antibody ( ab 9957 ; Abcam , Cambridge , UK ) .
 Primary antibodies were visualized by using the histofine Simple Stain MAX - PO ( MULTI ) kit ( Nichirei Bioscience ) and 3 , 3 ’ - diaminobenzidine ( Simple Stain DAB , Nichirei Bioscience .
 The sections were counterstained in Mayer ’ s hematoxylin .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0154680.t002 List of histological types and numbers assessed by immunohistochemistry .
 Statistical analysis was conducted with the Statistical Package for the Social Sciences ( SPSS Inc . Chicago , Illi - nois , USA ) version 21.0 .

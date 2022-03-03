@@ -9,6 +9,7 @@ This method has been used successfully in other studies of voice processing [37]
 The averaging process averaged voices in pairs , iteratively , until one base voice of each sex were created from an average of 32 voices .
 The final pitches of the averaged voices were 110 Hz for the male voice and 211 Hz for the female voice .
 Spectrograms of the average male and female voice used in this study are shown in Figure 1 .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0032719.g001 Spectrograms of the average female ( left panel ) and male voice ( right panel ) for the five vowel sound stimuli .
 Spectrograms plot time on the X axis , frequency on the Y axis , and amplitude is represented by shading .
@@ -20,6 +21,7 @@ The pitch range for men ' s voices was 60 - 180 Hz , and the pitch range of wome
 These pitch ranges extend well below the 32 men ' s voices and above the 32 women ' s voices used in creating the initial averaged voices .
 Praat ' s pitch parameters were set at a minimum 50 Hz and maximum 300 Hz for men ' s voices , and a minimum 100 Hz and maximum 600 Hz for women ' s voices .
 Window length was determined automatically by Praat .
+
 Ten men ( mean age : 21.80 , SD : 1.45 ) and nine women ( mean age : 22.05 , SD : 1.58 ) participated in the study .
 All were university students with normal hearing .
 All participants reported English as their first language , and no participant reported any musical training .

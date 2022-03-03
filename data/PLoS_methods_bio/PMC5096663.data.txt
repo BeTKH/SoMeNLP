@@ -1,9 +1,11 @@
 The current study was approved by the Academic Committee of the School of Psychology at South China Normal University .
 All participants gave written informed consent before participating in the experiments .
+
 Eighteen volunteers ( male ; 18 - 24 years old ) were recruited from local universities for the fMRI experiment .
 All of them were philharmonics , but not music professional , who had engaged in some musical training or activities ( e.g. , choir , Musical Instruments class ) before the experiment .
 They were right handed and reported no prior history of neurological or psychiatric problems .
 Participants were given a small payment after the experiment .
+
 The musical materials selected for the present research consisted of popular music excerpts , artistic music excerpts ( opera ) , and clips of meaningless musical notes in form of playing and singing ( please see supplementary material for demo , including S1 File : popular music sample , S2 File : artistic music sample and S3 File : control material sample ) .
 The former two musical materials were snipped from songs from CDs or the internet with the theme of love .
 These songs were all performed by female vocalists , and the lyrics were in languages other than English and Chinese .
@@ -23,6 +25,7 @@ All the auditory stimuli were present binaurally with a high - quality MRI - com
 The volume of auditory stimuli was individually adjusted before fMRI scanning .
 Participants were asked to close their eyes during the experiment and open their eyes during the break .
 Visual instructions were presented on a screen back - projected on a head coil - mounted mirror .
+
 The experiment program was conducted by the E - Prime 1.2 ( Psychology Software Tools , Inc . , Pittsburgh , PA ) .
 Prior to fMRI scanning , participants underwent a training session to become acquainted with the procedures .
 In the training session , the materials and the number of trials were not the same as formal experiment .
@@ -38,10 +41,12 @@ All participants were asked to close their eyes during each experimental run , a
 After the fMRI session , participants were required to rate the following two questions for all stimuli using a 7 - point Likert scale ( response format : 1 = " not at all " ; 4 = " medium " ; 7 = " extremely " ) : A .
 The beauty of the music ; and B .
 The familiarity of the music .
+
 MRI data were acquired using a 3T whole - body scanner ( Siemens TIM TRIO ) .
 Functional images were obtained using a multislice echo plannar imaging ( EPI ) sequence ( 36 slices , slice thickness 3.5 + 0.7 mm gap , TR = 2.2 S , TE = 30ms , field of view = 220 * 220mm 2 , 64 * 64 matrix , flip angle : 90 ° ) .
 Scanning slices were aligned approximately parallel to the AP - PC plane , and interval scanning was carried out from the bottom up .
 For spatial normalization , a high - resolution T1 - weighted anatomical image was acquired after EPI acquisition , using fast spin echo sequence ( 176 slices , 1 × 1 × 1mm , FOV = 256 * 256mm 2 , TE = 2.43ms , TR = 2530ms ) .
+
 The obtained fMRI data were preprocessed and analyzed using the statistical parametric mapping ( SPM 8 ; Wellcome Trust Center for Imaging , London , UK ; http://www.fil.ion.ucl.ac.uk/spm ) .
 For stabilization of magnetization , the first five volumes of each session were discarded .
 Data preprocessing was done with default setting of SPM 8 .

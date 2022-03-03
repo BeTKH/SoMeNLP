@@ -8,6 +8,7 @@ As much as 30 % of 319 codons encoding the cargo - binding domain in the myo5aa 
 For the myo5bb cargo - binding domain , 6.6 % of 336 codons have zero substitutions in all nine teleost species .
 Using molecular evolution assays , we identify the myo5bb branch as being subject to evolutionary rate variation with the cargo - binding domain , having 20 % of the sites under positive selection and the motor domain having 8 % of its sites under positive selection .
 The high number of invariant codons coupled with relatively high dN / dS values in the region of the myo 5 genes encoding the ATP - binding domain suggests the encoded proteins retain function and may have acquired novel functions associated with changes to the cargo - binding domain .
+
 Introduction
 In 1970 , Ohno proposed that two rounds ( 2R ) of genome duplication had occurred in the evolutionary history of vertebrates and suggested such duplication events could have contributed to the sudden radiation and diversity of vertebrates ( Ohno 1970 ) .
 Since then support has grown for the 2R hypothesis such that it is currently widely accepted .
@@ -44,24 +45,29 @@ In our proposed evolutionary model of the myo 5 gene family , we provide phyloge
 With our analysis of codons , we identify extreme purifying selection present in 96 codons out of 319 codons ( 30.1 % ) .
 These 96 codons are invariant and have zero nucleotide substitutions in the nine teleosts examined for the myo5aa 3 ′ end .
 In contrast , 46 codons out of 742 codons ( 6.2 % ) in the myo5ab neck region of the myo 5 gene are subject to extreme purifying selection for the nine teleosts examined .
+
 Materials and Methods
 Sequence Acquisition
 We collected myosin 5 sequences using Ensembl ’ s genomic database ( Ensembl Release 86 ) , NCBI , and the Japanese Lamprey Genome Project .
 The following species and genomic assemblies were used for myo 5 sequence downloads : nine teleost species ( cavefish , Astyanax mexicanus , AstMex 102 ; cod , Gadus morhua , gadMor 1 ; fugu , Takifugu rubripes , FUGU 4.0 ; medaka , Oryzias latipes , HdrR ; platyfish , Xiphophorus maculatus , Xipmac 4.4.2 ; stickleback , Gasterosteus aculeatus , BROAD S1 ; tetraodon , Tetraodon nigroviridis , TETRAODON 8.0 ; tilapia , Oreochromis niloticus , Orenil 1.0 ; zebrafish , Danio rerio , GRCz 10 ) , one holostean fish ( spotted gar , Lepisosteus oculatus , LepOcu 1 ) , one lobe finned fish ( coelacanth , Latimeria chalumnae , LatCha 1 ) , one amphibian ( western clawed frog , Xenopus tropicalis , JGI 4.2 ) , five sauropsids ( chicken , Gallus gallus , Gallus _ gallus - 5.0 ; turkey , Meleagris gallopavo , Turkey _ 2.01 ; duck , Anas platyrhynchos , BGI _ duck _ 1.0 ; Chinese soft shell turtle , Pelodiscus sinensis , PelSin _ 1.0 ; green anole lizard , Anolis carolinensis , AnoCar 2.0 ) , two mammals ( human , Homo sapiens , GRCh 38.p 7 ; mouse , Mus musculus , GRCm 38.p 5 ) , one cartilaginous fish ( elephant shark , Callorhinchus milii , Genbank assembly - GCA _ 000165045.2 ) two jawless vertebrates ( sea lamprey , Petromyzon marinus , Pmarinus _ 7.0 ; Japanese lamprey , Lethenteron japonicum , Japanese lamprey genome project - APJL 00000000 ) , and two urochordates ( sea squirts , Ciona intestinalis , KH ; Ciona savignyi , CSAV 2.0 ) .
+
 Syntenic Analysis
 Using Biomart in the Ensembl database , genes located within 1.5 megabases of each myo 5 gene were identified .
 Synteny maps were constructed based on conserved patterns of gene locations for each of the myo 5 gene families , and results are presented in figure 1
-. Construction of syntenic regions used zebrafish and tetraodon genomes as an initial source to identify genes within 1.5 megabases for each myo 5 gene family .
+.
+Construction of syntenic regions used zebrafish and tetraodon genomes as an initial source to identify genes within 1.5 megabases for each myo 5 gene family .
 After downloading genes from BioMart within the previously specified regions , we found 39 genes from zebrafish and 125 genes from tetraodon for the myo5aa gene family , 89 genes from zebrafish and 176 genes from tetraodon for the myo5ab gene family , 117 genes from zebrafish and 70 genes from tetraodon for the myo5ba gene family , and 74 genes from zebrafish and 137 genes from tetraodon for the myo5bb gene family .
 For the myo5c gene family , we used the same set of genes as in the myo5ab gene family because myo5c and myo5ab are directly next to each other on the chromosome for most of the teleosts tested , and myo5a and myo5c are directly next to each other on the chromosome for other vertebrates that have those two genes .
 The number of genes we found within 1.5 megabases of any myo 5 gene was between 39 and 176 .
 In making a more concise syntenic map presented in figure 1 we used approximately 30 genes total and about 10 genes in each myo 5 gene neighborhood .
 Each gene neighborhood generally contained genes within 200,000 bases of each myo 5 gene .
+
 Ancestral Chromosome Mapping
 We used ancestral chromosomal reconstructions from Nakatani et al . ( 2007 ) and Bian et al . ( 2016 ) to determine the timing of the myo 5 gene duplication events relative to the major genome duplication events .
 Nakatani et al . provide chromosomal maps for syntenic blocks of genes for the genomes of human , chicken , and medaka and relate these syntenic blocks back to one of ten ancestral chromosomes designated A - J .
 Bian et al . provide chromosomal maps for syntenic blocks of genes for medaka , zebrafish , arowana and spotted gar and relate these syntenic blocks back to one of thirteen ancestral chromosomes present before the teleost and nonteleost fish ( including spotted gar ) split .
 Utilizing these two sets of chromosomal mapping data , we were able to identify whether our genes of interest split after the vertebrate first or second whole genome duplication or if the genes of interest were a result of the fish - specific genome duplication ( fig . 2 ) .
+
 Alignment and Phylogenetics
 Eighty - seven sequences were aligned using ClustalW and Geneious Pro 6.0 ( Biomatters Ltd ) .
 Sequences were virtually translated , verified to contain open reading frames , and then back translated .
@@ -76,6 +82,7 @@ For the four alignments we generated , we removed sequences that did not have at
 For example , the duck myo5c sequence only had sequence coverage in the motor domain and in the CBD , so it was only included in those alignments and phylogenetic analyses and not in the neck or full sequence alignments .
 Similarly , there were other sequences that were missing sequence data for more than 50 % of the alignment .
 These sequences were not included in those specific alignments ( fig . 4 ) .
+
 dN / dS Rates and Identification of Invariant Codons
 We determined the evolutionary rate ( dN / dS ) using MEGA 6 .
 “ dN ” is defined as the ratio of nonsynonymous substitutions per nonsynonymous site ; “ dS ” is defined as the ratio of synonymous substitutions per synonymous site .
@@ -83,6 +90,7 @@ Maximum likelihood reconstructions of ancestral states were generated using a Mu
 We used MEGA 6 to determine the dN and dS values for each codon in our alignment for a specific clade which generally consisted of 8 - 10 teleost sequences for a specific myo 5 duplicate .
 Summing the dN and dS values for all the codons in our alignment and then dividing dN by dS allowed us to determine the dN / dS ratio for each alignment .
 To quantify the percentage of codons that are invariant and experiencing extreme purifying selection , we counted the number of codons in each of the original four alignments ( whole gene , motor domain , neck , and CBD ) that had dN and dS values of zero and divided this by the total number of codons in the alignment to determine the percentage of codons that are invariant and experiencing extreme purifying selection ( tables 1Teleost myo 5 dN / dSValues and [2] Percentage of Invariant Codons in Teleost myo 5 Genes ) .
+
 Selection Tests
 We used the Datamonkey server and the HyPhy software package ( Kosakovsky Pond et al . 2005 ; Delport et al . 2010 ) to test for purifying selection , positive selection , and episodic selection at the codon level and the branch level among the phylogenies we generated .
 Trees that were generated as described previously using the Geneious Software package were saved as Nexus files and uploaded to the Datamonkey Server to run the selection tests .
@@ -97,6 +105,7 @@ We used 8 - 10 teleost sequences from our alignments to test for selection among
 We did this for each teleost duplicated myo 5 gene clade and for the smaller regions within the gene .
 For example , we used the 5 ′ end motor domain alignment of nine teleost sequences for the myo5aa teleost gene clade and ran the MEME and REL selection tests .
 Similarly , we tested the neck and CBD for the myo5aa teleost clade , and we ran these same selection tests using the comparable domains for the teleost clades which included myo5ab , myo5ba , and myo5bb genes ( table 4 ) .
+
 Results
 Syntenic Analysis
 To determine whether myo 5 duplicates arose through duplication of individual genes , chromosomes or their segments , or entire genomes , we performed syntenic analysis .
@@ -118,6 +127,7 @@ myo5ba was traced back to ancestral teleost chromosome i , myo5aa and myo5ab - m
 We identified two partial myo 5 sequences for each lamprey species tested .
 Figure 1 shows the syntenic arrangement of genes around the myo 5 sequences in both lamprey species and figure 4A and B shows the alignment of lamprey sequences in relation to the whole myo 5 genes and the smaller regions of the genes used in this study .
 Using BLAST to compare 400,000 bases of Japanese lamprey DNA around the Japanese lamprey myo 5 sequence against the sea lamprey genomic database in Ensembl , we found the pigo and ensab genes on one side of the myo 5 genes , and we found mapk 4 , cfap 53 , and atp8b on the other side of the myo 5 genes .
+
 Phylogenetic and dN / dS Analyses
 To understand the molecular evolution of the myo 5 gene family , phylogenetic analysis was performed using 87 genes from 24 different species ( see supplementary table S1 , Supplementary Material online for names and genomic database identifiers ) .
 Using ClustalW , we produced a final alignment of 6,468 base pairs per gene .
@@ -142,6 +152,7 @@ The myo5ba clade has 23.8 % of codons invariant in the diverse teleost sequences
 The myo5ab neck region also showed fewer invariant sites than the myo5aa neck region ( table 2 ) .
 For other regions of the myo 5 genes , the percentages of invariant codons were similar among the different paralogs .
 For example , the 5 ′ end of the myo 5 genes , where the actin - and ATP - binding domains are encoded , shows similar percentages for each clade ranging from 11.5 % to 13.4 % , suggesting the motor domain is similarly conserved between homologous clades and may be functional for all the myo 5 duplicates in teleosts .
+
 Codon - Specific Analysis
 After identifying an unexpectedly high percentage of invariant codons , we compared the dN / dS ratios of codons that encode amino acids that are known to play a functional role in MYO 5 proteins in mammals .
 Amino acids linked with functionality in mammals are highly conserved in teleosts in the 5 ′ region for myo5a and myo5b duplicates ( supplementary tables S2 and S3 , Supplementary Material online ) , suggesting these duplicates retain the motor functions related to ATP - and actin - binding .
@@ -165,6 +176,7 @@ For myo5aa , the dN / dS value for the 23 codons associated with actin binding i
 For the 319 codons in the 3 ′ end of the myo 5 genes , which include the CBD , the myo5ab and myo5bb genes have the highest dN / dS values at 0.35 and 0.32 , respectively .
 The myo5aa and myo5ba genes are much more conserved in this region with dN / dS rates of 0.10 and 0.19 , respectively .
 When looking at the 10 codons linked with cargo binding , myo5ba has a dN / dS rate of 0 and myo5aa has a dN / dS rate of 0.13 ( table 1 and supplementary tables S4 and S5 , Supplementary Material online ) .
+
 Selection Test Results
 We carried out several selection tests ( table 3Branch Site - Random Effects Likelihood ( BS - REL ) Test Results
 Results from MEME ( Mixed Effects Model of Evolution ) and REL ( Random Effects Likelihood ) ) accessed from the Datamonkey server and utilizing the HyPhy software package .
@@ -195,6 +207,7 @@ Of these 69 branches that were subject to two rate classes , five branches showe
 Four of the five branches were for single genes for a single species ( myo5ba - spotted gar , myo5bb - spotted gar , myo 5 - sea lamprey , myo5bb - coelacanth ) .
 The fifth branch that showed evidence of diversifying selection was the branch at the base of teleost myo5bb ( P = 0.0003 ) .
 On this branch leading to the CBD for the myo5bb teleost clade , there were two rate classes identified ω ( dN / dS ) = 0.316 for 76 % of the sites and ω = 80.1 for 24 % of the sites .
+
 Discussion
 We investigated gene duplications in the myo 5 family to provide insight into the mechanisms that constrain and promote the evolution of novel gene functions .
 In fish , myo 5 and other myosin genes have been examined but an analysis of the duplicated genes has not been done .
@@ -239,6 +252,7 @@ With respect to the orthology of the myo5bb genes , we introduce the idea of the
 There are a couple of instances where a duplicated clade might be expected but it appears that those duplicated regions have gone missing over evolutionary time .
 For example , in figure 2A on fragment A5 , we would expect there to be a duplicated region structurally similar to what we found on fragment A4 .
 If this were the case , then we would have a myo5ab / myo5cb on fragment A5 , and the duplicated genes on fragment A4 would be named myo5aa / myo5ca .
+
 Phylogenetic Analyses
 Our phylogenetic trees presented in figure 3A and D show similar topologies that are consistent with the results presented in figures 1 and [2] .
 For the trees in figure 3A and D , teleost myo5aa genes group in one clade and myo5ab genes group in a sister clade consistent with the teleost genome duplication .
@@ -246,6 +260,7 @@ The divergence of spotted gar myo5a prior to the genesis of the two teleost myo5
 These two phylogenetic trees also support the divergence of a clade including a lobe finned fish along with tetrapods , which is what one would expect .
 Surprisingly , shark myo5a also segregates to this branch .
 Based on current understandings of the phylogenetic relationships among sharks and other chordates , one would have expected shark myo5a to segregate in a branch basal to the teleost and tetrapod groups .
+
 Figure 3
 D indicates the divergence of the myo5a gene family and the myo5c gene family from a ( relatively recent ) common ancestor .
 We believe this tree best represents the actual evolutionary history since the sequences for the neck regions have the most genetic diversity , and therefore analyses of these domains has the greatest power to resolve evolutionary events over geologic time frames .
@@ -256,6 +271,7 @@ In figure 3D , we also present support for the newly named myo5ba clade which in
 For the newly identified myo5bb clade we first see the divergence of coelacanth and shark myo5bb genes .
 These genes do not show the expected pattern of divergence because coelacanth myo5bb diverges before shark myo5bb .
 However , after that , we see the divergence of tetrapod myo5bb genes and ray - finned fish including spotted gar and teleost myo5bb genes .
+
 dN / dS Analyses
 As branch lengths represent the number of substitutions per site , we thought the long branches evident in the myo5bb lineage might reflect a large amount of substitutions resulting in amino acid changes ( fig . 3A - D ) .
 Were that the case , our examination of the amino acid sequences encoded by the myo5bb genes would be expected to reveal an increase in the dN / dS ratio , reflecting a faster rate of evolution .
@@ -280,6 +296,7 @@ This highly conserved region has an alanine to serine ( A → S ) change in the 
 This change could render the myo5bb ’ s nonfunctional by compromising ATP binding , or this could be a regulatory change as serine residues are known to be sites of phosphorylation .
 Ramakrishnan et al . ( 2002 ) summarized the numerous variants for this conserved sequence with a general motif of GXXXXGKT being present in 92 identified variations of this region .
 Although this A to S substitution has been identified in two other proteins ( phosphoenolpyruvate carboxykinase and dioxygenase ) , it had not been previously identified in any of the myosin proteins .
+
 Selection Tests
 Our tests for selection using MEME showed that there were more evolutionary changes taking place in the neck region of the myo 5 genes compared with other regions of the myo 5 genes .
 In comparing the CBD , there were many more sites in the myo5bb clade subject to positive selection ( 5 with P < 0.05 ) than in the myo5ba clade ( 0 with P < 0.05 ) .
@@ -308,7 +325,10 @@ For a large percentage of codons , the third codon positions are highly conserve
 We speculate that this conservation may reflect post - transcriptional regulation of gene expression by microRNAs .
 Conserved sequences as short as six to eight nucleotides in length may provide an opportunity for microRNA binding ( Brennecke et al . 2005 ; Krek et al . 2005 ; Lewis et al . 2005 ) We identified invariant codons to exist throughout our alignments of duplicated genes and at times these invariant codons were clustered in groups of as many as 10 invariant codons ( 30 identical nucleotides ) raising the possibility that some duplicates may be regulated by microRNAs .
 The data presented provide insights into molecular evolution and underscores the usefulness of teleosts in helping to understand the evolutionary consequences of gene duplication events .
+
 Supplementary Material
+
 Supplementary data are available at Genome Biology and Evolution online .
+
 Supplementary Material
 Click here for additional data file .

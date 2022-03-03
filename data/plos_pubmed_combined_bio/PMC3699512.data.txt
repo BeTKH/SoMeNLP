@@ -3,6 +3,7 @@ Permission to access land in Great Basin was obtained from the United States Dep
 Permission to access public land in Mojave was not required .
 The kit fox is a protected species and we did not handle any individuals .
 Thus , our study was strictly observational in nature ( using infrared camera traps ) and no specific permits or regulations for animal care were needed according to the Institutional Animal Care and Use Committee of Brigham Young University .
+
 This study was conducted at sites in both the Great Basin and Mojave Deserts .
 The Great Basin Desert study area consisted of 915 km 2 of land managed by the United States Department of Defense , United States Army Dugway Proving Ground in west - central Utah .
 The terrain was typical of Lake Bonneville lakebed characterized by dune systems and alkaline flats that were dominated by black greasewood ( Sarcobatus vermiculatus ) .
@@ -22,6 +23,7 @@ Annual weather consisted of mean air temperatures of 19.18 ° C ( range : − 10
 The Mojave study area was grazed by livestock from October to May .
 We identified 66 permanent water sources in this study area consisting of 35 water developments for wildlife , 18 water troughs / tanks for livestock , 11 natural springs , and two man - made ponds .
 The median distance of 10,000 random points to a natural water source and any water source was 4.75 km ( range : 0.03 to 14.01 km ) and 2.10 km ( range : 0.02 to 8.72 km ) , respectively .
+
 To verify if presence of coyotes was greater in areas with free water ( hereafter wet ) compared to areas without ( hereafter dry ) , we first established wet and dry areas in both study areas .
 Using ArcGIS ( version 10.0 , Environmental Systems Research Institute , Redlands , California ) , we created a uniform pattern of sample points with a distance of 4 km apart for both study areas .
 Each of these sample points was buffered with a 2.6 km radius based on the square root of a home range for coyotes inhabiting a semi - arid environment similar to our study areas [17] .
@@ -34,6 +36,7 @@ We established 32 scent stations in 2011 and 39 in 2012 and monitored stations f
 Approximately 60 % of the scent stations were located in wet areas and 40 % in dry areas ( Table 1 ) .
 Scent stations in dry areas were 2.92 km farther from a known water source compared to scent stations in wet areas ( Table 1 ) .
 At each scent station , we placed a scent lure ( 2011 : fatty acid scented disc [ Pocatello Supply Depot , Pocatello , Idaho , USA ] ; 2012 : liquid scent [ Murray ’ s Lures , Walker , West Virginia , USA ] ) on the ground and an infrared - triggered camera ( PC 900 , Reconyx ™ , Holmen , Wisconsin ) approximately two meters from the scent either directly north or south to avoid false camera triggers by the sun .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0067800.t001 Distances from scent stations to nearest known source of free water in wet and dry areas , 2011 to 2012 .
 To evaluate relative rates of visitation to water sources by canids , we monitored all known water sources at the Great Basin and Mojave study areas .
@@ -46,6 +49,7 @@ At water sources with multiple locations of drinking access ( e.g. , paired tank
 We considered proximity to trails and recent sign to determine the location of cameras at ponds and large springs [25] .
 Our estimates of visitation by canids at large water sources were likely conservative due to the inability to monitor all potential locations where canids could access water .
 We assumed , however , that any potential bias was similar at large water sources from both study areas .
+
 To test prediction one associated with the indirect effect of water hypothesis , we used z - tests for proportions [26] to compare the proportion of scent stations in wet and dry areas visited by canids at both study areas .
 We tested the spatial segregation component of the second prediction by comparing visits to scent stations by each canid using Kendall ’ s Tau - b correlation analyses .
 Kendall ’ s Tau - b correlation accounted for ties that occurred because of zero visit data due to only one species of canid primarily visiting a given station [27] .

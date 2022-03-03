@@ -9,8 +9,10 @@ Guidelines included products that contained recommendations and did not referenc
 These covered a wide range of topics including clinical care [4] , water and sanitation [5] , and occupational health and safety [6] , among many other topics .
 All other information products were classified as non - guidelines , which included , for example , publications derived from existing guidelines [7] , assessments of preparedness in countries [8] , and tools for assessment or response [9] .
 Non - guidelines are not expected to contain detailed methods and other types of information that is expected in a high - quality guideline .
+
 Identification of included information products : We identified eligible information products available on 24 April 2016 , from lists of technical documents related to each emergency assembled by the WHO Department of Communicable Disease Surveillance and Response .
 We had difficulty identifying relevant documents and therefore searched multiple potential sources such as WHO ' s global digital library ( Institutional Repository for Information Sharing ( IRIS ) ) , hand - searched WHO websites , consulted key WHO staff in technical units and reviewed WHO resource toolkits .
+
 Two independent reviewers extracted information product characteristics and publication format , and identified translations .
 For guidelines , we extracted data on standard WHO guideline development processes ( e.g. , based on a systematic review of the evidence , involved external experts in the formulation of recommendations ) and had two independent reviewers appraise each guideline using the Appraisal of Guidelines for Research and Evaluation ( AGREE ) II instrument [10] .
 This instrument , the most widely - used guideline quality appraisal tool , is comprised of 23 items , six quality domains and a 7 - point Likert - like response scale .

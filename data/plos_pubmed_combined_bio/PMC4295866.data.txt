@@ -13,6 +13,7 @@ The research protocol was approved by the Sichuan Institutional Review Board and
 All participants provided written , informed consent before participating in this study .
 All children provided assent and their parents or guardians provided written , informed permission for them to participate in this study .
 Everyone testing positive for S . japonicum was notified and provided treatment with 40 mg / kg praziquantel by the anti - schistosomiasis control station .
+
 Household interviews .
 In the summer of 2007 and 2010 , the head of each household was invited to complete a structured interview about agricultural practices , sanitation access and socio - economic status ( SES ) .
 Survey instruments were pilot tested in the study region and administered by trained public health workers fluent in the local dialect .
@@ -44,6 +45,7 @@ Three slides were prepared from each sample , using 41.7 mg stool per slide .
 Slides were allowed 24 hours to clear and were examined for S . japonicum eggs by trained technicians using a dissecting microscope .
 Stool samples were delivered to county laboratories daily for analysis .
 A person was classified as infected if any test was positive for S . japonicum .
+
 Estimation of village - level night soil use : Because night soil use by one household may impact the S . japonicum infection risk of other village residents , we wanted to include both village - and household - level night soil use in our statistical models .
 However , using a village - level measure that is an average of all household - level measures results in a given individual ’ s household night soil use appearing in the model twice - once as part of the average , and again as an individual - level variable .
 This endogeniety leads to theoretical challenges .
@@ -51,6 +53,7 @@ Using an outcomes based causal framework , we typically define the effect of an 
 But the overlap of household and village - level variables makes it difficult to evaluate changes in one without changes in the other .
 To avoid this problem , we defined village - level night soil use as the average amount of night soil applied by all households in the village excluding the index household .
 This allows for theoretical considerations of the effect of changes in village - level night soil use holding an individual ’ s household - level night soil use constant and vice versa .
+
 We employed a two - step approach to evaluate the relationship between night soil use and human infection .
 First , we examined the association between village - level night soil use and human S . japonicum infection using a multi - level , fixed - effect logistic regression model , modeling village - level night soil use as a categorical variable to allow for non - linear relationships between the explanatory variable and the outcome .
 Tests for trend were conducted by treating the categorical variable as ordinal .

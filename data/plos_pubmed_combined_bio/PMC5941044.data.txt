@@ -10,6 +10,7 @@ The GE content among tubers , ranged from 4,134 to 4,334 kcal / kg whereas among
 Among tubers , IVDDM for PSP was significantly higher ( 86.8 % , P < 0.001 ) than taro ( 70.3 % ) .
 Among coproducts , IVDDM of okara ( 74.1 % ) was significantly higher ( P < 0.05 ) than BBG ( 61.3 % ) .
 In conclusion , both tubers and coproducts can be used as a partial substitute of conventional energy feedstuffs in swine diets as these are rich in GE and other nutrients and are fairly digestible .
+
 Introduction
 Market availability of conventional feedstuffs like corn , wheat and soybean meal ( SBM ) are quite variable and their price fluctuates depending on production and their demand for human and livestock consumption and biofuel production .
 Including alternative feedstuffs in the swine diets has the potential not only to support the swine industry economically but also enhancing the environmental sustainability .
@@ -22,6 +23,7 @@ Some of these agricultural products and coproducts are evaluated and used elsewh
 However , agro - climatic conditions and farming systems largely differ from location to location , which influences the nutritional profile of tubers and their utilization in animals .
 Additionally , processing conditions affect the nutritional value of coproducts .
 Thus , nutritional value of these tubers and coproducts from particular origin needs to be evaluated before being used in swine feed .
+
 Materials and methods
 Feed ingredients and nutritional analysis
 Four tubers ( PSP , OSP , cassava , and taro ) and 3 coproducts ( WMR , BBG , and okara ) were obtained from a local market of Honolulu , HI , USA .
@@ -34,6 +36,7 @@ Acid detergent fiber ( ADF , method 973.18 ) and neutral detergent fiber ( NDF ,
 Heat stable α - amylase and sodium sulfite was used for NDF determination .
 Total starch content ( method 996.11 ) was determined using a commercial test kits ( Megazyme International Ltd . , Ireland , UK ) .
 Gross energy content was determined using an oxygen bomb calorimeter ( Parr Isoperibol Bomb Calorimeter 6200 , Parr Instrument Co . , Moline , IL , USA ) .
+
 In vitro digestion
 Three steps in vitro enzymatic digestion technique ( Boisen and Fernandez , 1997 ) was used to determine the apparent total tract digestibility of DM and GE in swine .
 Briefly , 1 g of sample was weighed in a 250 mL conical flask .
@@ -53,7 +56,9 @@ All the material was transferred with double distilled water to the funnel .
 The residue , along with the filter paper , was dried overnight at 80 ° C and weighed the next day .
 Two independent studies of tubers and coproducts were carried out .
 The experimental scheme for the in vitro digestion was as follows : 4 tubers × 3 bottles repeated over 3 batches ;
+
 3 agro - industrial coproducts × 3 bottles repeated over 3 batches .
+
 Calculations and statistical analyses
 All replicate samples were used to determine in vitro dry matter digestibility ( IVDDM ) while 2 replicates from each batch were used to determine in vitro GE digestibility ( IVDGE ) .
 The IVDDM and IVDGE were calculated as follows : disp - formula where DWH = Dry weight of sample before hydrolysis ; DWR = Dry weight of residue . disp - formula where DMs = % Dry matter of sample ; GEs = Gross energy of sample ; GEr = Gross energy of residue .
@@ -61,6 +66,7 @@ The digestible energy ( DE ) and metabolizable energy ( ME ) were calculated usi
 The IVDDM and IVDGE of feedstuffs were compared using the MIXED procedure of SAS ( SAS v 9.2 , SAS Institute Inc . , Cary , NC , USA ) , where feedstuffs were treated as fixed factor and batch as random factor .
 Means were separated using the Tukey method using pdmix macro of SAS .
 Differences were considered significant if P < 0.05 .
+
 Results and discussion
 As shown in Table 1 , CP content among tubers ranged from 3.7 % to 8.8 % .
 Taro contained the highest amount of CP ( 8.8 % ) and cassava had the lowest amount of CP ( 3.7 % ) .
@@ -79,6 +85,7 @@ This was also reflected by their GE content ( 4,707 kcal / kg ) and starch conte
 The ADF content of PSP in this study was similar to observed value by Dominguez ( 1992 ) who reported ADF content of PSP to be 5.5 % .
 However , ADF content of OSP observed in this study was slightly higher than those previous studies .
 Nutrient profile of tubers and agro - industrial coproducts ( % basis ) .
+
 Starch content of tubers ranged from 47.0 % to 60.9 % with cassava containing the highest and taro containing the lowest .
 Starch content of coproducts ranged from 46.7 % to 56.4 % .
 The GE content of tubers ranged from 4,134 to 4,333 kcal / kg , taro had the highest amount of energy and PSP had the lowest .
@@ -88,6 +95,7 @@ Among coproducts , IVDDM was significantly higher in okara ( 74.1 % , P < 0.05 )
 Among tubers , IVDGE was significantly higher in PSP ( 87.5 % , P < 0.001 ) than taro ( 64.9 % ) , while other tubers were ranged between these two .
 Among coproducts , IVDGE was significantly higher in okara ( 66.2 % , P < 0.05 ) compared with BBG ( 43.0 % ) .In vitro dry matter and gross energy digestibility of tubers .
 In vitro dry matter and gross energy digestibility of coproducts .
+
 The IVDDM of PSP ( 86.8 % ) was the highest among all tested feedstuffs .
 This can be attributed to low NDF and ADF content in PSP .
 The ADF is inversely related to digestibility , i.e. , higher the ADF content in the feedstuff , lower the digestibility observed .
@@ -110,6 +118,7 @@ This higher DE and NE value of okara may have resulted due to the higher EE cont
 Efficiency of energy utilization is decreased by presence of high amount of fiber .
 However , presence of higher amount of fat might have counteracted the negative effect of fiber .
 Each 1 % increase in dietary fat causes an increase in the average daily gain by 2 % in grower pigs and 1 % in finisher pigs ( DeRouchey , 2007 ) .
+
 Conclusions
 Tubers and coproducts , both are rich in energy and other nutrients .
 Both IVDDM and IVDGE vary among tubers .
@@ -119,5 +128,6 @@ Coproducts are rich in fiber , protein as well as other nutrients .
 The IVDDM was higher in okara , whereas IVDDM of BBG and WMR were almost the same .
 Tubers can be used as partial substitute of common energy ingredients in pig diets , especially for subsistent farming system where these products are grown and are widely available whereas coproducts can also be used to replace traditional feed ingredients to some extent and can serve as potential source of protein as well as energy .
 All the tubers and coproducts studied showed a potential to be used in swine diet but these feedstuffs need to be subjected to animal trials to have a better idea about in vivo digestibility , inclusion percentage and palatability or the voluntary feed intake by animals .
+
 Conflict of interest statement
 We certify that there is no conflict of interests with any financial , professional or personal that might have influenced the performance or presentation of the work described in this manuscript .

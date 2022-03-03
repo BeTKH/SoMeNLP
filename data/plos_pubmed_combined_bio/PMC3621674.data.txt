@@ -3,6 +3,7 @@ As summarized in Table 1 , this included a desk review ; a national survey of th
 This research was approved by the Botswana Health Research and Development Committee .
 The study was conducted by the International Training and Education Center for Health ( I - TECH ) , which is a collaboration between the University of Washington and University of California , San Francisco under the guidance of a technical working group comprised of healthcare stakeholders .
 All participants provided signed informed consent .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0061601.t001 Summary of data collection methods used in the evaluation of the lay counselor cadre in Botswana .
 For the national survey , a self - administered questionnaire was distributed to all lay counselors at public health facilities in the country .

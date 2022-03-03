@@ -1,6 +1,7 @@
 Data was collected from one healthy , 25 years old , male psychology student .
 The participant gave written informed consent , including written informed consent to have his brain data published online .
 The study was approved by the ethics committee of Bielefeld University ( ethics statement 2016 - 171 ) .
+
 For the four cognitive domains of language , sensory - motor skills , visuo - spatial memory and visual processing of faces , imagery instructions were adapted from the literature : For language , a semantic verbal fluency task was used , in which the participant had to generate as many words belonging to a certain superordinate class as possible ( e.g. animals , fruits [15] ) .
 To engage motor imagery , the participant was instructed to perform different sports ( e.g. tennis , soccer [18] ) .
 To test visuo - spatial memory , the participant was instructed to imagine walking to different familiar locations ( e.g. school , church [23] ) .
@@ -9,6 +10,7 @@ During time periods of resting , the participant was told to engage in a state o
 The main instructions given to the participant are outlined in S1 File .
 For each task , we tried to derive predictions about the brain areas which should be active when engaging in the respective cognitive process , based on the literature .
 The predictions for each task are summarized in Table 1 .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0204338.t001 Overview of tasks used in the paradigm .
 SMA , supplementary motor area ; VWFA , visual word form area ; OFA , occipital face area ; FFA , fusiform face area ; STS , superior temporal sulcus We acquired three runs of fMRI data , with 25 blocks per run , and a block length of 30 seconds .
@@ -19,12 +21,14 @@ During the experiment , the participant lay in the MRI scanner with eyes closed 
 Instructions to start thinking about one of the four categories and the rest condition were given by short verbal cues which were agreed upon beforehand ( e.g. “ language - fruits ” ) .
 Contents of the blocks were customized in accordance with the participant ’ s preferences , whenever necessary ( e.g. “ spatial - university ” will not apply to every participant ’ s city ) .
 Audibility was ensured by using an acquisition protocol with 1.2 second pauses between volumes , during which the instructions were given .
+
 MRI data were collected using a 3T Siemens Verio scanner .
 A high - resolution MPRAGE structural scan was acquired with 192 sagittal slices ( TR = 1900 msec , TE = 2.5 msec , 0.8mm slice thickness , 0.75x 0.75 in - plane resolution ) , using a 32 - channel head coil .
 Functional echo - planar images ( EPI ) were acquired with 21 axial slices oriented along the rostrum and splenium of the corpus callosum ( slice thickness of 5 mm , in - plane resolution 2.4x 2.4 mm ) , using a 12 - channel head coil .
 To allow for audible instructions during scanning , a sparse temporal sampling strategy was used ( TR = 3000ms with 1800ms acquisition time and 1200ms pause between acquisitions ) .
 Excluding two dummy scans , a total of 253 volumes were collected for each run .
 The full raw data are available on OpenNeuro ( https://openneuro.org/datasets/ds001419 ) .
+
 Basic preprocessing was performed using SPM 12 ( www.fil.ion.ucl.ac.uk/spm ) .
 Functional images were motion corrected using the realign function .
 The structural image was co - registered to the mean image of the functional time series and then used to derive deformation maps using the segment function [29] .
@@ -35,6 +39,7 @@ To generate an activity map for each of the 75 blocks , each voxel ’ s time co
 Time courses were detrended using a linear function and movement parameters were added as confounds .
 Then TRs were grouped into blocks using a simple boxcar design shifted by 2 TR ( the expected shift in the hemodynamic response function ) and averaged , to give one averaged image per block .
 These images were used for all further analyses and are available on NeuroVault ( https://neurovault.org/collections/3467 ) .
+
 Emulating the “ common task framework ” [ 31 , 32 ] , the study ’ s data were analyzed with regard to a clearly defined objective and a metric for evaluating success .
 In the “ common task framework ” , data for training are shared and used by different parties .
 The parties try to learn a prediction rule from the training data , which can be applied to a set of test data .
@@ -58,6 +63,7 @@ This was done for all blocks to determine the proportion of correct predictions 
 To learn from the training data which features allowed for the highest accuracy in predicting the domain of a block , the mask used to extract the data and the amount of smoothing were varied : Different brain masks were defined by thresholding the mean z - score maps for each of the five conditions on different levels of z - values and using only the remaining above - threshold voxel with highest values for computing correlations .
 The size of the smoothing kernel was also varied in a step - wise manner .
 The best combination of features ( amount of voxels included and size of smoothing kernel used ) from the cross - validation of the training data could then be used to decode the test data .
+
 In addition to these within - participant correlations , each block was also correlated with 602 posterior probability maps derived from the NeuroSynth database [33] .
 From the 3169 maps provided with NeuroSynth 0.3.5 , we first selected the 2000 maps with the most non - zero voxel .
 This allowed to exclude many maps for unspecific keywords such as “ design ” or “ neuronal ” , with which no specific activation patterns are associated .
@@ -68,6 +74,7 @@ To exclude these unspecific keywords , we eliminated the largest cluster of the 
 This clustering resulted in the same eight interpretable clusters found previously ( Fig 1 ) .
 To visualize the similarity between the clusters and the relationship of keywords within each cluster , we computed the Euclidean distances between all maps and projected the distances into two dimensions using multi - dimensional scaling ( MDS ; cf . [35] ) as implemented in Scikit - learn .
 The resulting ’ keyword space ’ showed a strong agreement between the clustering and MDS , with keywords from the same cluster being close together in space ( Fig 1 ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0204338.g001 ’ Keyword space ’ derived from the NeuroSynth database .
 Colors were assigned based on K - means clustering and distances in space were derived using multi - dimensional scaling ( MDS ) .
@@ -77,6 +84,7 @@ There are clear gaps between many of the clusters , indicating that they might b
 Regarding the arrangement of clusters , the emotion and reward clusters are close together , as well as the motor and spatial , and the language and auditory clusters .
 The keywords on the borders of the clusters often represent concepts shared by multiple domains , for example “ characters ” bridging the clusters of vision and language , “ visual motion ” close to vision and spatial processing , or “ avoidance ” related to emotion and reward processing .
 To allow for good readability , keywords in the figure had to be a certain distance from each other in the space to be plotted .
+
 This ’ keyword space ’ was then used for decoding , by correlating our fMRI data with all NeuroSynth maps .
 The resulting correlations were then visualized in the 2D space , allowing to inspect not only which keywords correlated the strongest , but also if there were consistent correlations within each cluster .
 To be computationally feasible , a gray matter mask with 4x 4x 4mm resolution was used for computing correlations , reducing the number of voxel to be correlated from ~ 230.000 to ~ 19.000 .

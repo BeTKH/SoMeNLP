@@ -1,5 +1,6 @@
 Forty - five participants ( 70 - 164 months ; Mage = 110.89 ; 34 male ) with primary diagnoses of autism spectrum disorders ( ASD ; 14.9 % ) , Attention Deficit / Hyperactivity Disorder ( ADHD ; 34 % ) , Learning Disorder / Intellectual Disorders ( LD / ID ; 40.4 % ) , or Anxiety ( 2.1 % ) were drawn from a neuropsychological clinic - referred sample .
 They constitute the complete subset of a larger clinic - referred sample ( see below ) that completed the measures relevant to the present investigation .
+
 Participants ’ data used for this study was identified from among a sample of evaluations of children who were referred to the Pediatric Neuropsychology Service at the University of Chicago between 2002 - 2013 ( N = 1500 ) .
 Referrals for evaluation were typically received from pediatricians and treating specialty physicians to obtain a comprehensive assessment of the child ’ s neuropsychological status within the context of clinical concerns regarding functioning and learning .
 Children between the ages of two and emerging adulthood , with challenges affecting learning , behavioral regulation , emotional functioning , or social skills , comprise the broader clinic sample .
@@ -13,11 +14,13 @@ Children utilized for this study were all from among those whose parents consent
 As noted above , given the nature of the referral , all children included in this study were presented with a clinical neuropsychological battery that included assessment of their intellectual functioning ( see below ) , language expression and comprehension , verbal and visual memory , visuospatial processing and sensorimotor abilities , attention , executive functioning , and emotional and behavioral status .
 Relevant to the study , all children received the measures discussed below ; this led to the reduction in available participants for the study , given tests administered and diagnoses of concern .
 That is , the sample included here represents 100 % of those who completed all of the measures described below .
+
 Participants completed the Developmental Neuropsychological Assessment , Second Edition ( NEPSY - II ) [68] subscales focusing on affect decoding ( Affect Recognition ) , social memory ( Memory for Faces ) , motor skills ( Fingertip Tapping ) , visuomotor skills ( Imitating Hand Positions ) , response inhibition ( Arrows ) , attention & set - shifting ( Auditory Response Set ) , verbal comprehension ( Comprehension of Instructions ) .
 This measure has been well - validated ( including during the norming stage ) in the diagnostic groups employed in the present study , and employs standard scores that adjust for norms by age [ 51 , 68 - 70 ] .
 Participants also completed standard IQ measures from either the Wechsler [71-73] or Differential Ability Scales [74] batteries .
 Mothers completed the Behavior Assessment System for Children , Second Edition ( BASC - 2 ) [75] , which is well - normed across the age ranges and diagnostic groups used here .
 The BASC - 2 Atypicality and Social Skills scales are key indicators of populations with common social deficits ( e.g. , ADHD and ASD ) [ 76 , 77 ] , were analyzed .
+
 We first conducted preliminary analyses to detect deviations from normality , and judged whether extreme skewness and / or kurtosis precluded executing parametric analyses .
 We then computed bivariate correlations between measures to assess presence of sufficient collinearity to support the use of ( PLSR ) .
 That is , PLSR requires all or most independent variables to be substantially intercorrelated in order to effectively obtain reliable estimates of combinations among them [64] .

@@ -16,6 +16,7 @@ The temperature change at 60 mA current is 0.4 ° C ± 0.03 ° C , 100 mA curren
 Worms were stimulated only once and not reused .
 The movements of the worms are imaged using a standard stereomicroscope with video capture and laser control software written in LabVIEW .
 For each stimulus trial , a random worm is selected on the plate and its motion is sampled at 60 Hz for 15 s , and the laser is engaged 1 s after the start of the video recording .
+
 The recorded response videos were then processed with Matlab to calculate the time series of the worm centroid motion as described previously [29] .
 All the worms that were not stimulated near the head or were not moving forward in the beginning of the video were discarded .
 Numerical derivatives of the centroid times series were then taken and filtered with a custom 500 ms Gaussian filter , which was a one - sided Gaussian at the edges of the recorded time period , becoming a symmetric Gaussian away from the edges .
@@ -52,6 +53,7 @@ However , as described above , some of the worms were discarded in preprocessing
 To account for this , we used the empirical Pemp ( I ) in our analysis instead of P ( I ) = const .
 In turn , Pemp ( I ) was inferred using a well - established algorithm for estimation of one - dimensional continuous probability distributions from data [44] .
 All of this analysis was implemented using Matlab , and the code is available for download from a public GitHub repository https://github.com/EmoryUniversityTheoreticalBiophysics/C.-elegans .
+
 Calculating the template velocities , the covariances , and the scaling function : The template for the paused state up is calculated by taking the average of all paused velocity profiles for each of the three worm datasets .
 The covariance Σ p is then the covariance of the set of the paused velocity profiles .
 For active worms , we start with fixed putative parameter values I1 and I2 .

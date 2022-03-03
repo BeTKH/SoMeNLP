@@ -27,11 +27,13 @@ Each data point on the plot shows the document count and web count on the x - ax
 Using the log - scale , phrases that represent the document ' s subject tend to stand out based on a large document count and smaller web count , such as “ in - vehicle detectors , ” “ nuclear material , ” “ u - 232 ” and “ u - 283 signal . ”
 The vast majority of phrases tend to be at the bottom with document count equal to 1 .
 As the web count gets larger , it takes a larger document count for a phrase to be more representative of the paper ' s subject matter .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0024920.g001 Document and web counts for phrases appearing in an example paper about nuclear detection technologies .
 The axes are on a log - scale ; a quantile regression curve runs through the scatterplot .
 Phrases that most representative of the document ' s contents are along the upper boundary ; they have high document count for their web count .
 Less relevant phrases fall below .
+
 After computing the ordered pairs of the document count and web count for each extracted phrase , the phrases need to be ranked in order to find the ones that best reflect the subject matter of the paper .
 We use the procedure described below based on regression .
 The document count and web count are converted to logarithms and a curve is fitted to the ordered pairs using quantile regression [35] as illustrated in Figure 1 with the blue line .
@@ -44,10 +46,12 @@ The TF - IDF score is proportional to the document count and inversely proportio
 Figure 2 shows the ranking of phrases we used for the paper , “ Programmed cell death - 1 ( PD - 1 ) at the heart of heterologous prime - boost vaccines and regulation of CD 8 + T cell immunity . ”
 To visually aid in phrase selection the ranked phrases are further split into three columns while maintaining the ranking in each column : those which occur on the web more than 10 million times ( broad ) , those which occur between 100 and 10 million times ( specific ) , and those which occur less than 100 times ( rare ) .
 In the figure , representing our test interface , we interactively select phrases ( shown as a tick ) to invoke a PubMed search with those phrases and ‘ more ’ simply opens up more ranked phrases further down in the ranking .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0024920.g002 The ranking of noun phrases for the paper , “ Programmed cell death - 1 ( PD - 1 ) at the heart of heterologous prime - boost vaccines and regulation of CD 8 + T cell immunity . ”
 We rank them based on the number of occurrences of the term in the paper itself ( document count ) and inversely to the number of occurrences of that same term on the web ( web count ) .
 To visually aid in phrase selection the ranked phrases are further split into three columns while maintaining the ranking in each column : those which occur on the web more than 10 million times ( broad ) , those which occur between 100 and 10 million times ( specific ) , and those which occur less than 100 times ( rare ) .
+
 Each combination of phrases results in a valid search that reveals different information about what is present in the Pubmed corpus .
 Many combinations of the ranked phrases can be readily produced for each paper .
 For the search terms we derive from each paper , we compared the top 20 search results to the author - supplied citations for that paper .

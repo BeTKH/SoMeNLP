@@ -3,21 +3,26 @@ The diabetic foot ulcer ( DFU ) is one of the most prevalent complications of di
 A non - healing “ minor ” amputation often precedes a major amputation resulting in a negative impact on the function and quality of life of the patients .
 Stem cell - based therapies have emerged as a promising option to improve healing , and the adipose tissue is an abundant and easy to access source .
 The injection of autologous micro - fragmented adipose tissue at the amputation stump of a diabetic population undergoing a lower limb minor amputation was evaluated and compared with the standard care .
+
 Methods
 In this randomized controlled trial with two arms ( parallel assignment ) and no masking , 114 patients undergoing a lower limb minor amputation were randomized to standard of care or to micro - fragmented adipose tissue injection prepared using a minimal manipulation technique ( Lipogems ™ ) in a closed system .
 Clinical outcomes were determined monthly up to 6 months .
 Primary endpoint of the study was the evaluation of the healing rate and time after the minor amputation .
 Secondary endpoints included the assessment of safety , feasibility , technical success , relapse rate , skin tropism , and intensity of pain .
+
 Results
 At 6 months , 80 % of the micro - fragmented adipose tissue - treated feet healed and 20 % failed as compared with the control group where 46 % healed and 54 % failed ( p = 0.0064 ) .
 No treatment - related adverse events nor relapses were documented , and technical success was achieved in all cases .
 The skin tropism was improved in the treatment group , and the pain scale did not differ between the two groups .
+
 Conclusion
 The results of this randomized controlled trial suggest that the local injection of autologous micro - fragmented adipose tissue is a safe and valid therapeutic option able to improve healing rate following minor amputations of irreversible DFU .
 The technique overcomes several stem cell therapy - related criticisms and its potential in wound care should be better evaluated and the therapeutic indications could be expanded .
+
 Trial registration
 ClinicalTrials.gov number : NCT 03276312 .
 Date of registration : September 8 , 2017 ( retrospectively registered ) .
+
 Introduction
 Diabetes mellitus is a rapidly increasing chronic disease that has a significant impact on the communities ’ health [1] .
 A common complication of this pathology is the development of chronic lower extremity ulcers , with the diabetic foot ulcer ( DFU ) being the most prevalent [ 2 , 3 ] .
@@ -42,6 +47,7 @@ To the best of our knowledge , there are no randomized trials evaluating the inj
 Therefore , a randomized controlled single - center clinical trial was performed in our department with the primary endpoint of assessing its impact in terms of healing rate and time in a diabetic population undergoing a lower limb minor amputation .
 Secondary endpoints included the safety , feasibility , technical success , relapse rate , skin tropism , and pain grading up to 6 months .
 It has to be highlighted that micro - fragmented adipose tissue has been extensively studied in other clinical areas and a number of published evidences showed no safety or feasibility concerns [ 30 , 31 , 33 - 35 , 40 ] .
+
 Materials and methods
 Study design and population
 This is a randomized controlled single - center clinical trial ( MiFrAADiF ) with two arms ( parallel assignment ) and no masking .
@@ -51,12 +57,14 @@ Adequate circulation ( perfusion ) was assessed by transcutaneous oxygen test �
 Doppler arterial waveforms were triphasic or biphasic at the ankle of the affected leg .
 Patients who had undergone previous oncological treatments ( past 5 years ) or ongoing and / or neoplastic lesions , under corticosteroid therapy , with active vascular issues or inadequate lower extremity perfusion were excluded .
 Eligible patients were randomized 1 : 1 to local injection of autologous micro - fragmented adipose tissue ( treatment group ) or to standard clinical practice ( control group ) after a lower limb minor amputation .
+
 Randomization - sequence generation
 Randomization used a paper block system .
 Sheets of paper in blocks of ten with five sheets having an assignment of treatment and the other five having the assignment of control were placed in a blank sealed envelope .
 The envelopes were shuffled and then labeled 1 through 10 .
 This process was observed by the principal investigator and study staff .
 The investigators did not have knowledge of the process used to create the assignments , and randomization of patients proceeded individually at their first post - screening treatment .
+
 Surgical procedure
 The care of all the patients as well as the amputations was carried out in accordance with the international standards [7] .
 All procedures were performed in an operating theater .
@@ -83,9 +91,11 @@ The entire process was carried out in sterile conditions into the operating thea
 The medication was carried out after cleaning with sodium hypochlorite and saline solution , using paraffin gauze with a povidone - iodine solution ( 10 % of iodine ) .
 Compressive medication was applied to the site of fat harvesting for the following 48 h .
 Patients were kept under observation and discharged from the hospital with the instruction of absolute rest and unloading on the limb until the next control .
+
 Control group .
 The medication was carried out after cleaning with sodium hypochlorite and saline solution , using paraffin gauze with a povidone - iodine solution ( 10 % of iodine ) .
 Patients were kept under observation and discharged from the hospital with the instruction of absolute rest and unloading on the limb until the next control .
+
 Follow - up , outcomes , and definitions
 All the patients were clinically assessed within 20 days from surgery and monthly for 6 months thereafter .
 At each visit ( enrollment and follow - up ) , the patients were clinically evaluated [7] and asked to grade pain through the visual analogue scale ( VAS ) .
@@ -103,6 +113,7 @@ Relapse was defined as clinically assessed stump re - dehiscence after a “ fal
 The skin tropism of the stump was assessed by a combined evaluation of the perilesional skin ( graded as undamaged , erythematous , macerated , atrophic ) and of the lesion ’ s edge ( graded as undamaged , erythematous , callous , macerated , necrotic ) .
 All these items were graded ( 0 cm , 1 cm , 1.5 cm , > 2 cm ) , and the sum was used to evaluate the tropism of the skin .
 Pain was assessed with the VAS .
+
 Sample size calculation and statistical methods
 The correct sample size was calculated considering as primary endpoint a benefit in terms of a 50 % reduction in the healing time .
 The mean healing time for a lesion is generally 4 months ; thus , a reduction to 2 months can be considered a clinically relevant benefit .
@@ -114,12 +125,14 @@ For categorical variables , Fisher ’ s exact test was applied .
 All these analyses were performed using GraphPad Prism v 7.0 ( GraphPad Software , La Jolla , CA , USA ) .
 A multivariate logistic regression analysis was applied to identify influencing factors , using R software ( R Foundation , Vienna , Austria ) .
 A p value < 0.05 was considered statistically significant and a p < 0.1 was considered as tendency .
+
 Ethics
 The MiFrAADiF trial was conducted under Local Ethics Committee approval ( protocol no . 2621 / C.E . ) .
 The written consent and the case report form were reviewed by the Local Ethics Committee .
 The participants ’ written consent was obtained prior to the enrollment .
 The trial was registered in ClinicalTrials.gov ( NCT 03276312 ) and conducted in compliance with applicable regulatory requirements in accordance with the revised provisions of the Helsinki Declaration and in adherence with Good Clinical Practice .
 Confidentiality was maintained with all patient records .
+
 Results
 A total of 373 subjects were screened , and the 114 meeting the inclusion criteria were enrolled and randomized 1 : 1 to micro - fragmented adipose tissue injection ( treatment group , n = 57 ) or standard of care ( control group , n = 57 ) ( Fig [1] . ) .
 Patients and amputations ’ level baseline characteristics were similar ( Table [1] ) .
@@ -127,6 +140,7 @@ Background data of the population
 Continuous data are presented as means and standard deviation .
 Categorical data are given as counts ( % )
 OHAs oral hypoglycemic agents , NSAIDs non - steroidal anti - inflammatory drugs
+
 At 6 months , 80 % ( n = 44 / 55 ) of the micro - fragmented adipose tissue - treated feet healed and 20 % ( n = 11 / 55 ) failed as compared with the control group where 46 % ( n = 23 / 50 ) healed and 54 % ( n = 27 / 50 ) failed ( p = 0.0064 treatment vs . control ) .
 Apart from micro - fragmented adipose tissue , also concomitant therapies such as oral hypoglycemic agents ( p < 0.05 ) and antibiotics ( p < 0.05 ) positively correlated with healing .
 On the other hand , the presence of cardiac pathologies , chronic respiratory insufficiency , hemodialysis , and age were found as negative factors but only for the treatment group ( p < 0.05 , p < 0.05 , p < 0.05 , and p = 0.08 , respectively ) .
@@ -145,6 +159,7 @@ The skin tropism appeared to be improved in the treatment group because healing 
 The VAS scale did not differ between the groups at any follow - up visit ( Fig [3] . ) .
 The improvement of this parameter was registered in both groups since the second visit with respect to the preoperative values .
 The pain reduction was mainly influenced by the time ( p < 0.001 ) , and the treatment with micro - fragmented adipose tissue demonstrated a significant contribution to this effect ( p < 0.05 ) .
+
 Discussion
 The healing of the amputations performed in case of diabetic foot ulcers ( DFU ) , both digital ( DA ) and transmetatarsal “ minor ” amputation ( TMA ) , represents a challenge .
 The high burden of the disease [1] , meaning millions of people losing quality of life , and the elevated costs to health providers [9] are the leading factors pushing medical research .
@@ -208,6 +223,7 @@ The number of MSCs was not assessed in order to evaluate the “ quality ” of 
 Future work should clarify if the impressive healing results reported above correlate with a reduction of the hospitalization time and of the overall health - related costs .
 These perspectives could have an even more positive impact on patients ’ quality of life and on the health providers ’ policy .
 Further points to be addressed should be the impact of the technique on pain , encompassing pathophysiological study to understand the overlap with neurological disorders .
+
 Conclusions
 The single - center , prospective , controlled , and randomized design represents the strengths of the present work and the gold standard in order to minimize investigator , selection , and information bias as well as to manage confounding factors .
 Our experience with autologous micro - fragmented adipose tissue has proven to be a valid therapeutic option able to drastically improve healing following minor amputations performed on DFU .

@@ -8,7 +8,9 @@ For example , they were fixating not the fixation point but prime - mask stimuli
 2 ) Those who ( three participants ) showed no ( or little ) effect of implicitly driven motor behavior ( by invisible prime ) on action evaluation in the practice phase .
 As for the latter exclusion case , since we wanted to examine what information ( online sensorimotor information , endpoint error , or an external cue ) is the more critical clue for the action evaluation in the test phase , we needed an association between color and action in the practice phase , which means a higher score in the congruent - green condition and a lower one in the incongruent - blue condition ( see Procedure and Result sections for details ) .
 In the test phase , we divided the participants into two groups : an incongruent - green group ( three males and eight females , mean age = 28.3 ± 6.7 years ) and congruent - blue group ( three males and seven females , mean age = 27.6 ± 6.9 years ) as described below in detail .
+
 Participants viewed the CRT display ( 60 Hz ) from a distance of approximately 42 cm , with their head movement restricted by a chin - rest ( see Fig . 1A ) .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0034985.g001 Experimental setup and protocol .
 ( A ) Configuration of the experimental apparatus .
@@ -23,6 +25,7 @@ Possible targets ( white filled circle , diameter of 0.6 deg ) were located at 6
 While the fixation point remained green in the congruent ( incongruent ) - green and neutral conditions after the button release , the color of the fixation point was switched from green to blue in the incongruent ( congruent ) - blue conditions at the same timing of prime onset .
 The outer contour of the prime stimuli fit exactly within the inner contour of the cutout of the mask triangles .
 Except for trials in the neutral condition , either the right - or left - target point ( white filled circle , diameter : 0.6 deg ) reappeared according to the direction of the mask stimulus , and feedback about the reaching endpoint ( green filled circle , diameter : 0.6 deg ) was also provided after the reaching movement ( i.e. , contact with touch panel ) .
+
 Right - or left - pointing prime and mask stimuli were regular triangles whose sides were 1.5 and 6.0 degrees , respectively .
 The centroid of the prime triangle was located at 10 deg above the fixation point in the vertical plane .
 The outer contour of the prime stimuli fit exactly within the inner contour of the cutout of the mask triangles .
@@ -34,6 +37,7 @@ Right and left target points were simultaneously presented with the mask stimulu
 The mask stimulus was also a cue stimulus for reaching direction .
 The reaching end position was recorded with a touch panel ( Keytec . Inc ) .
 The right - hand position ( monitored by a reflective marker placed on the back of the hand around the bottom of the ring finger ) was recorded with a three - dimensional motion capture system ( ProReflex , Qualisys , Sweden ) at a frequency of 250 Hz .
+
 Before a reaching task , we needed to obtain the perceptual threshold of prime stimulus intensity so that participants would not be able to recognize the prime triangle in the main experiment .
 For this purpose , we had participants perform a prime identification task using a Bayesian adaptive psychometric procedure , QUEST [34] .
 Participants were requested to report the direction of the prime triangle in the two - alternative choice manner for prime ( right , left ) and mask ( right , left ) combinations randomly selected ( 80 trials ) .
@@ -68,6 +72,7 @@ The rate of each condition was as follows .
 Congruent - green condition 50 % , incongruent - blue condition 25 % , incongruent - green or congruent - blue condition 8 % , and neutral condition 17 % .
 Trial order was pseudo randomized in both phases .
 The participant group in the practice phase was divided into two groups in the test phase : an incongruent - green group , in which the incongruent - green condition was inserted , and a congruent - blue group , in which the congruent - blue condition was inserted .
+
 The hand position data were temporally aligned with respect to the button release and were filtered offline using a fourth - order Butterworth filter ( double - sided ) with a cutoff frequency of 10 Hz .
 The velocity was calculated from three - point numerical time differentiations of the filtered position data .
 Our main interest is the effect of the prime direction on motor behavior , so we analyzed the following data pooled from both target positions ( i.e. , near and far conditions ) .

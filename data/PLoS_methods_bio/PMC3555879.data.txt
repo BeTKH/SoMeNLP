@@ -6,10 +6,12 @@ Progression to AIDS in adults was diagnosed as any patient in WHO clinical stage
 WHO clinical stage 4 is defined as suffering from severe associated diseases such as HIV wasting syndrome , pneumocystis pneumonia , recurrent severe bacterial pneumonia , chronic herpes simplex infection ( orolabial , genital or anorectal of more than one month ’ s duration or visceral at any site ) etc [20] This initial cohort is a pilot program , with the goal of greatly extending the studied population .
 This study is approved by the Henan Province Health Department and all participants provided written informed consent .
 Information on study participants ’ personal characteristics , treatment regiment , and medical history was collected using a questionnaire .
+
 Whole blood samples from participants were obtained by the local CDC .
 After erythrocyte lysis , white blood cells were separated and stored immediately at − 80 ° C .
 Genomic DNA was isolated using the Wizard Genomic DNA Purification Kit ( Promega , Madison , WI ) following manufacturer ’ s instructions .
 The DNA was quantified with UV - vis spectrophotometer ( NanoDropND - 1000 ) and then diluted to working concentrations of 25 ng / μ L .
+
 Five SNPs : CYP2B 6 516G > T ( rs 3745274 ) , ABCB 1 3435T > A / C / G ( rs 1045642 ) , ABCB 1 2677T > G / A ( rs 2032582 ) , ABCG 2 421C > A ( rs 2231142 ) , ABCC 4 559G > T ( rs 11568658 ) were selected based on a literature review [19] , [21] - [23] .
 The genotypes of all samples were determined by a high - throughput PCR - sequencing approach .
 The primers for PCR amplification and sequencing are listed in Table S1 ; the sequencing primer is the same as forward PCR primer .
@@ -17,6 +19,7 @@ The genomic DNA samples were amplified using Premix ExTaq ( 2 × , TaKaRa ) in 9
 The reaction was initially denatured at 95 ° C for 5 minutes followed by 40 cycles of 95 ° C for 30 seconds , 58 ° C for 30 seconds and 72 ° C for 30 seconds extension and completed by a final extension at 72 ° C for 10 minutes on Lifepro Thermal Cycler ( Bioer ) .
 PCR products were purified according to the manufacturer ’ s protocol ( GenMag Biotechnology Co . , Ltd . ) .
 The purified PCR products were sequenced using MegaBace 1000 ( GE Healthcare ) .
+
 Logistic regression models were used to estimate P - value , odds ratios ( ORs ) and 95 % confidence intervals ( 95 % CIs ) for the ability of these genotypes to predict therapeutic response when a binary outcome measurement was used , and linear regression for the measurements using continuous values .
 CD 4 + T cell counts were assessed twice per year from 2004 until 2011 .
 In consultation with local physicians as to how CD 4 + T cell counts is used to evaluate response to the aggressive early treatment strategy employed with these patients , the following scale was used : 0 : CD 4 + T cell counts were less than 250 / mm 3 at the final measurement ; 1 : counts consistently greater than 250 / mm 3 from the initial to final measurement ; 2 : counts improved from less than 250 / mm 3 in the initial measurement to greater than 250 / mm 3 in the final measurements .

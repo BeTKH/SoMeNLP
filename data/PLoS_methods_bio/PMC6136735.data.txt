@@ -6,6 +6,7 @@ From the KCCR , we obtained the number of cancer patients by sex , age , and sev
 Furthermore , we utilized mid - year population data based on resident registration from the Korean Statistical Information Service of Statistics Korea to calculate incidence rates and prevalence rates [18] .
 The severity level was classified by SEER stage as follows : localized stage , regional stage , distant stage , and unknown stage .
 The SEER stage was based on the time of diagnosis .
+
 First , we described the number of incident cancer cases according to sex and SEER stage from 2006 to 2013 .
 The incidence rates by sex and SEER stage were determined as the number of incident cancer cases by sex and SEER stage divided by the mid - year population by sex .
 The means of incidence rates and their 95 % confidence intervals from 2006 to 2013 according to Poisson distribution assumption were estimated by type of cancer , sex , and SEER stage .
@@ -17,6 +18,7 @@ Fig 1 shows the method of estimating the number of prevalent cases .
 We assumed that patients with cancer who lived more than five years past their diagnosis were recovered from the cancer , and these patients were excluded from the prevalent cases .
 For example , prevalent cases in 2013 included the patients with cancer who were diagnosed in 2013 , as well as patients with cancer who were diagnosed since 2009 and still alive ( Fig 1 ) .
 As with incidence rates , the 5 - year prevalence rates by sex and SEER stage were calculated as the number of prevalent cases by sex and SEER stage divided by the mid - year population by sex .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0203110.g001 Method of estimating prevalent cases .
 In the case of breast cancer , we only analyzed the female patients , because male patients account for a small proportion of the total patients with breast cancer .
@@ -24,4 +26,5 @@ For a similar reason , all analyses were restricted to individuals aged ≥ 30 y
 In particular , in the case of prostate cancer , only individuals aged ≥ 50 were included in the analyses , because prostate cancer patients under age 50 are rare in Korea .
 We used Microsoft Office Excel 2010 and Stata software ( Stata / SE 13.1 ) for all analyses .
 In this study , P - values less than 0.05 were regarded statistically significant .
+
 Ethical approval and consent to participate were unnecessary because we used publicly available data without any personal identifiers .

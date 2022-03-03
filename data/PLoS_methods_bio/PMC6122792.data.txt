@@ -2,12 +2,14 @@ This was a secondary data analysis of the “ Reach for Health ” clinical tria
 The original study was approved by the UCSD IRB board , project # 101977 .
 All subjects in the Reach for Health study provided written consent .
 The National Institutes of Health ClinicalTrials.gov identifier is NCT 01302379 .
+
 Our study sample comprised 333 early - stage breast cancer survivors enrolled in a weight - loss intervention .
 The study protocol and design have been previously published [25] .
 Briefly , the study enrolled breast cancer survivors , who were postmenopausal at cancer diagnosis , were either overweight or obese at study entry , and had completed primary breast cancer treatment ( surgery with or without chemotherapy and radiation ) .
 83 % were white ; 11 % were Hispanic .
 More information on demographics , lifestyle , clinical factors , coping , sleep , mood , physical factors , and biomarkers is provided in Table 1 .
 The current analysis used baseline information to develop network models .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0202923.t001 Characteristics of the Reach for Health cohort of overweight postmenopausal breast cancer survivors ( N = 333 ) .
 + To convert insulin pg / mL to pmol / L multiply by 0.172 + + Weartime adjusted We obtained participants ’ medical records including tumor characteristics ( Cancer Stage , hormone receptor status ) and years from cancer diagnosis to study entry ( YrsDXRND ) .
@@ -27,6 +29,7 @@ QOLm and QOlp scores from 0 to 100 , with higher scores reflecting better qualit
 The Monitor - Blunter ( MB ) scale assessed participants ’ coping mechanism .
 It ranged from - 16 to 16 , with higher scores indicating more monitor than blunter .
 Fasting plasma CRP and insulin concentrations were measured using immune - based assays ( Meso Scale Discovery ) , as described previously [25] .
+
 We fit a Bayesian network to examine multivariate relationships between demographics , clinical factors , health behaviors and health outcomes .
 We disallowed implausible edge directions while learning the network structure .
 Specifically , we disallowed QOLp and QOLm to be the parent nodes of any other variable in the network ; and we disallowed age , education , cancer stage , years between diagnosis and study entry , and neighborhood to be the child nodes of any other variable .

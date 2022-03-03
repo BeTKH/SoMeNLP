@@ -2,7 +2,9 @@ Fifty - four volunteers ( 34 female ) participated in the current study .
 Ages ranged from 19 to 63 years ( M = 26.2 , SD = 7.9 ) .
 The study was marketed as an eyewitness experiment and the participants were mainly students recruited from different departments at Lund University .
 All participants gave written informed consent and also agreed to have the interaction audio recorded .
+
 The study was approved by the ethical committee of the Department of Psychology of Lund University and has been conducted according to the principles of the Declaration of Helsinki .
+
 In short , the procedure of the experiment contained five steps : first the participants were shown a film of a kidnapping , and then they filled out a questionnaire about events in the film .
 After this their answers were manipulated using sleight - of - hand .
 A discussion about their manipulated answers followed in an attempt to create choice blindness .
@@ -27,12 +29,14 @@ After the participants completed filling out the first sheet of the statement qu
 Whilst the participants were busy filling out the second sheet , experimenter A manipulated one statement answer on the first sheet .
 In order to perform the manipulations the questionnaires were cleverly constructed using reattachable stickers ( Fig 1 ) .
 Meanwhile , experimenter B timed the filling out of the two sheets .
+
 Figure data removed from full text .
 Figure identifier and caption : 10.1371/journal.pone.0173606.g001 A staged demonstration of how the manipulations were carried out .
 ( A ) The participant fills out the statement questionnaire , by indicating level of agreement on a scale .
 ( B ) Experimenter A pulls away the sticker with the participant ’ s answers .
 ( C ) The experimenter fills out a new scale , which was hidden underneath the sticker , and manipulates some of the answers .
 ( D ) The new , manipulated questionnaire .
+
 There was no predetermined rule for the size of the manipulations across the scale .
 Instead , the manipulations were made so that the markings were to signify a different answer along the scale , i.e. “ Agree ” , “ Disagree ” and “ Uncertain ” as described above , than the answer originally given by the participants , therefore making some of the manipulations sizeable .
 Also , each manipulation was made with the intent of creating a believable pattern of responses , mimicking the response pattern of each participant .
@@ -63,6 +67,7 @@ The participants were not aware of this categorization when they gave their orig
 To give them a fair chance to detect that the manipulation did not reflect their original opinion , the categories were verbalized during the discussion by the experimenter , for example ” The older man wears glasses … you disagree with that . ” Finally , in order to find out whether they had suspected that any of their answers on the statement questionnaire had been manipulated experimenter A asked the participants , in accordance with other choice blindness studies [ 2 , 4 , 10 , 13 , 18 ] , four detection questions : “ How did this feel ? ” “ Did you think of anything in particular during the experiment ? ” “ Did you think of anything in particular when the two of you discussed the statements ? ” and “ Did you notice anything strange about the questionnaires ? ”
 After this the true purpose of the study was revealed .
 During the experiment there was no delay between the different steps , and no filler task was used .
+
 The participants were categorized as either non - detectors or detectors .
 Non - detectors were those who at no point during the experiment expressed any kind of suspicion concerning the manipulations .
 These participants , however , could still correct the manipulated answers , but without suspecting that the answers were not their own .

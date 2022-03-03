@@ -12,9 +12,11 @@ A more detailed description of the norms used can be found on the right column o
 The time between screening and neuropsychological testing was three months or less .
 The patient ’ s general practitioner performed the IHDS as part of the regular visits to the health centre .
 A further physician trained in neuropsychology performed the neuropsychological evaluations .
+
 Table data removed from full text .
 Table identifier and caption : 10.1371/journal.pone.0168225.t001 Content of the neuropsychological battery of tests .
 * This domain not included in the Frascati definition , but needed for evaluation of other tests ; a : adjusted for age ; e : adjusted for educational level ; g : adjusted for gender .
+
 Four hundred and eighty HIV - positive patients , aged 19 - 80 , were screened for neurocognitive dysfunction and functional decline as described .
 They were then divided according to their IHDS score and distributed into three subsamples : The ‘ poor performance ’ subsample ( n = 49 , 10 % ) included participants with a score of 10 points or fewer , the ‘ average performance ’ subsample ( n = 87 , 18 % ) scored between 10.5 and 11 points , and the ‘ high performance ’ subsample ( n = 344 , 72 % ) scored either 11.5 or 12 points .
 Then , thirty members of each subsample were randomly selected to establish three study groups - with identical names as the subsamples - and to undergo neuropsychological examination .
@@ -26,6 +28,7 @@ The general terms of data protection and the Charite ‘ Good Medical and Scient
 All the study procedures were conducted in accordance with the 1964 Declaration of Helsinki ( fourth revision ) .
 Participants who met the eligibility criteria were given detailed information about the study and provided with a written consent form .
 Only after signing this form were they finally recruited .
+
 Descriptive statistics were used to compare characteristics between groups of individuals .
 All normally distributed continuous variables were reported as means and standard deviation ( SD ) .
 All non - normally distributed continuous variables were reported as medians with interquartile ranges ( IQR ) .
