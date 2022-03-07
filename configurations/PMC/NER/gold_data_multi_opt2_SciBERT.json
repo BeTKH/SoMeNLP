@@ -6,7 +6,11 @@
                 "data/Pubmed_fulltext/Pubmed_fulltext_bio_train"
             ],
             "name": "train_0",
+<<<<<<< HEAD
             "epochs": 50,
+=======
+            "epochs": 44,
+>>>>>>> 8278d24b3369d01e8fb25917b1861ad6cc029623
             "optimizer": {
                 "reset": false,
                 "lr": 5e-6
