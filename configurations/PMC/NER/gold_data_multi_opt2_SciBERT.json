@@ -5,7 +5,7 @@
                 "data/plos_pubmed_combined/plos_pubmed_combined_bio_train"
             ],
             "name": "train_0",
-            "epochs": 100,
+            "epochs": 45,
             "optimizer": {
                 "reset": false,
                 "lr": 5e-6
@@ -33,8 +33,6 @@
     },
     "transform": {
         "software": "configurations/data_transforms/SoMeSci_soft_add_info.json",
-        "soft_type": "configurations/data_transforms/SoMeSci_soft_type.json",
-        "mention_type" : "configurations/data_transforms/SoMeSci_mention_type.json",
         "soft_purpose" : "configurations/data_transforms/SoMeSci_purpose.json"
     } 
 }

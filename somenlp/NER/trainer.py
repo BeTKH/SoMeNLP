@@ -83,25 +83,22 @@ class Trainer():
                         outputs = self.model_w.model(batch['ids'], token_type_ids=None, attention_mask=batch['masks'], labels=batch['tags'])
                         loss = outputs[0]
                     else:
-                        if len(self.data_handler.encoding['tag2idx']) == 4:
+                        if len(self.data_handler.encoding['tag2idx']) == 3:
                             outputs = self.model_w.model(
                                 batch['ids'], 
                                 token_type_ids=None, 
                                 attention_mask=batch['masks'], 
                                 software_labels=batch['software'],
-                                soft_type_labels=batch['soft_type'],
-                                mention_type_labels = batch['mention_type'],
                                 soft_purpose_labels=batch['soft_purpose'],
                                 sequence_lengths=batch['lengths'],
                                 train_depth=train_depth,
                                 teacher_forcing=True)
-                        elif len(self.data_handler.encoding['tag2idx']) == 3:
+                        elif len(self.data_handler.encoding['tag2idx']) == 2:
                             outputs = self.model_w.model(
                                 batch['ids'], 
                                 token_type_ids=None, 
                                 attention_mask=batch['masks'], 
                                 software_labels=batch['software'],
-                                soft_type_labels=batch['soft_type'],
                                 soft_purpose_labels=batch['soft_purpose'],
                                 sequence_lengths=batch['lengths'],
                                 train_depth=train_depth,
