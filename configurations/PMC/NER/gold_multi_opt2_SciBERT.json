@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "MultiOpt2SciBERT",
-        "name": "Gold-Multi-Opt2-swP_baseline-with-Sentences",
+        "name": "SciBERT---swP_baseline---WithSent",
         "multi_task": true,
         "checkpoint": {
             "model": "",
