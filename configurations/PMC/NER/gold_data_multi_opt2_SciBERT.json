@@ -2,7 +2,9 @@
     "sets": {
         "train": [{
             "folder": [
-                "data/plos_pubmed_combined/plos_pubmed_combined_bio_train"
+                "data/plos_pubmed_combined/plos_pubmed_combined_bio_train",
+                "data/PLoS_sentences/PLoS_sentences_bio",
+                "data/Creation_sentences/Creation_sentences_bio_train"
             ],
             "name": "train_0",
             "epochs": 45,
