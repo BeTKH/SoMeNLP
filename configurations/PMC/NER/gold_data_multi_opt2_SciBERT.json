@@ -2,10 +2,12 @@
     "sets": {
         "train": [{
             "folder": [
-                "data/plos_pubmed_combined/plos_pubmed_combined_bio_train"
+                "data/plos_pubmed_combined/plos_pubmed_combined_bio_train",
+                "data/PLoS_sentences/PLoS_sentences_bio",
+                "data/Creation_sentences/Creation_sentences_bio_train"
             ],
             "name": "train_0",
-            "epochs": 100,
+            "epochs": 45,
             "optimizer": {
                 "reset": false,
                 "lr": 5e-6
@@ -18,7 +20,9 @@
         }],
         "test": [{
             "folder": [
-                "data/plos_pubmed_combined/plos_pubmed_combined_bio_devel"
+                "data/plos_pubmed_combined/plos_pubmed_combined_bio_devel",
+                "data/Creation_sentences/Creation_sentences_bio_devel",
+                "data/Creation_sentences/Creation_sentences_bio_test"
             ],
             "name": "devel_0",
             "keep_neg_sample_prob": 1.0           
