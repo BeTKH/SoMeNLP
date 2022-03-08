@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "SciBERT-soft-type-Mention-Purpose-contxt_out_parg-WithSent",
+        "name": "SciBERT---contxt_out_parg---WithSent",
         "multi_task": true,
         "checkpoint": {
             "model": "",
