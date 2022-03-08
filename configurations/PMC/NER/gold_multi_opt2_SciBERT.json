@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "combined_plospubmed_context-0,2",
+        "name": "combined_plospubmed_context-2,2_with_sentences",
         "multi_task": true,
         "checkpoint": {
             "model": "",

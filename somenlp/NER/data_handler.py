@@ -626,7 +626,7 @@ class DataHandler():
                     sen_contkx = contextWindow(snt_lst_, bef, aft)
 
                 # do not read context if it is plos or creation sentence    
-                elif len(snt_lst_) ==1:
+                elif len(snt_lst_) < 2:
                 
                     sen_contkx = contextWindow(snt_lst_, 0, 0)
                 
