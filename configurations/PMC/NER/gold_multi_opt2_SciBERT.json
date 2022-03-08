@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "Gold-BertMulti-soft-type-Mention-Purpose-with-Senetences",
+        "name": "SciBERT-soft-type-Mention-Purpose-withSenetences",
         "multi_task": true,
         "checkpoint": {
             "model": "",
