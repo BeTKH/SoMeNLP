@@ -2,9 +2,7 @@
     "sets": {
         "train": [{
             "folder": [
-                "data/plos_pubmed_combined/plos_pubmed_combined_bio_train",
-                
-                
+                "data/plos_pubmed_combined/plos_pubmed_combined_bio_train"
 
             ],
             "name": "train_0",
@@ -21,7 +19,7 @@
         }],
         "test": [{
             "folder": [
-                "data/plos_pubmed_combined/plos_pubmed_combined_bio_devel",
+                "data/plos_pubmed_combined/plos_pubmed_combined_bio_devel"
                 
             ],
             "name": "devel_0",
@@ -29,7 +27,7 @@
         },
         {
             "folder": [
-                "data/plos_pubmed_combined/plos_pubmed_combined_bio_test",
+                "data/plos_pubmed_combined/plos_pubmed_combined_bio_test"
                 
             ],
             "name": "test_0",
