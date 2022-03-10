@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "SciBERT---contxt2Sentcs_wo---WithSent---2,2",
+        "name": "SciBERT---contxt2Sentcs_wo---allSentTrain---2,2",
         "multi_task": true,
         "checkpoint": {
             "model": "",
