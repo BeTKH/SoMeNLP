@@ -437,7 +437,7 @@ class DataHandler():
                     text.append([])
                 
         
-        if len(text) < 2 :
+        if len(text) == 1 :
             return contextWindow(text, 0, 0)
         else:
             return contextWindow(text, bef, aft)
