@@ -4,7 +4,9 @@
             "folder": [
                 "data/plos_pubmed_combined/plos_pubmed_combined_bio_train",
                 "data/PLoS_sentences/PLoS_sentences_bio",
-                "data/Creation_sentences/Creation_sentences_bio_train"
+                "data/Creation_sentences/Creation_sentences_bio_train",
+                "data/Creation_sentences/Creation_sentences_bio_devel",
+                "data/Creation_sentences/Creation_sentences_bio_test"
             ],
             "name": "train_0",
             "epochs": 45,
@@ -20,8 +22,8 @@
         }],
         "test": [{
             "folder": [
-                "data/plos_pubmed_combined/plos_pubmed_combined_bio_devel",
-                "data/Creation_sentences/Creation_sentences_bio_devel"
+                "data/plos_pubmed_combined/plos_pubmed_combined_bio_devel"
+                
                 
             ],
             "name": "devel_0",
@@ -30,7 +32,7 @@
         {
             "folder": [
                 "data/plos_pubmed_combined/plos_pubmed_combined_bio_test",
-                "data/Creation_sentences/Creation_sentences_bio_test"
+                
             ],
             "name": "test_0",
             "keep_neg_sample_prob": 1.0          
