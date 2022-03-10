@@ -292,6 +292,10 @@ class DataHandler():
             return joined_sent
 
         def contextWindow(text, bef, aft):
+
+            
+
+
             # 0B, OA --- no change
             if (bef == 0) and (aft == 0):
                 return text
@@ -431,7 +435,12 @@ class DataHandler():
                     text.append(clean_line)
                 elif read_empty:
                     text.append([])
-        return contextWindow(text, bef, aft)
+                
+        
+        if len(text) <=1 :
+            return contextWindow(text, 0, 0)
+        else:
+            return contextWindow(text, bef, aft)
 
     def _read_feature_file(self, path):
         features = np.load(str(path), allow_pickle=True)
