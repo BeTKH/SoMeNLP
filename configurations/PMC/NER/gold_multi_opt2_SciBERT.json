@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "BioBERT-base---2layerClassfier---WithSent---2,2",
+        "name": "BioBERT-base---2layerClassfier---WithSent---2,2-lr-3",
         "multi_task": true,
         "checkpoint": {
             "model": "",
