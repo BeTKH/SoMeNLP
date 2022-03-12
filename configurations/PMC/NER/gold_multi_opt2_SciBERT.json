@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "BioBERT-base---2layerClassfier---WithSent---2,2-lr-3",
+        "name": "SciBERT----2layerClassfier---WithSent---2,2-lr-3",
         "multi_task": true,
         "checkpoint": {
             "model": "",
@@ -17,8 +17,8 @@
             "all": 0.2
         },
         "pretrained": {
-            "weights": "./data/pretrained_bio/biobert-base-cased-v1.2",
-            "tokenizer": "./data/pretrained_bio/biobert-base-cased-v1.2"
+            "weights": "./data/pretrained/scibert_scivocab_cased",
+            "tokenizer": "./data/pretrained/scibert_scivocab_cased"
         },
         "gen": {
             "max_grad_norm": 1.0
