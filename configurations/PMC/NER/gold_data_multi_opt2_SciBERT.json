@@ -10,7 +10,7 @@
             "epochs": 45,
             "optimizer": {
                 "reset": false,
-                "lr": 4e-6
+                "lr": 4e-5
             },
             "scheduler": {
                 "type": "constant",
