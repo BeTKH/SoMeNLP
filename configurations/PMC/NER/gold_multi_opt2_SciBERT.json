@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "SciBERT----2layerClassfier---WithSent---2,2-lr-4e-4",
+        "name": "SciBERT----2layerClassfier---WithSent---2,2-lr-6e-6",
         "multi_task": true,
         "checkpoint": {
             "model": "",
