@@ -1,7 +1,7 @@
 {
     "general": {
         "type": "BERTMultiTask_softPurpose",
-        "name": "BioBERT-base---contxt2Sentcs_wo---WithSent---2,2",
+        "name": "SciBERT---contxt2Sentcs_wo---2,2",
         "multi_task": true,
         "checkpoint": {
             "model": "",
@@ -17,8 +17,8 @@
             "all": 0.2
         },
         "pretrained": {
-            "weights": "./data/pretrained_bio/biobert-base-cased-v1.2",
-            "tokenizer": "./data/pretrained_bio/biobert-base-cased-v1.2"
+            "weights": "./data/pretrained/scibert_scivocab_cased",
+            "tokenizer": "./data/pretrained/scibert_scivocab_cased"
         },
         "gen": {
             "max_grad_norm": 1.0
