@@ -27,7 +27,7 @@ if __name__ == "__main__":
     # get current name -- used for naming a directory in 'save'
     current_time = get_time_marker()
 
-    # check if model and data config files exist
+    # check if model and data config files exist   
     model_c_path = Path(args.model_config)
     data_c_path = Path(args.data_config)
 
