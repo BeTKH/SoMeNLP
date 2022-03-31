@@ -17,8 +17,8 @@
             "all": 0.2
         },
         "pretrained": {
-            "weights": "./data/pretrained_bio/biobert-base-cased-v1.2",
-            "tokenizer": "./data/pretrained_bio/biobert-base-cased-v1.2"
+            "weights": "./data/pretrained_bio/biobert-large-cased-v1.1",
+            "tokenizer": "./data/pretrained_bio/biobert-large-cased-v1.1"
         },
         "gen": {
             "max_grad_norm": 1.0
